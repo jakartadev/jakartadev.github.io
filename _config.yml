@@ -1,0 +1,35 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               JakartaDev
+tagline:             'Tech, Development news'
+description:         'Curated by <a href="https://twitter.com/dedenf" target="_blank">@dedenf</a>.'
+url:                 http://jakartadev.org
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Deden Fathurahmah
+  url:               https://twitter.com/dedenf
+  email:             dedenf@gmail.com
+
+gems: [jekyll-paginate]
+
+# Custom vars
+version:             '0.1'
+
+repo: 'https://github.com/jakartadev/jakartadev.org'
+
+
+paginate_path: "page/:num"
+excerpt_separator: "\n\n"
+
+pages_list:
+  Tentang: '/about'
+  Arsip: '/archive'
+  Feed: '/atom.xml'
