@@ -1,0 +1,33 @@
+#mc_embed_signup{
+  padding:10px;
+
+}
+label {
+  font-size: 1rem;
+}
+input[type='email']
+{
+  display: block;
+  width: 500px;
+  padding:10px ;
+  font-size: 16px;
+}
+
+.button {
+  background-color: #9b4dca;
+  border: 0.1rem solid #9b4dca;
+  border-radius: 0.4rem;
+  display: block;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: .9rem;
+  padding: .5rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+  margin-top: 10px;
+}
+
+.
