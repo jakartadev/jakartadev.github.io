@@ -31,5 +31,7 @@ excerpt_separator: "\n\n"
 
 pages_list:
   Tentang: '/about'
-  Arsip: '/archive'
+  Arsip: '/archives'
   Feed: '/atom.xml'
+
+markdown: kramdown

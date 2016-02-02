@@ -10,12 +10,12 @@ input[type='email']
   display: block;
   width: 500px;
   padding:10px ;
-  font-size: 16px;
+  font-size: .9em;
 }
 
 .button {
-  background-color: #9b4dca;
-  border: 0.1rem solid #9b4dca;
+  background-color: #AA4244;
+  border: 0.1rem solid #AA4244;
   border-radius: 0.4rem;
   display: block;
   box-sizing: border-box;
@@ -24,10 +24,12 @@ input[type='email']
   font-size: .9rem;
   padding: .5rem 1rem;
   text-align: center;
+  font-family: 'Kameron', serif;
   text-decoration: none;
-  text-transform: uppercase;
   white-space: nowrap;
   margin-top: 10px;
 }
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+.start_form{background: #f0f0f0;}
+.start_form h2 {font-family: 'Kameron', serif;font-weight:bold;font-size: 1.5rem; color: #AA4244}
 
-.
