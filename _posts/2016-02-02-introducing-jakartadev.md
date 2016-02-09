@@ -3,7 +3,7 @@ layout: post
 title: Introducing JakartaDEV
 ---
 
-JakartaDEV adalah _newsletter_ yang dikirim _hampir-mingguan_, yang dikirim setiap senin, tentang berita development.
+JakartaDEV adalah _newsletter_ yang dikirim _hampir-mingguan_, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.
 
 _newsletter_ ini berisi informasi bisa berupa project Open Source, tools yang banyak digunakan saat ini,
 ataupun bisa menggali banyak informasi yang sudah lewat dan bisa belajar dari situ.
