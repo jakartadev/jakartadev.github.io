@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>JakartaDev</title>
- <link href="http://jakartadev.org/atom.xml" rel="self"/>
- <link href="http://jakartadev.org/"/>
- <updated>2016-02-09T20:32:01+07:00</updated>
+ <link href="http://jakartadev.orghttp://jakartadev.org/atom.xml" rel="self"/>
+ <link href="http://jakartadev.orghttp://jakartadev.org/"/>
+ <updated>2016-02-10T11:00:30+07:00</updated>
  <id>http://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
@@ -16,7 +16,7 @@
    <title>Introducing JakartaDEV</title>
    <link href="http://jakartadev.org/2016/02/02/introducing-jakartadev/"/>
    <updated>2016-02-02T00:00:00+07:00</updated>
-   <id>http://jakartadev.org/2016/02/02/introducing-jakartadev</id>
+   <id>http://jakartadev.orghttp://jakartadev.org/2016/02/02/introducing-jakartadev</id>
    <content type="html">&lt;p&gt;JakartaDEV adalah &lt;em&gt;newsletter&lt;/em&gt; yang dikirim &lt;em&gt;hampir-mingguan&lt;/em&gt;, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;newsletter&lt;/em&gt; ini berisi informasi bisa berupa project Open Source, tools yang banyak digunakan saat ini,

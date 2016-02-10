@@ -9,7 +9,7 @@ title:               JakartaDev
 tagline:             'Tech, Dev News and stuff'
 description:         'Curated by <a href="https://twitter.com/dedenf" target="_blank">@dedenf</a>.'
 url:                 http://jakartadev.org
-baseurl:             ''
+baseurl:             'http://jakartadev.org'
 paginate:            5
 
 # About/contact
