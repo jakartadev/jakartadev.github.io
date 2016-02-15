@@ -9,7 +9,7 @@ title:               JakartaDev
 tagline:             'Tech, Dev News and stuff'
 description:         'Curated by <a href="https://twitter.com/dedenf" target="_blank">@dedenf</a>.'
 url:                 http://jakartadev.org
-baseurl:             'http://jakartadev.org'
+baseurl:             ''
 paginate:            5
 
 # About/contact
@@ -23,7 +23,7 @@ gems: [jekyll-paginate]
 # Custom vars
 version:             '0.1'
 
-repo: 'https://github.com/jakartadev/jakartadev.org'
+repo: 'https://github.com/jakartadev/jakartadev.github.io'
 
 
 paginate_path: "page/:num"

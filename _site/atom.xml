@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>JakartaDev</title>
- <link href="http://jakartadev.orghttp://jakartadev.org/atom.xml" rel="self"/>
- <link href="http://jakartadev.orghttp://jakartadev.org/"/>
- <updated>2016-02-10T11:00:30+07:00</updated>
+ <link href="http://jakartadev.org/atom.xml" rel="self"/>
+ <link href="http://jakartadev.org/"/>
+ <updated>2016-02-15T11:23:13+07:00</updated>
  <id>http://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
@@ -13,10 +13,81 @@
 
  
  <entry>
+   <title>Issue &#35;1</title>
+   <link href="http://jakartadev.org/2016/02/15/issue-1/"/>
+   <updated>2016-02-15T00:00:00+07:00</updated>
+   <id>http://jakartadev.org/2016/02/15/issue-1</id>
+   <content type="html">&lt;p&gt;Issue perdana Jakarta dev.&lt;/p&gt;
+
+&lt;h3 id=&quot;berita&quot;&gt;Berita&lt;/h3&gt;
+
+&lt;h4 id=&quot;mariadb-5548-dan-mariadb-connectorj-135-dirilishttpsmariadborgmariadb-5-5-48-and-connectorj-1-3-5-now-available&quot;&gt;&lt;a href=&quot;https://mariadb.org/mariadb-5-5-48-and-connectorj-1-3-5-now-available/&quot;&gt;MariaDB 5.5.48 dan MariaDB Connector/J 1.3.5 dirilis&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;datastax-php-driver-11-ga-releasedhttpwwwdatastaxcomdevblogdatastax-php-driver-1-1-ga-released&quot;&gt;&lt;a href=&quot;http://www.datastax.com/dev/blog/datastax-php-driver-1-1-ga-released&quot;&gt;Datastax PHP Driver: 1.1 GA Released&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;htop-20httphishamhmhtop&quot;&gt;&lt;a href=&quot;http://hisham.hm/htop/&quot;&gt;htop 2.0&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;keybase-filesystemhttpskeybaseiodocskbfs&quot;&gt;&lt;a href=&quot;https://keybase.io/docs/kbfs&quot;&gt;Keybase filesystem&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;top-elb-health-and-performance-metricshttpswwwdatadoghqcomblogtop-elb-health-and-performance-metrics&quot;&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/top-elb-health-and-performance-metrics/&quot;&gt;Top ELB health and performance metrics&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h3&gt;
+
+&lt;h4 id=&quot;first-steps-in-exploring-rocksdbhttpmysqlentomologistblogspotcoid201602my-first-steps-in-exploring-rocksdbhtml&quot;&gt;&lt;a href=&quot;http://mysqlentomologist.blogspot.co.id/2016/02/my-first-steps-in-exploring-rocksdb.html&quot;&gt;First Steps in Exploring RocksDB&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;RocksDB merupakan &lt;em&gt;storage engine&lt;/em&gt; di Mysql&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-write-a-good-status-update-httpblogstatuspageiohow-to-write-a-good-status-update&quot;&gt;&lt;a href=&quot;http://blog.statuspage.io/how-to-write-a-good-status-update&quot;&gt;How To Write A Good Status Update &lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;sometimes it’s a bit tricky to create a statuspage, how you could wrap up information as simple as possible.&lt;/p&gt;
+
+&lt;h4 id=&quot;devopswikihttpsgithubcomleo-gdevopswiki&quot;&gt;&lt;a href=&quot;https://github.com/Leo-G/DevopsWiki&quot;&gt;DevopsWiki&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;A wiki of Guides, Scripts, Tutorials related to devops&lt;/p&gt;
+
+&lt;h4 id=&quot;server-hardeninghttpswwwlinuxjournalcomcontentserver-hardening&quot;&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/server-hardening&quot;&gt;Server hardening&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;a very much needed for hardening your Linux server.&lt;/p&gt;
+
+&lt;h4 id=&quot;learn-abut-distributed-systemhttpvidelalvarogithubio201512learning-about-distributed-systemshtml&quot;&gt;&lt;a href=&quot;http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html&quot;&gt;Learn abut distributed system&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;h4 id=&quot;slatehttpsgithubcomtripitslate&quot;&gt;&lt;a href=&quot;https://github.com/tripit/slate&quot;&gt;Slate&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Create beautiful API documentation&lt;/p&gt;
+
+&lt;h4 id=&quot;ahabhttpstechinstacartcomahab&quot;&gt;&lt;a href=&quot;https://tech.instacart.com/ahab/&quot;&gt;Ahab&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Docker Event handling&lt;/p&gt;
+
+&lt;h4 id=&quot;prestissimohttpsgithubcomhirakprestissimo&quot;&gt;&lt;a href=&quot;https://github.com/hirak/prestissimo&quot;&gt;Prestissimo&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://getcomposer.org/&quot;&gt;Composer&lt;/a&gt; slowing down? use this tool&lt;/p&gt;
+
+&lt;h4 id=&quot;psmemhttpsgithubcompixelbpsmem&quot;&gt;&lt;a href=&quot;https://github.com/pixelb/ps_mem&quot;&gt;ps_mem&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;A utility to accurately report the core memory usage for a program&lt;/p&gt;
+
+&lt;h4 id=&quot;bulmahttpbulmaio&quot;&gt;&lt;a href=&quot;http://bulma.io/&quot;&gt;Bulma&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;A modern CSS framework based on Flexbox&lt;/p&gt;
+
+&lt;h4 id=&quot;git-freshhttpsgithubcomimskygit-fresh&quot;&gt;&lt;a href=&quot;https://github.com/imsky/git-fresh&quot;&gt;git-fresh&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Keep your repo fresh with one command.&lt;/p&gt;
+
+&lt;h4 id=&quot;pagespeed-modulehttpsdevelopersgooglecomspeedpagespeedmodule&quot;&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/module/&quot;&gt;PageSpeed Module&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;PageSpeed module for your favorite webserver&lt;/p&gt;
+
+&lt;h4 id=&quot;gitlab-kanban-boardhttpkanbanleanlabsio&quot;&gt;&lt;a href=&quot;http://kanban.leanlabs.io/&quot;&gt;GitLab Kanban Board&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Free OpenSource self hosted Kanban board for GitLab issues&lt;/p&gt;
+
+&lt;h4 id=&quot;huginnhttpsgithubcomcantinohuginn&quot;&gt;&lt;a href=&quot;https://github.com/cantino/huginn&quot;&gt;Huginn&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Huginn is a system for building agent, could be connected to Slack, hipchat, basecamp, etc.&lt;/p&gt;
+
+&lt;h4 id=&quot;grommethttpwwwgrommetiodocs&quot;&gt;&lt;a href=&quot;http://www.grommet.io/docs/&quot;&gt;grommet&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;The most advanced open source UX framework for enterprise applications.&lt;/p&gt;
+
+&lt;p&gt;follow on twitter &lt;a href=&quot;https://twitter.com/Jakartadev&quot;&gt;@JakartaDev&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Introducing JakartaDEV</title>
    <link href="http://jakartadev.org/2016/02/02/introducing-jakartadev/"/>
    <updated>2016-02-02T00:00:00+07:00</updated>
-   <id>http://jakartadev.orghttp://jakartadev.org/2016/02/02/introducing-jakartadev</id>
+   <id>http://jakartadev.org/2016/02/02/introducing-jakartadev</id>
    <content type="html">&lt;p&gt;JakartaDEV adalah &lt;em&gt;newsletter&lt;/em&gt; yang dikirim &lt;em&gt;hampir-mingguan&lt;/em&gt;, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;newsletter&lt;/em&gt; ini berisi informasi bisa berupa project Open Source, tools yang banyak digunakan saat ini,
