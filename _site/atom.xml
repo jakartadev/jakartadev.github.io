@@ -4,13 +4,80 @@
  <title>JakartaDev</title>
  <link href="http://jakartadev.org/atom.xml" rel="self"/>
  <link href="http://jakartadev.org/"/>
- <updated>2016-02-15T11:23:13+07:00</updated>
+ <updated>2016-02-22T12:03:11+07:00</updated>
  <id>http://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;2</title>
+   <link href="http://jakartadev.org/2016/02/22/issue-2/"/>
+   <updated>2016-02-22T00:00:00+07:00</updated>
+   <id>http://jakartadev.org/2016/02/22/issue-2</id>
+   <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+
+&lt;h4 id=&quot;linux-flaw-may-be-fixed-what-about-linux-containerhttpwwwciocomarticle3035556that-linux-flaw-may-be-fixed-but-what-about-your-containershtml&quot;&gt;&lt;a href=&quot;http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html&quot;&gt;Linux flaw may be fixed, what about linux container?&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Bug yang ada di GNU C telah ditambal, bug di gcc ini berdampak pada distribusi Linux yang ada, walaupun bug ini telah di&lt;i&gt;patch&lt;/i&gt; di sisi linux, bagaimana dengan &lt;i&gt;architecture&lt;/i&gt; yang menggunakan Docker?&lt;/p&gt;
+
+&lt;h4 id=&quot;ansible-20httpswwwredhatcomenaboutpress-releasesred-hat-brings-devops-network-new-ansible-capabilities&quot;&gt;&lt;a href=&quot;https://www.redhat.com/en/about/press-releases/red-hat-brings-devops-network-new-ansible-capabilities&quot;&gt;Ansible 2.0&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Selain untuk deployment, me-&lt;i&gt;manage&lt;/i&gt; service, networking, versi 2.0 ini menambahkan modul untuk mengontrol &lt;i&gt;networking device&lt;/i&gt; seperti Arista, Cisco dan lain-lain.&lt;/p&gt;
+
+&lt;h4 id=&quot;jakartajs-meetup-creative-javascripthttpwwwmeetupcomjakartajsevents228776402&quot;&gt;&lt;a href=&quot;http://www.meetup.com/JakartaJS/events/228776402/&quot;&gt;JakartaJS Meetup: Creative JavaScript&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;JakartaJS kembali melakukan meetup pada 23 Februari dengan topik “doing creative stuff with JavaScript and Node.js”&lt;/p&gt;
+
+&lt;h4 id=&quot;mysql-in-docker-or-native--performance-benchmarkshttpblogbalazspoczeme20160126mysql-in-docker-or-native-performance-benchmarks&quot;&gt;&lt;a href=&quot;http://blog.balazspocze.me/2016/01/26/mysql-in-docker-or-native-performance-benchmarks/&quot;&gt;MySQL in docker or native – performance benchmarks&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Perbandingan deploy MySQL di docker dan native.&lt;/p&gt;
+
+&lt;h4 id=&quot;dynamic-modules-in-nginx-1911httpswwwnginxcomblogdynamic-modules-nginx-1-9-11&quot;&gt;&lt;a href=&quot;https://www.nginx.com/blog/dynamic-modules-nginx-1-9-11/&quot;&gt;Dynamic Modules in NGINX 1.9.11&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan &lt;em&gt;Dynamic Module&lt;/em&gt;, kita bisa me-&lt;em&gt;load shared object&lt;/em&gt; yang berbeda.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-it-looks-like-to-process-35-million-books-in-googles-cloudhttpgooglecloudplatformblogspotcoid201602what-it-looks-like-to-process-35-million-books-in-googles-cloudhtml&quot;&gt;&lt;a href=&quot;http://googlecloudplatform.blogspot.co.id/2016/02/what-it-looks-like-to-process-3.5-million-books-in-Googles-cloud.html&quot;&gt;What it looks like to process 3.5 million books in Google’s cloud&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Visualisasi Google cloud memproses 3.5 juta buku.&lt;/p&gt;
+
+&lt;h3 id=&quot;development--tutorial&quot;&gt;Development &amp;amp; Tutorial&lt;/h3&gt;
+
+&lt;h4 id=&quot;the-art-of-war-applied-to-software-developmenthttpwwwtoptalcomagileart-of-war-software-development&quot;&gt;&lt;a href=&quot;http://www.toptal.com/agile/art-of-war-software-development&quot;&gt;The Art of War Applied To Software Development&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Topik menarik mengaplikasikan sun-tzu ke dalam &lt;em&gt;software development&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;material-design-resourceshttpcodetutspluscomtutorials20-material-design-resources--cms-25951&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/20-material-design-resources--cms-25951&quot;&gt;20 Material Design Resources&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;20 Material design untuk yang sedang membangun aplikasi Android, design ini bisa digunakan untuk project-project yang disedang dibangun.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-consume-laravel-api-with-angularjshttpwwwsitepointcomhow-to-consume-laravel-api-with-angularjs&quot;&gt;&lt;a href=&quot;http://www.sitepoint.com/how-to-consume-laravel-api-with-angularjs/&quot;&gt;How to Consume Laravel API with AngularJS&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sedang membangun aplikasi dengan Laravel sebagai framework? di sini dijelaskan membangun aplikasi dengan Laravel sebagai backend dan AngularJS untuk &lt;em&gt;Frontend&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-get-started-with-push-notif-on-androidhttpcodetutspluscomtutorialshow-to-get-started-with-push-notifications-on-android--cms-25870&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/how-to-get-started-with-push-notifications-on-android--cms-25870&quot;&gt;How to get started with push notif on Android&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Tutorial bagaimana memulai push notifications di Android.&lt;/p&gt;
+
+&lt;h4 id=&quot;sql-or-nosqlhttpengineeringtwinprimecomsql-or-nosql&quot;&gt;&lt;a href=&quot;http://engineering.twinprime.com/sql-or-nosql/&quot;&gt;SQL or NoSQL&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Perbandingan menggunakan solusi SQL atau NO-SQL.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-install-mongodb-3-on-ubuntu-1404httpshostprestocomcommunitytutorialshow-to-install-mongo-db-on-ubuntu-14-04&quot;&gt;&lt;a href=&quot;https://hostpresto.com/community/tutorials/how-to-install-mongo-db-on-ubuntu-14-04/&quot;&gt;How to Install MongoDB 3 on Ubuntu 14.04&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;How to Install MongoDB 3 on Ubuntu 14.04 oleh @sumodirjo&lt;/p&gt;
+
+&lt;h4 id=&quot;online-resources-for-learning-about-database-design-errorshttpwwwvertabelocomblognotes-from-the-lab19-online-resources-for-learning-about-database-design-errors&quot;&gt;&lt;a href=&quot;http://www.vertabelo.com/blog/notes-from-the-lab/19-online-resources-for-learning-about-database-design-errors&quot;&gt;19 Online Resources for Learning About Database Design Errors&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Kumpulan Artikel &lt;em&gt;Online&lt;/em&gt; mengenai design database dan apa yang bisa dihindari dalam mendesignnya.&lt;/p&gt;
+
+&lt;h4 id=&quot;learn-how-to-make-data-visualizations-with-d3jshttpswwwdashingd3jscom&quot;&gt;&lt;a href=&quot;https://www.dashingd3js.com/&quot;&gt;Learn how to make Data Visualizations with D3.js&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Data viz menggunakan D3 sebagai library.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-i-no-longer-use-mvc-frameworkshttpwwwinfoqcomarticlesno-more-mvc-frameworks&quot;&gt;&lt;a href=&quot;http://www.infoq.com/articles/no-more-mvc-frameworks&quot;&gt;Why I No Longer Use MVC Frameworks&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;h4 id=&quot;onecachehttpsgithubcomdadgaronecache&quot;&gt;&lt;a href=&quot;https://github.com/dadgar/onecache&quot;&gt;OneCache&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;OneCache is a best-effort, replicated KV store accessible via the memcached protocol&lt;/p&gt;
+
+&lt;h4 id=&quot;schemazenhttpsgithubcomsethrenoschemazen&quot;&gt;&lt;a href=&quot;https://github.com/sethreno/schemazen&quot;&gt;Schemazen&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Script and create SQL Server objects quickly&lt;/p&gt;
+
+&lt;h4 id=&quot;medium-editorhttpsyabwegithubiomedium-editor&quot;&gt;&lt;a href=&quot;https://yabwe.github.io/medium-editor/&quot;&gt;Medium Editor&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Online Editor yang dibangun dengan inspirasi dari &lt;a href=&quot;https://medium.com&quot;&gt;Medium.com&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;1</title>
