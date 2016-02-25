@@ -11,7 +11,7 @@
 
   <title>
     
-      JakartaDev &middot; Tech, Dev News and stuff
+      Manajemen API dengan Kong part 1 &middot; JakartaDev
     
   </title>
 
@@ -131,28 +131,109 @@
 
 
 
-        <div id="mc_embed_signup" class="start_form">
-<form action="//jakartadev.us12.list-manage.com/subscribe/post?u=a34ff9df1ffbc50651c66d478&amp;id=d1f45e3af1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL"><h3>Daftar Jakartadev Newsletter</h3></label>
-  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true">
-    <input type="text" name="b_a34ff9df1ffbc50651c66d478_d1f45e3af1" tabindex="-1" value=""></div>
-    <div class="clear">
-      <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button button2">
-    </div>
-    </div>
-</form>
+        <div class="post">
+  <h1 class="post-title">Manajemen API dengan Kong part 1</h1>
+  <span class="post-date">25 Feb 2016</span>
+  <p>Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
+Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi <em>security</em> ataupun dari scalability.
+Disitulah <a href="https://getkong.org">Kong</a> bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.</p>
+
+<p>Di sini akan dilakukan pendekatan instalasi Kong dengan menggunakan Vagrant sebagai box development.</p>
+
+<p>Jika belum mengenal <a href="http://www.vagrantup.com/">Vagrant</a>, silakan kunjungi situs mereka, pada dasarnya vagrant adalah wrapper yang bisa digunakan untuk membuat dan mengatur image VM. dan kalo sudah, ambil salah satu .box vagrant yang bisa digunakan di <a href="http://vagrantbox.es/">sini</a>, kalo berminat membuatnya, bisa baca artikel <a href="https://coderwall.com/p/qzpgvw/build-vagrant-box-using-veewee">ini</a> (<em>shameless plug</em>).</p>
+
+<h5 id="memulai-vagrant">memulai vagrant</h5>
+<p>Jika sudah memiliki vagrantbox, dan sudah diimport, loncat ke paragraf berikutnya, jika belum, lakukan perintah berikut.</p>
+
+<p><code class="highlighter-rouge">$ vagrant box add ubuntu14 /path/to/vagrant_image.box</code> <br />
+lakuan pengecekan <br />
+<code class="highlighter-rouge">$ vagrant boxt list</code> <br />
+jika sudah ada di box list, clone repo kong</p>
+
+<ol>
+  <li>
+    <p>clone Kong repo</p>
+
+    <p><code class="highlighter-rouge">$ git clone https://github.com/Mashape/kong</code></p>
+  </li>
+  <li>
+    <p>clone vagrant Kong repo</p>
+
+    <p><code class="highlighter-rouge">$ git clone https://github.com/Mashape/kong-vagrant</code> <br />
+ <code class="highlighter-rouge">$ cd kong-vagrant</code></p>
+  </li>
+  <li>
+    <p>jalankan vagrant
+ karena jika menjalankan vagrant dengan langsung mendownload dari repo vagrant akan sangat menyita waktu, jadi disarankan anda mendownload box terlebih dahulu dan menambahkannya ke box list vagrant local anda.
+ di folder <code class="highlighter-rouge">kong-vagrant</code>, edit file Vagrantfile line <code class="highlighter-rouge">32</code>, <code class="highlighter-rouge">33</code>, ubah dengan nama vagrant box yang sudah anda assign.</p>
+
+    <p><code class="highlighter-rouge">config.vm.box = "precise64"</code>  <br />
+ <code class="highlighter-rouge">config.vm.box_url = "http://files.vagrantup.com/precise64.box"</code></p>
+
+    <p>menjadi misalkan</p>
+
+    <p><code class="highlighter-rouge">config.vm.box = "ubuntu14"</code> <br />
+ <code class="highlighter-rouge">config.vm.box_url = ""</code></p>
+
+    <p>ini tidak perlu lagi ditambahkan, karena sudah melakukan <em>vagrant box add</em> sebelumnya.</p>
+
+    <p>simpan, lalu jalankan <br />
+ <code class="highlighter-rouge">$ vagrant up</code></p>
+
+    <p>vagrant akan meng-import box dan memulai booting VM, dan vagrant juga akan menjalankan provosioning script yang ada, dan juga akan melakuan instalasi kong dengan otomatis karena mengacu pada path <code class="highlighter-rouge">../kong</code> yang sebelumnya telah kita clone dari repo.</p>
+
+    <p>jika selesai instalasi akan menampilkan log seperti ini,</p>
+
+    <p><img src="/public/images/posts/kong-getting-started-small.jpg" alt="log" /></p>
+  </li>
+  <li>
+    <p>Jalankan service</p>
+
+    <p><code class="highlighter-rouge">$ vagrant ssh</code> <br />
+ <code class="highlighter-rouge">VM-$ kong [start | reload | stop]</code></p>
+
+    <p>Kong akan berjalan di http, dengan port <code class="highlighter-rouge">:8000</code> untuk proxy layer, dan port <code class="highlighter-rouge">:8001</code> untuk ReSTful Admin API config.</p>
+
+    <p>test service dengan perintah <code class="highlighter-rouge">$ curl http://localhost:8000</code></p>
+  </li>
+</ol>
+
+
 </div>
-<p>JakartaDEV adalah <em>newsletter</em> yang dikirim hampir-mingguan, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.</p>
-<p>Fokus isi dari <em>newsletter</em> ini adalah hal yang teknikal dan atau informasi-informasi yang sedang berkembang saat ini, terutama bagi para developer.</p>
 
-<br><br>
-<a href="http://jakartadev.org/archives">archives</a> &middot; <a href="http://jakartadev.org/about">about</a>
-
-
-
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2016/02/22/issue-2/">
+            Issue &#35;2
+            <small>22 Feb 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2016/02/15/issue-1/">
+            Issue &#35;1
+            <small>15 Feb 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2016/02/02/introducing-jakartadev/">
+            Introducing JakartaDEV
+            <small>02 Feb 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
 
       </div>
     </div>
