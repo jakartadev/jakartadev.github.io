@@ -4,13 +4,73 @@
  <title>JakartaDev</title>
  <link href="http://jakartadev.org/atom.xml" rel="self"/>
  <link href="http://jakartadev.org/"/>
- <updated>2016-02-25T18:02:09+07:00</updated>
+ <updated>2016-02-29T10:16:25+07:00</updated>
  <id>http://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;3</title>
+   <link href="http://jakartadev.org/2016/02/29/issue-3/"/>
+   <updated>2016-02-29T00:00:00+07:00</updated>
+   <id>http://jakartadev.org/2016/02/29/issue-3</id>
+   <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+
+&lt;h5 id=&quot;the-state-of-microservices-todayhttpblogcodeshipcomthe-state-of-microservices-today&quot;&gt;&lt;a href=&quot;http://blog.codeship.com/the-state-of-microservices-today/&quot;&gt;The State of Microservices Today&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Microservices state saat ini, perusahaan yang mengadopsi konsep ini dari Google, Twitter, Github, bagaimana perusahaaan-perusahaan tersebut mengimplementasikannya di organisasinya.&lt;/p&gt;
+
+&lt;h5 id=&quot;google-starts-highlighting-amp-pages-in-its-mobile-search-resultshttptechcrunchcom20160224google-now-highlights-amp-pages-in-its-mobile-search-results&quot;&gt;&lt;a href=&quot;http://techcrunch.com/2016/02/24/google-now-highlights-amp-pages-in-its-mobile-search-results/&quot;&gt;Google Starts Highlighting AMP Pages In Its Mobile Search Results&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Accelerated Mobile Page atau &lt;a href=&quot;https://www.ampproject.org/&quot;&gt;AMP&lt;/a&gt; adalah project kolaborasi dari banyak perusahaan untuk bisa menampilkan halaman web dengan cepat, tetapi juga ramah dengan iklan, &lt;a href=&quot;http://techcrunch.com/2016/02/24/wordpress-sites-now-support-googles-amp-to-make-mobile-pages-load-much-faster/&quot;&gt;Wordpress&lt;/a&gt; sudah mendukung inisitif ini. &lt;a href=&quot;https://www.ampproject.org/docs/get_started/about-amp.html&quot;&gt;Pelajari lebih lanjut&lt;/a&gt; mengenai AMP ini.&lt;/p&gt;
+
+&lt;h5 id=&quot;nodejs-570-stable-dirilishttpsgithubcomnodejsnodeblobv570changelogmd&quot;&gt;&lt;a href=&quot;https://github.com/nodejs/node/blob/v5.7.0/CHANGELOG.md&quot;&gt;NodeJS 5.7.0 stable dirilis&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;menambahkan fitur baru, bug fix dan juga improvement di performance&lt;/p&gt;
+
+&lt;h5 id=&quot;xamarin-bergabung-dengan-microsofthttpweblogsaspnetscottguwelcoming-the-xamarin-team-to-microsoft&quot;&gt;&lt;a href=&quot;http://weblogs.asp.net/scottgu/welcoming-the-xamarin-team-to-microsoft&quot;&gt;Xamarin bergabung dengan Microsoft&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Big news, Xamarin sebagai platform untuk membuat mobile apps terutama dan bisa cross platform.&lt;/p&gt;
+
+&lt;h5 id=&quot;github-development-stylehttpgithubengineeringcommove-fast&quot;&gt;&lt;a href=&quot;http://githubengineering.com/move-fast/&quot;&gt;Github development style&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Artikel yang dipublish desember, tapi masih sangat relevan, bagaimana Github melakukan proses developmentnya.&lt;/p&gt;
+
+&lt;h3 id=&quot;opini&quot;&gt;Opini&lt;/h3&gt;
+
+&lt;h5 id=&quot;postgresql-96---part-1---horizontal-scalabilityhttpthombrownblogspotcoid201602postgresql-96-part-1-horizontal-scalabilityhtml&quot;&gt;&lt;a href=&quot;http://thombrown.blogspot.co.id/2016/02/postgresql-96-part-1-horizontal-scalability.html&quot;&gt;PostgreSQL 9.6 - Part 1 - Horizontal Scalability&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Benchmark PostgreSQL 9.6 dan beberapa test lainnya, artikel ini dibagi dalam 4 bagian, dan ini adalah bagian yang pertama.&lt;/p&gt;
+
+&lt;h5 id=&quot;apache-kafka--elasticsearchhttpsqboxioblogkafka-and-elasticsearch-a-perfect-match-1&quot;&gt;&lt;a href=&quot;https://qbox.io/blog/kafka-and-elasticsearch-a-perfect-match-1&quot;&gt;Apache Kafka + ElasticSearch&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h5 id=&quot;things-every-reactjs-beginner-should-knowhttpscamjacksonnetpost9-things-every-reactjs-beginner-should-know&quot;&gt;&lt;a href=&quot;https://camjackson.net/post/9-things-every-reactjs-beginner-should-know&quot;&gt;9 things every reactjs beginner should know&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Hal yang perlu diketahui oleh developer yang menggunakan Reactjs dalam projectnya, terutama untuk pemula yang baru mengadopsi Reactjs dalam projectnya.&lt;/p&gt;
+
+&lt;h5 id=&quot;reasons-meteor-ideal-for-startuphttpwwwsitepointcom5-reasons-meteor-ideal-startups&quot;&gt;&lt;a href=&quot;http://www.sitepoint.com/5-reasons-meteor-ideal-startups/&quot;&gt;5 reasons meteor ideal for startup&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;5 Alasan kenapa Meteor cocok untuk yang baru memulai aplikasi web, selain karena development dengan menggunakan Meteor bisa sangat cepat, dan beberapa alasana lainnya.&lt;/p&gt;
+
+&lt;h5 id=&quot;all-things-devops-dan-bagaimana-konsep-itu-mempengaruhi-satu-organinasihttpwwwypobocomblogbeyond-devops-stakeholder-alignment&quot;&gt;&lt;a href=&quot;http://www.ypobo.com/blog/beyond-devops-stakeholder-alignment&quot;&gt;All things DevOps dan bagaimana konsep itu mempengaruhi satu organinasi&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Suatu organisi dan elemen yang didalamnya bisa melihat Devops ini bisa mempengaruhi (dalam arti baik) suatu keputusan, dari product development, testing, deployment dan efek lain dalam satu bisnis. &lt;br /&gt;
+Baru setahunan ini saya mengadopsi Devops, dan memang dirasakan semua berjalan lebih cepat, interaksi antara Infrastructure dan development juga operation menjadi tipis&lt;/p&gt;
+
+&lt;h5 id=&quot;the-product-managers-guide-to-continuous-delivery-and-devopshttpwwwmindtheproductcom201602what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us&quot;&gt;&lt;a href=&quot;http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/&quot;&gt;The Product Managers’ Guide to Continuous Delivery and DevOps&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Satu sisi lain melihat CI dan Devops untuk product manager&lt;/p&gt;
+
+&lt;h3 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-on-ubuntu-14-04&quot;&gt;Bagaimana mengamankan Ubuntu 14.04&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;http://slaptijack.com/system-administration/using-redis-for-php-session-storage.html&quot;&gt;redis untuk storage php session&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://ponyfoo.com/articles/understanding-javascript-async-await&quot;&gt;Understanding Javascript async&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/&quot;&gt;Building blog app dengan menggunakan React&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/&quot;&gt;5 Steps learning React app&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/&quot;&gt;Learn the Kubernetes concept in 10 minutes&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://blog.mailgun.com/security-guide-basic-infrastructure-security/&quot;&gt;Security Guide: How to Protect Your Infrastructure Against the Basic Attacker&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tools&quot;&gt;Tools&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/stamparm/maltrail&quot;&gt;Maltrail: Malicious traffic detection system&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://github.com/crysalead/kahlan&quot;&gt;Kahlan: Unit/BDD PHP Test Framework for Freedom, Truth, and Justice&lt;/a&gt;
+&lt;a href=&quot;https://edravis.github.io/logatim/&quot;&gt;Logatim: An isomorphic logger which implements log levels and ANSI 16 styles.&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://github.com/pinterest/teletraan&quot;&gt;Teletraan: Deploy system at Pinterest&lt;/a&gt;
+&lt;a href=&quot;https://github.com/pampa/rutil&quot;&gt;Rutil: tools for dump/restore/query Redis&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Manajemen API dengan Kong part 1</title>
