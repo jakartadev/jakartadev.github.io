@@ -8,7 +8,7 @@ permalink:           pretty
 title:               JakartaDev
 tagline:             'Tech, Dev News and stuff'
 description:         'Curated by <a href="https://twitter.com/dedenf" target="_blank">@dedenf</a>.'
-url:                 http://jakartadev.org
+url:                 https://jakartadev.org
 baseurl:             ''
 paginate:            5
 
