@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>JakartaDev</title>
- <link href="http://jakartadev.org/atom.xml" rel="self"/>
- <link href="http://jakartadev.org/"/>
- <updated>2016-02-29T10:16:25+07:00</updated>
- <id>http://jakartadev.org</id>
+ <link href="https://jakartadev.org/atom.xml" rel="self"/>
+ <link href="https://jakartadev.org/"/>
+ <updated>2016-03-07T11:57:42+07:00</updated>
+ <id>https://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
@@ -13,10 +13,77 @@
 
  
  <entry>
+   <title>Issue &#35;4</title>
+   <link href="https://jakartadev.org/2016/03/07/issue-4/"/>
+   <updated>2016-03-07T00:00:00+07:00</updated>
+   <id>https://jakartadev.org/2016/03/07/issue-4</id>
+   <content type="html">&lt;h5 id=&quot;news&quot;&gt;News&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;http://thehackernews.com/2016/03/drown-attack-openssl-vulnerability.html&quot;&gt;DROWN Attack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ayende.com/blog/173409/ravendb-passed-half-a-million-downloads&quot;&gt;Ravendb passed half a million downloads&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.datanami.com/2016/02/24/google-releases-cloud-processor-for-hadoop-spark/&quot;&gt;Google Releases Cloud Processor For Hadoop, Spark&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://googledevelopers.blogspot.co.id/2016/02/introducing-autotrack-for-analyticsjs.html&quot;&gt;Introducing Autotrack for analytics.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ansible.com/videos-ansiblefest-london-2016&quot;&gt;Ansiblefest London 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://developer.telerik.com/featured/whats-new-in-jquery-3/&quot;&gt;What’s New in jQuery 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://thenewstack.io/google-preps-angular-2-final-release/&quot;&gt;Google Preps Angular 2 for Final Release&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://emberjs.com/blog/2016/02/29/ember-2-4-released.html&quot;&gt;Ember.js 2.4 released&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;opinion&quot;&gt;Opinion&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cio.com/article/3040857/security/is-devops-the-holy-grail-for-information-security.html&quot;&gt;Is DevOps the Holy Grail for information security?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/&quot;&gt;We Hire the Best, Just Like Everyone Else&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@sara_ann_marie/too-sensitive-9752a86a8382#.b5z6aaq20&quot;&gt;Too Sensitive&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kpdecker.github.io/six-speed/&quot;&gt;Performance of ES6 features relative to the ES5 baseline operations per second&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;https://zachholman.com/posts/deploying-software&quot;&gt;How To Deploy Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://insightdataengineering.com/blog/streaming-search/index.html&quot;&gt;Building a Streaming Search Platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://severalnines.com/tutorials/mysql-load-balancing-haproxy-tutorial&quot;&gt;MySQL Load Balancing with HAProxy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.percona.com/blog/2016/02/29/graphing-mysql-performance-with-prometheus-and-grafana/&quot;&gt;Graphing MySQL performance with Prometheus and Grafana&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tgz29gyYxm0&amp;amp;list=PLiyYEa6zXn-O8exx39kc4J9xsVgKx8jQU&quot;&gt;How CloudStats.me moved to clustered MariaDB for high availability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ariya.ofilabs.com/2016/02/easy-docker-on-os-x.html&quot;&gt;Easy Docker on OS X&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://designshack.net/articles/business-articles/how-to-organize-complex-design-projects/&quot;&gt;How to Organize Complex Design Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/&quot;&gt;Server-Side Rendering With React, Node And Express&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.clock.co.uk/blog/javascript-frameworks-in-2016&quot;&gt;JavaScript Frameworks in 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.compose.io/articles/why-and-how-to-redis-with-your-mongodb/&quot;&gt;Why (and how to) Redis with your MongoDB&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;tools&quot;&gt;Tools&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Karumi/Rosie/&quot;&gt;Rosie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.simple-talk.com/sql/database-administration/-five-online-database-modelling-services/&quot;&gt;Five Online Database Modelling Services&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.odkuhb5ib&quot;&gt;Enzyme: JavaScript Testing utilities for React&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jxnblk.com/rebass/&quot;&gt;56 Configurable React Stateless Functional UI Components&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/otoolep/rqlite&quot;&gt;RQLite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;follow on twitter &lt;a href=&quot;https://twitter.com/Jakartadev&quot;&gt;@JakartaDev&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Issue &#35;3</title>
-   <link href="http://jakartadev.org/2016/02/29/issue-3/"/>
+   <link href="https://jakartadev.org/2016/02/29/issue-3/"/>
    <updated>2016-02-29T00:00:00+07:00</updated>
-   <id>http://jakartadev.org/2016/02/29/issue-3</id>
+   <id>https://jakartadev.org/2016/02/29/issue-3</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
 &lt;h5 id=&quot;the-state-of-microservices-todayhttpblogcodeshipcomthe-state-of-microservices-today&quot;&gt;&lt;a href=&quot;http://blog.codeship.com/the-state-of-microservices-today/&quot;&gt;The State of Microservices Today&lt;/a&gt;&lt;/h5&gt;
@@ -69,14 +136,16 @@ Baru setahunan ini saya mengadopsi Devops, dan memang dirasakan semua berjalan l
 &lt;a href=&quot;https://edravis.github.io/logatim/&quot;&gt;Logatim: An isomorphic logger which implements log levels and ANSI 16 styles.&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;https://github.com/pinterest/teletraan&quot;&gt;Teletraan: Deploy system at Pinterest&lt;/a&gt;
 &lt;a href=&quot;https://github.com/pampa/rutil&quot;&gt;Rutil: tools for dump/restore/query Redis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;follow on twitter &lt;a href=&quot;https://twitter.com/Jakartadev&quot;&gt;@JakartaDev&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Manajemen API dengan Kong part 1</title>
-   <link href="http://jakartadev.org/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
+   <link href="https://jakartadev.org/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
    <updated>2016-02-25T00:00:00+07:00</updated>
-   <id>http://jakartadev.org/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
+   <id>https://jakartadev.org/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
    <content type="html">&lt;p&gt;Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
 Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi &lt;em&gt;security&lt;/em&gt; ataupun dari scalability.
 Disitulah &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.&lt;/p&gt;
@@ -146,9 +215,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Issue &#35;2</title>
-   <link href="http://jakartadev.org/2016/02/22/issue-2/"/>
+   <link href="https://jakartadev.org/2016/02/22/issue-2/"/>
    <updated>2016-02-22T00:00:00+07:00</updated>
-   <id>http://jakartadev.org/2016/02/22/issue-2</id>
+   <id>https://jakartadev.org/2016/02/22/issue-2</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
 &lt;h4 id=&quot;linux-flaw-may-be-fixed-what-about-linux-containerhttpwwwciocomarticle3035556that-linux-flaw-may-be-fixed-but-what-about-your-containershtml&quot;&gt;&lt;a href=&quot;http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html&quot;&gt;Linux flaw may be fixed, what about linux container?&lt;/a&gt;&lt;/h4&gt;
@@ -208,14 +277,15 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
 &lt;h4 id=&quot;medium-editorhttpsyabwegithubiomedium-editor&quot;&gt;&lt;a href=&quot;https://yabwe.github.io/medium-editor/&quot;&gt;Medium Editor&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Online Editor yang dibangun dengan inspirasi dari &lt;a href=&quot;https://medium.com&quot;&gt;Medium.com&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;follow on twitter &lt;a href=&quot;https://twitter.com/Jakartadev&quot;&gt;@JakartaDev&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;1</title>
-   <link href="http://jakartadev.org/2016/02/15/issue-1/"/>
+   <link href="https://jakartadev.org/2016/02/15/issue-1/"/>
    <updated>2016-02-15T00:00:00+07:00</updated>
-   <id>http://jakartadev.org/2016/02/15/issue-1</id>
+   <id>https://jakartadev.org/2016/02/15/issue-1</id>
    <content type="html">&lt;p&gt;Issue perdana Jakarta dev.&lt;/p&gt;
 
 &lt;h3 id=&quot;berita&quot;&gt;Berita&lt;/h3&gt;
@@ -284,9 +354,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Introducing JakartaDEV</title>
-   <link href="http://jakartadev.org/2016/02/02/introducing-jakartadev/"/>
+   <link href="https://jakartadev.org/2016/02/02/introducing-jakartadev/"/>
    <updated>2016-02-02T00:00:00+07:00</updated>
-   <id>http://jakartadev.org/2016/02/02/introducing-jakartadev</id>
+   <id>https://jakartadev.org/2016/02/02/introducing-jakartadev</id>
    <content type="html">&lt;p&gt;JakartaDEV adalah &lt;em&gt;newsletter&lt;/em&gt; yang dikirim &lt;em&gt;hampir-mingguan&lt;/em&gt;, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;newsletter&lt;/em&gt; ini berisi informasi bisa berupa project Open Source, tools yang banyak digunakan saat ini,
