@@ -4,13 +4,49 @@
  <title>JakartaDev</title>
  <link href="https://jakartadev.org/atom.xml" rel="self"/>
  <link href="https://jakartadev.org/"/>
- <updated>2016-03-07T11:57:42+07:00</updated>
+ <updated>2016-03-08T20:03:31+07:00</updated>
  <id>https://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Optimasi Gambar</title>
+   <link href="https://jakartadev.org/2016/03/07/optimasi-gambar/"/>
+   <updated>2016-03-07T00:00:00+07:00</updated>
+   <id>https://jakartadev.org/2016/03/07/optimasi-gambar</id>
+   <content type="html">&lt;p&gt;Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.&lt;/p&gt;
+
+&lt;p&gt;Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce.&lt;/p&gt;
+
+&lt;p&gt;Beberapa pilihan alat untuk mengompress gambar, bisa untuk &lt;a href=&quot;http://mashable.com/2013/10/29/image-compressors&quot;&gt;desktop&lt;/a&gt; maupun CLI, untuk command line, saya menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;jpegoptim&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;pngout&lt;/code&gt; sebagai tools untuk mengompress file gambar.&lt;/p&gt;
+
+&lt;p&gt;Saya menggunakan ubuntu 14.04 LTS sebagai base dari sistem operasi server &lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;$ sudo apt-get install jpegoptim pngout&lt;/code&gt; &lt;br /&gt;
+menjalankan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;$ jpegoptim file.jpg &lt;/code&gt;, hal ini akan mengompress file gambar dengan menghilangkan info-info yang tidak dibutuhkan seperti comment di exif, atau informasi lain yang menambah berat satu file.&lt;/p&gt;
+
+&lt;p&gt;Anda juga bisa menjalankan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;jpegoptim&lt;/code&gt; agar bisa secara masif mengompress file dengan perintah&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ find . -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive  {} \;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk perintah di atas, itu akan mencari file &lt;code class=&quot;highlighter-rouge&quot;&gt;.jpg&lt;/code&gt; sampai ke dalam folder secara recursive,  Opsi &lt;code class=&quot;highlighter-rouge&quot;&gt;.&lt;/code&gt; di atas menunjukkan working directory yang sedang anda gunakan, jika hendak mengarahkan ke folder yang lain bisa ditulis &lt;code class=&quot;highlighter-rouge&quot;&gt;PATH&lt;/code&gt;-nya, seperti perintah di bawah.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ find /path/ke/gambar/ -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive  {} \;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Opsi yang digunakan adalah &lt;code class=&quot;highlighter-rouge&quot;&gt;-m90&lt;/code&gt; artinya menggunakan kualitas 90, &lt;code class=&quot;highlighter-rouge&quot;&gt;--strip-all&lt;/code&gt; menghilangkan informasi exif yang tidak terpakai, dan &lt;code class=&quot;highlighter-rouge&quot;&gt;--all-progressive&lt;/code&gt; opsi ini untuk menjadikan gambar itu progressive mode. &lt;br /&gt;
+Output: &lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;/path/ke/file_gambar.jpg 100x150 24bit N JFIF  [OK] 2706 --&amp;gt; 2580 bytes (4.66%), optimized.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; terkadang ada kasus dimana file anda akan hilang permission code-nya, dan tidak bisa diakses oleh borwser, ini bisa diakali dengan menambahkan perintah seperti berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;find . -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive  {} \; -exec chmod 677 {} \;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;dengan cara di atas, anda mengembalikan permission file agar bisa dibaca oleh webserver dan akhirnya ditampilkan ke browser.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;4</title>
