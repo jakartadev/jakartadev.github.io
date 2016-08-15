@@ -4,13 +4,42 @@
  <title>JakartaDev</title>
  <link href="https://jakartadev.org/atom.xml" rel="self"/>
  <link href="https://jakartadev.org/"/>
- <updated>2016-03-08T20:03:31+07:00</updated>
+ <updated>2016-08-15T11:35:10+07:00</updated>
  <id>https://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;5</title>
+   <link href="https://jakartadev.org/2016/08/15/issue-5/"/>
+   <updated>2016-08-15T00:00:00+07:00</updated>
+   <id>https://jakartadev.org/2016/08/15/issue-5</id>
+   <content type="html">&lt;p&gt;hiatus beberapa waktu, issue #5.&lt;/p&gt;
+
+&lt;h5 id=&quot;why-uber-engineering-switched-from-postgres-to-mysqlhttpsengubercommysql-migration&quot;&gt;&lt;a href=&quot;https://eng.uber.com/mysql-migration/&quot;&gt;Why uber engineering switched from postgres to mysql&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Proses dan alasan kenapa UBER melakukan migrasi dari Postgresql ke Mysql.&lt;/p&gt;
+
+&lt;h5 id=&quot;on-ubers-choice-of-databaseshttpuse-the-index-lukecomblog2016-07-29on-ubers-choice-of-databases&quot;&gt;&lt;a href=&quot;http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases&quot;&gt;On Uber’s Choice of Databases&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Debunking proses dan keputusan UBER berpindah database dari Postgresql ke Mysql&lt;/p&gt;
+
+&lt;h5 id=&quot;the-log-what-every-software-engineer-should-know-about-real-time-datas-unifying-abstractionhttpsengineeringlinkedincomdistributed-systemslog-what-every-software-engineer-should-know-about-real-time-datas-unifying&quot;&gt;&lt;a href=&quot;https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying&quot;&gt;The Log: What every software engineer should know about real-time data’s unifying abstraction&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Bacaan lama, masih relevan untuk banyak case log design sekarang.&lt;/p&gt;
+
+&lt;h5 id=&quot;tracker-ingesting-mysql-data-at-scale---part-1httpsengineeringpinterestcomblogtracker-ingesting-mysql-data-scale-part-1&quot;&gt;&lt;a href=&quot;https://engineering.pinterest.com/blog/tracker-ingesting-mysql-data-scale-part-1&quot;&gt;Tracker: Ingesting MySQL data at scale - Part 1&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Pinterest dengan data streaming dan juga migrasi data dari mysql ke s3 dan beberapa tools yang digunakan&lt;/p&gt;
+
+&lt;h5 id=&quot;using-a-static-site-generator-at-scale-lessons-learnedhttpswwwsmashingmagazinecom201608using-a-static-site-generator-at-scale-lessons-learned&quot;&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/&quot;&gt;Using A Static Site Generator At Scale: Lessons Learned&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Static site generator at scale, deskripsi dan implementasi bagaimana static site digunakan dalam skala tinggi. untuk informasi, Jakartadev.org juga menggunakan Static Site Generator, yaitu Jekyll.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Optimasi Gambar</title>
