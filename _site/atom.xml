@@ -4,13 +4,63 @@
  <title>JakartaDev</title>
  <link href="https://jakartadev.org/atom.xml" rel="self"/>
  <link href="https://jakartadev.org/"/>
- <updated>2016-08-15T11:35:10+07:00</updated>
+ <updated>2016-08-24T18:07:52+07:00</updated>
  <id>https://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;6</title>
+   <link href="https://jakartadev.org/2016/08/23/issue-6/"/>
+   <updated>2016-08-23T00:00:00+07:00</updated>
+   <id>https://jakartadev.org/2016/08/23/issue-6</id>
+   <content type="html">&lt;h2 id=&quot;berita&quot;&gt;Berita&lt;/h2&gt;
+
+&lt;h4 id=&quot;rilis-php-710httpphpnetindexphpid2016-08-18-3&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-3&quot;&gt;Rilis PHP 7.1.0&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;rilis-php-5625httpphpnetindexphpid2016-08-18-2&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-2&quot;&gt;Rilis PHP 5.6.25&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;powershell-di-linuxhttpsmsdnmicrosoftcomen-uspowershell&quot;&gt;&lt;a href=&quot;https://msdn.microsoft.com/en-us/powershell&quot;&gt;PowerShell di Linux&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Microsoft merilis PowerShell di Linux, dan juga meng-&lt;em&gt;opensource&lt;/em&gt;-kan PowerShell, lihat projectnya di &lt;a href=&quot;https://github.com/PowerShell/PowerShell&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;free-coding-schoolhttparstechnicacombusiness201608can-42-us-a-free-coding-school-run-by-a-french-billionaire-actually-work&quot;&gt;&lt;a href=&quot;http://arstechnica.com/business/2016/08/can-42-us-a-free-coding-school-run-by-a-french-billionaire-actually-work/&quot;&gt;Free Coding School&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan banyaknya e-learning, dan orang menjadi menjauh dari sisi sosial, berkurangnya &lt;em&gt;human interaction&lt;/em&gt;, menjadikan awal mula ide sekolah ini dan di sini juga digerakkan untuk saling belajar, saling melakukan &lt;em&gt;code review&lt;/em&gt; dan lainnya.&lt;/p&gt;
+
+&lt;h4 id=&quot;aws-summit-series-2016-videohttpswwwyoutubecomplaylistlistplhr1kzpdzukdzdanwsmyah-8rrmo2m65&quot;&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLhr1KZpdzukdZDanwSMYah_-8rRMO2m65&quot;&gt;AWS Summit Series 2016 Video&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h2 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h2&gt;
+
+&lt;h4 id=&quot;running-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansiblehttpsmediumcomyoanisgilrunning-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansible-ccad738e28888e76mox12&quot;&gt;&lt;a href=&quot;https://medium.com/@yoanis_gil/running-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansible-ccad738e2888#.8e76mox12&quot;&gt;Running Jenkins on top of a Flocker Cluster using Docker and Ansible&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Cara menggunakan Flocker untuk me-manage Docker dan data secara bersamaan.&lt;/p&gt;
+
+&lt;h4 id=&quot;advanced-sql-in-rails---part-1httpbrewhouseio20160804sql-in-railshtml&quot;&gt;&lt;a href=&quot;http://brewhouse.io/2016/08/04/sql-in-rails.html&quot;&gt;Advanced SQL in Rails - Part 1&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;understanding-and-hardening-linux-containershttpswwwnccgrouptrustglobalassetsour-researchuswhitepapers2016aprilnccgroupunderstandinghardeninglinuxcontainers-10pdf&quot;&gt;&lt;a href=&quot;https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/april/ncc_group_understanding_hardening_linux_containers-10pdf/&quot;&gt;Understanding and Hardening Linux Containers&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;trello-android-schema-upgradeshttpstechtrellocomandroid-schemas&quot;&gt;&lt;a href=&quot;https://tech.trello.com/android-schemas/&quot;&gt;Trello Android Schema Upgrades&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Cara Trello untuk skema SQLite database tabel update di app Android Trello&lt;/p&gt;
+
+&lt;h4 id=&quot;testing-your-drupal-site-with-behathttpswwwphparchcom201608testing-your-drupal-site-with-behat&quot;&gt;&lt;a href=&quot;https://www.phparch.com/2016/08/testing-your-drupal-site-with-behat/&quot;&gt;Testing Your Drupal Site with Behat&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
+
+&lt;h4 id=&quot;proxysqlhttpsgithubcomsysownproxysqlreleases&quot;&gt;&lt;a href=&quot;https://github.com/sysown/proxysql/releases&quot;&gt;ProxySQL&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;sekarang versi 1.2.1 General Availability.&lt;/p&gt;
+
+&lt;h4 id=&quot;arqhttpssamuelcolvingithubioarqindexhtml&quot;&gt;&lt;a href=&quot;https://samuelcolvin.github.io/arq/index.html&quot;&gt;ARQ&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Job queues and RPC in python with asyncio, redis and msgpack.&lt;/p&gt;
+
+&lt;h4 id=&quot;cleavejshttpnosirgithubiocleavejs&quot;&gt;&lt;a href=&quot;http://nosir.github.io/cleave.js/&quot;&gt;Cleave.js&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; formatting&lt;/p&gt;
+
+&lt;h4 id=&quot;slatejshttpslatejsorg&quot;&gt;&lt;a href=&quot;http://slatejs.org/&quot;&gt;Slate.js&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Javascript framework untuk rich text editor&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;5</title>
