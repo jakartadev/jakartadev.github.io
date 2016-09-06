@@ -4,13 +4,81 @@
  <title>JakartaDev</title>
  <link href="https://jakartadev.org/atom.xml" rel="self"/>
  <link href="https://jakartadev.org/"/>
- <updated>2016-08-24T18:07:52+07:00</updated>
+ <updated>2016-09-06T15:17:10+07:00</updated>
  <id>https://jakartadev.org</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;8</title>
+   <link href="https://jakartadev.org/2016/09/05/issue-8/"/>
+   <updated>2016-09-05T00:00:00+07:00</updated>
+   <id>https://jakartadev.org/2016/09/05/issue-8</id>
+   <content type="html">&lt;h3 id=&quot;artikel&quot;&gt;Artikel&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;exclusive-inside-look-at-how-artificial-intelligence-and-machine-learning-work-at-applehttpsbackchannelcoman-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932by1b0uzjky&quot;&gt;&lt;a href=&quot;https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.y1b0uzjky&quot;&gt;exclusive inside look at how artificial intelligence and machine learning work at Apple&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;not-shipping-is-a-virtuehttpsmsignalvnoisecomnot-shipping-is-a-virtue-b880badb623ck1hllcn84&quot;&gt;&lt;a href=&quot;https://m.signalvnoise.com/not-shipping-is-a-virtue-b880badb623c#.k1hllcn84&quot;&gt;(Not) Shipping is a Virtue&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;the-web-methodology-projecthttpwebmethodologyprojectcomguide&quot;&gt;&lt;a href=&quot;http://webmethodologyproject.com/guide/&quot;&gt;The Web Methodology Project&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;protecting-your-embedded-content-with-subresource-integrity-srihttpswwwtroyhuntcomprotecting-your-embedded-content-with-subresource-integrity-sri&quot;&gt;&lt;a href=&quot;https://www.troyhunt.com/protecting-your-embedded-content-with-subresource-integrity-sri/&quot;&gt;Protecting your embedded content with subresource integrity (SRI)&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;itsy-bitsy-data-structureshttpsgithubcomthejameskyleitsy-bitsy-data-structures&quot;&gt;&lt;a href=&quot;https://github.com/thejameskyle/itsy-bitsy-data-structures&quot;&gt;Itsy Bitsy Data Structures&lt;/a&gt;&lt;/h4&gt;
+    &lt;p&gt;panduan yang mudah dibaca mengenai struktur data di javascript&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;the-state-of-javascript-javascript-flavorshttpsmediumcomsachagreifthe-state-of-javascript-javascript-flavors-1e02b0bfefb6swwtqmgwz&quot;&gt;&lt;a href=&quot;https://medium.com/@sachagreif/the-state-of-javascript-javascript-flavors-1e02b0bfefb6#.swwtqmgwz&quot;&gt;The State Of JavaScript: JavaScript Flavors&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;open-source-ruby-software-the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hanssonhttpsinterviewsslashdotorgstory1608301759216the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson&quot;&gt;&lt;a href=&quot;https://interviews.slashdot.org/story/16/08/30/1759216/the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson&quot;&gt;Open Source Ruby Software The Slashdot Interview With Ruby on Rails Creator David Heinemeier Hansson&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;examining-the-internals-of-the-rails-requestresponse-cyclehttpwwwrubypigeoncompostsexamining-internals-of-rails-request-response-cycle&quot;&gt;&lt;a href=&quot;http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/&quot;&gt;Examining The Internals Of The Rails Request/Response Cycle&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;the-duel-react-native-vs-cordovahttpswwwtoptalcommobilecomparing-react-native-to-cordova&quot;&gt;&lt;a href=&quot;https://www.toptal.com/mobile/comparing-react-native-to-cordova&quot;&gt;The Duel: React Native vs. Cordova&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;how-to-set-up-read-write-split-in-galera-cluster-using-proxysqlhttpseveralninescombloghow-set-read-write-split-galera-cluster-using-proxysql&quot;&gt;&lt;a href=&quot;http://severalnines.com/blog/how-set-read-write-split-galera-cluster-using-proxysql&quot;&gt;How to set up read-write split in Galera Cluster using ProxySQL&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;simple-npm-tricks-that-will-knock-your-wombat-socks-offhttpsnodesourcecomblogeleven-npm-tricks-that-will-knock-your-wombat-socks-off&quot;&gt;&lt;a href=&quot;https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/&quot;&gt;11 Simple npm Tricks That Will Knock Your Wombat Socks Off&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;installing-amp-in-wordpresshttpcodetutspluscomtutorialsinstalling-amp-in-wordpress--cms-26272&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/installing-amp-in-wordpress--cms-26272&quot;&gt;Installing AMP in WordPress&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;appium-app-automation-testinghttpappiumio&quot;&gt;&lt;a href=&quot;http://appium.io/&quot;&gt;Appium, App Automation testing&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;insomnia-rest-clienthttpsinsomniarest&quot;&gt;&lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia, Rest Client&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;react-components-cataloghttpsgithubcombrilloutawesome-react-components&quot;&gt;&lt;a href=&quot;https://github.com/brillout/awesome-react-components&quot;&gt;React Components Catalog&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;6</title>
@@ -59,6 +127,15 @@
 &lt;h4 id=&quot;slatejshttpslatejsorg&quot;&gt;&lt;a href=&quot;http://slatejs.org/&quot;&gt;Slate.js&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Javascript framework untuk rich text editor&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Issue &#35;7</title>
+   <link href="https://jakartadev.org/2016/08/20/issue-7/"/>
+   <updated>2016-08-20T00:00:00+07:00</updated>
+   <id>https://jakartadev.org/2016/08/20/issue-7</id>
+   <content type="html">
 </content>
  </entry>
  
