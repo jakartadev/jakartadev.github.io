@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>JakartaDev</title>
- <link href="https://jakartadev.org/atom.xml" rel="self"/>
- <link href="https://jakartadev.org/"/>
- <updated>2016-09-06T15:24:00+07:00</updated>
- <id>https://jakartadev.org</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-11-17T13:45:09+07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
@@ -13,40 +13,94 @@
 
  
  <entry>
+   <title>Jakartadev update</title>
+   <link href="http://localhost:4000/2017/11/17/update-jakartadev/"/>
+   <updated>2017-11-17T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2017/11/17/update-jakartadev</id>
+   <content type="html">&lt;p&gt;Jakartadev saat ini menjadi &lt;em&gt;pet project&lt;/em&gt; saya untuk menginformasikan dunia development, dan juga menginformasikan &lt;em&gt;tools&lt;/em&gt; atau berita yang ada di dunia development yang saya kurasi sendiri, dan juga diambil inti dari artikelnya.&lt;/p&gt;
+
+&lt;p&gt;Setahun ini sempat terhenti dengan alasan kesibukan, dan memang ada beberapa hal yang sempat saya kerjakan sendiri diluar jakartadev, &lt;a href=&quot;https://notes.dedenf.com&quot;&gt;blog pribadi&lt;/a&gt; dan juga meng-handle &lt;a href=&quot;http://jenius.tech&quot;&gt;blog engineering Jenius&lt;/a&gt; tempat saya bekerja.&lt;/p&gt;
+
+&lt;p&gt;Disadari atau tidak, mungkin nanti akan ada link, atau bahasan yang mirip dengan apa yang saya tulis di blog selain jakartadev, tapi fokus sekarang adalah untuk selalu konsisten mengirimkan atau menuliskan informasi yang relevan dan juga actual, akan dicoba memasukkan pendapat saya, atau juga ulasan, R&amp;amp;D berdasarkan artikel yang saya baca, atau saya buat sendiri.&lt;/p&gt;
+
+&lt;p&gt;@dedenf&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Issue &#35;9</title>
+   <link href="http://localhost:4000/2017/11/13/issue-9/"/>
+   <updated>2017-11-13T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2017/11/13/issue-9</id>
+   <content type="html">&lt;p&gt;Lama tidak meng-&lt;i&gt;update&lt;/i&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-habits-made-me-a-better-software-engineer-47e7d54b8fa&quot;&gt;What habits made me a better Software Engineer?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85&quot;&gt;How to use Apache Kafka to transform a batch pipeline into a real-time one&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.acolyer.org/2017/11/03/log20-fully-automated-optimal-placement-of-log-printing-statements-under-specified-overhead-threshold/&quot;&gt;Log20: Fully automated optimal placement of log printing statements under specified overhead threshold&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network/&quot;&gt;Operating a Kubernetes network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattklein123/lyfts-envoy-dashboards-5c91738816b1?utm_source=jeniustech&quot;&gt;Lyft’s Envoy dashboards&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.newrelic.com/2017/10/30/site-reliability-engineer-sre/&quot;&gt;The Rise of the Site Reliability Engineer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/web-typography-tables&quot;&gt;Web Typography: Designing Tables to be Read, Not Looked At&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;berita&quot;&gt;Berita&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/apache-kafka-goes-1-0/&quot;&gt;Apache Kafka Goes 1.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bundler.io/blog/2017/10/31/bundler-1-16.html&quot;&gt;Bundler 1.16&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.rubygems.org/2017/11/01/2.7.0-released.html&quot;&gt;2.7.0 Released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced&quot;&gt;Angular 5.0 Released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0&quot;&gt;Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/&quot;&gt;TypeScript 2.6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tools&quot;&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-indy.github.io/Koa11y/&quot;&gt;Koa11y, Open Source Web Accessibility Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sylvainpolletvillard/postcss-grid-kiss?utm_source=jeniustech&quot;&gt;PostCSS plugin to keep CSS grids stupidly simple &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/FormidableLabs/webpack-dashboard&quot;&gt;A CLI dashboard for webpack dev server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Artikel dikurasi oleh &lt;a href=&quot;https://github.com/dedenf&quot;&gt;Deden Fathurahman&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Issue &#35;8</title>
-   <link href="https://jakartadev.org/2016/09/05/issue-8/"/>
+   <link href="http://localhost:4000/2016/09/05/issue-8/"/>
    <updated>2016-09-05T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/09/05/issue-8</id>
+   <id>http://localhost:4000/2016/09/05/issue-8</id>
    <content type="html">&lt;h3 id=&quot;artikel&quot;&gt;Artikel&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;exclusive-inside-look-at-how-artificial-intelligence-and-machine-learning-work-at-applehttpsbackchannelcoman-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932by1b0uzjky&quot;&gt;&lt;a href=&quot;https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.y1b0uzjky&quot;&gt;exclusive inside look at how artificial intelligence and machine learning work at Apple&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;exclusive-inside-look-at-how-artificial-intelligence-and-machine-learning-work-at-apple&quot;&gt;&lt;a href=&quot;https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.y1b0uzjky&quot;&gt;exclusive inside look at how artificial intelligence and machine learning work at Apple&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;not-shipping-is-a-virtuehttpsmsignalvnoisecomnot-shipping-is-a-virtue-b880badb623ck1hllcn84&quot;&gt;&lt;a href=&quot;https://m.signalvnoise.com/not-shipping-is-a-virtue-b880badb623c#.k1hllcn84&quot;&gt;(Not) Shipping is a Virtue&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;not-shipping-is-a-virtue&quot;&gt;&lt;a href=&quot;https://m.signalvnoise.com/not-shipping-is-a-virtue-b880badb623c#.k1hllcn84&quot;&gt;(Not) Shipping is a Virtue&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;the-web-methodology-projecthttpwebmethodologyprojectcomguide&quot;&gt;&lt;a href=&quot;http://webmethodologyproject.com/guide/&quot;&gt;The Web Methodology Project&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;the-web-methodology-project&quot;&gt;&lt;a href=&quot;http://webmethodologyproject.com/guide/&quot;&gt;The Web Methodology Project&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;protecting-your-embedded-content-with-subresource-integrity-srihttpswwwtroyhuntcomprotecting-your-embedded-content-with-subresource-integrity-sri&quot;&gt;&lt;a href=&quot;https://www.troyhunt.com/protecting-your-embedded-content-with-subresource-integrity-sri/&quot;&gt;Protecting your embedded content with subresource integrity (SRI)&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;protecting-your-embedded-content-with-subresource-integrity-sri&quot;&gt;&lt;a href=&quot;https://www.troyhunt.com/protecting-your-embedded-content-with-subresource-integrity-sri/&quot;&gt;Protecting your embedded content with subresource integrity (SRI)&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;itsy-bitsy-data-structureshttpsgithubcomthejameskyleitsy-bitsy-data-structures&quot;&gt;&lt;a href=&quot;https://github.com/thejameskyle/itsy-bitsy-data-structures&quot;&gt;Itsy Bitsy Data Structures&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;itsy-bitsy-data-structures&quot;&gt;&lt;a href=&quot;https://github.com/thejameskyle/itsy-bitsy-data-structures&quot;&gt;Itsy Bitsy Data Structures&lt;/a&gt;&lt;/h4&gt;
     &lt;p&gt;panduan yang mudah dibaca mengenai struktur data di javascript&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;the-state-of-javascript-javascript-flavorshttpsmediumcomsachagreifthe-state-of-javascript-javascript-flavors-1e02b0bfefb6swwtqmgwz&quot;&gt;&lt;a href=&quot;https://medium.com/@sachagreif/the-state-of-javascript-javascript-flavors-1e02b0bfefb6#.swwtqmgwz&quot;&gt;The State Of JavaScript: JavaScript Flavors&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;the-state-of-javascript-javascript-flavors&quot;&gt;&lt;a href=&quot;https://medium.com/@sachagreif/the-state-of-javascript-javascript-flavors-1e02b0bfefb6#.swwtqmgwz&quot;&gt;The State Of JavaScript: JavaScript Flavors&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;open-source-ruby-software-the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hanssonhttpsinterviewsslashdotorgstory1608301759216the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson&quot;&gt;&lt;a href=&quot;https://interviews.slashdot.org/story/16/08/30/1759216/the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson&quot;&gt;Open Source Ruby Software The Slashdot Interview With Ruby on Rails Creator David Heinemeier Hansson&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;open-source-ruby-software-the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson&quot;&gt;&lt;a href=&quot;https://interviews.slashdot.org/story/16/08/30/1759216/the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson&quot;&gt;Open Source Ruby Software The Slashdot Interview With Ruby on Rails Creator David Heinemeier Hansson&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;examining-the-internals-of-the-rails-requestresponse-cyclehttpwwwrubypigeoncompostsexamining-internals-of-rails-request-response-cycle&quot;&gt;&lt;a href=&quot;http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/&quot;&gt;Examining The Internals Of The Rails Request/Response Cycle&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;examining-the-internals-of-the-rails-requestresponse-cycle&quot;&gt;&lt;a href=&quot;http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/&quot;&gt;Examining The Internals Of The Rails Request/Response Cycle&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;the-duel-react-native-vs-cordovahttpswwwtoptalcommobilecomparing-react-native-to-cordova&quot;&gt;&lt;a href=&quot;https://www.toptal.com/mobile/comparing-react-native-to-cordova&quot;&gt;The Duel: React Native vs. Cordova&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;the-duel-react-native-vs-cordova&quot;&gt;&lt;a href=&quot;https://www.toptal.com/mobile/comparing-react-native-to-cordova&quot;&gt;The Duel: React Native vs. Cordova&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -54,13 +108,13 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;how-to-set-up-read-write-split-in-galera-cluster-using-proxysqlhttpseveralninescombloghow-set-read-write-split-galera-cluster-using-proxysql&quot;&gt;&lt;a href=&quot;http://severalnines.com/blog/how-set-read-write-split-galera-cluster-using-proxysql&quot;&gt;How to set up read-write split in Galera Cluster using ProxySQL&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;how-to-set-up-read-write-split-in-galera-cluster-using-proxysql&quot;&gt;&lt;a href=&quot;http://severalnines.com/blog/how-set-read-write-split-galera-cluster-using-proxysql&quot;&gt;How to set up read-write split in Galera Cluster using ProxySQL&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;simple-npm-tricks-that-will-knock-your-wombat-socks-offhttpsnodesourcecomblogeleven-npm-tricks-that-will-knock-your-wombat-socks-off&quot;&gt;&lt;a href=&quot;https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/&quot;&gt;11 Simple npm Tricks That Will Knock Your Wombat Socks Off&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;11-simple-npm-tricks-that-will-knock-your-wombat-socks-off&quot;&gt;&lt;a href=&quot;https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/&quot;&gt;11 Simple npm Tricks That Will Knock Your Wombat Socks Off&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;installing-amp-in-wordpresshttpcodetutspluscomtutorialsinstalling-amp-in-wordpress--cms-26272&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/installing-amp-in-wordpress--cms-26272&quot;&gt;Installing AMP in WordPress&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;installing-amp-in-wordpress&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/installing-amp-in-wordpress--cms-26272&quot;&gt;Installing AMP in WordPress&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -68,13 +122,13 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;appium-app-automation-testinghttpappiumio&quot;&gt;&lt;a href=&quot;http://appium.io/&quot;&gt;Appium, App Automation testing&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;appium-app-automation-testing&quot;&gt;&lt;a href=&quot;http://appium.io/&quot;&gt;Appium, App Automation testing&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;insomnia-rest-clienthttpsinsomniarest&quot;&gt;&lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia, Rest Client&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;insomnia-rest-client&quot;&gt;&lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia, Rest Client&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;h4 id=&quot;react-components-cataloghttpsgithubcombrilloutawesome-react-components&quot;&gt;&lt;a href=&quot;https://github.com/brillout/awesome-react-components&quot;&gt;React Components Catalog&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;react-components-catalog&quot;&gt;&lt;a href=&quot;https://github.com/brillout/awesome-react-components&quot;&gt;React Components Catalog&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </content>
@@ -82,49 +136,49 @@
  
  <entry>
    <title>Issue &#35;6</title>
-   <link href="https://jakartadev.org/2016/08/23/issue-6/"/>
+   <link href="http://localhost:4000/2016/08/23/issue-6/"/>
    <updated>2016-08-23T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/08/23/issue-6</id>
+   <id>http://localhost:4000/2016/08/23/issue-6</id>
    <content type="html">&lt;h2 id=&quot;berita&quot;&gt;Berita&lt;/h2&gt;
 
-&lt;h4 id=&quot;rilis-php-710httpphpnetindexphpid2016-08-18-3&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-3&quot;&gt;Rilis PHP 7.1.0&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;rilis-php-710&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-3&quot;&gt;Rilis PHP 7.1.0&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;rilis-php-5625httpphpnetindexphpid2016-08-18-2&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-2&quot;&gt;Rilis PHP 5.6.25&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;rilis-php-5625&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-2&quot;&gt;Rilis PHP 5.6.25&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;powershell-di-linuxhttpsmsdnmicrosoftcomen-uspowershell&quot;&gt;&lt;a href=&quot;https://msdn.microsoft.com/en-us/powershell&quot;&gt;PowerShell di Linux&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Microsoft merilis PowerShell di Linux, dan juga meng-&lt;em&gt;opensource&lt;/em&gt;-kan PowerShell, lihat projectnya di &lt;a href=&quot;https://github.com/PowerShell/PowerShell&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;powershell-di-linux&quot;&gt;&lt;a href=&quot;https://msdn.microsoft.com/en-us/powershell&quot;&gt;PowerShell di Linux&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Microsoft merilis PowerShell di Linux, dan juga meng-_opensource_-kan PowerShell, lihat projectnya di &lt;a href=&quot;https://github.com/PowerShell/PowerShell&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;free-coding-schoolhttparstechnicacombusiness201608can-42-us-a-free-coding-school-run-by-a-french-billionaire-actually-work&quot;&gt;&lt;a href=&quot;http://arstechnica.com/business/2016/08/can-42-us-a-free-coding-school-run-by-a-french-billionaire-actually-work/&quot;&gt;Free Coding School&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;free-coding-school&quot;&gt;&lt;a href=&quot;http://arstechnica.com/business/2016/08/can-42-us-a-free-coding-school-run-by-a-french-billionaire-actually-work/&quot;&gt;Free Coding School&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Dengan banyaknya e-learning, dan orang menjadi menjauh dari sisi sosial, berkurangnya &lt;em&gt;human interaction&lt;/em&gt;, menjadikan awal mula ide sekolah ini dan di sini juga digerakkan untuk saling belajar, saling melakukan &lt;em&gt;code review&lt;/em&gt; dan lainnya.&lt;/p&gt;
 
-&lt;h4 id=&quot;aws-summit-series-2016-videohttpswwwyoutubecomplaylistlistplhr1kzpdzukdzdanwsmyah-8rrmo2m65&quot;&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLhr1KZpdzukdZDanwSMYah_-8rRMO2m65&quot;&gt;AWS Summit Series 2016 Video&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;aws-summit-series-2016-video&quot;&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLhr1KZpdzukdZDanwSMYah_-8rRMO2m65&quot;&gt;AWS Summit Series 2016 Video&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h2 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h2&gt;
 
-&lt;h4 id=&quot;running-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansiblehttpsmediumcomyoanisgilrunning-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansible-ccad738e28888e76mox12&quot;&gt;&lt;a href=&quot;https://medium.com/@yoanis_gil/running-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansible-ccad738e2888#.8e76mox12&quot;&gt;Running Jenkins on top of a Flocker Cluster using Docker and Ansible&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;running-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansible&quot;&gt;&lt;a href=&quot;https://medium.com/@yoanis_gil/running-jenkins-on-top-of-a-flocker-cluster-using-docker-and-ansible-ccad738e2888#.8e76mox12&quot;&gt;Running Jenkins on top of a Flocker Cluster using Docker and Ansible&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Cara menggunakan Flocker untuk me-manage Docker dan data secara bersamaan.&lt;/p&gt;
 
-&lt;h4 id=&quot;advanced-sql-in-rails---part-1httpbrewhouseio20160804sql-in-railshtml&quot;&gt;&lt;a href=&quot;http://brewhouse.io/2016/08/04/sql-in-rails.html&quot;&gt;Advanced SQL in Rails - Part 1&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;advanced-sql-in-rails---part-1&quot;&gt;&lt;a href=&quot;http://brewhouse.io/2016/08/04/sql-in-rails.html&quot;&gt;Advanced SQL in Rails - Part 1&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;understanding-and-hardening-linux-containershttpswwwnccgrouptrustglobalassetsour-researchuswhitepapers2016aprilnccgroupunderstandinghardeninglinuxcontainers-10pdf&quot;&gt;&lt;a href=&quot;https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/april/ncc_group_understanding_hardening_linux_containers-10pdf/&quot;&gt;Understanding and Hardening Linux Containers&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;understanding-and-hardening-linux-containers&quot;&gt;&lt;a href=&quot;https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/april/ncc_group_understanding_hardening_linux_containers-10pdf/&quot;&gt;Understanding and Hardening Linux Containers&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;trello-android-schema-upgradeshttpstechtrellocomandroid-schemas&quot;&gt;&lt;a href=&quot;https://tech.trello.com/android-schemas/&quot;&gt;Trello Android Schema Upgrades&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;trello-android-schema-upgrades&quot;&gt;&lt;a href=&quot;https://tech.trello.com/android-schemas/&quot;&gt;Trello Android Schema Upgrades&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Cara Trello untuk skema SQLite database tabel update di app Android Trello&lt;/p&gt;
 
-&lt;h4 id=&quot;testing-your-drupal-site-with-behathttpswwwphparchcom201608testing-your-drupal-site-with-behat&quot;&gt;&lt;a href=&quot;https://www.phparch.com/2016/08/testing-your-drupal-site-with-behat/&quot;&gt;Testing Your Drupal Site with Behat&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;testing-your-drupal-site-with-behat&quot;&gt;&lt;a href=&quot;https://www.phparch.com/2016/08/testing-your-drupal-site-with-behat/&quot;&gt;Testing Your Drupal Site with Behat&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
 
-&lt;h4 id=&quot;proxysqlhttpsgithubcomsysownproxysqlreleases&quot;&gt;&lt;a href=&quot;https://github.com/sysown/proxysql/releases&quot;&gt;ProxySQL&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;proxysql&quot;&gt;&lt;a href=&quot;https://github.com/sysown/proxysql/releases&quot;&gt;ProxySQL&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;sekarang versi 1.2.1 General Availability.&lt;/p&gt;
 
-&lt;h4 id=&quot;arqhttpssamuelcolvingithubioarqindexhtml&quot;&gt;&lt;a href=&quot;https://samuelcolvin.github.io/arq/index.html&quot;&gt;ARQ&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;arq&quot;&gt;&lt;a href=&quot;https://samuelcolvin.github.io/arq/index.html&quot;&gt;ARQ&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Job queues and RPC in python with asyncio, redis and msgpack.&lt;/p&gt;
 
-&lt;h4 id=&quot;cleavejshttpnosirgithubiocleavejs&quot;&gt;&lt;a href=&quot;http://nosir.github.io/cleave.js/&quot;&gt;Cleave.js&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;cleavejs&quot;&gt;&lt;a href=&quot;http://nosir.github.io/cleave.js/&quot;&gt;Cleave.js&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; formatting&lt;/p&gt;
 
-&lt;h4 id=&quot;slatejshttpslatejsorg&quot;&gt;&lt;a href=&quot;http://slatejs.org/&quot;&gt;Slate.js&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;slatejs&quot;&gt;&lt;a href=&quot;http://slatejs.org/&quot;&gt;Slate.js&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Javascript framework untuk rich text editor&lt;/p&gt;
 
 </content>
@@ -132,37 +186,37 @@
  
  <entry>
    <title>Issue &#35;7</title>
-   <link href="https://jakartadev.org/2016/08/20/issue-7/"/>
+   <link href="http://localhost:4000/2016/08/20/issue-7/"/>
    <updated>2016-08-20T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/08/20/issue-7</id>
+   <id>http://localhost:4000/2016/08/20/issue-7</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;5</title>
-   <link href="https://jakartadev.org/2016/08/15/issue-5/"/>
+   <link href="http://localhost:4000/2016/08/15/issue-5/"/>
    <updated>2016-08-15T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/08/15/issue-5</id>
+   <id>http://localhost:4000/2016/08/15/issue-5</id>
    <content type="html">&lt;p&gt;hiatus beberapa waktu, issue #5.&lt;/p&gt;
 
-&lt;h5 id=&quot;why-uber-engineering-switched-from-postgres-to-mysqlhttpsengubercommysql-migration&quot;&gt;&lt;a href=&quot;https://eng.uber.com/mysql-migration/&quot;&gt;Why uber engineering switched from postgres to mysql&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;why-uber-engineering-switched-from-postgres-to-mysql&quot;&gt;&lt;a href=&quot;https://eng.uber.com/mysql-migration/&quot;&gt;Why uber engineering switched from postgres to mysql&lt;/a&gt;&lt;/h5&gt;
 
 &lt;p&gt;Proses dan alasan kenapa UBER melakukan migrasi dari Postgresql ke Mysql.&lt;/p&gt;
 
-&lt;h5 id=&quot;on-ubers-choice-of-databaseshttpuse-the-index-lukecomblog2016-07-29on-ubers-choice-of-databases&quot;&gt;&lt;a href=&quot;http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases&quot;&gt;On Uber’s Choice of Databases&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;on-ubers-choice-of-databases&quot;&gt;&lt;a href=&quot;http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases&quot;&gt;On Uber’s Choice of Databases&lt;/a&gt;&lt;/h5&gt;
 
 &lt;p&gt;Debunking proses dan keputusan UBER berpindah database dari Postgresql ke Mysql&lt;/p&gt;
 
-&lt;h5 id=&quot;the-log-what-every-software-engineer-should-know-about-real-time-datas-unifying-abstractionhttpsengineeringlinkedincomdistributed-systemslog-what-every-software-engineer-should-know-about-real-time-datas-unifying&quot;&gt;&lt;a href=&quot;https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying&quot;&gt;The Log: What every software engineer should know about real-time data’s unifying abstraction&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;the-log-what-every-software-engineer-should-know-about-real-time-datas-unifying-abstraction&quot;&gt;&lt;a href=&quot;https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying&quot;&gt;The Log: What every software engineer should know about real-time data’s unifying abstraction&lt;/a&gt;&lt;/h5&gt;
 
 &lt;p&gt;Bacaan lama, masih relevan untuk banyak case log design sekarang.&lt;/p&gt;
 
-&lt;h5 id=&quot;tracker-ingesting-mysql-data-at-scale---part-1httpsengineeringpinterestcomblogtracker-ingesting-mysql-data-scale-part-1&quot;&gt;&lt;a href=&quot;https://engineering.pinterest.com/blog/tracker-ingesting-mysql-data-scale-part-1&quot;&gt;Tracker: Ingesting MySQL data at scale - Part 1&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;tracker-ingesting-mysql-data-at-scale---part-1&quot;&gt;&lt;a href=&quot;https://engineering.pinterest.com/blog/tracker-ingesting-mysql-data-scale-part-1&quot;&gt;Tracker: Ingesting MySQL data at scale - Part 1&lt;/a&gt;&lt;/h5&gt;
 
 &lt;p&gt;Pinterest dengan data streaming dan juga migrasi data dari mysql ke s3 dan beberapa tools yang digunakan&lt;/p&gt;
 
-&lt;h5 id=&quot;using-a-static-site-generator-at-scale-lessons-learnedhttpswwwsmashingmagazinecom201608using-a-static-site-generator-at-scale-lessons-learned&quot;&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/&quot;&gt;Using A Static Site Generator At Scale: Lessons Learned&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;using-a-static-site-generator-at-scale-lessons-learned&quot;&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/&quot;&gt;Using A Static Site Generator At Scale: Lessons Learned&lt;/a&gt;&lt;/h5&gt;
 
 &lt;p&gt;Static site generator at scale, deskripsi dan implementasi bagaimana static site digunakan dalam skala tinggi. untuk informasi, Jakartadev.org juga menggunakan Static Site Generator, yaitu Jekyll.&lt;/p&gt;
 </content>
@@ -170,9 +224,9 @@
  
  <entry>
    <title>Optimasi Gambar</title>
-   <link href="https://jakartadev.org/2016/03/07/optimasi-gambar/"/>
+   <link href="http://localhost:4000/2016/03/07/optimasi-gambar/"/>
    <updated>2016-03-07T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/03/07/optimasi-gambar</id>
+   <id>http://localhost:4000/2016/03/07/optimasi-gambar</id>
    <content type="html">&lt;p&gt;Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.&lt;/p&gt;
 
 &lt;p&gt;Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce.&lt;/p&gt;
@@ -206,9 +260,9 @@ Output: &lt;br /&gt;
  
  <entry>
    <title>Issue &#35;4</title>
-   <link href="https://jakartadev.org/2016/03/07/issue-4/"/>
+   <link href="http://localhost:4000/2016/03/07/issue-4/"/>
    <updated>2016-03-07T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/03/07/issue-4</id>
+   <id>http://localhost:4000/2016/03/07/issue-4</id>
    <content type="html">&lt;h5 id=&quot;news&quot;&gt;News&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&quot;http://thehackernews.com/2016/03/drown-attack-openssl-vulnerability.html&quot;&gt;DROWN Attack&lt;/a&gt;&lt;/p&gt;
 
@@ -273,44 +327,44 @@ Output: &lt;br /&gt;
  
  <entry>
    <title>Issue &#35;3</title>
-   <link href="https://jakartadev.org/2016/02/29/issue-3/"/>
+   <link href="http://localhost:4000/2016/02/29/issue-3/"/>
    <updated>2016-02-29T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/02/29/issue-3</id>
+   <id>http://localhost:4000/2016/02/29/issue-3</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
-&lt;h5 id=&quot;the-state-of-microservices-todayhttpblogcodeshipcomthe-state-of-microservices-today&quot;&gt;&lt;a href=&quot;http://blog.codeship.com/the-state-of-microservices-today/&quot;&gt;The State of Microservices Today&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;the-state-of-microservices-today&quot;&gt;&lt;a href=&quot;http://blog.codeship.com/the-state-of-microservices-today/&quot;&gt;The State of Microservices Today&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Microservices state saat ini, perusahaan yang mengadopsi konsep ini dari Google, Twitter, Github, bagaimana perusahaaan-perusahaan tersebut mengimplementasikannya di organisasinya.&lt;/p&gt;
 
-&lt;h5 id=&quot;google-starts-highlighting-amp-pages-in-its-mobile-search-resultshttptechcrunchcom20160224google-now-highlights-amp-pages-in-its-mobile-search-results&quot;&gt;&lt;a href=&quot;http://techcrunch.com/2016/02/24/google-now-highlights-amp-pages-in-its-mobile-search-results/&quot;&gt;Google Starts Highlighting AMP Pages In Its Mobile Search Results&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;google-starts-highlighting-amp-pages-in-its-mobile-search-results&quot;&gt;&lt;a href=&quot;http://techcrunch.com/2016/02/24/google-now-highlights-amp-pages-in-its-mobile-search-results/&quot;&gt;Google Starts Highlighting AMP Pages In Its Mobile Search Results&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Accelerated Mobile Page atau &lt;a href=&quot;https://www.ampproject.org/&quot;&gt;AMP&lt;/a&gt; adalah project kolaborasi dari banyak perusahaan untuk bisa menampilkan halaman web dengan cepat, tetapi juga ramah dengan iklan, &lt;a href=&quot;http://techcrunch.com/2016/02/24/wordpress-sites-now-support-googles-amp-to-make-mobile-pages-load-much-faster/&quot;&gt;Wordpress&lt;/a&gt; sudah mendukung inisitif ini. &lt;a href=&quot;https://www.ampproject.org/docs/get_started/about-amp.html&quot;&gt;Pelajari lebih lanjut&lt;/a&gt; mengenai AMP ini.&lt;/p&gt;
 
-&lt;h5 id=&quot;nodejs-570-stable-dirilishttpsgithubcomnodejsnodeblobv570changelogmd&quot;&gt;&lt;a href=&quot;https://github.com/nodejs/node/blob/v5.7.0/CHANGELOG.md&quot;&gt;NodeJS 5.7.0 stable dirilis&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;nodejs-570-stable-dirilis&quot;&gt;&lt;a href=&quot;https://github.com/nodejs/node/blob/v5.7.0/CHANGELOG.md&quot;&gt;NodeJS 5.7.0 stable dirilis&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;menambahkan fitur baru, bug fix dan juga improvement di performance&lt;/p&gt;
 
-&lt;h5 id=&quot;xamarin-bergabung-dengan-microsofthttpweblogsaspnetscottguwelcoming-the-xamarin-team-to-microsoft&quot;&gt;&lt;a href=&quot;http://weblogs.asp.net/scottgu/welcoming-the-xamarin-team-to-microsoft&quot;&gt;Xamarin bergabung dengan Microsoft&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;xamarin-bergabung-dengan-microsoft&quot;&gt;&lt;a href=&quot;http://weblogs.asp.net/scottgu/welcoming-the-xamarin-team-to-microsoft&quot;&gt;Xamarin bergabung dengan Microsoft&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Big news, Xamarin sebagai platform untuk membuat mobile apps terutama dan bisa cross platform.&lt;/p&gt;
 
-&lt;h5 id=&quot;github-development-stylehttpgithubengineeringcommove-fast&quot;&gt;&lt;a href=&quot;http://githubengineering.com/move-fast/&quot;&gt;Github development style&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;github-development-style&quot;&gt;&lt;a href=&quot;http://githubengineering.com/move-fast/&quot;&gt;Github development style&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Artikel yang dipublish desember, tapi masih sangat relevan, bagaimana Github melakukan proses developmentnya.&lt;/p&gt;
 
 &lt;h3 id=&quot;opini&quot;&gt;Opini&lt;/h3&gt;
 
-&lt;h5 id=&quot;postgresql-96---part-1---horizontal-scalabilityhttpthombrownblogspotcoid201602postgresql-96-part-1-horizontal-scalabilityhtml&quot;&gt;&lt;a href=&quot;http://thombrown.blogspot.co.id/2016/02/postgresql-96-part-1-horizontal-scalability.html&quot;&gt;PostgreSQL 9.6 - Part 1 - Horizontal Scalability&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;postgresql-96---part-1---horizontal-scalability&quot;&gt;&lt;a href=&quot;http://thombrown.blogspot.co.id/2016/02/postgresql-96-part-1-horizontal-scalability.html&quot;&gt;PostgreSQL 9.6 - Part 1 - Horizontal Scalability&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Benchmark PostgreSQL 9.6 dan beberapa test lainnya, artikel ini dibagi dalam 4 bagian, dan ini adalah bagian yang pertama.&lt;/p&gt;
 
-&lt;h5 id=&quot;apache-kafka--elasticsearchhttpsqboxioblogkafka-and-elasticsearch-a-perfect-match-1&quot;&gt;&lt;a href=&quot;https://qbox.io/blog/kafka-and-elasticsearch-a-perfect-match-1&quot;&gt;Apache Kafka + ElasticSearch&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;apache-kafka--elasticsearch&quot;&gt;&lt;a href=&quot;https://qbox.io/blog/kafka-and-elasticsearch-a-perfect-match-1&quot;&gt;Apache Kafka + ElasticSearch&lt;/a&gt;&lt;/h5&gt;
 
-&lt;h5 id=&quot;things-every-reactjs-beginner-should-knowhttpscamjacksonnetpost9-things-every-reactjs-beginner-should-know&quot;&gt;&lt;a href=&quot;https://camjackson.net/post/9-things-every-reactjs-beginner-should-know&quot;&gt;9 things every reactjs beginner should know&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;9-things-every-reactjs-beginner-should-know&quot;&gt;&lt;a href=&quot;https://camjackson.net/post/9-things-every-reactjs-beginner-should-know&quot;&gt;9 things every reactjs beginner should know&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Hal yang perlu diketahui oleh developer yang menggunakan Reactjs dalam projectnya, terutama untuk pemula yang baru mengadopsi Reactjs dalam projectnya.&lt;/p&gt;
 
-&lt;h5 id=&quot;reasons-meteor-ideal-for-startuphttpwwwsitepointcom5-reasons-meteor-ideal-startups&quot;&gt;&lt;a href=&quot;http://www.sitepoint.com/5-reasons-meteor-ideal-startups/&quot;&gt;5 reasons meteor ideal for startup&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;5-reasons-meteor-ideal-for-startup&quot;&gt;&lt;a href=&quot;http://www.sitepoint.com/5-reasons-meteor-ideal-startups/&quot;&gt;5 reasons meteor ideal for startup&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;5 Alasan kenapa Meteor cocok untuk yang baru memulai aplikasi web, selain karena development dengan menggunakan Meteor bisa sangat cepat, dan beberapa alasana lainnya.&lt;/p&gt;
 
-&lt;h5 id=&quot;all-things-devops-dan-bagaimana-konsep-itu-mempengaruhi-satu-organinasihttpwwwypobocomblogbeyond-devops-stakeholder-alignment&quot;&gt;&lt;a href=&quot;http://www.ypobo.com/blog/beyond-devops-stakeholder-alignment&quot;&gt;All things DevOps dan bagaimana konsep itu mempengaruhi satu organinasi&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;all-things-devops-dan-bagaimana-konsep-itu-mempengaruhi-satu-organinasi&quot;&gt;&lt;a href=&quot;http://www.ypobo.com/blog/beyond-devops-stakeholder-alignment&quot;&gt;All things DevOps dan bagaimana konsep itu mempengaruhi satu organinasi&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Suatu organisi dan elemen yang didalamnya bisa melihat Devops ini bisa mempengaruhi (dalam arti baik) suatu keputusan, dari product development, testing, deployment dan efek lain dalam satu bisnis. &lt;br /&gt;
 Baru setahunan ini saya mengadopsi Devops, dan memang dirasakan semua berjalan lebih cepat, interaksi antara Infrastructure dan development juga operation menjadi tipis&lt;/p&gt;
 
-&lt;h5 id=&quot;the-product-managers-guide-to-continuous-delivery-and-devopshttpwwwmindtheproductcom201602what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us&quot;&gt;&lt;a href=&quot;http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/&quot;&gt;The Product Managers’ Guide to Continuous Delivery and DevOps&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;the-product-managers-guide-to-continuous-delivery-and-devops&quot;&gt;&lt;a href=&quot;http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/&quot;&gt;The Product Managers’ Guide to Continuous Delivery and DevOps&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Satu sisi lain melihat CI dan Devops untuk product manager&lt;/p&gt;
 
 &lt;h3 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h3&gt;
@@ -335,9 +389,9 @@ Baru setahunan ini saya mengadopsi Devops, dan memang dirasakan semua berjalan l
  
  <entry>
    <title>Manajemen API dengan Kong part 1</title>
-   <link href="https://jakartadev.org/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
+   <link href="http://localhost:4000/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
    <updated>2016-02-25T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
+   <id>http://localhost:4000/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
    <content type="html">&lt;p&gt;Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
 Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi &lt;em&gt;security&lt;/em&gt; ataupun dari scalability.
 Disitulah &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.&lt;/p&gt;
@@ -407,66 +461,66 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Issue &#35;2</title>
-   <link href="https://jakartadev.org/2016/02/22/issue-2/"/>
+   <link href="http://localhost:4000/2016/02/22/issue-2/"/>
    <updated>2016-02-22T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/02/22/issue-2</id>
+   <id>http://localhost:4000/2016/02/22/issue-2</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
-&lt;h4 id=&quot;linux-flaw-may-be-fixed-what-about-linux-containerhttpwwwciocomarticle3035556that-linux-flaw-may-be-fixed-but-what-about-your-containershtml&quot;&gt;&lt;a href=&quot;http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html&quot;&gt;Linux flaw may be fixed, what about linux container?&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;linux-flaw-may-be-fixed-what-about-linux-container&quot;&gt;&lt;a href=&quot;http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html&quot;&gt;Linux flaw may be fixed, what about linux container?&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Bug yang ada di GNU C telah ditambal, bug di gcc ini berdampak pada distribusi Linux yang ada, walaupun bug ini telah di&lt;i&gt;patch&lt;/i&gt; di sisi linux, bagaimana dengan &lt;i&gt;architecture&lt;/i&gt; yang menggunakan Docker?&lt;/p&gt;
 
-&lt;h4 id=&quot;ansible-20httpswwwredhatcomenaboutpress-releasesred-hat-brings-devops-network-new-ansible-capabilities&quot;&gt;&lt;a href=&quot;https://www.redhat.com/en/about/press-releases/red-hat-brings-devops-network-new-ansible-capabilities&quot;&gt;Ansible 2.0&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;ansible-20&quot;&gt;&lt;a href=&quot;https://www.redhat.com/en/about/press-releases/red-hat-brings-devops-network-new-ansible-capabilities&quot;&gt;Ansible 2.0&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Selain untuk deployment, me-&lt;i&gt;manage&lt;/i&gt; service, networking, versi 2.0 ini menambahkan modul untuk mengontrol &lt;i&gt;networking device&lt;/i&gt; seperti Arista, Cisco dan lain-lain.&lt;/p&gt;
 
-&lt;h4 id=&quot;jakartajs-meetup-creative-javascripthttpwwwmeetupcomjakartajsevents228776402&quot;&gt;&lt;a href=&quot;http://www.meetup.com/JakartaJS/events/228776402/&quot;&gt;JakartaJS Meetup: Creative JavaScript&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;jakartajs-meetup-creative-javascript&quot;&gt;&lt;a href=&quot;http://www.meetup.com/JakartaJS/events/228776402/&quot;&gt;JakartaJS Meetup: Creative JavaScript&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;JakartaJS kembali melakukan meetup pada 23 Februari dengan topik “doing creative stuff with JavaScript and Node.js”&lt;/p&gt;
 
-&lt;h4 id=&quot;mysql-in-docker-or-native--performance-benchmarkshttpblogbalazspoczeme20160126mysql-in-docker-or-native-performance-benchmarks&quot;&gt;&lt;a href=&quot;http://blog.balazspocze.me/2016/01/26/mysql-in-docker-or-native-performance-benchmarks/&quot;&gt;MySQL in docker or native – performance benchmarks&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;mysql-in-docker-or-native--performance-benchmarks&quot;&gt;&lt;a href=&quot;http://blog.balazspocze.me/2016/01/26/mysql-in-docker-or-native-performance-benchmarks/&quot;&gt;MySQL in docker or native – performance benchmarks&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Perbandingan deploy MySQL di docker dan native.&lt;/p&gt;
 
-&lt;h4 id=&quot;dynamic-modules-in-nginx-1911httpswwwnginxcomblogdynamic-modules-nginx-1-9-11&quot;&gt;&lt;a href=&quot;https://www.nginx.com/blog/dynamic-modules-nginx-1-9-11/&quot;&gt;Dynamic Modules in NGINX 1.9.11&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;dynamic-modules-in-nginx-1911&quot;&gt;&lt;a href=&quot;https://www.nginx.com/blog/dynamic-modules-nginx-1-9-11/&quot;&gt;Dynamic Modules in NGINX 1.9.11&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Dengan &lt;em&gt;Dynamic Module&lt;/em&gt;, kita bisa me-&lt;em&gt;load shared object&lt;/em&gt; yang berbeda.&lt;/p&gt;
 
-&lt;h4 id=&quot;what-it-looks-like-to-process-35-million-books-in-googles-cloudhttpgooglecloudplatformblogspotcoid201602what-it-looks-like-to-process-35-million-books-in-googles-cloudhtml&quot;&gt;&lt;a href=&quot;http://googlecloudplatform.blogspot.co.id/2016/02/what-it-looks-like-to-process-3.5-million-books-in-Googles-cloud.html&quot;&gt;What it looks like to process 3.5 million books in Google’s cloud&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;what-it-looks-like-to-process-35-million-books-in-googles-cloud&quot;&gt;&lt;a href=&quot;http://googlecloudplatform.blogspot.co.id/2016/02/what-it-looks-like-to-process-3.5-million-books-in-Googles-cloud.html&quot;&gt;What it looks like to process 3.5 million books in Google’s cloud&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Visualisasi Google cloud memproses 3.5 juta buku.&lt;/p&gt;
 
 &lt;h3 id=&quot;development--tutorial&quot;&gt;Development &amp;amp; Tutorial&lt;/h3&gt;
 
-&lt;h4 id=&quot;the-art-of-war-applied-to-software-developmenthttpwwwtoptalcomagileart-of-war-software-development&quot;&gt;&lt;a href=&quot;http://www.toptal.com/agile/art-of-war-software-development&quot;&gt;The Art of War Applied To Software Development&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;the-art-of-war-applied-to-software-development&quot;&gt;&lt;a href=&quot;http://www.toptal.com/agile/art-of-war-software-development&quot;&gt;The Art of War Applied To Software Development&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Topik menarik mengaplikasikan sun-tzu ke dalam &lt;em&gt;software development&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;material-design-resourceshttpcodetutspluscomtutorials20-material-design-resources--cms-25951&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/20-material-design-resources--cms-25951&quot;&gt;20 Material Design Resources&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;20-material-design-resources&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/20-material-design-resources--cms-25951&quot;&gt;20 Material Design Resources&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;20 Material design untuk yang sedang membangun aplikasi Android, design ini bisa digunakan untuk project-project yang disedang dibangun.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-consume-laravel-api-with-angularjshttpwwwsitepointcomhow-to-consume-laravel-api-with-angularjs&quot;&gt;&lt;a href=&quot;http://www.sitepoint.com/how-to-consume-laravel-api-with-angularjs/&quot;&gt;How to Consume Laravel API with AngularJS&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;how-to-consume-laravel-api-with-angularjs&quot;&gt;&lt;a href=&quot;http://www.sitepoint.com/how-to-consume-laravel-api-with-angularjs/&quot;&gt;How to Consume Laravel API with AngularJS&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Sedang membangun aplikasi dengan Laravel sebagai framework? di sini dijelaskan membangun aplikasi dengan Laravel sebagai backend dan AngularJS untuk &lt;em&gt;Frontend&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-get-started-with-push-notif-on-androidhttpcodetutspluscomtutorialshow-to-get-started-with-push-notifications-on-android--cms-25870&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/how-to-get-started-with-push-notifications-on-android--cms-25870&quot;&gt;How to get started with push notif on Android&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;how-to-get-started-with-push-notif-on-android&quot;&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/how-to-get-started-with-push-notifications-on-android--cms-25870&quot;&gt;How to get started with push notif on Android&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Tutorial bagaimana memulai push notifications di Android.&lt;/p&gt;
 
-&lt;h4 id=&quot;sql-or-nosqlhttpengineeringtwinprimecomsql-or-nosql&quot;&gt;&lt;a href=&quot;http://engineering.twinprime.com/sql-or-nosql/&quot;&gt;SQL or NoSQL&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;sql-or-nosql&quot;&gt;&lt;a href=&quot;http://engineering.twinprime.com/sql-or-nosql/&quot;&gt;SQL or NoSQL&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Perbandingan menggunakan solusi SQL atau NO-SQL.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-install-mongodb-3-on-ubuntu-1404httpshostprestocomcommunitytutorialshow-to-install-mongo-db-on-ubuntu-14-04&quot;&gt;&lt;a href=&quot;https://hostpresto.com/community/tutorials/how-to-install-mongo-db-on-ubuntu-14-04/&quot;&gt;How to Install MongoDB 3 on Ubuntu 14.04&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;how-to-install-mongodb-3-on-ubuntu-1404&quot;&gt;&lt;a href=&quot;https://hostpresto.com/community/tutorials/how-to-install-mongo-db-on-ubuntu-14-04/&quot;&gt;How to Install MongoDB 3 on Ubuntu 14.04&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;How to Install MongoDB 3 on Ubuntu 14.04 oleh @sumodirjo&lt;/p&gt;
 
-&lt;h4 id=&quot;online-resources-for-learning-about-database-design-errorshttpwwwvertabelocomblognotes-from-the-lab19-online-resources-for-learning-about-database-design-errors&quot;&gt;&lt;a href=&quot;http://www.vertabelo.com/blog/notes-from-the-lab/19-online-resources-for-learning-about-database-design-errors&quot;&gt;19 Online Resources for Learning About Database Design Errors&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;19-online-resources-for-learning-about-database-design-errors&quot;&gt;&lt;a href=&quot;http://www.vertabelo.com/blog/notes-from-the-lab/19-online-resources-for-learning-about-database-design-errors&quot;&gt;19 Online Resources for Learning About Database Design Errors&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Kumpulan Artikel &lt;em&gt;Online&lt;/em&gt; mengenai design database dan apa yang bisa dihindari dalam mendesignnya.&lt;/p&gt;
 
-&lt;h4 id=&quot;learn-how-to-make-data-visualizations-with-d3jshttpswwwdashingd3jscom&quot;&gt;&lt;a href=&quot;https://www.dashingd3js.com/&quot;&gt;Learn how to make Data Visualizations with D3.js&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;learn-how-to-make-data-visualizations-with-d3js&quot;&gt;&lt;a href=&quot;https://www.dashingd3js.com/&quot;&gt;Learn how to make Data Visualizations with D3.js&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Data viz menggunakan D3 sebagai library.&lt;/p&gt;
 
-&lt;h4 id=&quot;why-i-no-longer-use-mvc-frameworkshttpwwwinfoqcomarticlesno-more-mvc-frameworks&quot;&gt;&lt;a href=&quot;http://www.infoq.com/articles/no-more-mvc-frameworks&quot;&gt;Why I No Longer Use MVC Frameworks&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;why-i-no-longer-use-mvc-frameworks&quot;&gt;&lt;a href=&quot;http://www.infoq.com/articles/no-more-mvc-frameworks&quot;&gt;Why I No Longer Use MVC Frameworks&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
 
-&lt;h4 id=&quot;onecachehttpsgithubcomdadgaronecache&quot;&gt;&lt;a href=&quot;https://github.com/dadgar/onecache&quot;&gt;OneCache&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;onecache&quot;&gt;&lt;a href=&quot;https://github.com/dadgar/onecache&quot;&gt;OneCache&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;OneCache is a best-effort, replicated KV store accessible via the memcached protocol&lt;/p&gt;
 
-&lt;h4 id=&quot;schemazenhttpsgithubcomsethrenoschemazen&quot;&gt;&lt;a href=&quot;https://github.com/sethreno/schemazen&quot;&gt;Schemazen&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;schemazen&quot;&gt;&lt;a href=&quot;https://github.com/sethreno/schemazen&quot;&gt;Schemazen&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Script and create SQL Server objects quickly&lt;/p&gt;
 
-&lt;h4 id=&quot;medium-editorhttpsyabwegithubiomedium-editor&quot;&gt;&lt;a href=&quot;https://yabwe.github.io/medium-editor/&quot;&gt;Medium Editor&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;medium-editor&quot;&gt;&lt;a href=&quot;https://yabwe.github.io/medium-editor/&quot;&gt;Medium Editor&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Online Editor yang dibangun dengan inspirasi dari &lt;a href=&quot;https://medium.com&quot;&gt;Medium.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;follow on twitter &lt;a href=&quot;https://twitter.com/Jakartadev&quot;&gt;@JakartaDev&lt;/a&gt;&lt;/p&gt;
@@ -475,69 +529,69 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Issue &#35;1</title>
-   <link href="https://jakartadev.org/2016/02/15/issue-1/"/>
+   <link href="http://localhost:4000/2016/02/15/issue-1/"/>
    <updated>2016-02-15T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/02/15/issue-1</id>
+   <id>http://localhost:4000/2016/02/15/issue-1</id>
    <content type="html">&lt;p&gt;Issue perdana Jakarta dev.&lt;/p&gt;
 
 &lt;h3 id=&quot;berita&quot;&gt;Berita&lt;/h3&gt;
 
-&lt;h4 id=&quot;mariadb-5548-dan-mariadb-connectorj-135-dirilishttpsmariadborgmariadb-5-5-48-and-connectorj-1-3-5-now-available&quot;&gt;&lt;a href=&quot;https://mariadb.org/mariadb-5-5-48-and-connectorj-1-3-5-now-available/&quot;&gt;MariaDB 5.5.48 dan MariaDB Connector/J 1.3.5 dirilis&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;mariadb-5548-dan-mariadb-connectorj-135-dirilis&quot;&gt;&lt;a href=&quot;https://mariadb.org/mariadb-5-5-48-and-connectorj-1-3-5-now-available/&quot;&gt;MariaDB 5.5.48 dan MariaDB Connector/J 1.3.5 dirilis&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;datastax-php-driver-11-ga-releasedhttpwwwdatastaxcomdevblogdatastax-php-driver-1-1-ga-released&quot;&gt;&lt;a href=&quot;http://www.datastax.com/dev/blog/datastax-php-driver-1-1-ga-released&quot;&gt;Datastax PHP Driver: 1.1 GA Released&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;datastax-php-driver-11-ga-released&quot;&gt;&lt;a href=&quot;http://www.datastax.com/dev/blog/datastax-php-driver-1-1-ga-released&quot;&gt;Datastax PHP Driver: 1.1 GA Released&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;htop-20httphishamhmhtop&quot;&gt;&lt;a href=&quot;http://hisham.hm/htop/&quot;&gt;htop 2.0&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;htop-20&quot;&gt;&lt;a href=&quot;http://hisham.hm/htop/&quot;&gt;htop 2.0&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;keybase-filesystemhttpskeybaseiodocskbfs&quot;&gt;&lt;a href=&quot;https://keybase.io/docs/kbfs&quot;&gt;Keybase filesystem&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;keybase-filesystem&quot;&gt;&lt;a href=&quot;https://keybase.io/docs/kbfs&quot;&gt;Keybase filesystem&lt;/a&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;top-elb-health-and-performance-metricshttpswwwdatadoghqcomblogtop-elb-health-and-performance-metrics&quot;&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/top-elb-health-and-performance-metrics/&quot;&gt;Top ELB health and performance metrics&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;top-elb-health-and-performance-metrics&quot;&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/top-elb-health-and-performance-metrics/&quot;&gt;Top ELB health and performance metrics&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h3 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h3&gt;
 
-&lt;h4 id=&quot;first-steps-in-exploring-rocksdbhttpmysqlentomologistblogspotcoid201602my-first-steps-in-exploring-rocksdbhtml&quot;&gt;&lt;a href=&quot;http://mysqlentomologist.blogspot.co.id/2016/02/my-first-steps-in-exploring-rocksdb.html&quot;&gt;First Steps in Exploring RocksDB&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;first-steps-in-exploring-rocksdb&quot;&gt;&lt;a href=&quot;http://mysqlentomologist.blogspot.co.id/2016/02/my-first-steps-in-exploring-rocksdb.html&quot;&gt;First Steps in Exploring RocksDB&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;RocksDB merupakan &lt;em&gt;storage engine&lt;/em&gt; di Mysql&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-write-a-good-status-update-httpblogstatuspageiohow-to-write-a-good-status-update&quot;&gt;&lt;a href=&quot;http://blog.statuspage.io/how-to-write-a-good-status-update&quot;&gt;How To Write A Good Status Update &lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;how-to-write-a-good-status-update-&quot;&gt;&lt;a href=&quot;http://blog.statuspage.io/how-to-write-a-good-status-update&quot;&gt;How To Write A Good Status Update &lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;sometimes it’s a bit tricky to create a statuspage, how you could wrap up information as simple as possible.&lt;/p&gt;
 
-&lt;h4 id=&quot;devopswikihttpsgithubcomleo-gdevopswiki&quot;&gt;&lt;a href=&quot;https://github.com/Leo-G/DevopsWiki&quot;&gt;DevopsWiki&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;devopswiki&quot;&gt;&lt;a href=&quot;https://github.com/Leo-G/DevopsWiki&quot;&gt;DevopsWiki&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;A wiki of Guides, Scripts, Tutorials related to devops&lt;/p&gt;
 
-&lt;h4 id=&quot;server-hardeninghttpswwwlinuxjournalcomcontentserver-hardening&quot;&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/server-hardening&quot;&gt;Server hardening&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;server-hardening&quot;&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/server-hardening&quot;&gt;Server hardening&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;a very much needed for hardening your Linux server.&lt;/p&gt;
 
-&lt;h4 id=&quot;learn-abut-distributed-systemhttpvidelalvarogithubio201512learning-about-distributed-systemshtml&quot;&gt;&lt;a href=&quot;http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html&quot;&gt;Learn abut distributed system&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;learn-abut-distributed-system&quot;&gt;&lt;a href=&quot;http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html&quot;&gt;Learn abut distributed system&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
 
-&lt;h4 id=&quot;slatehttpsgithubcomtripitslate&quot;&gt;&lt;a href=&quot;https://github.com/tripit/slate&quot;&gt;Slate&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;slate&quot;&gt;&lt;a href=&quot;https://github.com/tripit/slate&quot;&gt;Slate&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Create beautiful API documentation&lt;/p&gt;
 
-&lt;h4 id=&quot;ahabhttpstechinstacartcomahab&quot;&gt;&lt;a href=&quot;https://tech.instacart.com/ahab/&quot;&gt;Ahab&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;ahab&quot;&gt;&lt;a href=&quot;https://tech.instacart.com/ahab/&quot;&gt;Ahab&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Docker Event handling&lt;/p&gt;
 
-&lt;h4 id=&quot;prestissimohttpsgithubcomhirakprestissimo&quot;&gt;&lt;a href=&quot;https://github.com/hirak/prestissimo&quot;&gt;Prestissimo&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;prestissimo&quot;&gt;&lt;a href=&quot;https://github.com/hirak/prestissimo&quot;&gt;Prestissimo&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://getcomposer.org/&quot;&gt;Composer&lt;/a&gt; slowing down? use this tool&lt;/p&gt;
 
-&lt;h4 id=&quot;psmemhttpsgithubcompixelbpsmem&quot;&gt;&lt;a href=&quot;https://github.com/pixelb/ps_mem&quot;&gt;ps_mem&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;ps_mem&quot;&gt;&lt;a href=&quot;https://github.com/pixelb/ps_mem&quot;&gt;ps_mem&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;A utility to accurately report the core memory usage for a program&lt;/p&gt;
 
-&lt;h4 id=&quot;bulmahttpbulmaio&quot;&gt;&lt;a href=&quot;http://bulma.io/&quot;&gt;Bulma&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;bulma&quot;&gt;&lt;a href=&quot;http://bulma.io/&quot;&gt;Bulma&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;A modern CSS framework based on Flexbox&lt;/p&gt;
 
-&lt;h4 id=&quot;git-freshhttpsgithubcomimskygit-fresh&quot;&gt;&lt;a href=&quot;https://github.com/imsky/git-fresh&quot;&gt;git-fresh&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;git-fresh&quot;&gt;&lt;a href=&quot;https://github.com/imsky/git-fresh&quot;&gt;git-fresh&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Keep your repo fresh with one command.&lt;/p&gt;
 
-&lt;h4 id=&quot;pagespeed-modulehttpsdevelopersgooglecomspeedpagespeedmodule&quot;&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/module/&quot;&gt;PageSpeed Module&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;pagespeed-module&quot;&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/module/&quot;&gt;PageSpeed Module&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;PageSpeed module for your favorite webserver&lt;/p&gt;
 
-&lt;h4 id=&quot;gitlab-kanban-boardhttpkanbanleanlabsio&quot;&gt;&lt;a href=&quot;http://kanban.leanlabs.io/&quot;&gt;GitLab Kanban Board&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;gitlab-kanban-board&quot;&gt;&lt;a href=&quot;http://kanban.leanlabs.io/&quot;&gt;GitLab Kanban Board&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Free OpenSource self hosted Kanban board for GitLab issues&lt;/p&gt;
 
-&lt;h4 id=&quot;huginnhttpsgithubcomcantinohuginn&quot;&gt;&lt;a href=&quot;https://github.com/cantino/huginn&quot;&gt;Huginn&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;huginn&quot;&gt;&lt;a href=&quot;https://github.com/cantino/huginn&quot;&gt;Huginn&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Huginn is a system for building agent, could be connected to Slack, hipchat, basecamp, etc.&lt;/p&gt;
 
-&lt;h4 id=&quot;grommethttpwwwgrommetiodocs&quot;&gt;&lt;a href=&quot;http://www.grommet.io/docs/&quot;&gt;grommet&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;grommet&quot;&gt;&lt;a href=&quot;http://www.grommet.io/docs/&quot;&gt;grommet&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;The most advanced open source UX framework for enterprise applications.&lt;/p&gt;
 
 &lt;p&gt;follow on twitter &lt;a href=&quot;https://twitter.com/Jakartadev&quot;&gt;@JakartaDev&lt;/a&gt;&lt;/p&gt;
@@ -546,9 +600,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Introducing JakartaDEV</title>
-   <link href="https://jakartadev.org/2016/02/02/introducing-jakartadev/"/>
+   <link href="http://localhost:4000/2016/02/02/introducing-jakartadev/"/>
    <updated>2016-02-02T00:00:00+07:00</updated>
-   <id>https://jakartadev.org/2016/02/02/introducing-jakartadev</id>
+   <id>http://localhost:4000/2016/02/02/introducing-jakartadev</id>
    <content type="html">&lt;p&gt;JakartaDEV adalah &lt;em&gt;newsletter&lt;/em&gt; yang dikirim &lt;em&gt;hampir-mingguan&lt;/em&gt;, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;newsletter&lt;/em&gt; ini berisi informasi bisa berupa project Open Source, tools yang banyak digunakan saat ini,
@@ -557,7 +611,7 @@ ataupun bisa menggali banyak informasi yang sudah lewat dan bisa belajar dari si
 &lt;p&gt;Fokus isi dari &lt;em&gt;newsletter&lt;/em&gt; ini adalah hal yang &lt;em&gt;technical&lt;/em&gt; dan atau informasi-informasi yang sedang berkembang saat ini, terutama bagi para developer.
 terkadang ditulis dalam bahasa inggris jika isi yang akan disampaikan tidak dapat atau susah diartikan ke bahasa indonesia :D.&lt;/p&gt;
 
-&lt;p&gt;ingin tahu lebih lanjut tentang JakartaDEV? bisa kirim &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#101;&amp;#100;&amp;#101;&amp;#110;&amp;#102;&amp;#064;&amp;#106;&amp;#097;&amp;#107;&amp;#097;&amp;#114;&amp;#116;&amp;#097;&amp;#100;&amp;#101;&amp;#118;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;email&lt;/a&gt; atau via &lt;a href=&quot;https://twitter.com/JakartaDev&quot;&gt;Twitter @JakartaDev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ingin tahu lebih lanjut tentang JakartaDEV? bisa kirim &lt;a href=&quot;mailto:dedenf@jakartadev.org&quot;&gt;email&lt;/a&gt; atau via &lt;a href=&quot;https://twitter.com/JakartaDev&quot;&gt;Twitter @JakartaDev&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;silakan subscribe&lt;/p&gt;
 </content>
