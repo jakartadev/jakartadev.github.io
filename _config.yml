@@ -27,7 +27,7 @@ repo: 'https://github.com/jakartadev/jakartadev.github.io'
 
 
 paginate_path: "page/:num"
-excerpt_separator: "\n\n"
+excerpt_separator: "<!-- more -->"
 
 pages_list:
   Tentang: '/about'
