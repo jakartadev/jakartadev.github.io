@@ -4,13 +4,53 @@
  <title>JakartaDev</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-11-17T13:45:09+07:00</updated>
+ <updated>2017-11-20T11:46:04+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;10</title>
+   <link href="http://localhost:4000/2017/11/20/issue-10/"/>
+   <updated>2017-11-20T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2017/11/20/issue-10</id>
+   <content type="html">&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/introduction-to-docker-secrets&quot;&gt;Introduction to Docker Secrets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://terraltech.com/docker-for-dummies/&quot;&gt;Docker for dummies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/architecting-a-highly-scalable-golang-api-with-docker-swarm-traefik-875d1871cc1f&quot;&gt;Architecting a Highly Scalable Golang API with Docker Swarm &amp;amp; Traefik&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mhdzaherghaibeh.name/2017/11/13/using-minio-server-for-simulate-s3-locally/&quot;&gt;Using Minio server for simulate S3 locally&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/exploring-swarm-container-overview-dashboard-in-grafana-ba9621c876c9&quot;&gt;Exploring Swarm &amp;amp; Container Overview Dashboard in Grafana&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://whatdidilearn.info/2017/11/19/exceptions-in-elixir.html&quot;&gt;Exceptions in Elixir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done&quot;&gt;Learn just enough Linux to get things done&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gpestana.gitbooks.io/the-zen-of-data-pipelines/content/&quot;&gt;The Zen of Data Pipelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lifehacker.com/im-david-heinemeier-hansson-basecamp-cto-and-this-is-1820470919&quot;&gt;How David Heinemeier Hansson, Basecamp CTO, works&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://daveceddia.com/how-does-redux-work/&quot;&gt;How does Redux work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lucidchart.com/techblog/2017/11/16/converting-600k-lines-to-typescript-in-72-hours/&quot;&gt;Converting 600K lines of Javascript to Typescript in 72 hours&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2017/11/microsoft-and-github-team-up-to-take-git-virtual-file-system-to-macos-linux/&quot;&gt;Microsoft and GitHub team up to take Git virtual file system to macOS, Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tools&quot;&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aderyabin/sniffer&quot;&gt;Sniffer – Analyze HTTP Requests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/socketry/rackula&quot;&gt;Rackula – Generate a static site from any rack middleware&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pacuna/frappe_charts&quot;&gt;frappe_charts – Frappé Charts Ruby gem for Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;/h4&gt;
+&lt;p&gt;this will be on and off, depending on whether there’s event or not on the particular week.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/JakartaJS/events/244778771/&quot;&gt;JakartaJS User Group – November Meetup with GO-JEK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Jakartadev update</title>
