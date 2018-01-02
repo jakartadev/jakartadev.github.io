@@ -4,13 +4,46 @@
  <title>JakartaDev</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-11-20T11:46:04+07:00</updated>
+ <updated>2018-01-02T16:45:18+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;11</title>
+   <link href="http://localhost:4000/2018/01/02/issue-11/"/>
+   <updated>2018-01-02T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2018/01/02/issue-11</id>
+   <content type="html">&lt;p&gt;Happy new year! mudah-mudahan 2018 ini bisa lebih fokus &lt;em&gt;publish&lt;/em&gt; newsletter.&lt;/p&gt;
+
+&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f&quot;&gt;Effective Engineer&lt;/a&gt; – an opinion how to be an effective engineer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Node.js as Backend: Best Use Cases, Tools &amp;amp; Limitations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benmccormick.org/2017/07/19/ten-things-javascript/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Ten Things A Serious JavaScript Developer Should Learn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alicemaz.com/writing/minecraft.html?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Minecraft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4?pagewanted=all&amp;amp;utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;From Bootstrap to CSS Grid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/how-to-visualize-distributions-2cf2243c7b8e?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;How to visualize distributions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/numerai-walkthrough-quantitative-analysis-machine-learning-for-fun-and-profit-3dcdccabd920?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Numerai walkthrough: Quantitative Analysis &amp;amp; Machine learning for fun and profit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dekses/kafka-or-rabbitmq-depends-on-your-messages-nature-e22ca89918e2?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Kafka or RabbitMQ: depends on your messages nature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/building-fast-track-software-development-teams-yves-junqueira/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Building a fast track for software development teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/you-must-move-from-product-information-management-jimmy-ekb%C3%A4ck/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;You must move from Product Information Management to Product Information Intelligence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/study-email-marketing-stephanie-seputra/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;A Study on Email Marketing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Copy-on-write friendly Python garbage collection&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tools&quot;&gt;tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/element-ready?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Element ready – Detect when an element is ready in the DOM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vuetifyjs.com/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Vuetify – Material Component Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://awesome-ruby.com/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Awesome Ruby – list of awesome Ruby libraries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dejan/rails_panel?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Rails Panel – Chrome extension for Rails development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;10</title>
