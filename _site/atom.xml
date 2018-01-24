@@ -4,13 +4,54 @@
  <title>JakartaDev</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-01-02T17:20:31+07:00</updated>
+ <updated>2018-01-24T15:24:11+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;12</title>
+   <link href="http://localhost:4000/2018/01/24/issue-12/"/>
+   <updated>2018-01-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2018/01/24/issue-12</id>
+   <content type="html">&lt;p&gt;Happy wednesday!&lt;/p&gt;
+
+&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users&quot;&gt;Stream &amp;amp; Go: News Feeds for Over 300 Million End Users&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/what-really-happened-with-vista-an-insiders-retrospective-f713ee77c239&quot;&gt;What Really Happened with Vista: An Insider’s Retrospective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards&quot;&gt;Chrome is turning into the new Internet Explorer 6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/implications-tech-stack-complexity-executives&quot;&gt;Implications of Tech Stack Complexity for Executives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.agile-code.com/blog/refactoring-with-composed-method-pattern/&quot;&gt;Refactoring with Composed Method pattern&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/how-we-design-enterprise-software-916124fb73db&quot;&gt;How we design enterprise software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.scoutapp.com/articles/2018/01/17/tutorial-distributed-tracing-in-ruby-with-opentracing&quot;&gt;Tutorial: Distributed Tracing in Ruby with OpenTracing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/why-factories&quot;&gt;Why Factories?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/&quot;&gt;How do Ruby &amp;amp; Python profilers work?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.kontena.io/event-driven-microservices-with-rabbitmq-and-ruby/&quot;&gt;Event-Driven Microservices with RabbitMQ and Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd&quot;&gt;The Ruby 2.5.0 feature nobody talks about&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial&quot;&gt;Asynchronous JavaScript: From Callback Hell to Async and Await&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.javascriptjanuary.com/blog/building-your-first-node-app-using-docker&quot;&gt;Building Your First Node App Using Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring&quot;&gt;Paying Technical Debt - How To Rescue Legacy Code through Refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nodejs/announcing-the-node-js-application-showcase-9fbaaa3e4824&quot;&gt;Announcing The Node.js Application Showcase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.4.0/&quot;&gt;Node v9.4.0 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tools--code&quot;&gt;Tools &amp;amp; code&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.minimesos.org/&quot;&gt;Minimesos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plan.io/redmine-security-scanner/&quot;&gt;Redmine Security Scanner&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lukeed/polka&quot;&gt;Polka – micro web server&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mongoosejs.com/&quot;&gt;Mongoose 5.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;11</title>
