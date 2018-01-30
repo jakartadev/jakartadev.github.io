@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>JakartaDev</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2018-01-24T15:24:11+07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://localhost:4001/atom.xml" rel="self"/>
+ <link href="http://localhost:4001/"/>
+ <updated>2018-01-30T11:07:03+07:00</updated>
+ <id>http://localhost:4001</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
@@ -13,10 +13,52 @@
 
  
  <entry>
+   <title>Issue &#35;13</title>
+   <link href="http://localhost:4001/2018/01/30/issue-13/"/>
+   <updated>2018-01-30T00:00:00+07:00</updated>
+   <id>http://localhost:4001/2018/01/30/issue-13</id>
+   <content type="html">&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ordepdev.me/posts/code-coverage&quot;&gt;Don’t be fooled by 100% code coverage.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6&quot;&gt;How to Make Your Code CLEAN and BEAUTIFUL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/binhnguyennus/awesome-scalability&quot;&gt;Awesome Scalability, Availability, and Stability Back-end Design Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.daemonology.net/blog/2018-01-17-some-thoughts-on-spectre-and-meltdown.html&quot;&gt;Some thoughts on Spectre and Meltdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/01/firefox-58-the-quantum-era-continues/&quot;&gt;Firefox 58: The Quantum Era Continues&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2018/01/wip-limit-a-further-study/&quot;&gt;WIP Limit – A further study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.awsgeek.com/posts/amazon-elasticache-notes/&quot;&gt;Amazon ElastiCache – easy to understand AWS service diagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1&quot;&gt;SlackHQ – Keep webpack Fast: A Field Guide for Better Build Performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dreynaud.fail/canaries-in-practice/&quot;&gt;Canaries in Practice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/blogfoster-engineering/how-we-simplified-our-tooling-setup-for-node-js-projects-80b423293b2c&quot;&gt;How We Simplified our Tooling Setup for Node.js Projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wearehive/project-guidelines&quot;&gt;A set of best practices for JavaScript projects &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;berita&quot;&gt;Berita&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2&quot;&gt;webpack 4 beta &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tools--code&quot;&gt;Tools &amp;amp; Code&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nasseri.io/posts/2.html&quot;&gt;Fir – the Friendly, Interactive Ruby REPL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.getbootstrap.com/2018/01/18/bootstrap-4/&quot;&gt;Bootstrap 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/developit/karmatic&quot;&gt;Karmatic – Easy automatic browser testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChrome/puppeteer&quot;&gt;Headless Chrome Node API from Google&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/id-ruby/events/246864926/&quot;&gt;ID-Ruby – Meetup pertama 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Issue &#35;12</title>
-   <link href="http://localhost:4000/2018/01/24/issue-12/"/>
+   <link href="http://localhost:4001/2018/01/24/issue-12/"/>
    <updated>2018-01-24T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2018/01/24/issue-12</id>
+   <id>http://localhost:4001/2018/01/24/issue-12</id>
    <content type="html">&lt;p&gt;Happy wednesday!&lt;/p&gt;
 
 &lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
@@ -50,14 +92,16 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/lukeed/polka&quot;&gt;Polka – micro web server&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://mongoosejs.com/&quot;&gt;Mongoose 5.0&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;11</title>
-   <link href="http://localhost:4000/2018/01/02/issue-11/"/>
+   <link href="http://localhost:4001/2018/01/02/issue-11/"/>
    <updated>2018-01-02T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2018/01/02/issue-11</id>
+   <id>http://localhost:4001/2018/01/02/issue-11</id>
    <content type="html">&lt;p&gt;Happy new year! mudah-mudahan 2018 ini bisa lebih fokus &lt;em&gt;publish&lt;/em&gt; newsletter.&lt;/p&gt;
 
 &lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
@@ -83,14 +127,16 @@
   &lt;li&gt;&lt;a href=&quot;http://awesome-ruby.com/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Awesome Ruby – list of awesome Ruby libraries&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/dejan/rails_panel?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Rails Panel – Chrome extension for Rails development&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;10</title>
-   <link href="http://localhost:4000/2017/11/20/issue-10/"/>
+   <link href="http://localhost:4001/2017/11/20/issue-10/"/>
    <updated>2017-11-20T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2017/11/20/issue-10</id>
+   <id>http://localhost:4001/2017/11/20/issue-10</id>
    <content type="html">&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/introduction-to-docker-secrets&quot;&gt;Introduction to Docker Secrets&lt;/a&gt;&lt;/li&gt;
@@ -123,14 +169,16 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/JakartaJS/events/244778771/&quot;&gt;JakartaJS User Group – November Meetup with GO-JEK&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Jakartadev update</title>
-   <link href="http://localhost:4000/2017/11/17/update-jakartadev/"/>
+   <link href="http://localhost:4001/2017/11/17/update-jakartadev/"/>
    <updated>2017-11-17T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2017/11/17/update-jakartadev</id>
+   <id>http://localhost:4001/2017/11/17/update-jakartadev</id>
    <content type="html">&lt;p&gt;Jakartadev saat ini menjadi &lt;em&gt;pet project&lt;/em&gt; saya untuk menginformasikan dunia development, dan juga menginformasikan &lt;em&gt;tools&lt;/em&gt; atau berita yang ada di dunia development yang saya kurasi sendiri, dan juga diambil inti dari artikelnya.&lt;/p&gt;
 
 &lt;p&gt;Setahun ini sempat terhenti dengan alasan kesibukan, dan memang ada beberapa hal yang sempat saya kerjakan sendiri diluar jakartadev, &lt;a href=&quot;https://notes.dedenf.com&quot;&gt;blog pribadi&lt;/a&gt; dan juga meng-handle &lt;a href=&quot;http://jenius.tech&quot;&gt;blog engineering Jenius&lt;/a&gt; tempat saya bekerja.&lt;/p&gt;
@@ -143,9 +191,9 @@
  
  <entry>
    <title>Issue &#35;9</title>
-   <link href="http://localhost:4000/2017/11/13/issue-9/"/>
+   <link href="http://localhost:4001/2017/11/13/issue-9/"/>
    <updated>2017-11-13T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2017/11/13/issue-9</id>
+   <id>http://localhost:4001/2017/11/13/issue-9</id>
    <content type="html">&lt;p&gt;Lama tidak meng-&lt;i&gt;update&lt;/i&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
@@ -176,15 +224,16 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/FormidableLabs/webpack-dashboard&quot;&gt;A CLI dashboard for webpack dev server&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Artikel dikurasi oleh &lt;a href=&quot;https://github.com/dedenf&quot;&gt;Deden Fathurahman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
+
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;8</title>
-   <link href="http://localhost:4000/2016/09/05/issue-8/"/>
+   <link href="http://localhost:4001/2016/09/05/issue-8/"/>
    <updated>2016-09-05T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/09/05/issue-8</id>
+   <id>http://localhost:4001/2016/09/05/issue-8</id>
    <content type="html">&lt;h3 id=&quot;artikel&quot;&gt;Artikel&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -245,14 +294,16 @@
     &lt;h4 id=&quot;react-components-catalog&quot;&gt;&lt;a href=&quot;https://github.com/brillout/awesome-react-components&quot;&gt;React Components Catalog&lt;/a&gt;&lt;/h4&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;6</title>
-   <link href="http://localhost:4000/2016/08/23/issue-6/"/>
+   <link href="http://localhost:4001/2016/08/23/issue-6/"/>
    <updated>2016-08-23T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/08/23/issue-6</id>
+   <id>http://localhost:4001/2016/08/23/issue-6</id>
    <content type="html">&lt;h2 id=&quot;berita&quot;&gt;Berita&lt;/h2&gt;
 
 &lt;h4 id=&quot;rilis-php-710&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-3&quot;&gt;Rilis PHP 7.1.0&lt;/a&gt;&lt;/h4&gt;
@@ -295,23 +346,24 @@
 &lt;h4 id=&quot;slatejs&quot;&gt;&lt;a href=&quot;http://slatejs.org/&quot;&gt;Slate.js&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Javascript framework untuk rich text editor&lt;/p&gt;
 
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;7</title>
-   <link href="http://localhost:4000/2016/08/20/issue-7/"/>
+   <link href="http://localhost:4001/2016/08/20/issue-7/"/>
    <updated>2016-08-20T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/08/20/issue-7</id>
+   <id>http://localhost:4001/2016/08/20/issue-7</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;5</title>
-   <link href="http://localhost:4000/2016/08/15/issue-5/"/>
+   <link href="http://localhost:4001/2016/08/15/issue-5/"/>
    <updated>2016-08-15T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/08/15/issue-5</id>
+   <id>http://localhost:4001/2016/08/15/issue-5</id>
    <content type="html">&lt;p&gt;hiatus beberapa waktu, issue #5.&lt;/p&gt;
 
 &lt;h5 id=&quot;why-uber-engineering-switched-from-postgres-to-mysql&quot;&gt;&lt;a href=&quot;https://eng.uber.com/mysql-migration/&quot;&gt;Why uber engineering switched from postgres to mysql&lt;/a&gt;&lt;/h5&gt;
@@ -333,14 +385,16 @@
 &lt;h5 id=&quot;using-a-static-site-generator-at-scale-lessons-learned&quot;&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/&quot;&gt;Using A Static Site Generator At Scale: Lessons Learned&lt;/a&gt;&lt;/h5&gt;
 
 &lt;p&gt;Static site generator at scale, deskripsi dan implementasi bagaimana static site digunakan dalam skala tinggi. untuk informasi, Jakartadev.org juga menggunakan Static Site Generator, yaitu Jekyll.&lt;/p&gt;
+
+&lt;p&gt;These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Optimasi Gambar</title>
-   <link href="http://localhost:4000/2016/03/07/optimasi-gambar/"/>
+   <link href="http://localhost:4001/2016/03/07/optimasi-gambar/"/>
    <updated>2016-03-07T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/03/07/optimasi-gambar</id>
+   <id>http://localhost:4001/2016/03/07/optimasi-gambar</id>
    <content type="html">&lt;p&gt;Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.&lt;/p&gt;
 
 &lt;p&gt;Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce.&lt;/p&gt;
@@ -374,9 +428,9 @@ Output: &lt;br /&gt;
  
  <entry>
    <title>Issue &#35;4</title>
-   <link href="http://localhost:4000/2016/03/07/issue-4/"/>
+   <link href="http://localhost:4001/2016/03/07/issue-4/"/>
    <updated>2016-03-07T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/03/07/issue-4</id>
+   <id>http://localhost:4001/2016/03/07/issue-4</id>
    <content type="html">&lt;h5 id=&quot;news&quot;&gt;News&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&quot;http://thehackernews.com/2016/03/drown-attack-openssl-vulnerability.html&quot;&gt;DROWN Attack&lt;/a&gt;&lt;/p&gt;
 
@@ -441,9 +495,9 @@ Output: &lt;br /&gt;
  
  <entry>
    <title>Issue &#35;3</title>
-   <link href="http://localhost:4000/2016/02/29/issue-3/"/>
+   <link href="http://localhost:4001/2016/02/29/issue-3/"/>
    <updated>2016-02-29T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/02/29/issue-3</id>
+   <id>http://localhost:4001/2016/02/29/issue-3</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
 &lt;h5 id=&quot;the-state-of-microservices-today&quot;&gt;&lt;a href=&quot;http://blog.codeship.com/the-state-of-microservices-today/&quot;&gt;The State of Microservices Today&lt;/a&gt;&lt;/h5&gt;
@@ -503,9 +557,9 @@ Baru setahunan ini saya mengadopsi Devops, dan memang dirasakan semua berjalan l
  
  <entry>
    <title>Manajemen API dengan Kong part 1</title>
-   <link href="http://localhost:4000/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
+   <link href="http://localhost:4001/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
    <updated>2016-02-25T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
+   <id>http://localhost:4001/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
    <content type="html">&lt;p&gt;Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
 Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi &lt;em&gt;security&lt;/em&gt; ataupun dari scalability.
 Disitulah &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.&lt;/p&gt;
@@ -575,9 +629,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Issue &#35;2</title>
-   <link href="http://localhost:4000/2016/02/22/issue-2/"/>
+   <link href="http://localhost:4001/2016/02/22/issue-2/"/>
    <updated>2016-02-22T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/02/22/issue-2</id>
+   <id>http://localhost:4001/2016/02/22/issue-2</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
 &lt;h4 id=&quot;linux-flaw-may-be-fixed-what-about-linux-container&quot;&gt;&lt;a href=&quot;http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html&quot;&gt;Linux flaw may be fixed, what about linux container?&lt;/a&gt;&lt;/h4&gt;
@@ -643,9 +697,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Issue &#35;1</title>
-   <link href="http://localhost:4000/2016/02/15/issue-1/"/>
+   <link href="http://localhost:4001/2016/02/15/issue-1/"/>
    <updated>2016-02-15T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/02/15/issue-1</id>
+   <id>http://localhost:4001/2016/02/15/issue-1</id>
    <content type="html">&lt;p&gt;Issue perdana Jakarta dev.&lt;/p&gt;
 
 &lt;h3 id=&quot;berita&quot;&gt;Berita&lt;/h3&gt;
@@ -714,9 +768,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Introducing JakartaDEV</title>
-   <link href="http://localhost:4000/2016/02/02/introducing-jakartadev/"/>
+   <link href="http://localhost:4001/2016/02/02/introducing-jakartadev/"/>
    <updated>2016-02-02T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2016/02/02/introducing-jakartadev</id>
+   <id>http://localhost:4001/2016/02/02/introducing-jakartadev</id>
    <content type="html">&lt;p&gt;JakartaDEV adalah &lt;em&gt;newsletter&lt;/em&gt; yang dikirim &lt;em&gt;hampir-mingguan&lt;/em&gt;, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;newsletter&lt;/em&gt; ini berisi informasi bisa berupa project Open Source, tools yang banyak digunakan saat ini,
