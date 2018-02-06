@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>JakartaDev</title>
- <link href="http://localhost:4001/atom.xml" rel="self"/>
- <link href="http://localhost:4001/"/>
- <updated>2018-01-30T11:07:03+07:00</updated>
- <id>http://localhost:4001</id>
+ <link href="http://localhost:4002/atom.xml" rel="self"/>
+ <link href="http://localhost:4002/"/>
+ <updated>2018-02-06T20:06:49+07:00</updated>
+ <id>http://localhost:4002</id>
  <author>
    <name>Deden Fathurahmah</name>
    <email>dedenf@gmail.com</email>
@@ -13,10 +13,56 @@
 
  
  <entry>
+   <title>Issue &#35;14</title>
+   <link href="http://localhost:4002/2018/02/06/issue-14/"/>
+   <updated>2018-02-06T00:00:00+07:00</updated>
+   <id>http://localhost:4002/2018/02/06/issue-14</id>
+   <content type="html">&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Rails 5.2: Active Storage and beyond&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zachary.com/posts/how-to-data/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How I Manage My Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ruby.libhunt.com/&quot;&gt;A collection of awesome Ruby gems, tools, frameworks and software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How we improved webpack build performance by 95%&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/up-and-running-with-the-openshift-ansible-broker/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Up and Running with the OpenShift Ansible Broker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/prometheus-alerts-on-openshift/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Prometheus Alerts on OpenShift&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rdegges.com/2018/please-stop-using-local-storage/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Please Stop Using Local Storage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/practical-motivation-science/how-to-design-motivating-push-notifications-d25ef3874e42?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How to Design Motivating Push Notifications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/introducing-mongobot-a-slackbot-that-can-run-mongodb-queries-8dda660fa17e?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Mongobot: a Slackbot that can run MongoDB queries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@strapi/testing-your-npm-package-before-releasing-it-using-verdaccio-ngrok-28e2832c850a?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Testing your npm package before releasing it using Verdaccio + ngrok&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Node Clinic - A performance toolkit for Node.js developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/blog/python/python-memcache-efficient-caching/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Python + Memcached: Efficient Caching in Distributed Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@singhpratyush/the-taste-of-media-streaming-with-flask-cdce35908a50?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;The Taste of Media Streaming with Flask&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.5.0/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Node v9.5.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;code--tools&quot;&gt;Code &amp;amp; Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trestle.io/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;trestle – A modern, responsive admin framework for Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/e-oj/Fawn?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Fawn – Promise based Library for transactions in MongoDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/antonmedv/fx?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;fx – Command-line JSON processing tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/josecolella/Redis-With-JSON-Node?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Using Redis as a JSON store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/shopnilsazal/simple-bcrypt?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Simple-bcrypt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;event&quot;&gt;Event&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/KMKOnline/events/247377774/&quot;&gt;Speed coding competition #2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/Indonesia-Software-Quality-Assurance/events/247508635/&quot;&gt;GO-JEK x ISQA Present: Setting up mobile device lab in minutes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Deden Fathurahman (&lt;a href=&quot;https://github.com/dedenf/&quot;&gt;@dedenf&lt;/a&gt;), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Issue &#35;13</title>
-   <link href="http://localhost:4001/2018/01/30/issue-13/"/>
+   <link href="http://localhost:4002/2018/01/30/issue-13/"/>
    <updated>2018-01-30T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2018/01/30/issue-13</id>
+   <id>http://localhost:4002/2018/01/30/issue-13</id>
    <content type="html">&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://ordepdev.me/posts/code-coverage&quot;&gt;Don’t be fooled by 100% code coverage.&lt;/a&gt;&lt;/li&gt;
@@ -56,9 +102,9 @@
  
  <entry>
    <title>Issue &#35;12</title>
-   <link href="http://localhost:4001/2018/01/24/issue-12/"/>
+   <link href="http://localhost:4002/2018/01/24/issue-12/"/>
    <updated>2018-01-24T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2018/01/24/issue-12</id>
+   <id>http://localhost:4002/2018/01/24/issue-12</id>
    <content type="html">&lt;p&gt;Happy wednesday!&lt;/p&gt;
 
 &lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
@@ -99,9 +145,9 @@
  
  <entry>
    <title>Issue &#35;11</title>
-   <link href="http://localhost:4001/2018/01/02/issue-11/"/>
+   <link href="http://localhost:4002/2018/01/02/issue-11/"/>
    <updated>2018-01-02T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2018/01/02/issue-11</id>
+   <id>http://localhost:4002/2018/01/02/issue-11</id>
    <content type="html">&lt;p&gt;Happy new year! mudah-mudahan 2018 ini bisa lebih fokus &lt;em&gt;publish&lt;/em&gt; newsletter.&lt;/p&gt;
 
 &lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
@@ -134,9 +180,9 @@
  
  <entry>
    <title>Issue &#35;10</title>
-   <link href="http://localhost:4001/2017/11/20/issue-10/"/>
+   <link href="http://localhost:4002/2017/11/20/issue-10/"/>
    <updated>2017-11-20T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2017/11/20/issue-10</id>
+   <id>http://localhost:4002/2017/11/20/issue-10</id>
    <content type="html">&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/introduction-to-docker-secrets&quot;&gt;Introduction to Docker Secrets&lt;/a&gt;&lt;/li&gt;
@@ -176,9 +222,9 @@
  
  <entry>
    <title>Jakartadev update</title>
-   <link href="http://localhost:4001/2017/11/17/update-jakartadev/"/>
+   <link href="http://localhost:4002/2017/11/17/update-jakartadev/"/>
    <updated>2017-11-17T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2017/11/17/update-jakartadev</id>
+   <id>http://localhost:4002/2017/11/17/update-jakartadev</id>
    <content type="html">&lt;p&gt;Jakartadev saat ini menjadi &lt;em&gt;pet project&lt;/em&gt; saya untuk menginformasikan dunia development, dan juga menginformasikan &lt;em&gt;tools&lt;/em&gt; atau berita yang ada di dunia development yang saya kurasi sendiri, dan juga diambil inti dari artikelnya.&lt;/p&gt;
 
 &lt;p&gt;Setahun ini sempat terhenti dengan alasan kesibukan, dan memang ada beberapa hal yang sempat saya kerjakan sendiri diluar jakartadev, &lt;a href=&quot;https://notes.dedenf.com&quot;&gt;blog pribadi&lt;/a&gt; dan juga meng-handle &lt;a href=&quot;http://jenius.tech&quot;&gt;blog engineering Jenius&lt;/a&gt; tempat saya bekerja.&lt;/p&gt;
@@ -191,9 +237,9 @@
  
  <entry>
    <title>Issue &#35;9</title>
-   <link href="http://localhost:4001/2017/11/13/issue-9/"/>
+   <link href="http://localhost:4002/2017/11/13/issue-9/"/>
    <updated>2017-11-13T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2017/11/13/issue-9</id>
+   <id>http://localhost:4002/2017/11/13/issue-9</id>
    <content type="html">&lt;p&gt;Lama tidak meng-&lt;i&gt;update&lt;/i&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
@@ -231,9 +277,9 @@
  
  <entry>
    <title>Issue &#35;8</title>
-   <link href="http://localhost:4001/2016/09/05/issue-8/"/>
+   <link href="http://localhost:4002/2016/09/05/issue-8/"/>
    <updated>2016-09-05T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/09/05/issue-8</id>
+   <id>http://localhost:4002/2016/09/05/issue-8</id>
    <content type="html">&lt;h3 id=&quot;artikel&quot;&gt;Artikel&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -301,9 +347,9 @@
  
  <entry>
    <title>Issue &#35;6</title>
-   <link href="http://localhost:4001/2016/08/23/issue-6/"/>
+   <link href="http://localhost:4002/2016/08/23/issue-6/"/>
    <updated>2016-08-23T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/08/23/issue-6</id>
+   <id>http://localhost:4002/2016/08/23/issue-6</id>
    <content type="html">&lt;h2 id=&quot;berita&quot;&gt;Berita&lt;/h2&gt;
 
 &lt;h4 id=&quot;rilis-php-710&quot;&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-3&quot;&gt;Rilis PHP 7.1.0&lt;/a&gt;&lt;/h4&gt;
@@ -352,18 +398,18 @@
  
  <entry>
    <title>Issue &#35;7</title>
-   <link href="http://localhost:4001/2016/08/20/issue-7/"/>
+   <link href="http://localhost:4002/2016/08/20/issue-7/"/>
    <updated>2016-08-20T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/08/20/issue-7</id>
+   <id>http://localhost:4002/2016/08/20/issue-7</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Issue &#35;5</title>
-   <link href="http://localhost:4001/2016/08/15/issue-5/"/>
+   <link href="http://localhost:4002/2016/08/15/issue-5/"/>
    <updated>2016-08-15T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/08/15/issue-5</id>
+   <id>http://localhost:4002/2016/08/15/issue-5</id>
    <content type="html">&lt;p&gt;hiatus beberapa waktu, issue #5.&lt;/p&gt;
 
 &lt;h5 id=&quot;why-uber-engineering-switched-from-postgres-to-mysql&quot;&gt;&lt;a href=&quot;https://eng.uber.com/mysql-migration/&quot;&gt;Why uber engineering switched from postgres to mysql&lt;/a&gt;&lt;/h5&gt;
@@ -392,9 +438,9 @@
  
  <entry>
    <title>Optimasi Gambar</title>
-   <link href="http://localhost:4001/2016/03/07/optimasi-gambar/"/>
+   <link href="http://localhost:4002/2016/03/07/optimasi-gambar/"/>
    <updated>2016-03-07T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/03/07/optimasi-gambar</id>
+   <id>http://localhost:4002/2016/03/07/optimasi-gambar</id>
    <content type="html">&lt;p&gt;Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.&lt;/p&gt;
 
 &lt;p&gt;Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce.&lt;/p&gt;
@@ -428,9 +474,9 @@ Output: &lt;br /&gt;
  
  <entry>
    <title>Issue &#35;4</title>
-   <link href="http://localhost:4001/2016/03/07/issue-4/"/>
+   <link href="http://localhost:4002/2016/03/07/issue-4/"/>
    <updated>2016-03-07T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/03/07/issue-4</id>
+   <id>http://localhost:4002/2016/03/07/issue-4</id>
    <content type="html">&lt;h5 id=&quot;news&quot;&gt;News&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&quot;http://thehackernews.com/2016/03/drown-attack-openssl-vulnerability.html&quot;&gt;DROWN Attack&lt;/a&gt;&lt;/p&gt;
 
@@ -495,9 +541,9 @@ Output: &lt;br /&gt;
  
  <entry>
    <title>Issue &#35;3</title>
-   <link href="http://localhost:4001/2016/02/29/issue-3/"/>
+   <link href="http://localhost:4002/2016/02/29/issue-3/"/>
    <updated>2016-02-29T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/02/29/issue-3</id>
+   <id>http://localhost:4002/2016/02/29/issue-3</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
 &lt;h5 id=&quot;the-state-of-microservices-today&quot;&gt;&lt;a href=&quot;http://blog.codeship.com/the-state-of-microservices-today/&quot;&gt;The State of Microservices Today&lt;/a&gt;&lt;/h5&gt;
@@ -557,9 +603,9 @@ Baru setahunan ini saya mengadopsi Devops, dan memang dirasakan semua berjalan l
  
  <entry>
    <title>Manajemen API dengan Kong part 1</title>
-   <link href="http://localhost:4001/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
+   <link href="http://localhost:4002/2016/02/25/manajemen-api-dengan-kong-part-1/"/>
    <updated>2016-02-25T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
+   <id>http://localhost:4002/2016/02/25/manajemen-api-dengan-kong-part-1 </id>
    <content type="html">&lt;p&gt;Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
 Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi &lt;em&gt;security&lt;/em&gt; ataupun dari scalability.
 Disitulah &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.&lt;/p&gt;
@@ -629,9 +675,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Issue &#35;2</title>
-   <link href="http://localhost:4001/2016/02/22/issue-2/"/>
+   <link href="http://localhost:4002/2016/02/22/issue-2/"/>
    <updated>2016-02-22T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/02/22/issue-2</id>
+   <id>http://localhost:4002/2016/02/22/issue-2</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 
 &lt;h4 id=&quot;linux-flaw-may-be-fixed-what-about-linux-container&quot;&gt;&lt;a href=&quot;http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html&quot;&gt;Linux flaw may be fixed, what about linux container?&lt;/a&gt;&lt;/h4&gt;
@@ -697,9 +743,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Issue &#35;1</title>
-   <link href="http://localhost:4001/2016/02/15/issue-1/"/>
+   <link href="http://localhost:4002/2016/02/15/issue-1/"/>
    <updated>2016-02-15T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/02/15/issue-1</id>
+   <id>http://localhost:4002/2016/02/15/issue-1</id>
    <content type="html">&lt;p&gt;Issue perdana Jakarta dev.&lt;/p&gt;
 
 &lt;h3 id=&quot;berita&quot;&gt;Berita&lt;/h3&gt;
@@ -768,9 +814,9 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  
  <entry>
    <title>Introducing JakartaDEV</title>
-   <link href="http://localhost:4001/2016/02/02/introducing-jakartadev/"/>
+   <link href="http://localhost:4002/2016/02/02/introducing-jakartadev/"/>
    <updated>2016-02-02T00:00:00+07:00</updated>
-   <id>http://localhost:4001/2016/02/02/introducing-jakartadev</id>
+   <id>http://localhost:4002/2016/02/02/introducing-jakartadev</id>
    <content type="html">&lt;p&gt;JakartaDEV adalah &lt;em&gt;newsletter&lt;/em&gt; yang dikirim &lt;em&gt;hampir-mingguan&lt;/em&gt;, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;newsletter&lt;/em&gt; ini berisi informasi bisa berupa project Open Source, tools yang banyak digunakan saat ini,
