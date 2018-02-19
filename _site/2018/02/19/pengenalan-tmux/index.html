@@ -11,7 +11,7 @@
 
   <title>
     
-      Issue &#35;5 &middot; JakartaDev
+      Pengenalan tmux &middot; JakartaDev
     
   </title>
 
@@ -142,46 +142,86 @@
       <h2>Tech, Dev News and stuff</h2>
 
         <div class="post">
-  <h1 class="post-title">Issue &#35;5</h1>
-  <span class="post-date">15 Aug 2016</span>
-  <p>hiatus beberapa waktu, issue #5.</p>
+  <h1 class="post-title">Pengenalan tmux</h1>
+  <span class="post-date">19 Feb 2018</span>
+  <p>Sering menggunakan banyak window atau tab? misalkan membuka <code class="highlighter-rouge">vim</code>, <code class="highlighter-rouge">ssh</code> ke server, koneksi ke database server, <code class="highlighter-rouge">docker</code> di tab yang lain, dan akhirnya akan banyak tab atau <em>window</em> yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.</p>
 
-<h5 id="why-uber-engineering-switched-from-postgres-to-mysql"><a href="https://eng.uber.com/mysql-migration/">Why uber engineering switched from postgres to mysql</a></h5>
+<p>Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh <a href="https://tmux.github.io/"><code class="highlighter-rouge">tmux</code></a> atau Terminal Multiplexer, sebuah <em>command line tool</em> yang berguna diantaranya untuk,
+<!-- more --></p>
 
-<p>Proses dan alasan kenapa UBER melakukan migrasi dari Postgresql ke Mysql.</p>
+<ol>
+  <li>Mengatur multiple window/pane dalam satu window terminal.</li>
+  <li>Mengatur session dalam terminal tersebut.</li>
+  <li>Mencegah session yang hilang karena tidak sengaja menutup aplikasi terminal.</li>
+</ol>
 
-<h5 id="on-ubers-choice-of-databases"><a href="http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases">On Uber’s Choice of Databases</a></h5>
+<p>dan kegunaan lainnya, untuk <em>sysadmin</em> dan <em>developer</em> hal ini akan sangat membantu.</p>
 
-<p>Debunking proses dan keputusan UBER berpindah database dari Postgresql ke Mysql</p>
+<h4 id="memulai">Memulai</h4>
+<p>Untuk memulai menggunakan <code class="highlighter-rouge">tmux</code>, install terlebih dahulu aplikasinya melalui <code class="highlighter-rouge">brew</code>, <code class="highlighter-rouge">apt</code> atau package manager yang ada, <code class="highlighter-rouge">$ brew install tmux</code>.</p>
 
-<h5 id="the-log-what-every-software-engineer-should-know-about-real-time-datas-unifying-abstraction"><a href="https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying">The Log: What every software engineer should know about real-time data’s unifying abstraction</a></h5>
+<p>Setelah berhasil diinstall, jalankan perintah <code class="highlighter-rouge">tmux</code> di terminal</p>
 
-<p>Bacaan lama, masih relevan untuk banyak case log design sekarang.</p>
+<p><code class="highlighter-rouge">$ tmux</code></p>
 
-<h5 id="tracker-ingesting-mysql-data-at-scale---part-1"><a href="https://engineering.pinterest.com/blog/tracker-ingesting-mysql-data-scale-part-1">Tracker: Ingesting MySQL data at scale - Part 1</a></h5>
+<p>Di terminal akan muncul seperti ini (note: terminal ini menggunakan iTerm)
+<img src="/public/images/posts/tmux.png" alt="tmux" /></p>
 
-<p>Pinterest dengan data streaming dan juga migrasi data dari mysql ke s3 dan beberapa tools yang digunakan</p>
+<p>di sini session tmux server sudah jalan, dan kita bisa memanggil banyak tmux session yang akan hidup dalam server tersebut.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ tmux list-sessions
+0: 2 windows (created Tue Jan 30 11:28:59 2018) [133x38] (attached)
+1: 1 windows (created Tue Jan 30 14:23:28 2018) [204x69]
+</code></pre></div></div>
+<p>Perintah di atas adalah untuk melihat session yang aktif di tmux saat ini, ini bisa menjadi banyak ketika kita membuka banyak session tmux, lakukan perintah <code class="highlighter-rouge">tmux</code> di window lain dan akan terdaftar jika kita melakukan <code class="highlighter-rouge">tmux list-sessions</code>.</p>
 
-<h5 id="using-a-static-site-generator-at-scale-lessons-learned"><a href="https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/">Using A Static Site Generator At Scale: Lessons Learned</a></h5>
+<h4 id="mengatur-session">Mengatur session</h4>
+<p>Untuk mengatur session di dalam tmux, ada perintah yang bisa digunakan, diantaranya:</p>
+<ul>
+  <li><code class="highlighter-rouge">&lt;prefix&gt; + c</code> membuka tab baru di session tmux yang sedang aktif</li>
+  <li><code class="highlighter-rouge">&lt;prefix&gt; + [0,1,etc]</code> untuk pindah dari tab satu ke tab lain, sesuai dengan sekuen-nya.</li>
+  <li><code class="highlighter-rouge">&lt;prefix&gt; + x</code> untuk menutup tab yang sedang aktif</li>
+  <li><code class="highlighter-rouge">&lt;prefix&gt; + d</code> untuk detach dari tmux session yang aktif, dan kembali ke normal <em>command line interface</em>.</li>
+</ul>
 
-<p>Static site generator at scale, deskripsi dan implementasi bagaimana static site digunakan dalam skala tinggi. untuk informasi, Jakartadev.org juga menggunakan Static Site Generator, yaitu Jekyll.</p>
+<p><code class="highlighter-rouge">&lt;prefix&gt;</code> default yang dipakai oleh tmux adalah <code class="highlighter-rouge">ctrl+b</code>, <code class="highlighter-rouge">ctrl + c</code> misalkan untuk membuka tab baru.</p>
 
-<p>These article curated by Deden Fathurahman (@dedenf), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com</p>
+<p>Dan untuk mengatur session tmux sendiri salah satunya <code class="highlighter-rouge">list-sessions</code> seperti yang dibahas di atas, peritah lain antara lain:</p>
+<ul>
+  <li><code class="highlighter-rouge">tmux kill-session -t nomor-session</code> akan menutup session nomor x yang ditulis.</li>
+  <li><code class="highlighter-rouge">tmux attach-session -t nomor-session</code> atau <code class="highlighter-rouge">tmux a</code> akan memanggil session yang sebelumnya sudah di<em>detach</em> atau memanggil session tmux yang terakhir digunakan.</li>
+</ul>
+
+<p>dan masih banyak perintah lainnya yang bisa di<em>explore</em> untuk mengatur tmux.</p>
+
+<h4 id="kostumasi-tmux">Kostumasi tmux</h4>
+<p>Tmux bisa dikostumasi sesuai dengan kebutuhan kita, yang biasanya banyak dikostumasi ada prefix yang digunakan, karena <code class="highlighter-rouge">ctrl+b</code> terkadang tidak kompatibel dengan vim, kita bisa mengganti dengan <code class="highlighter-rouge">ctrl+a</code>, juga untuk sekuen dari tab/window tmux yang default-nya dimulai di sekuen <code class="highlighter-rouge">0</code>, diubah menjadi <code class="highlighter-rouge">1</code> agar lebih gampang mengaturnya.</p>
+
+<p>kita bisa memulai kostumasi di file konfigurasi tmux, yang terletak biasanya di home folder, jika tidak ada, bisa mulai dengan membuat file <code class="highlighter-rouge">.tmux.conf</code>.</p>
+
+<p><code class="highlighter-rouge">$ vim ~/.tmux.conf</code></p>
+
+<p>tambahkan baris berikut</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># unbind ctrl+b, ubah ke ctrl+a
+unbind C-b
+set-option -g prefix C-a
+bind-key C-a send-prefix
+
+# atur agar sekuen dimulai dari 1
+set -g base-index 1
+</code></pre></div></div>
+
+<p>Hasil tampilan terminal dari hasil setting konfigurasi <code class="highlighter-rouge">.tmux.conf</code> di atas seperti di bawah.</p>
+
+<p><img src="/public/images/posts/tmux2.png" alt="tmux new setting" /></p>
+
+<p>source bisa dilihat di repo <a href="https://github.com/jeniusTeam/dotfiles">dotfiles</a> Jenius Tech team (repo ini akan bertambah dengan dotfiles aplikasi lain).</p>
 
 </div>
 
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="/2018/02/19/pengenalan-tmux/">
-            Pengenalan tmux
-            <small>19 Feb 2018</small>
-          </a>
-        </h3>
-      </li>
     
       <li>
         <h3>
@@ -197,6 +237,15 @@
           <a href="/2018/02/06/issue-14/">
             Issue &#35;14
             <small>06 Feb 2018</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2018/01/30/issue-13/">
+            Issue &#35;13
+            <small>30 Jan 2018</small>
           </a>
         </h3>
       </li>
