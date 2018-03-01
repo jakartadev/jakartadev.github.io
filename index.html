@@ -7,8 +7,8 @@ title: Home
     {% if post.type == "digest" or post.type == "blog" %}
     <article class="post">
 
-      <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  <time datetime="{{ post.date | date: "%B %e, %Y" }}"> &dash; {{ post.date | date: "%B %e, %Y" }}</time></h1>
+      
       <div class="entry">
         {% if post.teaser %}
           <img src="{{ post.teaser }}">
