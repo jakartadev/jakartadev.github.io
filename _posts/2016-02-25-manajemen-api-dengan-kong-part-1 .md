@@ -7,6 +7,7 @@ tags:
     - microservice
 publishDate: "2016-02-26"
 desc: ""
+type: blog
 ---
 
 Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.

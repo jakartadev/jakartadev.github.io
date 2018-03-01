@@ -5,6 +5,7 @@ tags:
     - development
 publishDate: "2016-03-07"
 desc: ""
+type: blog
 ---
 
 Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.
