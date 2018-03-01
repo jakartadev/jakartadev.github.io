@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="canonical" href="http://jakartadev.org/" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <!-- <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Fjalla+One|Lobster|Oswald|Patua+One" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Condensed|Roboto|Lobster|Patua+One" rel="stylesheet">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/apple-touch-icon-precomposed.png">
+    <link rel="icon" type="image/png" href="{{ site.url }}/images/favicon.png">
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <!-- <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1> -->
+            <h1 class="site-name"><a href="{{ site.baseurl }}/"><span class="logo-text">jakarta</span><span class="logo-text-dev">DEV</span></a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav>
+            <a href="{{ site.baseurl }}/archives">Archives</a>
+            <a href="{{ site.baseurl }}/newsletter">Newsletter</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {% if page.layout == "newsletter_issue" %}
+      <h1>Newsletter Archives</h1>
+      {% endif %}
+
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+          <div class="ack-footer">&copy; Copyright {{ 'now' | date: "%Y" }} -- jakartadev.org -- made with &hearts; <a href="https://github.com/dedenf">@dedenf</a></div>
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>

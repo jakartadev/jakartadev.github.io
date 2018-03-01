@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Manajemen API dengan Kong part 1 – jakartaDEV – Daily discoveries</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
+Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi security ataupun dari scalability.
+Disitulah Kong bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.
+
+Di sini akan dilakukan pendekatan instalasi Kong dengan menggunakan Vagrant sebagai box development.
+
+Jika belum mengenal Vagrant, silakan kunjungi situs mereka, pada dasarnya vagrant adalah wrapper yang bisa digunakan untuk membuat dan mengatur image VM. dan kalo sudah, ambil salah satu .box vagrant yang bisa digunakan di sini, kalo berminat membuatnya, bisa baca artikel ini (shameless plug).
+
+memulai vagrant
+Jika sudah memiliki vagrantbox, dan sudah diimport, loncat ke paragraf berikutnya, jika belum, lakukan perintah berikut.
+
+$ vagrant box add ubuntu14 /path/to/vagrant_image.box 
+lakuan pengecekan 
+$ vagrant boxt list 
+jika sudah ada di box list, clone repo kong
+
+
+  
+    clone Kong repo
+
+    $ git clone https://github.com/Mashape/kong
+  
+  
+    clone vagrant Kong repo
+
+    $ git clone https://github.com/Mashape/kong-vagrant 
+ $ cd kong-vagrant
+  
+  
+    jalankan vagrant
+ karena jika menjalankan vagrant dengan langsung mendownload dari repo vagrant akan sangat menyita waktu, jadi disarankan anda mendownload box terlebih dahulu dan menambahkannya ke box list vagrant local anda.
+ di folder kong-vagrant, edit file Vagrantfile line 32, 33, ubah dengan nama vagrant box yang sudah anda assign.
+
+    config.vm.box = "precise64"  
+ config.vm.box_url = "http://files.vagrantup.com/precise64.box"
+
+    menjadi misalkan
+
+    config.vm.box = "ubuntu14" 
+ config.vm.box_url = ""
+
+    ini tidak perlu lagi ditambahkan, karena sudah melakukan vagrant box add sebelumnya.
+
+    simpan, lalu jalankan 
+ $ vagrant up
+
+    vagrant akan meng-import box dan memulai booting VM, dan vagrant juga akan menjalankan provosioning script yang ada, dan juga akan melakuan instalasi kong dengan otomatis karena mengacu pada path ../kong yang sebelumnya telah kita clone dari repo.
+
+    jika selesai instalasi akan menampilkan log seperti ini,
+
+    
+  
+  
+    Jalankan service
+
+    $ vagrant ssh 
+ VM-$ kong [start | reload | stop]
+
+    Kong akan berjalan di http, dengan port :8000 untuk proxy layer, dan port :8001 untuk ReSTful Admin API config.
+
+    test service dengan perintah $ curl http://localhost:8000
+  
+
+
+" />
+    <meta property="og:description" content="Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
+Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi security ataupun dari scalability.
+Disitulah Kong bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.
+
+Di sini akan dilakukan pendekatan instalasi Kong dengan menggunakan Vagrant sebagai box development.
+
+Jika belum mengenal Vagrant, silakan kunjungi situs mereka, pada dasarnya vagrant adalah wrapper yang bisa digunakan untuk membuat dan mengatur image VM. dan kalo sudah, ambil salah satu .box vagrant yang bisa digunakan di sini, kalo berminat membuatnya, bisa baca artikel ini (shameless plug).
+
+memulai vagrant
+Jika sudah memiliki vagrantbox, dan sudah diimport, loncat ke paragraf berikutnya, jika belum, lakukan perintah berikut.
+
+$ vagrant box add ubuntu14 /path/to/vagrant_image.box 
+lakuan pengecekan 
+$ vagrant boxt list 
+jika sudah ada di box list, clone repo kong
+
+
+  
+    clone Kong repo
+
+    $ git clone https://github.com/Mashape/kong
+  
+  
+    clone vagrant Kong repo
+
+    $ git clone https://github.com/Mashape/kong-vagrant 
+ $ cd kong-vagrant
+  
+  
+    jalankan vagrant
+ karena jika menjalankan vagrant dengan langsung mendownload dari repo vagrant akan sangat menyita waktu, jadi disarankan anda mendownload box terlebih dahulu dan menambahkannya ke box list vagrant local anda.
+ di folder kong-vagrant, edit file Vagrantfile line 32, 33, ubah dengan nama vagrant box yang sudah anda assign.
+
+    config.vm.box = "precise64"  
+ config.vm.box_url = "http://files.vagrantup.com/precise64.box"
+
+    menjadi misalkan
+
+    config.vm.box = "ubuntu14" 
+ config.vm.box_url = ""
+
+    ini tidak perlu lagi ditambahkan, karena sudah melakukan vagrant box add sebelumnya.
+
+    simpan, lalu jalankan 
+ $ vagrant up
+
+    vagrant akan meng-import box dan memulai booting VM, dan vagrant juga akan menjalankan provosioning script yang ada, dan juga akan melakuan instalasi kong dengan otomatis karena mengacu pada path ../kong yang sebelumnya telah kita clone dari repo.
+
+    jika selesai instalasi akan menampilkan log seperti ini,
+
+    
+  
+  
+    Jalankan service
+
+    $ vagrant ssh 
+ VM-$ kong [start | reload | stop]
+
+    Kong akan berjalan di http, dengan port :8000 untuk proxy layer, dan port :8001 untuk ReSTful Admin API config.
+
+    test service dengan perintah $ curl http://localhost:8000
+  
+
+
+" />
+    
+    <meta name="author" content="jakartaDEV" />
+
+    
+    <meta property="og:title" content="Manajemen API dengan Kong part 1" />
+    <meta property="twitter:title" content="Manajemen API dengan Kong part 1" />
+    
+
+    <meta property="og:title" content="Subscribe - JakartaDEV: newsletter mingguan untuk developer dan Open source enthusiasts"/>
+
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Subscribe - JakartaDEV: newsletter mingguan untuk developer dan Open source enthusiasts" />
+    <meta property="og:url" content="http://jakartadev.org/" />
+    <meta property="og:site_name" content="JakartaDEV: developement news, tech news dan open source" />
+    <meta property="og:image" content="http://localhost:4000/images/logo.png" />
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="Subscribe - JakartaDEV: newsletter mingguan untuk developer dan Open source enthusiasts"/>
+    <meta name="twitter:site" content="@JakartaDev"/>
+    <meta name="twitter:image" content="http://localhost:4000/images/logo.png"/>
+    <meta name="twitter:creator" content="@JakartaDev"/>
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="canonical" href="http://jakartadev.org/" />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="jakartaDEV - Daily discoveries" href="/feed.xml" />
+    <!-- <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Fjalla+One|Lobster|Oswald|Patua+One" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Condensed|Roboto|Lobster|Patua+One" rel="stylesheet">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+    <link rel="icon" type="image/png" href="http://localhost:4000/images/favicon.png">
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="/images/logo.png" /></a>
+
+          <div class="site-info">
+            <!-- <h1 class="site-name"><a href="/">jakartaDEV</a></h1> -->
+            <h1 class="site-name"><a href="/"><span class="logo-text">jakarta</span><span class="logo-text-dev">DEV</span></a></h1>
+            <p class="site-description">Daily discoveries</p>
+          </div>
+
+          <nav>
+            <a href="/archives">Archives</a>
+            <a href="/newsletters">Newsletter</a>
+            <a href="/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+
+      <a href="/">&larr; home</a>
+
+<article class="post">
+  <h1>Manajemen API dengan Kong part 1</h1>
+
+  <div class="entry">
+    <p>Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
+Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi <em>security</em> ataupun dari scalability.
+Disitulah <a href="https://getkong.org">Kong</a> bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.</p>
+
+<p>Di sini akan dilakukan pendekatan instalasi Kong dengan menggunakan Vagrant sebagai box development.</p>
+
+<p>Jika belum mengenal <a href="http://www.vagrantup.com/">Vagrant</a>, silakan kunjungi situs mereka, pada dasarnya vagrant adalah wrapper yang bisa digunakan untuk membuat dan mengatur image VM. dan kalo sudah, ambil salah satu .box vagrant yang bisa digunakan di <a href="http://vagrantbox.es/">sini</a>, kalo berminat membuatnya, bisa baca artikel <a href="https://coderwall.com/p/qzpgvw/build-vagrant-box-using-veewee">ini</a> (<em>shameless plug</em>).</p>
+
+<h5 id="memulai-vagrant">memulai vagrant</h5>
+<p>Jika sudah memiliki vagrantbox, dan sudah diimport, loncat ke paragraf berikutnya, jika belum, lakukan perintah berikut.</p>
+
+<p><code class="highlighter-rouge">$ vagrant box add ubuntu14 /path/to/vagrant_image.box</code> <br />
+lakuan pengecekan <br />
+<code class="highlighter-rouge">$ vagrant boxt list</code> <br />
+jika sudah ada di box list, clone repo kong</p>
+
+<ol>
+  <li>
+    <p>clone Kong repo</p>
+
+    <p><code class="highlighter-rouge">$ git clone https://github.com/Mashape/kong</code></p>
+  </li>
+  <li>
+    <p>clone vagrant Kong repo</p>
+
+    <p><code class="highlighter-rouge">$ git clone https://github.com/Mashape/kong-vagrant</code> <br />
+ <code class="highlighter-rouge">$ cd kong-vagrant</code></p>
+  </li>
+  <li>
+    <p>jalankan vagrant
+ karena jika menjalankan vagrant dengan langsung mendownload dari repo vagrant akan sangat menyita waktu, jadi disarankan anda mendownload box terlebih dahulu dan menambahkannya ke box list vagrant local anda.
+ di folder <code class="highlighter-rouge">kong-vagrant</code>, edit file Vagrantfile line <code class="highlighter-rouge">32</code>, <code class="highlighter-rouge">33</code>, ubah dengan nama vagrant box yang sudah anda assign.</p>
+
+    <p><code class="highlighter-rouge">config.vm.box = "precise64"</code>  <br />
+ <code class="highlighter-rouge">config.vm.box_url = "http://files.vagrantup.com/precise64.box"</code></p>
+
+    <p>menjadi misalkan</p>
+
+    <p><code class="highlighter-rouge">config.vm.box = "ubuntu14"</code> <br />
+ <code class="highlighter-rouge">config.vm.box_url = ""</code></p>
+
+    <p>ini tidak perlu lagi ditambahkan, karena sudah melakukan <em>vagrant box add</em> sebelumnya.</p>
+
+    <p>simpan, lalu jalankan <br />
+ <code class="highlighter-rouge">$ vagrant up</code></p>
+
+    <p>vagrant akan meng-import box dan memulai booting VM, dan vagrant juga akan menjalankan provosioning script yang ada, dan juga akan melakuan instalasi kong dengan otomatis karena mengacu pada path <code class="highlighter-rouge">../kong</code> yang sebelumnya telah kita clone dari repo.</p>
+
+    <p>jika selesai instalasi akan menampilkan log seperti ini,</p>
+
+    <p><img src="/public/images/posts/kong-getting-started-small.jpg" alt="log" /></p>
+  </li>
+  <li>
+    <p>Jalankan service</p>
+
+    <p><code class="highlighter-rouge">$ vagrant ssh</code> <br />
+ <code class="highlighter-rouge">VM-$ kong [start | reload | stop]</code></p>
+
+    <p>Kong akan berjalan di http, dengan port <code class="highlighter-rouge">:8000</code> untuk proxy layer, dan port <code class="highlighter-rouge">:8001</code> untuk ReSTful Admin API config.</p>
+
+    <p>test service dengan perintah <code class="highlighter-rouge">$ curl http://localhost:8000</code></p>
+  </li>
+</ol>
+
+
+  </div>
+  <div>
+    <p class="date">Curated by <a href="https://github.com/dedenf/">Deden Fathurahman</a>, feedback please send to dedenf@jakartadev.org or dedenf@gmail.com </p>
+  </div>
+  <div class="date">
+    Published on February 25, 2016
+  </div>
+
+  
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+
+
+
+<a href="https://github.com/jakartadev"><i class="svg-icon github"></i></a>
+
+
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/jakartadev"><i class="svg-icon twitter"></i></a>
+
+
+
+          <div class="ack-footer">&copy; Copyright 2018 -- jakartadev.org -- made with &hearts; <a href="https://github.com/dedenf">@dedenf</a></div>
+        </footer>
+      </div>
+    </div>
+
+    
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-73563566-1', 'auto');
+		ga('send', 'pageview', {
+		  'page': '/manajemen-api-dengan-kong-part-1/',
+		  'title': 'Manajemen API dengan Kong part 1'
+		});
+	</script>
+	<!-- End Google Analytics -->
+
+
+  </body>
+</html>
