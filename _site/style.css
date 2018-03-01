@@ -423,6 +423,12 @@ h2 {
   }
 }
 
+h1 time {
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+}
+
 hr.post-break {
   border: none;
   width: 70%;

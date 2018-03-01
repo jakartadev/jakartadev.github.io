@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-01T18:06:26+07:00</updated>
+ <updated>2018-03-01T18:27:19+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;18</title>
+   <link href="http://localhost:4000/daily-digest-18/"/>
+   <updated>2018-03-01T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-18</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2018/02/28/magazine/what-is-the-perfect-color-worth.html&quot;&gt;Why I Quit Google to Work for Myself&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/&quot;&gt;Memcrashed - Major amplification attacks from UDP port 11211&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zricethezav/gitleaks&quot;&gt;Gitleaks – Check git repos for secrets and keys&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/minimaxir/hacker-news-undocumented&quot;&gt;A List of Hacker News’s Undocumented Features and Behaviors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/&quot;&gt;Exploiting ACME TLS-SNI-01 issuing Let’s Encrypt SSL-certs for any domain using shared hosting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;17</title>

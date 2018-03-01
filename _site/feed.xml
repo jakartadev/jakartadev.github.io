@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Mar 2018 18:06:26 +0700</pubDate>
-    <lastBuildDate>Thu, 01 Mar 2018 18:06:26 +0700</lastBuildDate>
+    <pubDate>Thu, 01 Mar 2018 18:27:19 +0700</pubDate>
+    <lastBuildDate>Thu, 01 Mar 2018 18:27:19 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;18</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2018/02/28/magazine/what-is-the-perfect-color-worth.html&quot;&gt;Why I Quit Google to Work for Myself&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/&quot;&gt;Memcrashed - Major amplification attacks from UDP port 11211&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zricethezav/gitleaks&quot;&gt;Gitleaks – Check git repos for secrets and keys&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/minimaxir/hacker-news-undocumented&quot;&gt;A List of Hacker News’s Undocumented Features and Behaviors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/&quot;&gt;Exploiting ACME TLS-SNI-01 issuing Let’s Encrypt SSL-certs for any domain using shared hosting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 01 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-18/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-18/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;17</title>
@@ -434,51 +455,6 @@ set -g base-index 1
         <guid isPermaLink="true">http://localhost:4000/newsletter-issue-14/</guid>
         
         <category>issue</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;13</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Rails 5.2: Active Storage and beyond&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.zachary.com/posts/how-to-data/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How I Manage My Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ruby.libhunt.com/&quot;&gt;A collection of awesome Ruby gems, tools, frameworks and software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How we improved webpack build performance by 95%&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/up-and-running-with-the-openshift-ansible-broker/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Up and Running with the OpenShift Ansible Broker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/prometheus-alerts-on-openshift/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Prometheus Alerts on OpenShift&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rdegges.com/2018/please-stop-using-local-storage/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Please Stop Using Local Storage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/practical-motivation-science/how-to-design-motivating-push-notifications-d25ef3874e42?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How to Design Motivating Push Notifications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/introducing-mongobot-a-slackbot-that-can-run-mongodb-queries-8dda660fa17e?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Mongobot: a Slackbot that can run MongoDB queries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@strapi/testing-your-npm-package-before-releasing-it-using-verdaccio-ngrok-28e2832c850a?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Testing your npm package before releasing it using Verdaccio + ngrok&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Node Clinic - A performance toolkit for Node.js developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://realpython.com/blog/python/python-memcache-efficient-caching/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Python + Memcached: Efficient Caching in Distributed Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@singhpratyush/the-taste-of-media-streaming-with-flask-cdce35908a50?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;The Taste of Media Streaming with Flask&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.5.0/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Node v9.5.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;code--tools&quot;&gt;Code &amp;amp; Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://trestle.io/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;trestle – A modern, responsive admin framework for Ruby on Rails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/e-oj/Fawn?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Fawn – Promise based Library for transactions in MongoDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/antonmedv/fx?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;fx – Command-line JSON processing tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/josecolella/Redis-With-JSON-Node?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Using Redis as a JSON store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/shopnilsazal/simple-bcrypt?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Simple-bcrypt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;event&quot;&gt;Event&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/KMKOnline/events/247377774/&quot;&gt;Speed coding competition #2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/Indonesia-Software-Quality-Assurance/events/247508635/&quot;&gt;GO-JEK x ISQA Present: Setting up mobile device lab in minutes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 06 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-13/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-13/</guid>
-        
-        <category>daily</category>
         
         <category>development</category>
         
