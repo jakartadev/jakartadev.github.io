@@ -31,7 +31,6 @@ description: ""
 - [JavaScript Frameworks in 2016](http://www.clock.co.uk/blog/javascript-frameworks-in-2016)
 - [Why (and how to) Redis with your MongoDB](https://www.compose.io/articles/why-and-how-to-redis-with-your-mongodb/)
 
-##### Tools
 - [Rosie](https://github.com/Karumi/Rosie/)
 - [Five Online Database Modelling Services](https://www.simple-talk.com/sql/database-administration/-five-online-database-modelling-services/)
 - [Enzyme: JavaScript Testing utilities for React](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.odkuhb5ib)

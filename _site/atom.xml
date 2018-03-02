@@ -4,13 +4,31 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-01T18:27:19+07:00</updated>
+ <updated>2018-03-02T16:07:01+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;18</title>
+   <link href="http://localhost:4000/daily-digest-19/"/>
+   <updated>2018-03-02T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-19</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext&quot;&gt;Why Code Comments Still Matter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://egghead.simplecast.fm/&quot;&gt;Egghead.io Developer Chats&lt;/a&gt; – fairly new podcast for developer &lt;em&gt;et al&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://react-etc.net/entry/rip-redux-dan-abramov-announces-future-fetcher&quot;&gt;RIP Redux: Dan Abramov announces future fetcher API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/&quot;&gt;Using Apache Kafka for Asynchronous Communication in Microservices&lt;/a&gt;  – good stuff&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://staltz.com/promises-are-not-neutral-enough.html&quot;&gt;Promises are not neutral enough&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf&quot;&gt;Why Flutter Uses Dart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c&quot;&gt;O API — an alternative to REST APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/schemaless-rewrite/&quot;&gt;Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;18</title>
@@ -108,17 +126,15 @@
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?utm_source=jeniustech&quot;&gt;The best architecture with Docker and Kubernetes — myth or reality?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2018/02/20/ruby-magic-syntactic-sugar-methods.html?utm_source=jeniustech&quot;&gt;Syntactic sugar methods in Ruby&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171139955345/v570?utm_source=jeniustech&quot;&gt;npm v5.7.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech&quot;&gt;Sinatra v2.0.1 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
-&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech&quot;&gt;Sinatra v2.0.1 released&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/requests-html?utm_source=jeniustech&quot;&gt;requests-html – HTML Parsing for Humans™ &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/NVIDIA/FastPhotoStyle?utm_source=jeniustech&quot;&gt;FastPhotoStyle – Style transfer, deep learning, feature transform&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/t4t5/sweetalert?utm_source=jeniustech&quot;&gt;SweetAlert – A beautiful replacement for JavaScript’s “alert”&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;events&quot;&gt;Events&lt;/h3&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/id-ruby/events/248049578/&quot;&gt;1st Online Meetup: Learning Ruby By Sharing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -187,7 +203,7 @@
   &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v6.13.0/&quot;&gt;Node v6.13.0 (LTS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
+&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.embulk.org/docs/&quot;&gt;Embulk – bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view – Kubernetes Operational View &lt;/a&gt;&lt;/li&gt;
@@ -342,7 +358,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://ayende.com/blog/181857-A/ravendb-4-0-is-out&quot;&gt;RavenDB 4.0 released&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
+&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/tech-radar&quot;&gt;Zalando Tech Radar&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jamesknelson/mdxc&quot;&gt;MDXC – React Components within Markdown&lt;/a&gt;&lt;/li&gt;
@@ -351,7 +367,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://nact.io/&quot;&gt;Redux but for the server.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;event&quot;&gt;Event&lt;/h3&gt;
+&lt;h4 id=&quot;event&quot;&gt;Event&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/JakartaJS/events/247676332/&quot;&gt;JakartaJS February Meetup Special Edition with Ariya Hidayat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -426,7 +442,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.5.0/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Node v9.5.0&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;code--tools&quot;&gt;Code &amp;amp; Tools&lt;/h4&gt;
+&lt;h5 id=&quot;code--tools&quot;&gt;Code &amp;amp; Tools&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://trestle.io/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;trestle – A modern, responsive admin framework for Ruby on Rails&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/e-oj/Fawn?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Fawn – Promise based Library for transactions in MongoDB&lt;/a&gt;&lt;/li&gt;
@@ -505,7 +521,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2&quot;&gt;webpack 4 beta &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;tools--code&quot;&gt;Tools &amp;amp; Code&lt;/h4&gt;
+&lt;h5 id=&quot;tools--code&quot;&gt;Tools &amp;amp; Code&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.nasseri.io/posts/2.html&quot;&gt;Fir – the Friendly, Interactive Ruby REPL&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.getbootstrap.com/2018/01/18/bootstrap-4/&quot;&gt;Bootstrap 4&lt;/a&gt;&lt;/li&gt;
@@ -513,7 +529,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChrome/puppeteer&quot;&gt;Headless Chrome Node API from Google&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;events&quot;&gt;Events&lt;/h3&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/id-ruby/events/246864926/&quot;&gt;ID-Ruby – Meetup pertama 2018&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -587,7 +603,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.4.0/&quot;&gt;Node v9.4.0 released&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;tools--code&quot;&gt;Tools &amp;amp; code&lt;/h4&gt;
+&lt;h5 id=&quot;tools--code&quot;&gt;Tools &amp;amp; code&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.minimesos.org/&quot;&gt;Minimesos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://plan.io/redmine-security-scanner/&quot;&gt;Redmine Security Scanner&lt;/a&gt;&lt;/li&gt;
@@ -653,7 +669,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Copy-on-write friendly Python garbage collection&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;tools&quot;&gt;tools&lt;/h4&gt;
+&lt;h5 id=&quot;tools&quot;&gt;tools&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/element-ready?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Element ready – Detect when an element is ready in the DOM&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://vuetifyjs.com/?utm_source=jakartadev&amp;amp;utm_medium=newsletter&quot;&gt;Vuetify – Material Component Framework&lt;/a&gt;&lt;/li&gt;
@@ -1074,12 +1090,9 @@ Cara menggunakan Flocker untuk me-manage Docker dan data secara bersamaan.&lt;/l
     &lt;p&gt;&lt;a href=&quot;https://tech.trello.com/android-schemas/&quot;&gt;Trello Android Schema Upgrades&lt;/a&gt;
 Cara Trello untuk skema SQLite database tabel update di app Android Trello&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.phparch.com/2016/08/testing-your-drupal-site-with-behat/&quot;&gt;Testing Your Drupal Site with Behat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-
-&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.phparch.com/2016/08/testing-your-drupal-site-with-behat/&quot;&gt;Testing Your Drupal Site with Behat&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://github.com/sysown/proxysql/releases&quot;&gt;ProxySQL&lt;/a&gt; 
 sekarang versi 1.2.1 General Availability.&lt;/p&gt;
@@ -1092,10 +1105,8 @@ Job queues and RPC in python with asyncio, redis and msgpack.&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;http://nosir.github.io/cleave.js/&quot;&gt;Cleave.js&lt;/a&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; formatting&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://slatejs.org/&quot;&gt;Slate.js&lt;/a&gt;
-Javascript framework untuk rich text editor&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://slatejs.org/&quot;&gt;Slate.js&lt;/a&gt;
+Javascript framework untuk rich text editor&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -1330,11 +1341,9 @@ Output: &lt;br /&gt;
   &lt;li&gt;&lt;a href=&quot;http://designshack.net/articles/business-articles/how-to-organize-complex-design-projects/&quot;&gt;How to Organize Complex Design Projects&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/&quot;&gt;Server-Side Rendering With React, Node And Express&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.clock.co.uk/blog/javascript-frameworks-in-2016&quot;&gt;JavaScript Frameworks in 2016&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.compose.io/articles/why-and-how-to-redis-with-your-mongodb/&quot;&gt;Why (and how to) Redis with your MongoDB&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;tools&quot;&gt;Tools&lt;/h5&gt;
-&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.compose.io/articles/why-and-how-to-redis-with-your-mongodb/&quot;&gt;Why (and how to) Redis with your MongoDB&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Karumi/Rosie/&quot;&gt;Rosie&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.simple-talk.com/sql/database-administration/-five-online-database-modelling-services/&quot;&gt;Five Online Database Modelling Services&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.odkuhb5ib&quot;&gt;Enzyme: JavaScript Testing utilities for React&lt;/a&gt;&lt;/li&gt;
@@ -1483,11 +1492,9 @@ Satu sisi lain melihat CI dan Devops untuk product manager&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/&quot;&gt;Building blog app dengan menggunakan React&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/&quot;&gt;5 Steps learning React app&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/&quot;&gt;Learn the Kubernetes concept in 10 minutes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.mailgun.com/security-guide-basic-infrastructure-security/&quot;&gt;Security Guide: How to Protect Your Infrastructure Against the Basic Attacker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tools&quot;&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.mailgun.com/security-guide-basic-infrastructure-security/&quot;&gt;Security Guide: How to Protect Your Infrastructure Against the Basic Attacker&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/stamparm/maltrail&quot;&gt;Maltrail: Malicious traffic detection system&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/crysalead/kahlan&quot;&gt;Kahlan: Unit/BDD PHP Test Framework for Freedom, Truth, and Justice&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://edravis.github.io/logatim/&quot;&gt;Logatim: An isomorphic logger which implements log levels and ANSI 16 styles.&lt;/a&gt;&lt;/li&gt;
@@ -1827,11 +1834,6 @@ A wiki of Guides, Scripts, Tutorials related to devops&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/server-hardening&quot;&gt;Server hardening&lt;/a&gt;
 a very much needed for hardening your Linux server.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html&quot;&gt;Learn abut distributed system&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
-
-&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/tripit/slate&quot;&gt;Slate&lt;/a&gt;
 Create beautiful API documentation&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/ahab/&quot;&gt;Ahab&lt;/a&gt;

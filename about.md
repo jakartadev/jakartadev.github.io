@@ -13,7 +13,7 @@ Artikel, links, ulasan, dikurasi oleh [@dedenf](https://twitter.com/dedenf). (ad
 Untuk content, akan dicoba diupdate setiap hari.
 
 ### Acknowledgement
-jakartaDEV menggunakan menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-now](https://github.com/barryclark/jekyll-now) sebagai theme dasar, dengan kostumasi seadanya.
+jakartaDEV menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-now](https://github.com/barryclark/jekyll-now) sebagai theme dasar, dengan kostumasi seadanya.
 
 jakartaDEV repo disimpan di [github.com](https://http://github.com/jakartadev/jakartadev.github.io), dan menggunakan fitur Github Pages untuk menampilkannya sebagai website host.
 

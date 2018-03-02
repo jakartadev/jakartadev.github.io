@@ -400,25 +400,48 @@ h2 {
   font-family: 'Lato', helvetica, 'sans-serif';
 }
 
+@media screen and (max-width: 640px) {
+  article.post {
+    margin: 70px 0;
+  }
+}
+@media screen and (max-width: 640px) {
+  article.post h1 {
+    text-align: center;
+    margin: 20px 0;
+  }
+}
+
+.entry ul li {
+  margin-bottom: 10px;
+  font-style: italic;
+  color: #888;
+}
+
 .entry ul li h4 {
-  margin: 0;
   padding: 0;
+  font-weight: normal;
 }
 
 .entry ul li p {
   margin: 0 0 10px 0;
 }
 
-.entry h4 a, .entry a, .entry ul li a {
-  font-family: "Patua One", cursive;
+.entry h4 a,
+.entry a,
+.entry ul li a {
+  font-family: "Open Sans", helvetica, sans-serif;
   font-weight: normal;
   font-size: 1em;
+  font-style: normal;
   line-height: 1.7;
   margin: 0;
   padding: 0;
 }
 @media screen and (max-width: 640px) {
-  .entry h4 a, .entry a, .entry ul li a {
+  .entry h4 a,
+  .entry a,
+  .entry ul li a {
     line-height: 1.4;
   }
 }
@@ -433,9 +456,15 @@ hr.post-break {
   border: none;
   width: 70%;
   height: .9px;
-  background-color: #cccccc;
+  background-color: #ccc;
   /* Modern Browsers */
-  margin: 50px 0;
+  margin: 70px 0;
+}
+@media screen and (max-width: 640px) {
+  hr.post-break {
+    text-align: center;
+    margin: 0 auto;
+  }
 }
 
 .highlight {

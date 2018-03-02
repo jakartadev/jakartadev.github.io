@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Mar 2018 18:27:19 +0700</pubDate>
-    <lastBuildDate>Thu, 01 Mar 2018 18:27:19 +0700</lastBuildDate>
+    <pubDate>Fri, 02 Mar 2018 16:07:01 +0700</pubDate>
+    <lastBuildDate>Fri, 02 Mar 2018 16:07:01 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;18</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext&quot;&gt;Why Code Comments Still Matter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://egghead.simplecast.fm/&quot;&gt;Egghead.io Developer Chats&lt;/a&gt; – fairly new podcast for developer &lt;em&gt;et al&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://react-etc.net/entry/rip-redux-dan-abramov-announces-future-fetcher&quot;&gt;RIP Redux: Dan Abramov announces future fetcher API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/&quot;&gt;Using Apache Kafka for Asynchronous Communication in Microservices&lt;/a&gt;  – good stuff&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://staltz.com/promises-are-not-neutral-enough.html&quot;&gt;Promises are not neutral enough&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf&quot;&gt;Why Flutter Uses Dart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c&quot;&gt;O API — an alternative to REST APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/schemaless-rewrite/&quot;&gt;Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 02 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-19/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-19/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;18</title>
@@ -120,17 +144,15 @@
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?utm_source=jeniustech&quot;&gt;The best architecture with Docker and Kubernetes — myth or reality?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2018/02/20/ruby-magic-syntactic-sugar-methods.html?utm_source=jeniustech&quot;&gt;Syntactic sugar methods in Ruby&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171139955345/v570?utm_source=jeniustech&quot;&gt;npm v5.7.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech&quot;&gt;Sinatra v2.0.1 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
-&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech&quot;&gt;Sinatra v2.0.1 released&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/requests-html?utm_source=jeniustech&quot;&gt;requests-html – HTML Parsing for Humans™ &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/NVIDIA/FastPhotoStyle?utm_source=jeniustech&quot;&gt;FastPhotoStyle – Style transfer, deep learning, feature transform&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/t4t5/sweetalert?utm_source=jeniustech&quot;&gt;SweetAlert – A beautiful replacement for JavaScript’s “alert”&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;events&quot;&gt;Events&lt;/h3&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/id-ruby/events/248049578/&quot;&gt;1st Online Meetup: Learning Ruby By Sharing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -211,7 +233,7 @@
   &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v6.13.0/&quot;&gt;Node v6.13.0 (LTS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
+&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.embulk.org/docs/&quot;&gt;Embulk – bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view – Kubernetes Operational View &lt;/a&gt;&lt;/li&gt;
@@ -384,7 +406,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://ayende.com/blog/181857-A/ravendb-4-0-is-out&quot;&gt;RavenDB 4.0 released&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
+&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/tech-radar&quot;&gt;Zalando Tech Radar&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jamesknelson/mdxc&quot;&gt;MDXC – React Components within Markdown&lt;/a&gt;&lt;/li&gt;
@@ -393,7 +415,7 @@ set -g base-index 1
   &lt;li&gt;&lt;a href=&quot;https://nact.io/&quot;&gt;Redux but for the server.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;event&quot;&gt;Event&lt;/h3&gt;
+&lt;h4 id=&quot;event&quot;&gt;Event&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/JakartaJS/events/247676332/&quot;&gt;JakartaJS February Meetup Special Edition with Ariya Hidayat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -403,58 +425,6 @@ set -g base-index 1
         <guid isPermaLink="true">http://localhost:4000/daily-digest-14/</guid>
         
         <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Issue &amp;#35;14</title>
-        <description>&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Rails 5.2: Active Storage and beyond&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.zachary.com/posts/how-to-data/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How I Manage My Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ruby.libhunt.com/&quot;&gt;A collection of awesome Ruby gems, tools, frameworks and software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How we improved webpack build performance by 95%&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/up-and-running-with-the-openshift-ansible-broker/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Up and Running with the OpenShift Ansible Broker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/prometheus-alerts-on-openshift/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Prometheus Alerts on OpenShift&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rdegges.com/2018/please-stop-using-local-storage/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Please Stop Using Local Storage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/practical-motivation-science/how-to-design-motivating-push-notifications-d25ef3874e42?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How to Design Motivating Push Notifications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/introducing-mongobot-a-slackbot-that-can-run-mongodb-queries-8dda660fa17e?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Mongobot: a Slackbot that can run MongoDB queries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@strapi/testing-your-npm-package-before-releasing-it-using-verdaccio-ngrok-28e2832c850a?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Testing your npm package before releasing it using Verdaccio + ngrok&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Node Clinic - A performance toolkit for Node.js developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://realpython.com/blog/python/python-memcache-efficient-caching/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Python + Memcached: Efficient Caching in Distributed Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@singhpratyush/the-taste-of-media-streaming-with-flask-cdce35908a50?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;The Taste of Media Streaming with Flask&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.5.0/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Node v9.5.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;code--tools&quot;&gt;Code &amp;amp; Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://trestle.io/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;trestle – A modern, responsive admin framework for Ruby on Rails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/e-oj/Fawn?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Fawn – Promise based Library for transactions in MongoDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/antonmedv/fx?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;fx – Command-line JSON processing tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/josecolella/Redis-With-JSON-Node?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Using Redis as a JSON store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/shopnilsazal/simple-bcrypt?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Simple-bcrypt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;event&quot;&gt;Event&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/KMKOnline/events/247377774/&quot;&gt;Speed coding competition #2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/Indonesia-Software-Quality-Assurance/events/247508635/&quot;&gt;GO-JEK x ISQA Present: Setting up mobile device lab in minutes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Deden Fathurahman (&lt;a href=&quot;https://github.com/dedenf/&quot;&gt;@dedenf&lt;/a&gt;), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/newsletter-issue-14/</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-14/</guid>
-        
-        <category>issue</category>
         
         <category>development</category>
         

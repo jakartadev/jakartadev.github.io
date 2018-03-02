@@ -350,14 +350,37 @@ input[type='email']
 h2 {font-family: 'Oswald', serif;font-size: 1.5rem; color: #AA4244}
 .start_form h3 {color: #555;font-family: 'Lato', helvetica, 'sans-serif';}
 
-// content
-.entry ul li {}
-.entry ul li h4{ margin:0;padding:0;}
-.entry ul li p{margin:0 0 10px 0;}
-.entry h4 a, .entry a, .entry ul li a {
-  font-family: "Patua One", cursive;
+// content entry for links
+article.post {
+  @include mobile {
+    margin: 70px 0;
+  }
+  h1 {
+    @include mobile {
+      text-align: center;
+      margin:20px 0;
+    }
+  }
+}
+.entry ul li {
+  margin-bottom: 10px;
+  font-style: italic;
+  color: #888;
+}
+.entry ul li h4{
+  padding:0;
+  font-weight: normal;
+}
+.entry ul li p{
+  margin:0 0 10px 0;
+}
+.entry h4 a, 
+.entry a, 
+.entry ul li a {
+  font-family: "Open Sans", helvetica, sans-serif;
   font-weight: normal;
   font-size: 1em;
+  font-style: normal;
   line-height: 1.7;
   margin: 0;
   padding: 0;
@@ -366,13 +389,22 @@ h2 {font-family: 'Oswald', serif;font-size: 1.5rem; color: #AA4244}
     line-height: 1.4;
   }
 }
-h1 time {font-size: 12px; font-weight: normal;font-style: normal;}
+
+h1 time {
+  font-size: 12px; 
+  font-weight: normal;
+  font-style: normal;
+}
 hr.post-break {
   border: none;
   width: 70%;
   height: .9px;
-  background-color: #cccccc; /* Modern Browsers */
-  margin:50px 0;
+  background-color: #ccc; /* Modern Browsers */
+  margin:70px 0;
+  @include mobile {
+    text-align:center; 
+    margin:0 auto;
+  }
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

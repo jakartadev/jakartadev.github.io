@@ -22,7 +22,7 @@ an opinion how to be an effective engineer.
 - [A Study on Email Marketing](https://www.linkedin.com/pulse/study-email-marketing-stephanie-seputra/?utm_source=jakartadev&utm_medium=newsletter)
 - [Copy-on-write friendly Python garbage collection](https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf?utm_source=jakartadev&utm_medium=newsletter)
 
-#### tools
+##### tools
 - [Element ready -- Detect when an element is ready in the DOM](https://github.com/sindresorhus/element-ready?utm_source=jakartadev&utm_medium=newsletter)
 - [Vuetify -- Material Component Framework](https://vuetifyjs.com/?utm_source=jakartadev&utm_medium=newsletter)
 - [Awesome Ruby -- list of awesome Ruby libraries](http://awesome-ruby.com/?utm_source=jakartadev&utm_medium=newsletter)

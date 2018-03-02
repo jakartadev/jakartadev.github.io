@@ -38,7 +38,6 @@ Satu sisi lain melihat CI dan Devops untuk product manager
 - [Learn the Kubernetes concept in 10 minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/)   
 - [Security Guide: How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/)   
 
-#### Tools
 - [Maltrail: Malicious traffic detection system](https://github.com/stamparm/maltrail)   
 - [Kahlan: Unit/BDD PHP Test Framework for Freedom, Truth, and Justice](https://github.com/crysalead/kahlan)
 - [Logatim: An isomorphic logger which implements log levels and ANSI 16 styles.](https://edravis.github.io/logatim/)   

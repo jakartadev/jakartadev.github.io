@@ -22,9 +22,6 @@ A wiki of Guides, Scripts, Tutorials related to devops
 - [Server hardening](https://www.linuxjournal.com/content/server-hardening)
 a very much needed for hardening your Linux server.
 - [Learn abut distributed system](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
-
-### Tools
-
 - [Slate](https://github.com/tripit/slate)
 Create beautiful API documentation
 - [Ahab](https://tech.instacart.com/ahab/)

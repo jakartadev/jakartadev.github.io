@@ -26,8 +26,6 @@ Cara Trello untuk skema SQLite database tabel update di app Android Trello
 
 - [Testing Your Drupal Site with Behat](https://www.phparch.com/2016/08/testing-your-drupal-site-with-behat/)
 
-### Tools
-
 - [ProxySQL](https://github.com/sysown/proxysql/releases) 
 sekarang versi 1.2.1 General Availability.
 
