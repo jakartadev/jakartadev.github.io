@@ -1,6 +1,6 @@
 ---
 layout: page
-title: jakartaDEV Newsletter
+title:  Newsletter
 permalink: /newsletters/
 ---
 <div id="mc_embed_signup" class="start_form">
@@ -16,7 +16,7 @@ permalink: /newsletters/
     </div>
 </form>
 </div>
-<p>JakartaDEV adalah <em>newsletter</em> yang dikirim hampir-mingguan, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.</p>
+<p>Newsletter dikirim hampir-mingguan, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.</p>
 <p>Fokus isi dari <em>newsletter</em> ini adalah hal yang teknikal dan atau informasi-informasi yang sedang berkembang saat ini, terutama bagi para developer.</p>
 
 <!-- <h4>Issue terakhir JakartaDEV <a href="{{ root_url }}{{ post.url }}">{{ post.title }} &rarr;</a> </h4> -->

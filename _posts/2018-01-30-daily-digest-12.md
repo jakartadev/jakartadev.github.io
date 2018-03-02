@@ -21,12 +21,12 @@ description: ""
 - [A set of best practices for JavaScript projects ](https://github.com/wearehive/project-guidelines)
 - [webpack 4 beta ](https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2)
 
-#### Tools & Code
+##### Tools & Code
 - [Fir -- the Friendly, Interactive Ruby REPL](https://www.nasseri.io/posts/2.html)
 - [Bootstrap 4](http://blog.getbootstrap.com/2018/01/18/bootstrap-4/)
 - [Karmatic -- Easy automatic browser testing](https://github.com/developit/karmatic)
 - [Headless Chrome Node API from Google](https://github.com/GoogleChrome/puppeteer)
 
 
-### Events
+#### Events
 - [ID-Ruby -- Meetup pertama 2018](https://www.meetup.com/id-ruby/events/246864926/)

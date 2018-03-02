@@ -1,0 +1,6 @@
+#!/bin/sh
+for file in _posts/*.md
+do
+  ./signpost $file
+  echo "Signed $file"
+done

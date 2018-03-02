@@ -26,11 +26,10 @@ description: ""
 - [npm v5.7.0 released](http://blog.npmjs.org/post/171139955345/v570?utm_source=jeniustech)
 - [Sinatra v2.0.1 released](http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech)
 
-### Tools & Codes
 - [requests-html -- HTML Parsing for Humans™ ](https://github.com/kennethreitz/requests-html?utm_source=jeniustech)
 - [FastPhotoStyle -- Style transfer, deep learning, feature transform](https://github.com/NVIDIA/FastPhotoStyle?utm_source=jeniustech)
 - [SweetAlert -- A beautiful replacement for JavaScript's "alert"](https://github.com/t4t5/sweetalert?utm_source=jeniustech)
 
-### Events
+#### Events
 - [1st Online Meetup: Learning Ruby By Sharing](https://www.meetup.com/id-ruby/events/248049578/)
 

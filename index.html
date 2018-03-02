@@ -10,18 +10,22 @@ title: Home
       <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  <time datetime="{{ post.date | date: "%B %e, %Y" }}"> &dash; {{ post.date | date: "%B %e, %Y" }}</time></h1>
       
       <div class="entry">
-        {% if post.teaser %}
+        {% if post.teaser != null %}
           <img src="{{ post.teaser }}">
         {% endif %}
         {% if post.content contains site.excerpt_separator %}
           {{ post.excerpt }}
         {% else %}
-        {{ post.content }}
+          {{ post.content }}
         {% endif %}
       </div>
       
       {% if post.content contains site.excerpt_separator %}
+        {% if post.type contains "digest" %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">more links &rarr;</a>
+        {% else %}
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">more &rarr;</a>
+        {% endif %}
       {% endif %}
 
     </article>

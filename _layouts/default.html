@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title and page.title != "Home" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <!-- <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Fjalla+One|Lobster|Oswald|Patua+One" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css?family=Saira+Condensed|Roboto|Lobster|Patua+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Saira+Condensed|Roboto|Lobster|Patua+One|Open+Sans" rel="stylesheet">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/apple-touch-icon-precomposed.png">
     <link rel="icon" type="image/png" href="{{ site.url }}/images/favicon.png">
 
@@ -49,7 +49,7 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
-          <div class="ack-footer">&copy; Copyright {{ 'now' | date: "%Y" }} -- jakartadev.org -- made with &hearts; <a href="https://github.com/dedenf">@dedenf</a></div>
+          <div class="ack-footer">&copy; Copyright {{ 'now' | date: "%Y" }} -- jakartadev.org -- made with &hearts; by <a href="https://github.com/dedenf">@dedenf</a></div>
         </footer>
       </div>
     </div>
