@@ -13,7 +13,7 @@
       {
         {
             "id": "/daily-digest-19",
-            "title": "Daily Digest #18",
+            "title": "Daily Digest #19",
             "content_html": "<ul>\n  <li><a href=\"https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext\">Why Code Comments Still Matter</a></li>\n  <li><a href=\"https://egghead.simplecast.fm/\">Egghead.io Developer Chats</a> – fairly new podcast for developer <em>et al</em>.</li>\n  <li><a href=\"https://react-etc.net/entry/rip-redux-dan-abramov-announces-future-fetcher\">RIP Redux: Dan Abramov announces future fetcher API</a></li>\n  <li><a href=\"https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/\">Using Apache Kafka for Asynchronous Communication in Microservices</a>  – good stuff</li>\n  <li><a href=\"https://staltz.com/promises-are-not-neutral-enough.html\">Promises are not neutral enough</a></li>\n  <li><a href=\"https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf\">Why Flutter Uses Dart</a></li>\n  <li><a href=\"https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c\">O API — an alternative to REST APIs</a></li>\n  <li><a href=\"https://eng.uber.com/schemaless-rewrite/\">Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore</a></li>\n</ul>\n",
             "url": "http://localhost:4000/daily-digest-19/",
             "summary": "",
