@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [Why uber engineering switched from postgres to mysql](https://eng.uber.com/mysql-migration/)   

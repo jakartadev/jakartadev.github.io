@@ -2,6 +2,7 @@
 layout: post
 title: Issue &#35;1
 type: newsletter
+publish: true
 ---
 
 Issue perdana Jakarta dev.

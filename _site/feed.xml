@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Mar 2018 17:14:56 +0700</pubDate>
-    <lastBuildDate>Fri, 02 Mar 2018 17:14:56 +0700</lastBuildDate>
+    <pubDate>Sat, 03 Mar 2018 18:40:06 +0700</pubDate>
+    <lastBuildDate>Sat, 03 Mar 2018 18:40:06 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;20</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/dev-tools-roundup-3&quot;&gt;Stackshare Dev Tools Roundup #3: February 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/standardized-user-management-with-scim/&quot;&gt;Standardized User Management With SCIM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joeyh.name/blog/entry/futures_of_distributions/&quot;&gt;Futures of distributions &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/machine-learning/crash-course/&quot;&gt;Machine learning crash course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tensorflow/tensorflow/releases/tag/v1.6.0&quot;&gt;TensorFlow 1.6.0 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/&quot;&gt;How Developers got Password Security so Wrong&lt;/a&gt; – makes us thinking&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-devs-need-to-know-about-encoding-encryption-hashing-salting-stretching-76a3da32e0fd&quot;&gt;What devs need to know about Encoding / Encryption / Hashing / Salting / Stretching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 03 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-20/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-20/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;19</title>
@@ -383,48 +406,6 @@ set -g base-index 1
         <guid isPermaLink="true">http://localhost:4000/newsletter-issue-15/</guid>
         
         <category>issue</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;14</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/top-developer-tools-2017&quot;&gt;Stackshare Top 50 Developer tools of 2017&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://research.hackerrank.com/developer-skills/2018/&quot;&gt;2018 Developer Skills Report&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum&quot;&gt;Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/think-think-think-before-you-code-52890a917ffd&quot;&gt;Think, think, think… before you code!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.apisyouwonthate.com/the-many-amazing-uses-of-json-schema-client-side-validation-c78a11fbde45&quot;&gt;The Many Amazing Uses of JSON Schema: Client-side Validation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/&quot;&gt;GraphQL as an API Gateway to Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/the-twelve-factors-kubernetes/&quot;&gt;The Twelve-Factors Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html&quot;&gt;Making 30x performance improvements on Yelp’s MySQLStreamer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/introducing-capsule-networks&quot;&gt;Introducing capsule networks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://engineering.appfolio.com/appfolio-engineering/2018/2/4/how-fast-is-ruby-250&quot;&gt;How Fast is Ruby 2.5.0?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4&quot;&gt;An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ayende.com/blog/181857-A/ravendb-4-0-is-out&quot;&gt;RavenDB 4.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/tech-radar&quot;&gt;Zalando Tech Radar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jamesknelson/mdxc&quot;&gt;MDXC – React Components within Markdown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kantord/just-dashboard&quot;&gt;Create dashboards using YAML/JSON files&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/rbspy/rbspy&quot;&gt;Rbspy – Sampling profiler for Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nact.io/&quot;&gt;Redux but for the server.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;event&quot;&gt;Event&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/JakartaJS/events/247676332/&quot;&gt;JakartaJS February Meetup Special Edition with Ariya Hidayat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 13 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-14/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-14/</guid>
-        
-        <category>daily</category>
         
         <category>development</category>
         

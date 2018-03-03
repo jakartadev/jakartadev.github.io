@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 - [Introduction to Docker Secrets](https://dzone.com/articles/introduction-to-docker-secrets)
 - [Docker for dummies](http://terraltech.com/docker-for-dummies/)

@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [The State of Microservices Today](http://blog.codeship.com/the-state-of-microservices-today/)

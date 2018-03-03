@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [Don't be fooled by 100% code coverage.](http://ordepdev.me/posts/code-coverage)

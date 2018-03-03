@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [Why Code Comments Still Matter](https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext)

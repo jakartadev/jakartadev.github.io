@@ -7,6 +7,7 @@ tags:
 publishDate: "2016-02-29"
 desc: ""
 type: newsletter
+publish: true
 ---
 
 ### News

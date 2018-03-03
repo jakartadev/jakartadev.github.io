@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-02T17:14:56+07:00</updated>
+ <updated>2018-03-03T18:40:06+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;20</title>
+   <link href="http://localhost:4000/daily-digest-20/"/>
+   <updated>2018-03-03T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-20</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/dev-tools-roundup-3&quot;&gt;Stackshare Dev Tools Roundup #3: February 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/standardized-user-management-with-scim/&quot;&gt;Standardized User Management With SCIM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joeyh.name/blog/entry/futures_of_distributions/&quot;&gt;Futures of distributions &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/machine-learning/crash-course/&quot;&gt;Machine learning crash course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tensorflow/tensorflow/releases/tag/v1.6.0&quot;&gt;TensorFlow 1.6.0 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/&quot;&gt;How Developers got Password Security so Wrong&lt;/a&gt; – makes us thinking&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-devs-need-to-know-about-encoding-encryption-hashing-salting-stretching-76a3da32e0fd&quot;&gt;What devs need to know about Encoding / Encryption / Hashing / Salting / Stretching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;19</title>
@@ -1510,7 +1527,7 @@ Satu sisi lain melihat CI dan Devops untuk product manager&lt;/li&gt;
    <title>Manajemen API dengan Kong part 1</title>
    <link href="http://localhost:4000/manajemen-api-dengan-kong-part-1/"/>
    <updated>2016-02-25T00:00:00+07:00</updated>
-   <id>http://localhost:4000/manajemen-api-dengan-kong-part-1 </id>
+   <id>http://localhost:4000/manajemen-api-dengan-kong-part-1</id>
    <content type="html">&lt;p&gt;Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
 Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi &lt;em&gt;security&lt;/em&gt; ataupun dari scalability.
 Disitulah &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; bisa dijadikan solusi untuk anda dalam mengatur API yang telah anda develop.&lt;/p&gt;

@@ -7,6 +7,7 @@ tags:
 publishDate: "2018-02-06"
 desc: "Jakartadev #14 edition"
 type: newsletter
+publish: true
 ---
 
 #### Reading list

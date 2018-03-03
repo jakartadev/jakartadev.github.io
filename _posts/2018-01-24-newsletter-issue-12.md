@@ -7,6 +7,7 @@ tags:
 publishDate: "2018-01-24"
 desc: "Jakartadev #12 edition"
 type: newsletter
+publish: true
 ---
 
 Happy wednesday!

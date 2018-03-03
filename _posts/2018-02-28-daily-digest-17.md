@@ -5,6 +5,7 @@ type: digest
 tags: 
     - daily
     - development
+publish: true
 description: "today is awesome day"
 ---
 

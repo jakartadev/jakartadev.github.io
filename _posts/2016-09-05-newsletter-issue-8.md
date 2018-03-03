@@ -7,6 +7,7 @@ tags:
 publishDate: "2016-09-05"
 desc: ""
 type: newsletter
+publish: true
 ---
 
 

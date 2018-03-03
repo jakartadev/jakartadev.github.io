@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [Linux flaw may be fixed, what about linux container?](http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html)

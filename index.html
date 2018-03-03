@@ -5,6 +5,7 @@ title: Home
 <div class"posts">
   {% for post in paginator.posts %}
     {% if post.type == "digest" or post.type == "blog" %}
+    {% if post.publish == true %}
     <article class="post">
 
       <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  <time datetime="{{ post.date | date: "%B %e, %Y" }}"> &dash; {{ post.date | date: "%B %e, %Y" }}</time></h1>
@@ -27,10 +28,17 @@ title: Home
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">more &rarr;</a>
         {% endif %}
       {% endif %}
-
+      
     </article>
     <hr class="post-break" />
+    
+    {% else %}
+      <h1>coredump error...</h1>
     {% endif %}
+
+    {% endif %}
+
+   
 
   {% endfor %}
 </div>

@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [What habits made me a better Software Engineer?](https://hackernoon.com/what-habits-made-me-a-better-software-engineer-47e7d54b8fa)

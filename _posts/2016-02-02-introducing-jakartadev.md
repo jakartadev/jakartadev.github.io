@@ -2,6 +2,7 @@
 layout: post
 title: Introducing JakartaDEV
 type: blog
+publish: true
 ---
 
 JakartaDEV adalah _newsletter_ yang dikirim _hampir-mingguan_, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.
