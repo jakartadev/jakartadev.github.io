@@ -7,6 +7,7 @@ tags:
 publishDate: "2016-08-15"
 desc: ""
 type: newsletter
+publish: true
 ---
 
 ### Berita

@@ -5,7 +5,9 @@ type: digest
 tags: 
     - daily
     - development
+publish: true
 description: ""
+publish: true
 ---
 
 - [Rails 5.1.5, parallel testing and more!](http://weblog.rubyonrails.org/2018/2/17/this-week-in-rails-rails-5-1-5-parallel-testing-and-more/)

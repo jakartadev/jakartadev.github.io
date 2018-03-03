@@ -7,6 +7,7 @@ tags:
 publishDate: "2017-11-20"
 desc: "Jakartadev #10 edition"
 type: newsletter
+publish: true
 ---
 
 ### Artikel

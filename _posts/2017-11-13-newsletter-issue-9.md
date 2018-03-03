@@ -7,6 +7,7 @@ tags:
 publishDate: "2017-11-13"
 desc: ""
 type: newsletter
+publish: true
 ---
 
 Lama tidak meng-<i>update</i> 

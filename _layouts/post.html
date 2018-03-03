@@ -10,7 +10,9 @@ layout: default
     {{ content }}
   </div>
   <div>
-    <p class="date">Curated by <a href="https://github.com/dedenf/">Deden Fathurahman</a>, feedback please send to dedenf@jakartadev.org or dedenf@gmail.com </p>
+    <p class="date">Curated by <a href="https://github.com/dedenf/">Deden Fathurahman</a>, feedback please send to dedenf@jakartadev.org or dedenf@gmail.com <br>
+      <em>check <a href="https://raw.githubusercontent.com/jakartadev/jakartadev.github.io/master/signed/{{ page.path | remove_first: '_posts/' }}.asc">post hash</a> and verify at <a href="https://keybase.io/verify">keybase</a>.</em>  
+    </p>
   </div>
   <div class="date">
     Published on {{ page.date | date: "%B %e, %Y" }}

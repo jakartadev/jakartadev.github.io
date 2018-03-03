@@ -7,6 +7,7 @@ tags:
 publishDate: "2018-01-02"
 desc: "Jakartadev #11 edition"
 type: newsletter
+publish: true
 ---
 
 Happy new year! mudah-mudahan 2018 ini bisa lebih fokus _publish_ newsletter.

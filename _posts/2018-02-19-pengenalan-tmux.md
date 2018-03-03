@@ -7,6 +7,7 @@ tags:
 publishDate: "2018-02-19"
 desc: ""
 type: blog
+publish: true
 teaser: /public/images/posts/tmux.png
 ---
 

@@ -7,6 +7,7 @@ tags:
 publishDate: "2017-11-17"
 desc: ""
 type: blog
+publish: true
 ---
 
 Jakartadev saat ini menjadi _pet project_ saya untuk menginformasikan dunia development, dan juga menginformasikan _tools_ atau berita yang ada di dunia development yang saya kurasi sendiri, dan juga diambil inti dari artikelnya.

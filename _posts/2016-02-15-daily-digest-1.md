@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [MariaDB 5.5.48 dan MariaDB Connector/J 1.3.5 dirilis](https://mariadb.org/mariadb-5-5-48-and-connectorj-1-3-5-now-available/)

@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [Rilis PHP 7.1.0](http://php.net/index.php#id2016-08-18-3)

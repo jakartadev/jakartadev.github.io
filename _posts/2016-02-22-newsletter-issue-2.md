@@ -2,6 +2,7 @@
 layout: post
 title: Issue &#35;2
 type: newsletter
+publish: true
 ---
 
 ### News

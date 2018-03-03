@@ -7,6 +7,7 @@ tags:
 publishDate: "2018-01-30"
 desc: "Jakartadev #13 edition"
 type: newsletter
+publish: true
 ---
 
 #### Artikel

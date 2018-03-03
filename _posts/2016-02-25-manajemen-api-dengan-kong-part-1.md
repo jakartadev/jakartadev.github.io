@@ -8,6 +8,7 @@ tags:
 publishDate: "2016-02-26"
 desc: ""
 type: blog
+publish: true
 ---
 
 Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.

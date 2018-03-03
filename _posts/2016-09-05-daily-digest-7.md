@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [exclusive inside look at how artificial intelligence and machine learning work at Apple](https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.y1b0uzjky)

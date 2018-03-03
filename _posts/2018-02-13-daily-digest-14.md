@@ -6,6 +6,7 @@ tags:
     - daily
     - development
 description: ""
+publish: true
 ---
 
 - [Stackshare Top 50 Developer tools of 2017](https://stackshare.io/posts/top-developer-tools-2017)
