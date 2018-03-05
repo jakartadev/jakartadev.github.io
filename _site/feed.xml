@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Mar 2018 11:55:48 +0700</pubDate>
-    <lastBuildDate>Mon, 05 Mar 2018 11:55:48 +0700</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 11:57:55 +0700</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 11:57:55 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;22</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=jakartadev_org&quot;&gt;HotSwap: Bringing hot code reloading to Buck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/big-fast-easy-data-with-ksql&quot;&gt;Big, fast, easy data with KSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/monitor-istio/&quot;&gt;How to monitor Istio, the Kubernetes service mesh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e&quot;&gt;How to build a deep learning model in 15 minutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/&quot;&gt;Meet Bandaid, the Dropbox service proxy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-the-godfather-of-cyberpunk-would-write-software-aaaa0f2155c7&quot;&gt;How the Godfather of Cyberpunk would write software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases&quot;&gt;Our Favorite Elasticsearch Features: Part 2 - Index Aliases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 05 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-22/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-22/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;21</title>
@@ -296,92 +319,6 @@
         <category>daily</category>
         
         <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pengenalan tmux</title>
-        <description>&lt;p&gt;Sering menggunakan banyak window atau tab? misalkan membuka &lt;code class=&quot;highlighter-rouge&quot;&gt;vim&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh&lt;/code&gt; ke server, koneksi ke database server, &lt;code class=&quot;highlighter-rouge&quot;&gt;docker&lt;/code&gt; di tab yang lain, dan akhirnya akan banyak tab atau &lt;em&gt;window&lt;/em&gt; yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.&lt;/p&gt;
-
-&lt;p&gt;Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh &lt;a href=&quot;https://tmux.github.io/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt; atau Terminal Multiplexer, sebuah &lt;em&gt;command line tool&lt;/em&gt; yang berguna diantaranya untuk,
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Mengatur multiple window/pane dalam satu window terminal.&lt;/li&gt;
-  &lt;li&gt;Mengatur session dalam terminal tersebut.&lt;/li&gt;
-  &lt;li&gt;Mencegah session yang hilang karena tidak sengaja menutup aplikasi terminal.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;dan kegunaan lainnya, untuk &lt;em&gt;sysadmin&lt;/em&gt; dan &lt;em&gt;developer&lt;/em&gt; hal ini akan sangat membantu.&lt;/p&gt;
-
-&lt;h4 id=&quot;memulai&quot;&gt;Memulai&lt;/h4&gt;
-&lt;p&gt;Untuk memulai menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;, install terlebih dahulu aplikasinya melalui &lt;code class=&quot;highlighter-rouge&quot;&gt;brew&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;apt&lt;/code&gt; atau package manager yang ada, &lt;code class=&quot;highlighter-rouge&quot;&gt;$ brew install tmux&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Setelah berhasil diinstall, jalankan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt; di terminal&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ tmux&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Di terminal akan muncul seperti ini (note: terminal ini menggunakan iTerm)
-&lt;img src=&quot;/public/images/posts/tmux.png&quot; alt=&quot;tmux&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;di sini session tmux server sudah jalan, dan kita bisa memanggil banyak tmux session yang akan hidup dalam server tersebut.&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ tmux list-sessions
-0: 2 windows (created Tue Jan 30 11:28:59 2018) [133x38] (attached)
-1: 1 windows (created Tue Jan 30 14:23:28 2018) [204x69]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Perintah di atas adalah untuk melihat session yang aktif di tmux saat ini, ini bisa menjadi banyak ketika kita membuka banyak session tmux, lakukan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt; di window lain dan akan terdaftar jika kita melakukan &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux list-sessions&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;mengatur-session&quot;&gt;Mengatur session&lt;/h4&gt;
-&lt;p&gt;Untuk mengatur session di dalam tmux, ada perintah yang bisa digunakan, diantaranya:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + c&lt;/code&gt; membuka tab baru di session tmux yang sedang aktif&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + [0,1,etc]&lt;/code&gt; untuk pindah dari tab satu ke tab lain, sesuai dengan sekuen-nya.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + x&lt;/code&gt; untuk menutup tab yang sedang aktif&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + d&lt;/code&gt; untuk detach dari tmux session yang aktif, dan kembali ke normal &lt;em&gt;command line interface&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt;&lt;/code&gt; default yang dipakai oleh tmux adalah &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+b&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + c&lt;/code&gt; misalkan untuk membuka tab baru.&lt;/p&gt;
-
-&lt;p&gt;Dan untuk mengatur session tmux sendiri salah satunya &lt;code class=&quot;highlighter-rouge&quot;&gt;list-sessions&lt;/code&gt; seperti yang dibahas di atas, peritah lain antara lain:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux kill-session -t nomor-session&lt;/code&gt; akan menutup session nomor x yang ditulis.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux attach-session -t nomor-session&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux a&lt;/code&gt; akan memanggil session yang sebelumnya sudah di&lt;em&gt;detach&lt;/em&gt; atau memanggil session tmux yang terakhir digunakan.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;dan masih banyak perintah lainnya yang bisa di&lt;em&gt;explore&lt;/em&gt; untuk mengatur tmux.&lt;/p&gt;
-
-&lt;h4 id=&quot;kostumasi-tmux&quot;&gt;Kostumasi tmux&lt;/h4&gt;
-&lt;p&gt;Tmux bisa dikostumasi sesuai dengan kebutuhan kita, yang biasanya banyak dikostumasi ada prefix yang digunakan, karena &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+b&lt;/code&gt; terkadang tidak kompatibel dengan vim, kita bisa mengganti dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+a&lt;/code&gt;, juga untuk sekuen dari tab/window tmux yang default-nya dimulai di sekuen &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt;, diubah menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;1&lt;/code&gt; agar lebih gampang mengaturnya.&lt;/p&gt;
-
-&lt;p&gt;kita bisa memulai kostumasi di file konfigurasi tmux, yang terletak biasanya di home folder, jika tidak ada, bisa mulai dengan membuat file &lt;code class=&quot;highlighter-rouge&quot;&gt;.tmux.conf&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ vim ~/.tmux.conf&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;tambahkan baris berikut&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# unbind ctrl+b, ubah ke ctrl+a
-unbind C-b
-set-option -g prefix C-a
-bind-key C-a send-prefix
-
-# atur agar sekuen dimulai dari 1
-set -g base-index 1
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Hasil tampilan terminal dari hasil setting konfigurasi &lt;code class=&quot;highlighter-rouge&quot;&gt;.tmux.conf&lt;/code&gt; di atas seperti di bawah.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/images/posts/tmux2.png&quot; alt=&quot;tmux new setting&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;source bisa dilihat di repo &lt;a href=&quot;https://github.com/jeniusTeam/dotfiles&quot;&gt;dotfiles&lt;/a&gt; Jenius Tech team (repo ini akan bertambah dengan dotfiles aplikasi lain).&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/pengenalan-tmux/</link>
-        <guid isPermaLink="true">http://localhost:4000/pengenalan-tmux/</guid>
-        
-        <category>development</category>
-        
-        <category>jakartadev</category>
         
         
       </item>

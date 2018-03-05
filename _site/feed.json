@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-22",
+            "title": "Daily Digest #22",
+            "content_html": "<ul>\n  <li><a href=\"https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=jakartadev_org\">HotSwap: Bringing hot code reloading to Buck</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/big-fast-easy-data-with-ksql\">Big, fast, easy data with KSQL</a></li>\n  <li><a href=\"https://sysdig.com/blog/monitor-istio/\">How to monitor Istio, the Kubernetes service mesh</a></li>\n  <li><a href=\"https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e\">How to build a deep learning model in 15 minutes</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/\">Meet Bandaid, the Dropbox service proxy</a></li>\n  <li><a href=\"https://hackernoon.com/how-the-godfather-of-cyberpunk-would-write-software-aaaa0f2155c7\">How the Godfather of Cyberpunk would write software</a></li>\n  <li><a href=\"https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases\">Our Favorite Elasticsearch Features: Part 2 - Index Aliases</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-22/",
+            "summary": "",
+            "date_published": "2018-03-05 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-21",
             "title": "Daily Digest #21",
             "content_html": "<ul>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadev_org\">How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies</a></li>\n  <li><a href=\"https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev_org\">What to expect when you decide to migrate from Javascript to Typescript</a></li>\n  <li><a href=\"https://blog.sqreen.io/asyncio/?utm_source=jakartadev_org\">Context information storage for asyncio</a></li>\n  <li><a href=\"https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage?utm_source=jakartadev_org\">Future Proofing Our Cloud Storage Usage</a></li>\n  <li><a href=\"https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f?utm_source=jakartadev_org\">What I learnt from building 3 high traffic web applications on an embedded key value store.</a></li>\n  <li><a href=\"https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20?utm_source=jakartadev_org\">The dramatic impersonation : a developer horror tale</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev_org\">It’s Resilient CSS Week</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-18/",
             "summary": "it’s a rainy day!",
             "date_published": "2018-03-01 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-17",
-            "title": "Daily Digest #17",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/kamranahmedse/developer-roadmap\">Web developer roadmap for 2018</a> – cool map</li>\n  <li><a href=\"https://medium.com/@mwarcholinski/the-truth-about-estimating-software-development-time-story-13f3059d2e04\">The Truth about Estimating Software Development Time [story]</a></li>\n  <li><a href=\"http://blog.benjamin-encz.de/post/flavors-of-engineering-management/\">Flavors of Engineering Management</a> – three flavor of engineering management.</li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-17/",
-            "summary": "today is awesome day",
-            "date_published": "2018-02-28 00:00:00 +0700"
         }
 
     ]
