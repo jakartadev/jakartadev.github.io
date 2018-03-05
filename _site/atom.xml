@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-05T11:39:50+07:00</updated>
+ <updated>2018-03-05T11:46:25+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -17,7 +17,10 @@
    <link href="http://localhost:4000/daily-digest-22/"/>
    <updated>2018-03-05T00:00:00+07:00</updated>
    <id>http://localhost:4000/daily-digest-22</id>
-   <content type="html">
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=jakartadev_org&quot;&gt;HotSwap: Bringing hot code reloading to Buck
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
@@ -27,13 +30,13 @@
    <updated>2018-03-04T00:00:00+07:00</updated>
    <id>http://localhost:4000/daily-digest-21</id>
    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/&quot;&gt;What to expect when you decide to migrate from Javascript to Typescript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.io/asyncio/&quot;&gt;Context information storage for asyncio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage&quot;&gt;Future Proofing Our Cloud Storage Usage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f&quot;&gt;What I learnt from building 3 high traffic web applications on an embedded key value store.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20&quot;&gt;The dramatic impersonation : a developer horror tale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/02/its-resilient-css-week/&quot;&gt;It’s Resilient CSS Week&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadev_org&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev_org&quot;&gt;What to expect when you decide to migrate from Javascript to Typescript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.io/asyncio/?utm_source=jakartadev_org&quot;&gt;Context information storage for asyncio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage?utm_source=jakartadev_org&quot;&gt;Future Proofing Our Cloud Storage Usage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f?utm_source=jakartadev_org&quot;&gt;What I learnt from building 3 high traffic web applications on an embedded key value store.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20?utm_source=jakartadev_org&quot;&gt;The dramatic impersonation : a developer horror tale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev_org&quot;&gt;It’s Resilient CSS Week&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
