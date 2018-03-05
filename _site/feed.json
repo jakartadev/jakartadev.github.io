@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/daily-digest-22",
+            "title": "Daily Digest #22",
+            "content_html": "\n",
+            "url": "http://localhost:4000/daily-digest-22/",
+            "summary": "",
+            "date_published": "2018-03-05 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-21",
+            "title": "Daily Digest #21",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/\">How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies</a></li>\n  <li><a href=\"https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/\">What to expect when you decide to migrate from Javascript to Typescript</a></li>\n  <li><a href=\"https://blog.sqreen.io/asyncio/\">Context information storage for asyncio</a></li>\n  <li><a href=\"https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage\">Future Proofing Our Cloud Storage Usage</a></li>\n  <li><a href=\"https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f\">What I learnt from building 3 high traffic web applications on an embedded key value store.</a></li>\n  <li><a href=\"https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20\">The dramatic impersonation : a developer horror tale</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/02/its-resilient-css-week/\">It’s Resilient CSS Week</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-21/",
+            "summary": "",
+            "date_published": "2018-03-04 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-20",
             "title": "Daily Digest #20",
             "content_html": "<ul>\n  <li><a href=\"https://stackshare.io/posts/dev-tools-roundup-3\">Stackshare Dev Tools Roundup #3: February 2018</a></li>\n  <li><a href=\"https://nordicapis.com/standardized-user-management-with-scim/\">Standardized User Management With SCIM</a></li>\n  <li><a href=\"https://joeyh.name/blog/entry/futures_of_distributions/\">Futures of distributions </a></li>\n  <li><a href=\"https://developers.google.com/machine-learning/crash-course/\">Machine learning crash course</a></li>\n  <li><a href=\"https://github.com/tensorflow/tensorflow/releases/tag/v1.6.0\">TensorFlow 1.6.0 released</a></li>\n  <li><a href=\"https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/\">How Developers got Password Security so Wrong</a> – makes us thinking</li>\n  <li><a href=\"https://hackernoon.com/what-devs-need-to-know-about-encoding-encryption-hashing-salting-stretching-76a3da32e0fd\">What devs need to know about Encoding / Encryption / Hashing / Salting / Stretching</a></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "http://localhost:4000/daily-digest-18/",
             "summary": "it’s a rainy day!",
             "date_published": "2018-03-01 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-17",
-            "title": "Daily Digest #17",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/kamranahmedse/developer-roadmap\">Web developer roadmap for 2018</a> – cool map</li>\n  <li><a href=\"https://medium.com/@mwarcholinski/the-truth-about-estimating-software-development-time-story-13f3059d2e04\">The Truth about Estimating Software Development Time [story]</a></li>\n  <li><a href=\"http://blog.benjamin-encz.de/post/flavors-of-engineering-management/\">Flavors of Engineering Management</a> – three flavor of engineering management.</li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-17/",
-            "summary": "today is awesome day",
-            "date_published": "2018-02-28 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/newsletter-issue-17",
-            "title": "Issue #17",
-            "content_html": "<h4 id=\"reading-list\">Reading list</h4>\n<ul>\n  <li><a href=\"https://deliveroo.engineering/2018/02/21/application-deployment.html?utm_source=jeniustech\">Application Deployment at Deliveroo</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/build-a-recurrent-neural-network-using-apache-mxnet?utm_source=jeniustech\">Build a recurrent neural network using Apache MXNet</a></li>\n  <li><a href=\"https://www.pubnub.com/blog/what-is-functions-as-a-service-faas/?utm_source=jeniustech\">What’s All the FaaS About?</a></li>\n  <li><a href=\"https://hackernoon.com/chroot-the-magical-healing-powers-of-the-original-linux-virtualization-tool-9aa4c3928711?utm_source=jeniustech\">Chroot: the magical healing powers of the original Linux virtualization tool</a></li>\n  <li><a href=\"https://blog.minio.io/iot-data-storage-and-analysis-with-fluentd-minio-and-spark-26f183381183?utm_source=jeniustech\">IoT data storage and analysis with Fluentd, Minio and Spark</a></li>\n  <li><a href=\"https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=jeniustech\">How production engineers support global events on Facebook</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/?utm_source=jeniustech\">Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2</a></li>\n  <li><a href=\"https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43?utm_source=jeniustech\">Running a scalable &amp; reliable GraphQL endpoint with Serverless</a></li>\n  <li><a href=\"https://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/?utm_source=jeniustech\">How Algolia built their frontend search widgets with React.js by following redux principles</a></li>\n  <li><a href=\"https://tech.showmax.com/2018/02/how-showmax-got-into-live-streaming/\">How Showmax got into live streaming</a></li>\n  <li><a href=\"https://towardsdatascience.com/visualizing-archer-bcb80e319625?utm_source=jeniustech\">Visualizing Archer</a></li>\n  <li><a href=\"https://sysdig.com/blog/kubernetes-scaler/?utm_source=jeniustech\"> How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics </a></li>\n  <li><a href=\"https://blog.codeship.com/continuous-delivery-for-static-sites/?utm_source=jeniustech\">Continuous Delivery for Static Sites</a></li>\n  <li><a href=\"https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?utm_source=jeniustech\">The best architecture with Docker and Kubernetes — myth or reality?</a></li>\n  <li><a href=\"https://blog.appsignal.com/2018/02/20/ruby-magic-syntactic-sugar-methods.html?utm_source=jeniustech\">Syntactic sugar methods in Ruby</a></li>\n</ul>\n\n<h4 id=\"news\">News</h4>\n<ul>\n  <li><a href=\"http://blog.npmjs.org/post/171139955345/v570?utm_source=jeniustech\">npm v5.7.0 released</a></li>\n  <li><a href=\"http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech\">Sinatra v2.0.1 released</a></li>\n</ul>\n\n<h4 id=\"news--codes\">News &amp; Codes</h4>\n<ul>\n  <li><a href=\"https://github.com/kennethreitz/requests-html?utm_source=jeniustech\">requests-html – HTML Parsing for Humans™ </a></li>\n  <li><a href=\"https://github.com/NVIDIA/FastPhotoStyle?utm_source=jeniustech\">FastPhotoStyle – Style transfer, deep learning, feature transform</a></li>\n  <li><a href=\"https://github.com/t4t5/sweetalert?utm_source=jeniustech\">SweetAlert – A beautiful replacement for JavaScript’s “alert”</a></li>\n</ul>\n\n<h4 id=\"events\">Events</h4>\n<ul>\n  <li><a href=\"https://www.meetup.com/id-ruby/events/248049578/\">1st Online Meetup: Learning Ruby By Sharing</a></li>\n</ul>\n\n<p>These newsletter curated by Deden Fathurahman (<a href=\"https://github.com/dedenf/\">@dedenf</a>), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com</p>\n",
-            "url": "http://localhost:4000/newsletter-issue-17/",
-            "summary": "",
-            "date_published": "2018-02-27 00:00:00 +0700"
         }
 
     ]
