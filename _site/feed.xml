@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Mar 2018 18:55:56 +0700</pubDate>
-    <lastBuildDate>Sat, 03 Mar 2018 18:55:56 +0700</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 11:55:48 +0700</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 11:55:48 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;21</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadev_org&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev_org&quot;&gt;What to expect when you decide to migrate from Javascript to Typescript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.io/asyncio/?utm_source=jakartadev_org&quot;&gt;Context information storage for asyncio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage?utm_source=jakartadev_org&quot;&gt;Future Proofing Our Cloud Storage Usage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f?utm_source=jakartadev_org&quot;&gt;What I learnt from building 3 high traffic web applications on an embedded key value store.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20?utm_source=jakartadev_org&quot;&gt;The dramatic impersonation : a developer horror tale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev_org&quot;&gt;It’s Resilient CSS Week&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 04 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-21/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-21/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;20</title>
@@ -359,55 +382,6 @@ set -g base-index 1
         <category>development</category>
         
         <category>jakartadev</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Issue &amp;#35;15</title>
-        <description>&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/top-developer-tools-2017&quot;&gt;Stackshare Top 50 Developer tools of 2017&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://research.hackerrank.com/developer-skills/2018/&quot;&gt;2018 Developer Skills Report&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum&quot;&gt;Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/think-think-think-before-you-code-52890a917ffd&quot;&gt;Think, think, think… before you code!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.apisyouwonthate.com/the-many-amazing-uses-of-json-schema-client-side-validation-c78a11fbde45&quot;&gt;The Many Amazing Uses of JSON Schema: Client-side Validation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/&quot;&gt;GraphQL as an API Gateway to Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/the-twelve-factors-kubernetes/&quot;&gt;The Twelve-Factors Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html&quot;&gt;Making 30x performance improvements on Yelp’s MySQLStreamer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/introducing-capsule-networks&quot;&gt;Introducing capsule networks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://engineering.appfolio.com/appfolio-engineering/2018/2/4/how-fast-is-ruby-250&quot;&gt;How Fast is Ruby 2.5.0?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4&quot;&gt;An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ayende.com/blog/181857-A/ravendb-4-0-is-out&quot;&gt;RavenDB 4.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/tech-radar&quot;&gt;Zalando Tech Radar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jamesknelson/mdxc&quot;&gt;MDXC – React Components within Markdown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kantord/just-dashboard&quot;&gt;Create dashboards using YAML/JSON files&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/rbspy/rbspy&quot;&gt;Rbspy – Sampling profiler for Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nact.io/&quot;&gt;Redux but for the server.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;event&quot;&gt;Event&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/JakartaJS/events/247676332/&quot;&gt;JakartaJS February Meetup Special Edition with Ariya Hidayat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Deden Fathurahman (&lt;a href=&quot;https://github.com/dedenf/&quot;&gt;@dedenf&lt;/a&gt;), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/newsletter-issue-15/</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-15/</guid>
-        
-        <category>issue</category>
-        
-        <category>development</category>
         
         
       </item>
