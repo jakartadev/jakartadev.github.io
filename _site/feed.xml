@@ -5,9 +5,73 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Mar 2018 11:57:55 +0700</pubDate>
-    <lastBuildDate>Mon, 05 Mar 2018 11:57:55 +0700</lastBuildDate>
+    <pubDate>Tue, 06 Mar 2018 13:43:14 +0700</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 13:43:14 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Issue &amp;#35;18</title>
+        <description>&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/chaos-engineering-using-amazon-ec2-systems-manager-5278e0bc8482?utm_source=jakartadev&quot;&gt;Chaos Engineering using Amazon EC2 Systems Manager&lt;/a&gt; – commencing chaos engineering using amazon ecosystem.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.yld.io/2018/02/19/reuse/?utm_source=jakartadev&quot;&gt;Making a component reusable&lt;/a&gt; – an opinionated approach how to reuse component when develop something.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/what-cant-react-do/?utm_source=jakartadev&quot;&gt;What Can’t React Do?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/schemaless-rewrite/?utm_source=jakartadev&quot;&gt;Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/?utm_source=jakartadev&quot;&gt;A Practical Introduction to Container Terminology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/event-driven-architecture-implementation-140c51820845?utm_source=jakartadev&quot;&gt;Event-Driven Architecture Implementation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/?utm_source=jakartadev&quot;&gt;Validating Leaked Passwords with k-Anonymity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/?utm_source=jakartadev&quot;&gt;How Developers got Password Security so Wrong&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.novoda.com/blog/arkit-coreml/?utm_source=jakartadev&quot;&gt;Making AR more precise with CoreML&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadevorg&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev&quot;&gt;What to expect when you decide to migrate from Javascript to Typescript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev&quot;&gt;It’s Resilient CSS Week&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf&quot;&gt;Implementing Microservice Discovery in 100 Lines of Node.js &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kinsta.com/blog/php-7-hhvm-benchmarks/?utm_source=jakartadev&quot;&gt;The Definitive PHP 5.6, 7.0, 7.1, 7.2 &amp;amp; HHVM Benchmarks&lt;/a&gt; – And updated benchmark for multiple PHP version.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.7.0/&quot;&gt;Node v9.7.0 (Current) released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wallaroolabs/wallaroo&quot;&gt;Wallaroo – Ultrafast and elastic data processing.&lt;/a&gt; – i’m looking forward to test this.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ethanent/coroute&quot;&gt;🚀 The awesome Node.js HTTP reverse-proxy server.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sahilnarain/aws-api-gateway-log-parser&quot;&gt;AWS API Gateway Log Parser.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/queryparser/&quot;&gt;Queryparser, an Open Source Tool for Parsing and Analyzing SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zricethezav/gitleaks&quot;&gt;Searches full repo history for secrets and keys 🔑&lt;/a&gt; – sometimes developer forgot the put it on &lt;code class=&quot;highlighter-rouge&quot;&gt;.env&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 06 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/newsletter-issue-18/</link>
+        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-18/</guid>
+        
+        <category>issue</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;23</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/&quot;&gt;OpenAPI–An eBay Perspective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-easily-start-automatically-testing-your-website-8629ea8df04a&quot;&gt;The easy way to start automatically testing your website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 06 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-23/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-23/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;22</title>
@@ -230,91 +294,6 @@
         <pubDate>Tue, 27 Feb 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-16/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-16/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Issue &amp;#35;16</title>
-        <description>&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2018/2/17/this-week-in-rails-rails-5-1-5-parallel-testing-and-more/&quot;&gt;Rails 5.1.5, parallel testing and more!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/&quot;&gt;Email is your electronic memory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linuxatemyram.com/&quot;&gt;Linux ate my RAM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa&quot;&gt;Flutter — 5 reasons why you may love it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e&quot;&gt;Why so Many Developers Quit Before Ever Getting a Job. Please — don’t&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c&quot;&gt;Who Killed The Junior Developer?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://looselytyped.com/blog/2018/02/07/docker-tip-1-docker-aliases/&quot;&gt;Docker Tip #1 — Docker Aliases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://recycledpapyr.us/2018/02/07/docker-image-building-lessons-learned/&quot;&gt;Docker Image Building – Lessons learned&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/&quot;&gt;GraphQL as an API Gateway to Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hanselman.com/blog/WhyShouldICareAboutKubernetesDockerAndContainerOrchestration.aspx&quot;&gt;Why should I care about Kubernetes, Docker, and Container Orchestration?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://heydesigner.com/blog/best-practices-modals-overlays-dialog-windows/&quot;&gt;Best Practices for Modals / Overlays / Dialog Windows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2018/2/14/Rails-5-1-5-has-been-released/&quot;&gt;Rails 5.1.5 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v6.13.0/&quot;&gt;Node v6.13.0 (LTS)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.embulk.org/docs/&quot;&gt;Embulk – bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view – Kubernetes Operational View &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ahmetb/kubectx&quot;&gt;kubectx – Fast way to switch between clusters and namespaces in kubectl&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Osedea/nodock&quot;&gt;No Dock – Docker Compose for Node project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/console-probe&quot;&gt;console-probe – Inspect JavaScript object methods and properties in the console&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stimulusjs.org/&quot;&gt;Stimulusjs – a javascript framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Deden Fathurahman (&lt;a href=&quot;https://github.com/dedenf/&quot;&gt;@dedenf&lt;/a&gt;), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/newsletter-issue-16/</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-16/</guid>
-        
-        <category>issue</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;15</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2018/2/17/this-week-in-rails-rails-5-1-5-parallel-testing-and-more/&quot;&gt;Rails 5.1.5, parallel testing and more!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/&quot;&gt;Email is your electronic memory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linuxatemyram.com/&quot;&gt;Linux ate my RAM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa&quot;&gt;Flutter — 5 reasons why you may love it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e&quot;&gt;Why so Many Developers Quit Before Ever Getting a Job. Please — don’t&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c&quot;&gt;Who Killed The Junior Developer?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://looselytyped.com/blog/2018/02/07/docker-tip-1-docker-aliases/&quot;&gt;Docker Tip #1 — Docker Aliases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://recycledpapyr.us/2018/02/07/docker-image-building-lessons-learned/&quot;&gt;Docker Image Building – Lessons learned&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/&quot;&gt;GraphQL as an API Gateway to Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hanselman.com/blog/WhyShouldICareAboutKubernetesDockerAndContainerOrchestration.aspx&quot;&gt;Why should I care about Kubernetes, Docker, and Container Orchestration?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://heydesigner.com/blog/best-practices-modals-overlays-dialog-windows/&quot;&gt;Best Practices for Modals / Overlays / Dialog Windows&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2018/2/14/Rails-5-1-5-has-been-released/&quot;&gt;Rails 5.1.5 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v6.13.0/&quot;&gt;Node v6.13.0 (LTS)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.embulk.org/docs/&quot;&gt;Embulk – bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view – Kubernetes Operational View &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ahmetb/kubectx&quot;&gt;kubectx – Fast way to switch between clusters and namespaces in kubectl&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Osedea/nodock&quot;&gt;No Dock – Docker Compose for Node project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/console-probe&quot;&gt;console-probe – Inspect JavaScript object methods and properties in the console&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stimulusjs.org/&quot;&gt;Stimulusjs – a javascript framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 20 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-15/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-15/</guid>
         
         <category>daily</category>
         

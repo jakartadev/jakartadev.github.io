@@ -85,6 +85,17 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
   - jemoji
+  - jekyll-archives
+
+jekyll-archives:
+enabled: all
+layout: 'archive'
+permalinks:
+  year: '/:year/'
+  month: '/:year/:month/'
+  day: '/:year/:month/:day/'
+  tag: '/tag/:name/'
+  category: '/category/:name/'
 
 # Exclude these files from your production _site
 exclude:

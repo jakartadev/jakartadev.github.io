@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Archives
 permalink: /archives/
 ---
@@ -10,3 +10,5 @@ permalink: /archives/
     <p>{{post.description}}</p>
   {% endif %}
 {% endfor %}
+
+
