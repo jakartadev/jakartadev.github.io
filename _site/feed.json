@@ -23,7 +23,7 @@
         {
             "id": "/daily-digest-23",
             "title": "Daily Digest #23",
-            "content_html": "<ul>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/\">OpenAPI–An eBay Perspective</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-easily-start-automatically-testing-your-website-8629ea8df04a\">The easy way to start automatically testing your website</a></li>\n  <li><a href=\"\"></a></li>\n</ul>\n",
+            "content_html": "<ul>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/\">OpenAPI–An eBay Perspective</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-easily-start-automatically-testing-your-website-8629ea8df04a\">The easy way to start automatically testing your website</a></li>\n  <li><a href=\"https://www.facebook.com/permalink.php?story_fbid=2110408722526967&amp;id=100006735798590\">John Carmack on OpenBSD, C++ &amp; machine learning</a></li>\n  <li><a href=\"http://www.mooreds.com/wordpress/archives/2812\">When is a senior engineer not a senior engineer?</a></li>\n  <li><a href=\"https://blog.merovius.de/2018/02/25/persistent_datastructures_with_go.html\">Persistent datastructures with Go</a></li>\n  <li><a href=\"https://github.com/dgryski/go-perfbook\">Go performance optimization book</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/\">How to Write CSS That Works in Every Browser, Even the Old Ones</a></li>\n</ul>\n",
             "url": "http://localhost:4000/daily-digest-23/",
             "summary": "",
             "date_published": "2018-03-06 00:00:00 +0700"
