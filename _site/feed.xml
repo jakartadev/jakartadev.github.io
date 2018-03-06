@@ -5,8 +5,8 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Mar 2018 13:43:14 +0700</pubDate>
-    <lastBuildDate>Tue, 06 Mar 2018 13:43:14 +0700</lastBuildDate>
+    <pubDate>Tue, 06 Mar 2018 14:40:52 +0700</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 14:40:52 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -59,7 +59,11 @@
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/&quot;&gt;OpenAPI–An eBay Perspective&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-easily-start-automatically-testing-your-website-8629ea8df04a&quot;&gt;The easy way to start automatically testing your website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/permalink.php?story_fbid=2110408722526967&amp;amp;id=100006735798590&quot;&gt;John Carmack on OpenBSD, C++ &amp;amp; machine learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mooreds.com/wordpress/archives/2812&quot;&gt;When is a senior engineer not a senior engineer?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.merovius.de/2018/02/25/persistent_datastructures_with_go.html&quot;&gt;Persistent datastructures with Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dgryski/go-perfbook&quot;&gt;Go performance optimization book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/&quot;&gt;How to Write CSS That Works in Every Browser, Even the Old Ones&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 06 Mar 2018 00:00:00 +0700</pubDate>
