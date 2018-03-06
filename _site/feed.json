@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/newsletter-issue-18",
+            "title": "Issue #18",
+            "content_html": "<h4 id=\"reading-list\">Reading list</h4>\n<ul>\n  <li><a href=\"https://hackernoon.com/chaos-engineering-using-amazon-ec2-systems-manager-5278e0bc8482?utm_source=jakartadev\">Chaos Engineering using Amazon EC2 Systems Manager</a> – commencing chaos engineering using amazon ecosystem.</li>\n  <li><a href=\"https://blog.yld.io/2018/02/19/reuse/?utm_source=jakartadev\">Making a component reusable</a> – an opinionated approach how to reuse component when develop something.</li>\n  <li><a href=\"https://blog.algolia.com/what-cant-react-do/?utm_source=jakartadev\">What Can’t React Do?</a></li>\n  <li><a href=\"https://eng.uber.com/schemaless-rewrite/?utm_source=jakartadev\">Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/?utm_source=jakartadev\">A Practical Introduction to Container Terminology</a></li>\n  <li><a href=\"https://hackernoon.com/event-driven-architecture-implementation-140c51820845?utm_source=jakartadev\">Event-Driven Architecture Implementation</a></li>\n  <li><a href=\"https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/?utm_source=jakartadev\">Validating Leaked Passwords with k-Anonymity</a></li>\n  <li><a href=\"https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/?utm_source=jakartadev\">How Developers got Password Security so Wrong</a></li>\n  <li><a href=\"https://www.novoda.com/blog/arkit-coreml/?utm_source=jakartadev\">Making AR more precise with CoreML</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadevorg\">How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies</a></li>\n  <li><a href=\"https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev\">What to expect when you decide to migrate from Javascript to Typescript</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev\">It’s Resilient CSS Week</a></li>\n  <li><a href=\"https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf\">Implementing Microservice Discovery in 100 Lines of Node.js </a></li>\n  <li><a href=\"https://kinsta.com/blog/php-7-hhvm-benchmarks/?utm_source=jakartadev\">The Definitive PHP 5.6, 7.0, 7.1, 7.2 &amp; HHVM Benchmarks</a> – And updated benchmark for multiple PHP version.</li>\n</ul>\n\n<h4 id=\"news\">News</h4>\n<ul>\n  <li><a href=\"https://nodejs.org/en/blog/release/v9.7.0/\">Node v9.7.0 (Current) released</a></li>\n</ul>\n\n<h4 id=\"tools--codes\">Tools &amp; Codes</h4>\n<ul>\n  <li><a href=\"https://github.com/wallaroolabs/wallaroo\">Wallaroo – Ultrafast and elastic data processing.</a> – i’m looking forward to test this.</li>\n  <li><a href=\"https://github.com/ethanent/coroute\">🚀 The awesome Node.js HTTP reverse-proxy server.</a></li>\n  <li><a href=\"https://github.com/sahilnarain/aws-api-gateway-log-parser\">AWS API Gateway Log Parser.</a></li>\n  <li><a href=\"https://eng.uber.com/queryparser/\">Queryparser, an Open Source Tool for Parsing and Analyzing SQL</a></li>\n  <li><a href=\"https://github.com/zricethezav/gitleaks\">Searches full repo history for secrets and keys 🔑</a> – sometimes developer forgot the put it on <code class=\"highlighter-rouge\">.env</code>.</li>\n</ul>\n",
+            "url": "http://localhost:4000/newsletter-issue-18/",
+            "summary": "",
+            "date_published": "2018-03-06 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-23",
+            "title": "Daily Digest #23",
+            "content_html": "<ul>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/\">OpenAPI–An eBay Perspective</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-easily-start-automatically-testing-your-website-8629ea8df04a\">The easy way to start automatically testing your website</a></li>\n  <li><a href=\"\"></a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-23/",
+            "summary": "",
+            "date_published": "2018-03-06 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-22",
             "title": "Daily Digest #22",
             "content_html": "<ul>\n  <li><a href=\"https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=jakartadev_org\">HotSwap: Bringing hot code reloading to Buck</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/big-fast-easy-data-with-ksql\">Big, fast, easy data with KSQL</a></li>\n  <li><a href=\"https://sysdig.com/blog/monitor-istio/\">How to monitor Istio, the Kubernetes service mesh</a></li>\n  <li><a href=\"https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e\">How to build a deep learning model in 15 minutes</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/\">Meet Bandaid, the Dropbox service proxy</a></li>\n  <li><a href=\"https://hackernoon.com/how-the-godfather-of-cyberpunk-would-write-software-aaaa0f2155c7\">How the Godfather of Cyberpunk would write software</a></li>\n  <li><a href=\"https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases\">Our Favorite Elasticsearch Features: Part 2 - Index Aliases</a></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "http://localhost:4000/daily-digest-20/",
             "summary": "",
             "date_published": "2018-03-03 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-19",
-            "title": "Daily Digest #19",
-            "content_html": "<ul>\n  <li><a href=\"https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext\">Why Code Comments Still Matter</a></li>\n  <li><a href=\"https://egghead.simplecast.fm/\">Egghead.io Developer Chats</a> – fairly new podcast for developer <em>et al</em>.</li>\n  <li><a href=\"https://react-etc.net/entry/rip-redux-dan-abramov-announces-future-fetcher\">RIP Redux: Dan Abramov announces future fetcher API</a></li>\n  <li><a href=\"https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/\">Using Apache Kafka for Asynchronous Communication in Microservices</a>  – good stuff</li>\n  <li><a href=\"https://staltz.com/promises-are-not-neutral-enough.html\">Promises are not neutral enough</a></li>\n  <li><a href=\"https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf\">Why Flutter Uses Dart</a></li>\n  <li><a href=\"https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c\">O API — an alternative to REST APIs</a></li>\n  <li><a href=\"https://eng.uber.com/schemaless-rewrite/\">Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-19/",
-            "summary": "",
-            "date_published": "2018-03-02 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-18",
-            "title": "Daily Digest #18",
-            "content_html": "<ul>\n  <li><a href=\"https://www.nytimes.com/2018/02/28/magazine/what-is-the-perfect-color-worth.html\">Why I Quit Google to Work for Myself</a></li>\n  <li><a href=\"https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/\">Memcrashed - Major amplification attacks from UDP port 11211</a></li>\n  <li><a href=\"https://github.com/zricethezav/gitleaks\">Gitleaks – Check git repos for secrets and keys</a></li>\n  <li><a href=\"https://github.com/minimaxir/hacker-news-undocumented\">A List of Hacker News’s Undocumented Features and Behaviors</a></li>\n  <li><a href=\"https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/\">Exploiting ACME TLS-SNI-01 issuing Let’s Encrypt SSL-certs for any domain using shared hosting</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-18/",
-            "summary": "it’s a rainy day!",
-            "date_published": "2018-03-01 00:00:00 +0700"
         }
 
     ]
