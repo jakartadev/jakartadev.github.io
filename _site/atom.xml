@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-06T14:40:52+07:00</updated>
+ <updated>2018-03-07T17:11:04+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;24</title>
+   <link href="http://localhost:4000/daily-digest-24/"/>
+   <updated>2018-03-07T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-24</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php&quot;&gt;3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file !&lt;/a&gt; – Full of awesomeness, can’t believe Excel can do this.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bitcannon.net/post/a-year-away-from-mac-os/&quot;&gt;A Year Away From Mac OS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://readrust.net/&quot;&gt;Readrust&lt;/a&gt; – Kumpulan artikel, tutorial tentang Rust.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ankane/ahoy&quot;&gt;Analytics for rails&lt;/a&gt;  &lt;span class=&quot;label&quot;&gt;codes&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589&quot;&gt;Rocksandra - Open-sourcing a 10x reduction in Apache Cassandra tail latency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://penguindreams.org/blog/linux-on-a-macbook-pro-14-3/&quot;&gt;Linux on a MacBook Pro 14,3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vuejsdevelopers.com/2018/03/05/getting-started-vue-nativescript/&quot;&gt;Getting Started with NativeScript-Vue 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;18</title>
