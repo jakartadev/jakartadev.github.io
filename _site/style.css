@@ -467,6 +467,14 @@ hr.post-break {
   }
 }
 
+.label {
+  padding: 3px;
+  border: 1px solid #888;
+  font-size: .7em;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
