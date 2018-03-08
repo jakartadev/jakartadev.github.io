@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Mar 2018 17:04:42 +0700</pubDate>
-    <lastBuildDate>Thu, 08 Mar 2018 17:04:42 +0700</lastBuildDate>
+    <pubDate>Thu, 08 Mar 2018 19:46:56 +0700</pubDate>
+    <lastBuildDate>Thu, 08 Mar 2018 19:46:56 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;25</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0&quot;&gt;Optional Chaining may be coming to JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/3/7/17091766/blockchain-bitcoin-ethereum-cryptocurrency-meaning&quot;&gt;‘Blockchain’ is meaningless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs&quot;&gt;Firefox Configuration Guide for Privacy Freaks and Performance Buffs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/erroneousboat/slack-term&quot;&gt;Slack-term –  Slack client for your terminal&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;codes&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://engineering.remind.com/building-infrastructure-in-parallel/&quot;&gt;Building Infrastructure in Parallel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html&quot;&gt;Introducing LogFeeder - A log collection system&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bitovi.com/blog/a-refactoring&quot;&gt;A Refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 08 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-25/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-25/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;24</title>
@@ -227,58 +250,6 @@
         <guid isPermaLink="true">http://localhost:4000/daily-digest-17/</guid>
         
         <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Issue &amp;#35;17</title>
-        <description>&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/02/21/application-deployment.html?utm_source=jeniustech&quot;&gt;Application Deployment at Deliveroo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/build-a-recurrent-neural-network-using-apache-mxnet?utm_source=jeniustech&quot;&gt;Build a recurrent neural network using Apache MXNet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pubnub.com/blog/what-is-functions-as-a-service-faas/?utm_source=jeniustech&quot;&gt;What’s All the FaaS About?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/chroot-the-magical-healing-powers-of-the-original-linux-virtualization-tool-9aa4c3928711?utm_source=jeniustech&quot;&gt;Chroot: the magical healing powers of the original Linux virtualization tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.minio.io/iot-data-storage-and-analysis-with-fluentd-minio-and-spark-26f183381183?utm_source=jeniustech&quot;&gt;IoT data storage and analysis with Fluentd, Minio and Spark&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=jeniustech&quot;&gt;How production engineers support global events on Facebook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/?utm_source=jeniustech&quot;&gt;Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43?utm_source=jeniustech&quot;&gt;Running a scalable &amp;amp; reliable GraphQL endpoint with Serverless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/?utm_source=jeniustech&quot;&gt;How Algolia built their frontend search widgets with React.js by following redux principles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/02/how-showmax-got-into-live-streaming/&quot;&gt;How Showmax got into live streaming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/visualizing-archer-bcb80e319625?utm_source=jeniustech&quot;&gt;Visualizing Archer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-scaler/?utm_source=jeniustech&quot;&gt; How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/continuous-delivery-for-static-sites/?utm_source=jeniustech&quot;&gt;Continuous Delivery for Static Sites&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?utm_source=jeniustech&quot;&gt;The best architecture with Docker and Kubernetes — myth or reality?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2018/02/20/ruby-magic-syntactic-sugar-methods.html?utm_source=jeniustech&quot;&gt;Syntactic sugar methods in Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171139955345/v570?utm_source=jeniustech&quot;&gt;npm v5.7.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech&quot;&gt;Sinatra v2.0.1 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;news--codes&quot;&gt;News &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/requests-html?utm_source=jeniustech&quot;&gt;requests-html – HTML Parsing for Humans™ &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/NVIDIA/FastPhotoStyle?utm_source=jeniustech&quot;&gt;FastPhotoStyle – Style transfer, deep learning, feature transform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/t4t5/sweetalert?utm_source=jeniustech&quot;&gt;SweetAlert – A beautiful replacement for JavaScript’s “alert”&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;events&quot;&gt;Events&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/id-ruby/events/248049578/&quot;&gt;1st Online Meetup: Learning Ruby By Sharing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These newsletter curated by Deden Fathurahman (&lt;a href=&quot;https://github.com/dedenf/&quot;&gt;@dedenf&lt;/a&gt;), feedback please send to dedenf@jakartadev.org or dedenf@gmail.com&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/newsletter-issue-17/</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-17/</guid>
-        
-        <category>issue</category>
         
         <category>development</category>
         
