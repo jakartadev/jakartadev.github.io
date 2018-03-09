@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Mar 2018 19:46:56 +0700</pubDate>
-    <lastBuildDate>Thu, 08 Mar 2018 19:46:56 +0700</lastBuildDate>
+    <pubDate>Fri, 09 Mar 2018 13:17:18 +0700</pubDate>
+    <lastBuildDate>Fri, 09 Mar 2018 13:17:18 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;26</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www2.wwt.com/all-blog/the-tale-of-two-kubernetes/&quot;&gt;The tale of two Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/papers-we-love/papers-we-love&quot;&gt;Papers We Love&lt;/a&gt; – Academics computer science repo &lt;a href=&quot;http://paperswelove.org/&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/&quot;&gt;Five Things I Did to Change a Team’s Culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.iamondemand.com/blog/went-containers-fails-along-way/&quot;&gt;Why I Went All-in with Containers…and the Fails Along the Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/github-ddos-memcached/&quot;&gt;Github survived the biggest DDOS attack ever recorded&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Yelp/elastalert&quot;&gt;Elastalert – Easy &amp;amp; Flexible Alerting With ElasticSearch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/squeezing-the-firehose/&quot;&gt;Squeezing the firehose: getting the most from Kafka compression&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html&quot;&gt;A Preview of Bristlecone, Google’s New Quantum Processor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 09 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-26/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-26/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;25</title>
@@ -229,25 +253,6 @@
         <pubDate>Thu, 01 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-18/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-18/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;17</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kamranahmedse/developer-roadmap&quot;&gt;Web developer roadmap for 2018&lt;/a&gt; – cool map&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mwarcholinski/the-truth-about-estimating-software-development-time-story-13f3059d2e04&quot;&gt;The Truth about Estimating Software Development Time [story]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.benjamin-encz.de/post/flavors-of-engineering-management/&quot;&gt;Flavors of Engineering Management&lt;/a&gt; – three flavor of engineering management.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 28 Feb 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-17/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-17/</guid>
         
         <category>daily</category>
         

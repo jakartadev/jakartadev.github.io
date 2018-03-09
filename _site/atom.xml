@@ -4,13 +4,31 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-08T19:46:56+07:00</updated>
+ <updated>2018-03-09T13:17:18+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;26</title>
+   <link href="http://localhost:4000/daily-digest-26/"/>
+   <updated>2018-03-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-26</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www2.wwt.com/all-blog/the-tale-of-two-kubernetes/&quot;&gt;The tale of two Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/papers-we-love/papers-we-love&quot;&gt;Papers We Love&lt;/a&gt; – Academics computer science repo &lt;a href=&quot;http://paperswelove.org/&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/&quot;&gt;Five Things I Did to Change a Team’s Culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.iamondemand.com/blog/went-containers-fails-along-way/&quot;&gt;Why I Went All-in with Containers…and the Fails Along the Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/github-ddos-memcached/&quot;&gt;Github survived the biggest DDOS attack ever recorded&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Yelp/elastalert&quot;&gt;Elastalert – Easy &amp;amp; Flexible Alerting With ElasticSearch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/squeezing-the-firehose/&quot;&gt;Squeezing the firehose: getting the most from Kafka compression&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html&quot;&gt;A Preview of Bristlecone, Google’s New Quantum Processor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;25</title>
