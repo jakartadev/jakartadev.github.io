@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div class="archive">
 <h3>Archive</h3>
 {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %B'"  %}
 {% for yearMonth in postsByYearMonth %}
@@ -12,3 +13,4 @@ layout: default
       {% endfor %}
     </ul>
 {% endfor %}
+</div>

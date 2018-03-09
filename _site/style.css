@@ -59,6 +59,21 @@ table {
 /**************/
 /* BASE RULES */
 /**************/
+* {
+  -webkit-font-smoothing: antialiased !important;
+  -moz-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  -webkit-font-feature-settings: normal;
+  font-feature-settings: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
 html {
   font-size: 100%;
 }
@@ -89,7 +104,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Patua One", cursive;
   color: #222;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -360,35 +375,6 @@ input[type='email'] {
   font-size: .9em;
 }
 
-.button {
-  background-color: #AA4244;
-  border: 0.1rem solid #AA4244;
-  display: block;
-  box-sizing: border-box;
-  color: #ffffff;
-  cursor: pointer;
-  font-size: .9rem;
-  padding: .5rem 1rem;
-  text-align: center;
-  font-family: 'Lato', serif;
-  text-decoration: none;
-  white-space: nowrap;
-  margin-top: 10px;
-}
-
-#mc_embed_signup {
-  clear: left;
-  font: 14px Helvetica,Arial,sans-serif;
-}
-
-.start_form {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  background-color: #f0f0f0;
-  border-top: 1px solid #999;
-  border-bottom: 1px solid #999;
-}
-
 h2 {
   font-family: 'Oswald', serif;
   font-size: 1.5rem;
@@ -430,7 +416,7 @@ h2 {
 .entry h4 a,
 .entry a,
 .entry ul li a {
-  font-family: "Open Sans", helvetica, sans-serif;
+  font: 400 16px/32px 'Open Sans','San Francisco', sans-serif;
   font-weight: normal;
   font-size: 1em;
   font-style: normal;
@@ -444,6 +430,12 @@ h2 {
   .entry ul li a {
     line-height: 1.4;
   }
+}
+
+.entry p {
+  font: 400 16px/32px 'Open Sans','San Francisco', sans-serif;
+  color: #666;
+  margin-bottom: 15px;
 }
 
 h1 time {
@@ -473,6 +465,17 @@ hr.post-break {
   font-size: .7em;
   text-transform: uppercase;
   font-style: normal;
+}
+
+.archive {
+  font-size: normal;
+}
+
+.archive h4 {
+  margin: 20px 2px;
+  font: 500 14px 'PT Mono',sans-serif;
+  color: #888;
+  text-transform: uppercase;
 }
 
 .newsletter_subscribe {
