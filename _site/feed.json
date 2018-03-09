@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-26",
+            "title": "Daily Digest #26",
+            "content_html": "<ul>\n  <li><a href=\"https://www2.wwt.com/all-blog/the-tale-of-two-kubernetes/\">The tale of two Kubernetes</a></li>\n  <li><a href=\"https://github.com/papers-we-love/papers-we-love\">Papers We Love</a> – Academics computer science repo <a href=\"http://paperswelove.org/\">link</a></li>\n  <li><a href=\"https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/\">Five Things I Did to Change a Team’s Culture</a></li>\n  <li><a href=\"http://www.iamondemand.com/blog/went-containers-fails-along-way/\">Why I Went All-in with Containers…and the Fails Along the Way</a></li>\n  <li><a href=\"https://www.wired.com/story/github-ddos-memcached/\">Github survived the biggest DDOS attack ever recorded</a></li>\n  <li><a href=\"https://github.com/Yelp/elastalert\">Elastalert – Easy &amp; Flexible Alerting With ElasticSearch</a></li>\n  <li><a href=\"https://blog.cloudflare.com/squeezing-the-firehose/\">Squeezing the firehose: getting the most from Kafka compression</a></li>\n  <li><a href=\"https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html\">A Preview of Bristlecone, Google’s New Quantum Processor</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-26/",
+            "summary": "",
+            "date_published": "2018-03-09 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-25",
             "title": "Daily Digest #25",
             "content_html": "<ul>\n  <li><a href=\"https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0\">Optional Chaining may be coming to JavaScript</a></li>\n  <li><a href=\"https://www.theverge.com/2018/3/7/17091766/blockchain-bitcoin-ethereum-cryptocurrency-meaning\">‘Blockchain’ is meaningless</a></li>\n  <li><a href=\"http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs\">Firefox Configuration Guide for Privacy Freaks and Performance Buffs</a></li>\n  <li><a href=\"https://github.com/erroneousboat/slack-term\">Slack-term –  Slack client for your terminal</a> <span class=\"label\">codes</span></li>\n  <li><a href=\"http://engineering.remind.com/building-infrastructure-in-parallel/\">Building Infrastructure in Parallel</a></li>\n  <li><a href=\"https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html\">Introducing LogFeeder - A log collection system</a></li>\n  <li><a href=\"https://www.bitovi.com/blog/a-refactoring\">A Refactoring</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-23/",
             "summary": "",
             "date_published": "2018-03-06 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-22",
-            "title": "Daily Digest #22",
-            "content_html": "<ul>\n  <li><a href=\"https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=jakartadev_org\">HotSwap: Bringing hot code reloading to Buck</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/big-fast-easy-data-with-ksql\">Big, fast, easy data with KSQL</a></li>\n  <li><a href=\"https://sysdig.com/blog/monitor-istio/\">How to monitor Istio, the Kubernetes service mesh</a></li>\n  <li><a href=\"https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e\">How to build a deep learning model in 15 minutes</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/\">Meet Bandaid, the Dropbox service proxy</a></li>\n  <li><a href=\"https://hackernoon.com/how-the-godfather-of-cyberpunk-would-write-software-aaaa0f2155c7\">How the Godfather of Cyberpunk would write software</a></li>\n  <li><a href=\"https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases\">Our Favorite Elasticsearch Features: Part 2 - Index Aliases</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-22/",
-            "summary": "",
-            "date_published": "2018-03-05 00:00:00 +0700"
         }
 
     ]
