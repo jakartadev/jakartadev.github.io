@@ -6,7 +6,7 @@ tags:
     - daily
     - development
 description: ""
-publish: true
+publish: false
 ---
 
 - [A Pods Architecture To Allow Shopify To Scale](https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale)
