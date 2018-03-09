@@ -7,5 +7,5 @@ tags:
 publishDate: "2018-03-13"
 desc: "Jakartadev #19 edition"
 type: newsletter
-publish: true
+publish: false
 ---
