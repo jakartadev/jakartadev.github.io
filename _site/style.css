@@ -467,6 +467,17 @@ hr.post-break {
   font-style: normal;
 }
 
+.archive {
+  font-size: normal;
+}
+
+.archive h4 {
+  margin: 20px 2px;
+  font: 500 14px 'PT Mono',sans-serif;
+  color: #888;
+  text-transform: uppercase;
+}
+
 .newsletter_subscribe {
   margin: 50px auto;
   overflow: hidden;
