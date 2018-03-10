@@ -6,7 +6,7 @@ tags:
     - daily
     - development
 description: ""
-publish: false
+publish: true
 ---
 
 - [Secure Access to 100 AWS Accounts](https://segment.com/blog/secure-access-to-100-aws-accounts/)

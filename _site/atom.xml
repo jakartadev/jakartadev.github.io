@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-09T17:05:40+07:00</updated>
+ <updated>2018-03-10T13:29:47+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;27</title>
+   <link href="http://localhost:4000/daily-digest-27/"/>
+   <updated>2018-03-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-27</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://segment.com/blog/secure-access-to-100-aws-accounts/&quot;&gt;Secure Access to 100 AWS Accounts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leotindall.com/post/ricing-vim-i3-and-efficiency/&quot;&gt;Ricing, Vim, i3, and Efficiency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ryanbigg.com/2018/03/my-thoughts-on-hanami&quot;&gt;Thought on Hanami&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lwn.net/SubscriberLink/748582/75c743d0eb3aae0f/&quot;&gt;Virtual private networks with WireGuard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.manning.com/books/get-programming-with-go&quot;&gt;Get Programming with Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/&quot;&gt;A few things I’ve learned about computer networking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lKTo7aDf0bE&quot;&gt;Rust in 2018 - A Fast Tour&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;video&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;26</title>
