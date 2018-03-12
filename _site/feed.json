@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/daily-digest-29",
+            "title": "Daily Digest #29",
+            "content_html": "<ul>\n  <li><a href=\"https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale?utm_source=jakartadev.org\">A Pods Architecture To Allow Shopify To Scale</a></li>\n  <li><a href=\"https://blog.codeship.com/angular-1-to-react-migration/?utm_source=jakartadev.org\">Angular 1 to React Migration</a></li>\n  <li><a href=\"https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4?utm_source=jakartadev.org\">How to Grow as an Engineer (Working Remotely)</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/how-to-spot-bad-product/index.html?utm_source=jakartadev.org\">How to Spot a Bad Product</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/doctor-python-or-how-i-learned-to-stop-worrying-and-love-es6/?utm_source=jakartadev.org\">Doctor Python: Or How I Learned to Stop Worrying and Love ES6</a></li>\n  <li><a href=\"https://github.com/todogroup/guides?utm_source=jakartadev.org\">TODO Group Guides</a></li>\n  <li><a href=\"https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84?utm_source=jakartadev.org\">Why I left Google to join Grab</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-29/",
+            "summary": "",
+            "date_published": "2018-03-12 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-28",
+            "title": "Daily Digest #28",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/pantsel/konga\">GUI to Kong Admin API</a> <span class=\"label\">code</span> – much more simpler to administrate Kong.</li>\n  <li><a href=\"https://bookdown.org/\">Books written with R Markdown</a> – Great resource to learn R Language.</li>\n  <li><a href=\"https://programminghistorian.org/\">The Programming Historian</a> – Simple yet amazing collection of tutorials (or lessons).</li>\n  <li><a href=\"https://code.joejag.com/2018/lego-workstream-visualisation.html\">Tracking where your time went with Lego workstream visualisation</a> – harus coba</li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/\">Introduction to Istio; It Makes A Mesh Of Things</a></li>\n  <li><a href=\"https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html\">CSS in the Age of React: How We Traded the Cascade for Consistency</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f\">Dynamic optimizer — a perceptual video encoding optimization framework</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-28/",
+            "summary": "",
+            "date_published": "2018-03-11 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-27",
             "title": "Daily Digest #27",
             "content_html": "<ul>\n  <li><a href=\"https://segment.com/blog/secure-access-to-100-aws-accounts/\">Secure Access to 100 AWS Accounts</a></li>\n  <li><a href=\"https://leotindall.com/post/ricing-vim-i3-and-efficiency/\">Ricing, Vim, i3, and Efficiency</a></li>\n  <li><a href=\"https://ryanbigg.com/2018/03/my-thoughts-on-hanami\">Thought on Hanami</a></li>\n  <li><a href=\"https://lwn.net/SubscriberLink/748582/75c743d0eb3aae0f/\">Virtual private networks with WireGuard</a></li>\n  <li><a href=\"https://www.manning.com/books/get-programming-with-go\">Get Programming with Go</a></li>\n  <li><a href=\"https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/\">A few things I’ve learned about computer networking</a></li>\n  <li><a href=\"https://www.youtube.com/watch?v=lKTo7aDf0bE\">Rust in 2018 - A Fast Tour</a> <span class=\"label\">video</span></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "http://localhost:4000/daily-digest-25/",
             "summary": "",
             "date_published": "2018-03-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-24",
-            "title": "Daily Digest #24",
-            "content_html": "<ul>\n  <li><a href=\"https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php\">3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file !</a> – Full of awesomeness, can’t believe Excel can do this.</li>\n  <li><a href=\"http://bitcannon.net/post/a-year-away-from-mac-os/\">A Year Away From Mac OS</a></li>\n  <li><a href=\"https://readrust.net/\">Readrust</a> – Kumpulan artikel, tutorial tentang Rust.</li>\n  <li><a href=\"https://github.com/ankane/ahoy\">Analytics for rails</a>  <span class=\"label\">codes</span></li>\n  <li><a href=\"https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589\">Rocksandra - Open-sourcing a 10x reduction in Apache Cassandra tail latency</a></li>\n  <li><a href=\"https://penguindreams.org/blog/linux-on-a-macbook-pro-14-3/\">Linux on a MacBook Pro 14,3</a></li>\n  <li><a href=\"https://vuejsdevelopers.com/2018/03/05/getting-started-vue-nativescript/\">Getting Started with NativeScript-Vue 1.0</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-24/",
-            "summary": "",
-            "date_published": "2018-03-07 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/newsletter-issue-18",
-            "title": "Issue #18",
-            "content_html": "<h4 id=\"reading-list\">Reading list</h4>\n<ul>\n  <li><a href=\"https://hackernoon.com/chaos-engineering-using-amazon-ec2-systems-manager-5278e0bc8482?utm_source=jakartadev\">Chaos Engineering using Amazon EC2 Systems Manager</a> – commencing chaos engineering using amazon ecosystem.</li>\n  <li><a href=\"https://blog.yld.io/2018/02/19/reuse/?utm_source=jakartadev\">Making a component reusable</a> – an opinionated approach how to reuse component when develop something.</li>\n  <li><a href=\"https://blog.algolia.com/what-cant-react-do/?utm_source=jakartadev\">What Can’t React Do?</a></li>\n  <li><a href=\"https://eng.uber.com/schemaless-rewrite/?utm_source=jakartadev\">Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/?utm_source=jakartadev\">A Practical Introduction to Container Terminology</a></li>\n  <li><a href=\"https://hackernoon.com/event-driven-architecture-implementation-140c51820845?utm_source=jakartadev\">Event-Driven Architecture Implementation</a></li>\n  <li><a href=\"https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/?utm_source=jakartadev\">Validating Leaked Passwords with k-Anonymity</a></li>\n  <li><a href=\"https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/?utm_source=jakartadev\">How Developers got Password Security so Wrong</a></li>\n  <li><a href=\"https://www.novoda.com/blog/arkit-coreml/?utm_source=jakartadev\">Making AR more precise with CoreML</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadevorg\">How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies</a></li>\n  <li><a href=\"https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev\">What to expect when you decide to migrate from Javascript to Typescript</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev\">It’s Resilient CSS Week</a></li>\n  <li><a href=\"https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf\">Implementing Microservice Discovery in 100 Lines of Node.js </a></li>\n  <li><a href=\"https://kinsta.com/blog/php-7-hhvm-benchmarks/?utm_source=jakartadev\">The Definitive PHP 5.6, 7.0, 7.1, 7.2 &amp; HHVM Benchmarks</a> – And updated benchmark for multiple PHP version.</li>\n</ul>\n\n<h4 id=\"news\">News</h4>\n<ul>\n  <li><a href=\"https://nodejs.org/en/blog/release/v9.7.0/\">Node v9.7.0 (Current) released</a></li>\n</ul>\n\n<h4 id=\"tools--codes\">Tools &amp; Codes</h4>\n<ul>\n  <li><a href=\"https://github.com/wallaroolabs/wallaroo\">Wallaroo – Ultrafast and elastic data processing.</a> – i’m looking forward to test this.</li>\n  <li><a href=\"https://github.com/ethanent/coroute\">🚀 The awesome Node.js HTTP reverse-proxy server.</a></li>\n  <li><a href=\"https://github.com/sahilnarain/aws-api-gateway-log-parser\">AWS API Gateway Log Parser.</a></li>\n  <li><a href=\"https://eng.uber.com/queryparser/\">Queryparser, an Open Source Tool for Parsing and Analyzing SQL</a></li>\n  <li><a href=\"https://github.com/zricethezav/gitleaks\">Searches full repo history for secrets and keys 🔑</a> – sometimes developer forgot the put it on <code class=\"highlighter-rouge\">.env</code>.</li>\n</ul>\n",
-            "url": "http://localhost:4000/newsletter-issue-18/",
-            "summary": "",
-            "date_published": "2018-03-06 00:00:00 +0700"
         }
 
     ]

@@ -5,9 +5,55 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Mar 2018 13:29:47 +0700</pubDate>
-    <lastBuildDate>Sat, 10 Mar 2018 13:29:47 +0700</lastBuildDate>
+    <pubDate>Mon, 12 Mar 2018 09:36:45 +0700</pubDate>
+    <lastBuildDate>Mon, 12 Mar 2018 09:36:45 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;29</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale?utm_source=jakartadev.org&quot;&gt;A Pods Architecture To Allow Shopify To Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/angular-1-to-react-migration/?utm_source=jakartadev.org&quot;&gt;Angular 1 to React Migration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4?utm_source=jakartadev.org&quot;&gt;How to Grow as an Engineer (Working Remotely)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/how-to-spot-bad-product/index.html?utm_source=jakartadev.org&quot;&gt;How to Spot a Bad Product&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/doctor-python-or-how-i-learned-to-stop-worrying-and-love-es6/?utm_source=jakartadev.org&quot;&gt;Doctor Python: Or How I Learned to Stop Worrying and Love ES6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/todogroup/guides?utm_source=jakartadev.org&quot;&gt;TODO Group Guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84?utm_source=jakartadev.org&quot;&gt;Why I left Google to join Grab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-29/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-29/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;28</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt; – much more simpler to administrate Kong.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bookdown.org/&quot;&gt;Books written with R Markdown&lt;/a&gt; – Great resource to learn R Language.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/&quot;&gt;The Programming Historian&lt;/a&gt; – Simple yet amazing collection of tutorials (or lessons).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.joejag.com/2018/lego-workstream-visualisation.html&quot;&gt;Tracking where your time went with Lego workstream visualisation&lt;/a&gt; – harus coba&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/&quot;&gt;Introduction to Istio; It Makes A Mesh Of Things&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html&quot;&gt;CSS in the Age of React: How We Traded the Cascade for Consistency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f&quot;&gt;Dynamic optimizer — a perceptual video encoding optimization framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 11 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-28/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-28/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;27</title>
@@ -208,53 +254,6 @@
         <pubDate>Sun, 04 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-21/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-21/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;20</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/dev-tools-roundup-3&quot;&gt;Stackshare Dev Tools Roundup #3: February 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/standardized-user-management-with-scim/&quot;&gt;Standardized User Management With SCIM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://joeyh.name/blog/entry/futures_of_distributions/&quot;&gt;Futures of distributions &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/machine-learning/crash-course/&quot;&gt;Machine learning crash course&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tensorflow/tensorflow/releases/tag/v1.6.0&quot;&gt;TensorFlow 1.6.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/&quot;&gt;How Developers got Password Security so Wrong&lt;/a&gt; – makes us thinking&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-devs-need-to-know-about-encoding-encryption-hashing-salting-stretching-76a3da32e0fd&quot;&gt;What devs need to know about Encoding / Encryption / Hashing / Salting / Stretching&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 03 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-20/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-20/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;19</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext&quot;&gt;Why Code Comments Still Matter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://egghead.simplecast.fm/&quot;&gt;Egghead.io Developer Chats&lt;/a&gt; – fairly new podcast for developer &lt;em&gt;et al&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://react-etc.net/entry/rip-redux-dan-abramov-announces-future-fetcher&quot;&gt;RIP Redux: Dan Abramov announces future fetcher API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/&quot;&gt;Using Apache Kafka for Asynchronous Communication in Microservices&lt;/a&gt;  – good stuff&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://staltz.com/promises-are-not-neutral-enough.html&quot;&gt;Promises are not neutral enough&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf&quot;&gt;Why Flutter Uses Dart&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c&quot;&gt;O API — an alternative to REST APIs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/schemaless-rewrite/&quot;&gt;Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 02 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-19/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-19/</guid>
         
         <category>daily</category>
         
