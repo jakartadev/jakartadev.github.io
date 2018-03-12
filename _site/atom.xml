@@ -4,13 +4,47 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-10T13:29:47+07:00</updated>
+ <updated>2018-03-12T09:36:45+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;29</title>
+   <link href="http://localhost:4000/daily-digest-29/"/>
+   <updated>2018-03-12T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-29</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale?utm_source=jakartadev.org&quot;&gt;A Pods Architecture To Allow Shopify To Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/angular-1-to-react-migration/?utm_source=jakartadev.org&quot;&gt;Angular 1 to React Migration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4?utm_source=jakartadev.org&quot;&gt;How to Grow as an Engineer (Working Remotely)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/how-to-spot-bad-product/index.html?utm_source=jakartadev.org&quot;&gt;How to Spot a Bad Product&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/doctor-python-or-how-i-learned-to-stop-worrying-and-love-es6/?utm_source=jakartadev.org&quot;&gt;Doctor Python: Or How I Learned to Stop Worrying and Love ES6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/todogroup/guides?utm_source=jakartadev.org&quot;&gt;TODO Group Guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84?utm_source=jakartadev.org&quot;&gt;Why I left Google to join Grab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;28</title>
+   <link href="http://localhost:4000/daily-digest-28/"/>
+   <updated>2018-03-11T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-28</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt; – much more simpler to administrate Kong.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bookdown.org/&quot;&gt;Books written with R Markdown&lt;/a&gt; – Great resource to learn R Language.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/&quot;&gt;The Programming Historian&lt;/a&gt; – Simple yet amazing collection of tutorials (or lessons).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.joejag.com/2018/lego-workstream-visualisation.html&quot;&gt;Tracking where your time went with Lego workstream visualisation&lt;/a&gt; – harus coba&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/&quot;&gt;Introduction to Istio; It Makes A Mesh Of Things&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html&quot;&gt;CSS in the Age of React: How We Traded the Cascade for Consistency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f&quot;&gt;Dynamic optimizer — a perceptual video encoding optimization framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;27</title>
