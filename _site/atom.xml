@@ -4,13 +4,59 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-12T09:36:45+07:00</updated>
+ <updated>2018-03-13T08:09:53+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;19</title>
+   <link href="http://localhost:4000/newsletter-issue-19/"/>
+   <updated>2018-03-12T00:00:00+07:00</updated>
+   <id>http://localhost:4000/newsletter-issue-19</id>
+   <content type="html">&lt;p&gt;Hello! JakartaDev newsletter edisi 19, berikut adalah &lt;em&gt;list&lt;/em&gt; yang dikurasi dan baca sepanjang pekan sekarang dan pekan lalu.
+Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mungkin hanya mendengarkan music, browsing? dan juga bahasa pemograman yang sedang naik daun, &lt;em&gt;Rust&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-list&quot;&gt;Reading List&lt;/h3&gt;
+&lt;h4 id=&quot;a-year-away-from-macos&quot;&gt;&lt;a href=&quot;http://bitcannon.net/post/a-year-away-from-mac-os/&quot;&gt;A Year Away from macOS&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS.&lt;/p&gt;
+
+&lt;h4 id=&quot;kumpulan-artikel-dan-atau-tutorial-rust&quot;&gt;&lt;a href=&quot;https://readrust.net/&quot;&gt;Kumpulan artikel dan atau tutorial &lt;em&gt;Rust&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Rust&lt;/em&gt; sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi &lt;em&gt;performance&lt;/em&gt;, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk &lt;em&gt;microservice&lt;/em&gt; misalkan.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-refactoring&quot;&gt;&lt;a href=&quot;https://www.bitovi.com/blog/a-refactoring&quot;&gt;A Refactoring&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Terkadang ada kesalah artian tentang &lt;em&gt;refactoring&lt;/em&gt;, &lt;em&gt;refactoring&lt;/em&gt; tidak sama dengan &lt;em&gt;rewrite&lt;/em&gt;, bahkan jauh berbeda.&lt;/p&gt;
+&lt;h4 id=&quot;introducing-logfeeder---a-log-collection-system&quot;&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html&quot;&gt;Introducing LogFeeder - A log collection system&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Log adalah salah satu hal yang sangat penting dalam layanan atau aplikasi yang dibuat, dalam log dapat mencari &lt;em&gt;bug&lt;/em&gt; atau hal yang membuat aplikasi atau service yang kita buat tidak berjalan atau tidak optimal, &lt;em&gt;tool&lt;/em&gt; ini bisa membantu dalam hal ini.&lt;/p&gt;
+&lt;h4 id=&quot;tracking-where-your-time-went-with-lego-workstream-visualisation&quot;&gt;&lt;a href=&quot;https://code.joejag.com/2018/lego-workstream-visualisation.html&quot;&gt;Tracking where your time went with Lego workstream visualisation&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Cara paling mudah, dan tanpa membutuhkan komputer untuk men-&lt;em&gt;track&lt;/em&gt; &lt;em&gt;progress&lt;/em&gt; yang kita kerjakan, semua ditandai dengan warna, dan sejauh mana kita berkembang.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-grow-as-an-engineer-working-remotely&quot;&gt;&lt;a href=&quot;https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4%3Futm_source=jakartadev.org&quot;&gt;How to Grow as an Engineer (Working Remotely)&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Artikel menarik mengenai bagaimana membangun kultur yang selaras, meskipun developer bekerja secara &lt;em&gt;remote&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;softwaretalks&quot;&gt;&lt;a href=&quot;https://www.softwaretalks.io/&quot;&gt;Softwaretalks&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Kumpulan video yang dikurasi tentang software development&lt;/p&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+&lt;h4 id=&quot;node-v8100-lts&quot;&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.10.0/&quot;&gt;Node v8.10.0 (LTS)&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Di versi solid minor ini, terdapat &lt;em&gt;update&lt;/em&gt; di V8, libuv, npm, dukungan OpenSSL 1.1.0.&lt;/p&gt;
+
+&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
+&lt;h4 id=&quot;slack-term---slack-client-for-your-terminal&quot;&gt;&lt;a href=&quot;https://github.com/erroneousboat/slack-term&quot;&gt;Slack-term –  Slack client for your terminal&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Untuk tim develpment atau perusahaan yang terbiasa melakukan komunikasi teks, biasanya menggunakan Slack sebagai layanannya, dan Slack-Term ini menyediakan tampilan yang &lt;em&gt;geeky&lt;/em&gt; dan juga ramah &lt;em&gt;keyboard&lt;/em&gt; untuk yang terbiasanya tidak menggunakan trackpad.&lt;/p&gt;
+&lt;h4 id=&quot;gui-to-kong-admin-api&quot;&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Kong saat ini banyak diadopsi oleh perusahaan-perusahaan, Kong salah satu solusi murah untuk me-&lt;em&gt;manage&lt;/em&gt; API yang disediakan, karena &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; selain open-source, juga mudah untuk digunakan, apalagi dengan bantuan Admin UI seperti Konga ini.&lt;/p&gt;
+
+&lt;h4 id=&quot;snug--write-reusable-web-api-interactions&quot;&gt;&lt;a href=&quot;https://github.com/ariebovenberg/snug&quot;&gt;Snug – Write reusable web API interactions&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;event&quot;&gt;Event&lt;/h3&gt;
+&lt;h4 id=&quot;midtransopenhouse---march&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Ecommerce-Meet-Up-Indonesia/events/248460172/&quot;&gt;MidtransOpenHouse - March&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Meetup yang diadakan oleh Midtrans, Midtrans adalah salah satu penyedia &lt;em&gt;payment gateway&lt;/em&gt; di indonesia (diakuisisi oleh Go-jek)&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;29</title>
