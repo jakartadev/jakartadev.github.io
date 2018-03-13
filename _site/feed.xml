@@ -5,9 +5,61 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Mar 2018 09:36:45 +0700</pubDate>
-    <lastBuildDate>Mon, 12 Mar 2018 09:36:45 +0700</lastBuildDate>
+    <pubDate>Tue, 13 Mar 2018 08:09:53 +0700</pubDate>
+    <lastBuildDate>Tue, 13 Mar 2018 08:09:53 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Issue &amp;#35;19</title>
+        <description>&lt;p&gt;Hello! JakartaDev newsletter edisi 19, berikut adalah &lt;em&gt;list&lt;/em&gt; yang dikurasi dan baca sepanjang pekan sekarang dan pekan lalu.
+Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mungkin hanya mendengarkan music, browsing? dan juga bahasa pemograman yang sedang naik daun, &lt;em&gt;Rust&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-list&quot;&gt;Reading List&lt;/h3&gt;
+&lt;h4 id=&quot;a-year-away-from-macos&quot;&gt;&lt;a href=&quot;http://bitcannon.net/post/a-year-away-from-mac-os/&quot;&gt;A Year Away from macOS&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS.&lt;/p&gt;
+
+&lt;h4 id=&quot;kumpulan-artikel-dan-atau-tutorial-rust&quot;&gt;&lt;a href=&quot;https://readrust.net/&quot;&gt;Kumpulan artikel dan atau tutorial &lt;em&gt;Rust&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Rust&lt;/em&gt; sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi &lt;em&gt;performance&lt;/em&gt;, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk &lt;em&gt;microservice&lt;/em&gt; misalkan.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-refactoring&quot;&gt;&lt;a href=&quot;https://www.bitovi.com/blog/a-refactoring&quot;&gt;A Refactoring&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Terkadang ada kesalah artian tentang &lt;em&gt;refactoring&lt;/em&gt;, &lt;em&gt;refactoring&lt;/em&gt; tidak sama dengan &lt;em&gt;rewrite&lt;/em&gt;, bahkan jauh berbeda.&lt;/p&gt;
+&lt;h4 id=&quot;introducing-logfeeder---a-log-collection-system&quot;&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html&quot;&gt;Introducing LogFeeder - A log collection system&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Log adalah salah satu hal yang sangat penting dalam layanan atau aplikasi yang dibuat, dalam log dapat mencari &lt;em&gt;bug&lt;/em&gt; atau hal yang membuat aplikasi atau service yang kita buat tidak berjalan atau tidak optimal, &lt;em&gt;tool&lt;/em&gt; ini bisa membantu dalam hal ini.&lt;/p&gt;
+&lt;h4 id=&quot;tracking-where-your-time-went-with-lego-workstream-visualisation&quot;&gt;&lt;a href=&quot;https://code.joejag.com/2018/lego-workstream-visualisation.html&quot;&gt;Tracking where your time went with Lego workstream visualisation&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Cara paling mudah, dan tanpa membutuhkan komputer untuk men-&lt;em&gt;track&lt;/em&gt; &lt;em&gt;progress&lt;/em&gt; yang kita kerjakan, semua ditandai dengan warna, dan sejauh mana kita berkembang.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-grow-as-an-engineer-working-remotely&quot;&gt;&lt;a href=&quot;https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4%3Futm_source=jakartadev.org&quot;&gt;How to Grow as an Engineer (Working Remotely)&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Artikel menarik mengenai bagaimana membangun kultur yang selaras, meskipun developer bekerja secara &lt;em&gt;remote&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;softwaretalks&quot;&gt;&lt;a href=&quot;https://www.softwaretalks.io/&quot;&gt;Softwaretalks&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Kumpulan video yang dikurasi tentang software development&lt;/p&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+&lt;h4 id=&quot;node-v8100-lts&quot;&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.10.0/&quot;&gt;Node v8.10.0 (LTS)&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Di versi solid minor ini, terdapat &lt;em&gt;update&lt;/em&gt; di V8, libuv, npm, dukungan OpenSSL 1.1.0.&lt;/p&gt;
+
+&lt;h3 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h3&gt;
+&lt;h4 id=&quot;slack-term---slack-client-for-your-terminal&quot;&gt;&lt;a href=&quot;https://github.com/erroneousboat/slack-term&quot;&gt;Slack-term –  Slack client for your terminal&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Untuk tim develpment atau perusahaan yang terbiasa melakukan komunikasi teks, biasanya menggunakan Slack sebagai layanannya, dan Slack-Term ini menyediakan tampilan yang &lt;em&gt;geeky&lt;/em&gt; dan juga ramah &lt;em&gt;keyboard&lt;/em&gt; untuk yang terbiasanya tidak menggunakan trackpad.&lt;/p&gt;
+&lt;h4 id=&quot;gui-to-kong-admin-api&quot;&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Kong saat ini banyak diadopsi oleh perusahaan-perusahaan, Kong salah satu solusi murah untuk me-&lt;em&gt;manage&lt;/em&gt; API yang disediakan, karena &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; selain open-source, juga mudah untuk digunakan, apalagi dengan bantuan Admin UI seperti Konga ini.&lt;/p&gt;
+
+&lt;h4 id=&quot;snug--write-reusable-web-api-interactions&quot;&gt;&lt;a href=&quot;https://github.com/ariebovenberg/snug&quot;&gt;Snug – Write reusable web API interactions&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;event&quot;&gt;Event&lt;/h3&gt;
+&lt;h4 id=&quot;midtransopenhouse---march&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Ecommerce-Meet-Up-Indonesia/events/248460172/&quot;&gt;MidtransOpenHouse - March&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Meetup yang diadakan oleh Midtrans, Midtrans adalah salah satu penyedia &lt;em&gt;payment gateway&lt;/em&gt; di indonesia (diakuisisi oleh Go-jek)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/newsletter-issue-19/</link>
+        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-19/</guid>
+        
+        <category>issue</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;29</title>
@@ -231,29 +283,6 @@
         <pubDate>Mon, 05 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-22/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-22/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;21</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadev_org&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev_org&quot;&gt;What to expect when you decide to migrate from Javascript to Typescript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.io/asyncio/?utm_source=jakartadev_org&quot;&gt;Context information storage for asyncio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage?utm_source=jakartadev_org&quot;&gt;Future Proofing Our Cloud Storage Usage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f?utm_source=jakartadev_org&quot;&gt;What I learnt from building 3 high traffic web applications on an embedded key value store.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20?utm_source=jakartadev_org&quot;&gt;The dramatic impersonation : a developer horror tale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev_org&quot;&gt;It’s Resilient CSS Week&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 04 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-21/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-21/</guid>
         
         <category>daily</category>
         
