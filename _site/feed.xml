@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Mar 2018 08:09:53 +0700</pubDate>
-    <lastBuildDate>Tue, 13 Mar 2018 08:09:53 +0700</lastBuildDate>
+    <pubDate>Wed, 14 Mar 2018 10:11:44 +0700</pubDate>
+    <lastBuildDate>Wed, 14 Mar 2018 10:11:44 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;31</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401&quot;&gt;How JavaScript works: tracking changes in the DOM using MutationObserver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams&quot;&gt;Transforming enterprise integration with reactive streams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/&quot;&gt;How To Build A Skin For Your Web App With React And WordPress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twilioinc.wpengine.com/2018/03/iot-poop-button-python-twilio-aws.html&quot;&gt;How I Potty Trained My Kid Using Twilio and an AWS IoT Button&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;amp;utm_source=jakartadev.org&quot;&gt;Accessibility for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away&quot;&gt;Serverless Ops: What do we do when the server goes away?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 14 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-31/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-31/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Issue &amp;#35;19</title>
@@ -50,11 +73,34 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
 &lt;h4 id=&quot;midtransopenhouse---march&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Ecommerce-Meet-Up-Indonesia/events/248460172/&quot;&gt;MidtransOpenHouse - March&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Meetup yang diadakan oleh Midtrans, Midtrans adalah salah satu penyedia &lt;em&gt;payment gateway&lt;/em&gt; di indonesia (diakuisisi oleh Go-jek)&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Mar 2018 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 13 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/newsletter-issue-19/</link>
         <guid isPermaLink="true">http://localhost:4000/newsletter-issue-19/</guid>
         
         <category>issue</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;30</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/&quot;&gt;Lessons from my first year of live coding on Twitch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pgmetrics.io/&quot;&gt;PGMetrics&lt;/a&gt; – PostgreSQL metrics tool for automation and monitoring.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/&quot;&gt;Go Fast or Go Home: The Process of Optimizing for Client Performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/tensor-flow-part-1-tensorflow-machine-learning-on-android-73fd536a1a7c&quot;&gt;Tensor &amp;amp; Flow: Part 1, TensorFlow &amp;amp; Machine Learning on Android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/distributed-transactions-and-why-you-should-care-116b6da8d72&quot;&gt;Distributed transactions and why you should care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/exploration-of-security-when-building-docker-containers&quot;&gt;A House of Cards: An Exploration of Security When Building Docker Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac&quot;&gt;Real-time API Monitoring Using GO and Pusher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 13 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-30/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-30/</guid>
+        
+        <category>daily</category>
         
         <category>development</category>
         
@@ -239,52 +285,6 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
         <guid isPermaLink="true">http://localhost:4000/newsletter-issue-18/</guid>
         
         <category>issue</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;23</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/&quot;&gt;OpenAPI–An eBay Perspective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-easily-start-automatically-testing-your-website-8629ea8df04a&quot;&gt;The easy way to start automatically testing your website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/permalink.php?story_fbid=2110408722526967&amp;amp;id=100006735798590&quot;&gt;John Carmack on OpenBSD, C++ &amp;amp; machine learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.mooreds.com/wordpress/archives/2812&quot;&gt;When is a senior engineer not a senior engineer?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.merovius.de/2018/02/25/persistent_datastructures_with_go.html&quot;&gt;Persistent datastructures with Go&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/dgryski/go-perfbook&quot;&gt;Go performance optimization book&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/&quot;&gt;How to Write CSS That Works in Every Browser, Even the Old Ones&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 06 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-23/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-23/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;22</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=jakartadev_org&quot;&gt;HotSwap: Bringing hot code reloading to Buck&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/big-fast-easy-data-with-ksql&quot;&gt;Big, fast, easy data with KSQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/monitor-istio/&quot;&gt;How to monitor Istio, the Kubernetes service mesh&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e&quot;&gt;How to build a deep learning model in 15 minutes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/&quot;&gt;Meet Bandaid, the Dropbox service proxy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-the-godfather-of-cyberpunk-would-write-software-aaaa0f2155c7&quot;&gt;How the Godfather of Cyberpunk would write software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases&quot;&gt;Our Favorite Elasticsearch Features: Part 2 - Index Aliases&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 05 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-22/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-22/</guid>
-        
-        <category>daily</category>
         
         <category>development</category>
         
