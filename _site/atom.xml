@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-13T08:09:53+07:00</updated>
+ <updated>2018-03-14T10:11:44+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,9 +13,26 @@
 
  
  <entry>
+   <title>Daily Digest &#35;31</title>
+   <link href="http://localhost:4000/daily-digest-31/"/>
+   <updated>2018-03-14T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-31</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401&quot;&gt;How JavaScript works: tracking changes in the DOM using MutationObserver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams&quot;&gt;Transforming enterprise integration with reactive streams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/&quot;&gt;How To Build A Skin For Your Web App With React And WordPress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twilioinc.wpengine.com/2018/03/iot-poop-button-python-twilio-aws.html&quot;&gt;How I Potty Trained My Kid Using Twilio and an AWS IoT Button&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;amp;utm_source=jakartadev.org&quot;&gt;Accessibility for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away&quot;&gt;Serverless Ops: What do we do when the server goes away?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Issue &#35;19</title>
    <link href="http://localhost:4000/newsletter-issue-19/"/>
-   <updated>2018-03-12T00:00:00+07:00</updated>
+   <updated>2018-03-13T00:00:00+07:00</updated>
    <id>http://localhost:4000/newsletter-issue-19</id>
    <content type="html">&lt;p&gt;Hello! JakartaDev newsletter edisi 19, berikut adalah &lt;em&gt;list&lt;/em&gt; yang dikurasi dan baca sepanjang pekan sekarang dan pekan lalu.
 Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mungkin hanya mendengarkan music, browsing? dan juga bahasa pemograman yang sedang naik daun, &lt;em&gt;Rust&lt;/em&gt;.&lt;/p&gt;
@@ -55,6 +72,23 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
 &lt;h3 id=&quot;event&quot;&gt;Event&lt;/h3&gt;
 &lt;h4 id=&quot;midtransopenhouse---march&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Ecommerce-Meet-Up-Indonesia/events/248460172/&quot;&gt;MidtransOpenHouse - March&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Meetup yang diadakan oleh Midtrans, Midtrans adalah salah satu penyedia &lt;em&gt;payment gateway&lt;/em&gt; di indonesia (diakuisisi oleh Go-jek)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;30</title>
+   <link href="http://localhost:4000/daily-digest-30/"/>
+   <updated>2018-03-13T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-30</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/&quot;&gt;Lessons from my first year of live coding on Twitch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pgmetrics.io/&quot;&gt;PGMetrics&lt;/a&gt; – PostgreSQL metrics tool for automation and monitoring.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/&quot;&gt;Go Fast or Go Home: The Process of Optimizing for Client Performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/tensor-flow-part-1-tensorflow-machine-learning-on-android-73fd536a1a7c&quot;&gt;Tensor &amp;amp; Flow: Part 1, TensorFlow &amp;amp; Machine Learning on Android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/distributed-transactions-and-why-you-should-care-116b6da8d72&quot;&gt;Distributed transactions and why you should care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/exploration-of-security-when-building-docker-containers&quot;&gt;A House of Cards: An Exploration of Security When Building Docker Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac&quot;&gt;Real-time API Monitoring Using GO and Pusher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  

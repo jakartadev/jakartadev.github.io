@@ -12,12 +12,30 @@
     "items": [
       {
         {
+            "id": "/daily-digest-31",
+            "title": "Daily Digest #31",
+            "content_html": "<ul>\n  <li><a href=\"https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/\">Learn How to Build a Time Series Database</a></li>\n  <li><a href=\"https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401\">How JavaScript works: tracking changes in the DOM using MutationObserver</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams\">Transforming enterprise integration with reactive streams</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/\">How To Build A Skin For Your Web App With React And WordPress</a></li>\n  <li><a href=\"https://twilioinc.wpengine.com/2018/03/iot-poop-button-python-twilio-aws.html\">How I Potty Trained My Kid Using Twilio and an AWS IoT Button</a></li>\n  <li><a href=\"https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;utm_source=jakartadev.org\">Accessibility for developers</a></li>\n  <li><a href=\"https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away\">Serverless Ops: What do we do when the server goes away?</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-31/",
+            "summary": "",
+            "date_published": "2018-03-14 00:00:00 +0700"
+        },
+{
+        {
             "id": "/newsletter-issue-19",
             "title": "Issue #19",
             "content_html": "<p>Hello! JakartaDev newsletter edisi 19, berikut adalah <em>list</em> yang dikurasi dan baca sepanjang pekan sekarang dan pekan lalu.\nPernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mungkin hanya mendengarkan music, browsing? dan juga bahasa pemograman yang sedang naik daun, <em>Rust</em>.</p>\n\n<h3 id=\"reading-list\">Reading List</h3>\n<h4 id=\"a-year-away-from-macos\"><a href=\"http://bitcannon.net/post/a-year-away-from-mac-os/\">A Year Away from macOS</a></h4>\n<p>Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS.</p>\n\n<h4 id=\"kumpulan-artikel-dan-atau-tutorial-rust\"><a href=\"https://readrust.net/\">Kumpulan artikel dan atau tutorial <em>Rust</em></a></h4>\n<p><em>Rust</em> sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi <em>performance</em>, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk <em>microservice</em> misalkan.</p>\n\n<h4 id=\"a-refactoring\"><a href=\"https://www.bitovi.com/blog/a-refactoring\">A Refactoring</a></h4>\n<p>Terkadang ada kesalah artian tentang <em>refactoring</em>, <em>refactoring</em> tidak sama dengan <em>rewrite</em>, bahkan jauh berbeda.</p>\n<h4 id=\"introducing-logfeeder---a-log-collection-system\"><a href=\"https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html\">Introducing LogFeeder - A log collection system</a></h4>\n<p>Log adalah salah satu hal yang sangat penting dalam layanan atau aplikasi yang dibuat, dalam log dapat mencari <em>bug</em> atau hal yang membuat aplikasi atau service yang kita buat tidak berjalan atau tidak optimal, <em>tool</em> ini bisa membantu dalam hal ini.</p>\n<h4 id=\"tracking-where-your-time-went-with-lego-workstream-visualisation\"><a href=\"https://code.joejag.com/2018/lego-workstream-visualisation.html\">Tracking where your time went with Lego workstream visualisation</a></h4>\n<p>Cara paling mudah, dan tanpa membutuhkan komputer untuk men-<em>track</em> <em>progress</em> yang kita kerjakan, semua ditandai dengan warna, dan sejauh mana kita berkembang.</p>\n\n<h4 id=\"how-to-grow-as-an-engineer-working-remotely\"><a href=\"https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4%3Futm_source=jakartadev.org\">How to Grow as an Engineer (Working Remotely)</a></h4>\n<p>Artikel menarik mengenai bagaimana membangun kultur yang selaras, meskipun developer bekerja secara <em>remote</em>.</p>\n\n<h4 id=\"softwaretalks\"><a href=\"https://www.softwaretalks.io/\">Softwaretalks</a></h4>\n<p>Kumpulan video yang dikurasi tentang software development</p>\n\n<h3 id=\"news\">News</h3>\n<h4 id=\"node-v8100-lts\"><a href=\"https://nodejs.org/en/blog/release/v8.10.0/\">Node v8.10.0 (LTS)</a></h4>\n<p>Di versi solid minor ini, terdapat <em>update</em> di V8, libuv, npm, dukungan OpenSSL 1.1.0.</p>\n\n<h3 id=\"tools--codes\">Tools &amp; Codes</h3>\n<h4 id=\"slack-term---slack-client-for-your-terminal\"><a href=\"https://github.com/erroneousboat/slack-term\">Slack-term –  Slack client for your terminal</a></h4>\n<p>Untuk tim develpment atau perusahaan yang terbiasa melakukan komunikasi teks, biasanya menggunakan Slack sebagai layanannya, dan Slack-Term ini menyediakan tampilan yang <em>geeky</em> dan juga ramah <em>keyboard</em> untuk yang terbiasanya tidak menggunakan trackpad.</p>\n<h4 id=\"gui-to-kong-admin-api\"><a href=\"https://github.com/pantsel/konga\">GUI to Kong Admin API</a></h4>\n<p>Kong saat ini banyak diadopsi oleh perusahaan-perusahaan, Kong salah satu solusi murah untuk me-<em>manage</em> API yang disediakan, karena <a href=\"https://getkong.org\">Kong</a> selain open-source, juga mudah untuk digunakan, apalagi dengan bantuan Admin UI seperti Konga ini.</p>\n\n<h4 id=\"snug--write-reusable-web-api-interactions\"><a href=\"https://github.com/ariebovenberg/snug\">Snug – Write reusable web API interactions</a></h4>\n\n<h3 id=\"event\">Event</h3>\n<h4 id=\"midtransopenhouse---march\"><a href=\"https://www.meetup.com/Ecommerce-Meet-Up-Indonesia/events/248460172/\">MidtransOpenHouse - March</a></h4>\n<p>Meetup yang diadakan oleh Midtrans, Midtrans adalah salah satu penyedia <em>payment gateway</em> di indonesia (diakuisisi oleh Go-jek)</p>\n",
             "url": "http://localhost:4000/newsletter-issue-19/",
             "summary": "",
-            "date_published": "2018-03-12 00:00:00 +0700"
+            "date_published": "2018-03-13 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-30",
+            "title": "Daily Digest #30",
+            "content_html": "<ul>\n  <li><a href=\"http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/\">Lessons from my first year of live coding on Twitch</a></li>\n  <li><a href=\"https://pgmetrics.io/\">PGMetrics</a> – PostgreSQL metrics tool for automation and monitoring.</li>\n  <li><a href=\"https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/\">Go Fast or Go Home: The Process of Optimizing for Client Performance</a></li>\n  <li><a href=\"https://hackernoon.com/tensor-flow-part-1-tensorflow-machine-learning-on-android-73fd536a1a7c\">Tensor &amp; Flow: Part 1, TensorFlow &amp; Machine Learning on Android</a></li>\n  <li><a href=\"https://towardsdatascience.com/distributed-transactions-and-why-you-should-care-116b6da8d72\">Distributed transactions and why you should care</a></li>\n  <li><a href=\"https://blog.heroku.com/exploration-of-security-when-building-docker-containers\">A House of Cards: An Exploration of Security When Building Docker Containers</a></li>\n  <li><a href=\"https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac\">Real-time API Monitoring Using GO and Pusher</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-30/",
+            "summary": "",
+            "date_published": "2018-03-13 00:00:00 +0700"
         },
 {
         {
@@ -36,24 +54,6 @@
             "url": "http://localhost:4000/daily-digest-28/",
             "summary": "",
             "date_published": "2018-03-11 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-27",
-            "title": "Daily Digest #27",
-            "content_html": "<ul>\n  <li><a href=\"https://segment.com/blog/secure-access-to-100-aws-accounts/\">Secure Access to 100 AWS Accounts</a></li>\n  <li><a href=\"https://leotindall.com/post/ricing-vim-i3-and-efficiency/\">Ricing, Vim, i3, and Efficiency</a></li>\n  <li><a href=\"https://ryanbigg.com/2018/03/my-thoughts-on-hanami\">Thought on Hanami</a></li>\n  <li><a href=\"https://lwn.net/SubscriberLink/748582/75c743d0eb3aae0f/\">Virtual private networks with WireGuard</a></li>\n  <li><a href=\"https://www.manning.com/books/get-programming-with-go\">Get Programming with Go</a></li>\n  <li><a href=\"https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/\">A few things I’ve learned about computer networking</a></li>\n  <li><a href=\"https://www.youtube.com/watch?v=lKTo7aDf0bE\">Rust in 2018 - A Fast Tour</a> <span class=\"label\">video</span></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-27/",
-            "summary": "",
-            "date_published": "2018-03-10 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-26",
-            "title": "Daily Digest #26",
-            "content_html": "<ul>\n  <li><a href=\"https://www2.wwt.com/all-blog/the-tale-of-two-kubernetes/\">The tale of two Kubernetes</a></li>\n  <li><a href=\"https://github.com/papers-we-love/papers-we-love\">Papers We Love</a> – Academics computer science repo <a href=\"http://paperswelove.org/\">link</a></li>\n  <li><a href=\"https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/\">Five Things I Did to Change a Team’s Culture</a></li>\n  <li><a href=\"http://www.iamondemand.com/blog/went-containers-fails-along-way/\">Why I Went All-in with Containers…and the Fails Along the Way</a></li>\n  <li><a href=\"https://www.wired.com/story/github-ddos-memcached/\">Github survived the biggest DDOS attack ever recorded</a></li>\n  <li><a href=\"https://github.com/Yelp/elastalert\">Elastalert – Easy &amp; Flexible Alerting With ElasticSearch</a></li>\n  <li><a href=\"https://blog.cloudflare.com/squeezing-the-firehose/\">Squeezing the firehose: getting the most from Kafka compression</a></li>\n  <li><a href=\"https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html\">A Preview of Bristlecone, Google’s New Quantum Processor</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-26/",
-            "summary": "",
-            "date_published": "2018-03-09 00:00:00 +0700"
         }
 
     ]

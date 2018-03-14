@@ -209,8 +209,16 @@
 <lastmod>2018-03-12T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/daily-digest-30/</loc>
+<lastmod>2018-03-13T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/newsletter-issue-19/</loc>
-<lastmod>2018-03-12T00:00:00+07:00</lastmod>
+<lastmod>2018-03-13T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily-digest-31/</loc>
+<lastmod>2018-03-14T00:00:00+07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404/</loc>
@@ -259,5 +267,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page/9/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page/10/</loc>
 </url>
 </urlset>
