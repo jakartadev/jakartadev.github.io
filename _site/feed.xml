@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Mar 2018 10:11:44 +0700</pubDate>
-    <lastBuildDate>Wed, 14 Mar 2018 10:11:44 +0700</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 14:24:08 +0700</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 14:24:08 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;32</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackabuse.com/creating-and-deleting-directories-with-python/&quot;&gt;Creating and Deleting Directories with Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b&quot;&gt;The Effect of Naming in Data Science Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.valentinog.com/blog/tutorial-api-django-rest-react/&quot;&gt;Tutorial: Django REST with React (Django 2.0)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/asynchronous-tasks-with-falcon-and-celery&quot;&gt;Asynchronous Tasks with Falcon and Celery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://talkpython.fm/&quot;&gt;TalkPython[‘Podcast’]&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;podcast&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb&quot;&gt;To boldly log: debug Docker apps effectively using logs options, tail and grep&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/&quot;&gt;Secret management design decisions theory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-32/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-32/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;31</title>
@@ -240,51 +263,6 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
         <guid isPermaLink="true">http://localhost:4000/daily-digest-24/</guid>
         
         <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Issue &amp;#35;18</title>
-        <description>&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/chaos-engineering-using-amazon-ec2-systems-manager-5278e0bc8482?utm_source=jakartadev&quot;&gt;Chaos Engineering using Amazon EC2 Systems Manager&lt;/a&gt; – commencing chaos engineering using amazon ecosystem.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.yld.io/2018/02/19/reuse/?utm_source=jakartadev&quot;&gt;Making a component reusable&lt;/a&gt; – an opinionated approach how to reuse component when develop something.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/what-cant-react-do/?utm_source=jakartadev&quot;&gt;What Can’t React Do?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/schemaless-rewrite/?utm_source=jakartadev&quot;&gt;Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/?utm_source=jakartadev&quot;&gt;A Practical Introduction to Container Terminology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/event-driven-architecture-implementation-140c51820845?utm_source=jakartadev&quot;&gt;Event-Driven Architecture Implementation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/?utm_source=jakartadev&quot;&gt;Validating Leaked Passwords with k-Anonymity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/?utm_source=jakartadev&quot;&gt;How Developers got Password Security so Wrong&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.novoda.com/blog/arkit-coreml/?utm_source=jakartadev&quot;&gt;Making AR more precise with CoreML&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadevorg&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jakartadev&quot;&gt;What to expect when you decide to migrate from Javascript to Typescript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jakartadev&quot;&gt;It’s Resilient CSS Week&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf&quot;&gt;Implementing Microservice Discovery in 100 Lines of Node.js &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kinsta.com/blog/php-7-hhvm-benchmarks/?utm_source=jakartadev&quot;&gt;The Definitive PHP 5.6, 7.0, 7.1, 7.2 &amp;amp; HHVM Benchmarks&lt;/a&gt; – And updated benchmark for multiple PHP version.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;news&quot;&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.7.0/&quot;&gt;Node v9.7.0 (Current) released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tools--codes&quot;&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wallaroolabs/wallaroo&quot;&gt;Wallaroo – Ultrafast and elastic data processing.&lt;/a&gt; – i’m looking forward to test this.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ethanent/coroute&quot;&gt;🚀 The awesome Node.js HTTP reverse-proxy server.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/sahilnarain/aws-api-gateway-log-parser&quot;&gt;AWS API Gateway Log Parser.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/queryparser/&quot;&gt;Queryparser, an Open Source Tool for Parsing and Analyzing SQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zricethezav/gitleaks&quot;&gt;Searches full repo history for secrets and keys 🔑&lt;/a&gt; – sometimes developer forgot the put it on &lt;code class=&quot;highlighter-rouge&quot;&gt;.env&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 06 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/newsletter-issue-18/</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-18/</guid>
-        
-        <category>issue</category>
         
         <category>development</category>
         
