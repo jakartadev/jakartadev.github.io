@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-32",
+            "title": "Daily Digest #32",
+            "content_html": "<ul>\n  <li><a href=\"http://stackabuse.com/creating-and-deleting-directories-with-python/\">Creating and Deleting Directories with Python</a></li>\n  <li><a href=\"https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b\">The Effect of Naming in Data Science Code</a></li>\n  <li><a href=\"https://www.valentinog.com/blog/tutorial-api-django-rest-react/\">Tutorial: Django REST with React (Django 2.0)</a></li>\n  <li><a href=\"https://testdriven.io/asynchronous-tasks-with-falcon-and-celery\">Asynchronous Tasks with Falcon and Celery</a></li>\n  <li><a href=\"https://talkpython.fm/\">TalkPython[‘Podcast’]</a> <span class=\"label\">podcast</span></li>\n  <li><a href=\"https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb\">To boldly log: debug Docker apps effectively using logs options, tail and grep</a></li>\n  <li><a href=\"https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/\">Secret management design decisions theory</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-32/",
+            "summary": "",
+            "date_published": "2018-03-15 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-31",
             "title": "Daily Digest #31",
             "content_html": "<ul>\n  <li><a href=\"https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/\">Learn How to Build a Time Series Database</a></li>\n  <li><a href=\"https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401\">How JavaScript works: tracking changes in the DOM using MutationObserver</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams\">Transforming enterprise integration with reactive streams</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/\">How To Build A Skin For Your Web App With React And WordPress</a></li>\n  <li><a href=\"https://twilioinc.wpengine.com/2018/03/iot-poop-button-python-twilio-aws.html\">How I Potty Trained My Kid Using Twilio and an AWS IoT Button</a></li>\n  <li><a href=\"https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;utm_source=jakartadev.org\">Accessibility for developers</a></li>\n  <li><a href=\"https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away\">Serverless Ops: What do we do when the server goes away?</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-29/",
             "summary": "",
             "date_published": "2018-03-12 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-28",
-            "title": "Daily Digest #28",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/pantsel/konga\">GUI to Kong Admin API</a> <span class=\"label\">code</span> – much more simpler to administrate Kong.</li>\n  <li><a href=\"https://bookdown.org/\">Books written with R Markdown</a> – Great resource to learn R Language.</li>\n  <li><a href=\"https://programminghistorian.org/\">The Programming Historian</a> – Simple yet amazing collection of tutorials (or lessons).</li>\n  <li><a href=\"https://code.joejag.com/2018/lego-workstream-visualisation.html\">Tracking where your time went with Lego workstream visualisation</a> – harus coba</li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/\">Introduction to Istio; It Makes A Mesh Of Things</a></li>\n  <li><a href=\"https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html\">CSS in the Age of React: How We Traded the Cascade for Consistency</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f\">Dynamic optimizer — a perceptual video encoding optimization framework</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-28/",
-            "summary": "",
-            "date_published": "2018-03-11 00:00:00 +0700"
         }
 
     ]
