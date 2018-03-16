@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/dialy-digest-33",
+            "title": "Daily Digest #33",
+            "content_html": "<ul>\n  <li><a href=\"https://www.codenewbie.org/podcast\">CodeNewbie Podcast</a> <span class=\"label\">podcast</span> – new found podcast, listened to latest episode sith Anil Dash, great episode.</li>\n  <li><a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsIJP13VD_Cg8qS5g2bKWTaYx\">Cofee with Googler</a> <span class=\"label\">Video</span> – Kinda light talks with Google employee/engineers, get the human side of the engineer.</li>\n  <li><a href=\"https://medium.com/@zeldman/we-need-design-that-is-faster-and-design-that-is-slower-bbf6afd08e5?source=userActivityShare-2df49e453b3e-1521163281\">We need design that is faster and design that is slower</a></li>\n  <li><a href=\"https://kateheddleston.com/blog/becoming-a-10x-developer\">Becoming a 10x Developer</a></li>\n  <li><a href=\"http://www.soulcutter.com/articles/local-variable-aversion-antipattern.html\">The Local Variable Aversion Antipattern</a></li>\n  <li><a href=\"https://github.com/teh-cmc/go-internals\">A book about the internals of the Go programming language.</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/dialy-digest-33/",
+            "summary": "",
+            "date_published": "2018-03-16 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-32",
             "title": "Daily Digest #32",
             "content_html": "<ul>\n  <li><a href=\"http://stackabuse.com/creating-and-deleting-directories-with-python/\">Creating and Deleting Directories with Python</a></li>\n  <li><a href=\"https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b\">The Effect of Naming in Data Science Code</a></li>\n  <li><a href=\"https://www.valentinog.com/blog/tutorial-api-django-rest-react/\">Tutorial: Django REST with React (Django 2.0)</a></li>\n  <li><a href=\"https://testdriven.io/asynchronous-tasks-with-falcon-and-celery\">Asynchronous Tasks with Falcon and Celery</a></li>\n  <li><a href=\"https://talkpython.fm/\">TalkPython[‘Podcast’]</a> <span class=\"label\">podcast</span></li>\n  <li><a href=\"https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb\">To boldly log: debug Docker apps effectively using logs options, tail and grep</a></li>\n  <li><a href=\"https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/\">Secret management design decisions theory</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-30/",
             "summary": "",
             "date_published": "2018-03-13 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-29",
-            "title": "Daily Digest #29",
-            "content_html": "<ul>\n  <li><a href=\"https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale?utm_source=jakartadev.org\">A Pods Architecture To Allow Shopify To Scale</a></li>\n  <li><a href=\"https://blog.codeship.com/angular-1-to-react-migration/?utm_source=jakartadev.org\">Angular 1 to React Migration</a></li>\n  <li><a href=\"https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4?utm_source=jakartadev.org\">How to Grow as an Engineer (Working Remotely)</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/how-to-spot-bad-product/index.html?utm_source=jakartadev.org\">How to Spot a Bad Product</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/doctor-python-or-how-i-learned-to-stop-worrying-and-love-es6/?utm_source=jakartadev.org\">Doctor Python: Or How I Learned to Stop Worrying and Love ES6</a></li>\n  <li><a href=\"https://github.com/todogroup/guides?utm_source=jakartadev.org\">TODO Group Guides</a></li>\n  <li><a href=\"https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84?utm_source=jakartadev.org\">Why I left Google to join Grab</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-29/",
-            "summary": "",
-            "date_published": "2018-03-12 00:00:00 +0700"
         }
 
     ]
