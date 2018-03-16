@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-15T14:26:10+07:00</updated>
+ <updated>2018-03-16T18:42:37+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;33</title>
+   <link href="http://localhost:4000/dialy-digest-33/"/>
+   <updated>2018-03-16T00:00:00+07:00</updated>
+   <id>http://localhost:4000/dialy-digest-33</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codenewbie.org/podcast&quot;&gt;CodeNewbie Podcast&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;podcast&lt;/span&gt; – new found podcast, listened to latest episode sith Anil Dash, great episode.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLOU2XLYxmsIJP13VD_Cg8qS5g2bKWTaYx&quot;&gt;Cofee with Googler&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;Video&lt;/span&gt; – Kinda light talks with Google employee/engineers, get the human side of the engineer.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@zeldman/we-need-design-that-is-faster-and-design-that-is-slower-bbf6afd08e5?source=userActivityShare-2df49e453b3e-1521163281&quot;&gt;We need design that is faster and design that is slower&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kateheddleston.com/blog/becoming-a-10x-developer&quot;&gt;Becoming a 10x Developer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soulcutter.com/articles/local-variable-aversion-antipattern.html&quot;&gt;The Local Variable Aversion Antipattern&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/teh-cmc/go-internals&quot;&gt;A book about the internals of the Go programming language.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;32</title>
