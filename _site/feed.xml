@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Mar 2018 18:42:37 +0700</pubDate>
-    <lastBuildDate>Fri, 16 Mar 2018 18:42:37 +0700</lastBuildDate>
+    <pubDate>Sat, 17 Mar 2018 11:34:53 +0700</pubDate>
+    <lastBuildDate>Sat, 17 Mar 2018 11:34:53 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;34</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html?utm_source=jakartadev&quot;&gt;Caching Internal Service Calls at Yelp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev&quot;&gt;Event Sourcing Using Apache Kafka&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev&quot;&gt;Project Nimble: Region Evacuation Reimagined&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138?utm_source=jakartadev&quot;&gt;Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev&quot;&gt;Developer Survey Results&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d?utm_source=jakartadev&quot;&gt;How GraphQL Replaces Redux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.500px.com/understanding-rendering-in-react-redux-7044c6402a75?utm_source=jakartadev&quot;&gt;Understanding Rendering in React + Redux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 17 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/dialy-digest-34/</link>
+        <guid isPermaLink="true">http://localhost:4000/dialy-digest-34/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;33</title>
@@ -237,29 +260,6 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
         <pubDate>Fri, 09 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-26/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-26/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;25</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0&quot;&gt;Optional Chaining may be coming to JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/3/7/17091766/blockchain-bitcoin-ethereum-cryptocurrency-meaning&quot;&gt;‘Blockchain’ is meaningless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs&quot;&gt;Firefox Configuration Guide for Privacy Freaks and Performance Buffs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/erroneousboat/slack-term&quot;&gt;Slack-term –  Slack client for your terminal&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;codes&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://engineering.remind.com/building-infrastructure-in-parallel/&quot;&gt;Building Infrastructure in Parallel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html&quot;&gt;Introducing LogFeeder - A log collection system&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bitovi.com/blog/a-refactoring&quot;&gt;A Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 08 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-25/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-25/</guid>
         
         <category>daily</category>
         

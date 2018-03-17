@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-16T18:42:37+07:00</updated>
+ <updated>2018-03-17T11:34:53+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;34</title>
+   <link href="http://localhost:4000/dialy-digest-34/"/>
+   <updated>2018-03-17T00:00:00+07:00</updated>
+   <id>http://localhost:4000/dialy-digest-34</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html?utm_source=jakartadev&quot;&gt;Caching Internal Service Calls at Yelp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev&quot;&gt;Event Sourcing Using Apache Kafka&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev&quot;&gt;Project Nimble: Region Evacuation Reimagined&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138?utm_source=jakartadev&quot;&gt;Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev&quot;&gt;Developer Survey Results&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d?utm_source=jakartadev&quot;&gt;How GraphQL Replaces Redux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.500px.com/understanding-rendering-in-react-redux-7044c6402a75?utm_source=jakartadev&quot;&gt;Understanding Rendering in React + Redux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;33</title>
