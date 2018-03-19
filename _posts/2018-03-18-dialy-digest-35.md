@@ -6,7 +6,7 @@ tags:
     - daily
     - development
 description: ""
-publish: false
+publish: true
 ---
 
 - [How to Release a Buggy App (And Live to Tell the Tale)](https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev)

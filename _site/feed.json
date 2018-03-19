@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/dialy-digest-36",
+            "title": "Daily Digest #36",
+            "content_html": "\n",
+            "url": "http://localhost:4000/dialy-digest-36/",
+            "summary": "",
+            "date_published": "2018-03-19 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/dialy-digest-35",
+            "title": "Daily Digest #35",
+            "content_html": "<ul>\n  <li><a href=\"https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev\">How to Release a Buggy App (And Live to Tell the Tale)</a></li>\n  <li><a href=\"https://blog.algolia.com/mobile-search-ux-part-three-seach-results-display/?utm_source=jakartadev\">Mobile Search UX – Part Three: Displaying the Hard Work</a></li>\n  <li><a href=\"https://eng.uber.com/grail/?utm_source=jakartadev\">Scaling Infrastructure Management with Grail</a></li>\n  <li><a href=\"https://engineering.riotgames.com/news/profiling-optimisation?utm_source=jakartadev\">Profiling: Optimisation</a></li>\n  <li><a href=\"https://code.facebook.com/posts/356115241551826/profilo-understanding-app-performance-in-the-wild/?utm_source=jakartadev\">Profilo: Understanding app performance in the wild</a></li>\n  <li><a href=\"https://blog.heroku.com/monolithic-applications-into-services?utm_source=jakartadev\">SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services</a></li>\n  <li><a href=\"http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/?utm_source=jakartadev\">Shattering the Trillion-Rows-Per-Second Barrier With MemSQL</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/dialy-digest-35/",
+            "summary": "",
+            "date_published": "2018-03-18 00:00:00 +0700"
+        },
+{
+        {
             "id": "/dialy-digest-34",
             "title": "Daily Digest #34",
             "content_html": "<ul>\n  <li><a href=\"https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html?utm_source=jakartadev\">Caching Internal Service Calls at Yelp</a></li>\n  <li><a href=\"https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev\">Event Sourcing Using Apache Kafka</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev\">Project Nimble: Region Evacuation Reimagined</a></li>\n  <li><a href=\"https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138?utm_source=jakartadev\">Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba</a></li>\n  <li><a href=\"https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev\">Developer Survey Results</a></li>\n  <li><a href=\"https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d?utm_source=jakartadev\">How GraphQL Replaces Redux</a></li>\n  <li><a href=\"https://developers.500px.com/understanding-rendering-in-react-redux-7044c6402a75?utm_source=jakartadev\">Understanding Rendering in React + Redux</a></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "http://localhost:4000/daily-digest-32/",
             "summary": "",
             "date_published": "2018-03-15 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-31",
-            "title": "Daily Digest #31",
-            "content_html": "<ul>\n  <li><a href=\"https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/\">Learn How to Build a Time Series Database</a></li>\n  <li><a href=\"https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401\">How JavaScript works: tracking changes in the DOM using MutationObserver</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams\">Transforming enterprise integration with reactive streams</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/\">How To Build A Skin For Your Web App With React And WordPress</a></li>\n  <li><a href=\"https://twilioinc.wpengine.com/2018/03/iot-poop-button-python-twilio-aws.html\">How I Potty Trained My Kid Using Twilio and an AWS IoT Button</a></li>\n  <li><a href=\"https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;utm_source=jakartadev.org\">Accessibility for developers</a></li>\n  <li><a href=\"https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away\">Serverless Ops: What do we do when the server goes away?</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-31/",
-            "summary": "",
-            "date_published": "2018-03-14 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/newsletter-issue-19",
-            "title": "Issue #19",
-            "content_html": "<p>Hello! JakartaDev newsletter edisi 19, berikut adalah <em>list</em> yang dikurasi dan baca sepanjang pekan sekarang dan pekan lalu.\nPernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mungkin hanya mendengarkan music, browsing? dan juga bahasa pemograman yang sedang naik daun, <em>Rust</em>.</p>\n\n<h3 id=\"reading-list\">Reading List</h3>\n<h4 id=\"a-year-away-from-macos\"><a href=\"http://bitcannon.net/post/a-year-away-from-mac-os/\">A Year Away from macOS</a></h4>\n<p>Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS.</p>\n\n<h4 id=\"kumpulan-artikel-dan-atau-tutorial-rust\"><a href=\"https://readrust.net/\">Kumpulan artikel dan atau tutorial <em>Rust</em></a></h4>\n<p><em>Rust</em> sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi <em>performance</em>, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk <em>microservice</em> misalkan.</p>\n\n<h4 id=\"a-refactoring\"><a href=\"https://www.bitovi.com/blog/a-refactoring\">A Refactoring</a></h4>\n<p>Terkadang ada kesalah artian tentang <em>refactoring</em>, <em>refactoring</em> tidak sama dengan <em>rewrite</em>, bahkan jauh berbeda.</p>\n<h4 id=\"introducing-logfeeder---a-log-collection-system\"><a href=\"https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html\">Introducing LogFeeder - A log collection system</a></h4>\n<p>Log adalah salah satu hal yang sangat penting dalam layanan atau aplikasi yang dibuat, dalam log dapat mencari <em>bug</em> atau hal yang membuat aplikasi atau service yang kita buat tidak berjalan atau tidak optimal, <em>tool</em> ini bisa membantu dalam hal ini.</p>\n<h4 id=\"tracking-where-your-time-went-with-lego-workstream-visualisation\"><a href=\"https://code.joejag.com/2018/lego-workstream-visualisation.html\">Tracking where your time went with Lego workstream visualisation</a></h4>\n<p>Cara paling mudah, dan tanpa membutuhkan komputer untuk men-<em>track</em> <em>progress</em> yang kita kerjakan, semua ditandai dengan warna, dan sejauh mana kita berkembang.</p>\n\n<h4 id=\"how-to-grow-as-an-engineer-working-remotely\"><a href=\"https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4%3Futm_source=jakartadev.org\">How to Grow as an Engineer (Working Remotely)</a></h4>\n<p>Artikel menarik mengenai bagaimana membangun kultur yang selaras, meskipun developer bekerja secara <em>remote</em>.</p>\n\n<h4 id=\"softwaretalks\"><a href=\"https://www.softwaretalks.io/\">Softwaretalks</a></h4>\n<p>Kumpulan video yang dikurasi tentang software development</p>\n\n<h3 id=\"news\">News</h3>\n<h4 id=\"node-v8100-lts\"><a href=\"https://nodejs.org/en/blog/release/v8.10.0/\">Node v8.10.0 (LTS)</a></h4>\n<p>Di versi solid minor ini, terdapat <em>update</em> di V8, libuv, npm, dukungan OpenSSL 1.1.0.</p>\n\n<h3 id=\"tools--codes\">Tools &amp; Codes</h3>\n<h4 id=\"slack-term---slack-client-for-your-terminal\"><a href=\"https://github.com/erroneousboat/slack-term\">Slack-term –  Slack client for your terminal</a></h4>\n<p>Untuk tim develpment atau perusahaan yang terbiasa melakukan komunikasi teks, biasanya menggunakan Slack sebagai layanannya, dan Slack-Term ini menyediakan tampilan yang <em>geeky</em> dan juga ramah <em>keyboard</em> untuk yang terbiasanya tidak menggunakan trackpad.</p>\n<h4 id=\"gui-to-kong-admin-api\"><a href=\"https://github.com/pantsel/konga\">GUI to Kong Admin API</a></h4>\n<p>Kong saat ini banyak diadopsi oleh perusahaan-perusahaan, Kong salah satu solusi murah untuk me-<em>manage</em> API yang disediakan, karena <a href=\"https://getkong.org\">Kong</a> selain open-source, juga mudah untuk digunakan, apalagi dengan bantuan Admin UI seperti Konga ini.</p>\n\n<h4 id=\"snug--write-reusable-web-api-interactions\"><a href=\"https://github.com/ariebovenberg/snug\">Snug – Write reusable web API interactions</a></h4>\n\n<h3 id=\"event\">Event</h3>\n<h4 id=\"midtransopenhouse---march\"><a href=\"https://www.meetup.com/Ecommerce-Meet-Up-Indonesia/events/248460172/\">MidtransOpenHouse - March</a></h4>\n<p>Meetup yang diadakan oleh Midtrans, Midtrans adalah salah satu penyedia <em>payment gateway</em> di indonesia (diakuisisi oleh Go-jek)</p>\n",
-            "url": "http://localhost:4000/newsletter-issue-19/",
-            "summary": "",
-            "date_published": "2018-03-13 00:00:00 +0700"
         }
 
     ]
