@@ -4,13 +4,39 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-17T11:34:53+07:00</updated>
+ <updated>2018-03-19T11:25:56+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;36</title>
+   <link href="http://localhost:4000/dialy-digest-36/"/>
+   <updated>2018-03-19T00:00:00+07:00</updated>
+   <id>http://localhost:4000/dialy-digest-36</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;35</title>
+   <link href="http://localhost:4000/dialy-digest-35/"/>
+   <updated>2018-03-18T00:00:00+07:00</updated>
+   <id>http://localhost:4000/dialy-digest-35</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev&quot;&gt;How to Release a Buggy App (And Live to Tell the Tale)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/mobile-search-ux-part-three-seach-results-display/?utm_source=jakartadev&quot;&gt;Mobile Search UX – Part Three: Displaying the Hard Work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/grail/?utm_source=jakartadev&quot;&gt;Scaling Infrastructure Management with Grail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/profiling-optimisation?utm_source=jakartadev&quot;&gt;Profiling: Optimisation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/356115241551826/profilo-understanding-app-performance-in-the-wild/?utm_source=jakartadev&quot;&gt;Profilo: Understanding app performance in the wild&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/monolithic-applications-into-services?utm_source=jakartadev&quot;&gt;SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/?utm_source=jakartadev&quot;&gt;Shattering the Trillion-Rows-Per-Second Barrier With MemSQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;34</title>
