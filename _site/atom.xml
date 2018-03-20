@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-20T11:10:52+07:00</updated>
+ <updated>2018-03-20T11:17:56+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -62,7 +62,15 @@
    <link href="http://localhost:4000/daily-digest-37/"/>
    <updated>2018-03-20T00:00:00+07:00</updated>
    <id>http://localhost:4000/daily-digest-37</id>
-   <content type="html">
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://olivierlacan.com/posts/why-wont-bundle-update/?utm_source=jakartadev&quot;&gt;Why Won’t Bundle Update?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/using-yieldself-for-composable-activerecord-relations?utm_source=jakartadev&quot;&gt;Using &lt;code class=&quot;highlighter-rouge&quot;&gt;yield_self&lt;/code&gt; for composable ActiveRecord relations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Th8FNTzOXCM?utm_source=jakartadev&quot;&gt;“Ruby 25 years of commits” visualization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/?utm_source=jakartadev&quot;&gt;An overview of Desktop Ruby GUI development in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/test-kitchen/test-kitchen?utm_source=jakartadev&quot;&gt;Test Kitchen&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/vuejs-as-a-frontend-for-rails/&quot;&gt;Vuejs as a frontend for rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/&quot;&gt;How BBC Interactive Content Works Across AMP, Apps, And The Web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
