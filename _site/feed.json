@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/newsletter-issue-20",
+            "title": "Issue #20",
+            "content_html": "<h3 id=\"reading-list\">Reading list</h3>\n<ul>\n  <li><a href=\"https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/\">Learn How to Build a Time Series Database</a></li>\n  <li><a href=\"https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401\">How JavaScript works: tracking changes in the DOM using MutationObserver</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams\">Transforming enterprise integration with reactive streams</a></li>\n  <li><a href=\"https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;utm_source=jakartadev.org\">Accessibility for developers</a></li>\n  <li><a href=\"https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away\">Serverless Ops: What do we do when the server goes away?</a></li>\n  <li><a href=\"https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/\">Secret management design decisions theory</a></li>\n  <li><a href=\"https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb\">To boldly log: debug Docker apps effectively using logs options, tail and grep</a></li>\n  <li><a href=\"https://testdriven.io/asynchronous-tasks-with-falcon-and-celery\">Asynchronous Tasks with Falcon and Celery</a></li>\n  <li><a href=\"https://www.valentinog.com/blog/tutorial-api-django-rest-react/\">Tutorial: Django REST with React (Django 2.0)</a></li>\n  <li><a href=\"https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b\">The Effect of Naming in Data Science Code</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs\">Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js</a></li>\n  <li><a href=\"http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/?utm_source=jakartadev\">Shattering the Trillion-Rows-Per-Second Barrier With MemSQL</a></li>\n  <li><a href=\"https://blog.heroku.com/monolithic-applications-into-services?utm_source=jakartadev\">SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services</a></li>\n  <li><a href=\"https://eng.uber.com/grail/?utm_source=jakartadev\">Scaling Infrastructure Management with Grail</a></li>\n  <li><a href=\"https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev\">How to Release a Buggy App (And Live to Tell the Tale)</a></li>\n  <li><a href=\"https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev\">Developer Survey Results</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev\">Project Nimble: Region Evacuation Reimagined</a></li>\n  <li><a href=\"https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev\">Event Sourcing Using Apache Kafka</a></li>\n</ul>\n\n<h3 id=\"news\">News</h3>\n<ul>\n  <li><a href=\"http://blog.npmjs.org/post/171813275740/v580-next0\">NPM v5.8.0-next.0</a></li>\n</ul>\n\n<h3 id=\"codes--tools\">Codes &amp; Tools</h3>\n<ul>\n  <li><a href=\"https://github.com/boisgera/bitstream/\">Bitstream – Binary Data for Humans</a></li>\n  <li><a href=\"https://github.com/ajcr/rolling\">Rolling –  A collection of computationally efficient rolling window iterators (sum, min/max, variance, and more)\n</a></li>\n  <li><a href=\"https://github.com/gene1wood/github-collaborator-manager\">GitHub collaborators managers  – A tool to manage GitHub repo collaborators with files</a></li>\n  <li><a href=\"https://github.com/sindresorhus/awesome-nodejs\">Awesome Nodejs</a></li>\n  <li><a href=\"https://github.com/bitjson/typescript-starter\">TypeScript Starter – Quickly create and configure a new library or Node.js project</a></li>\n  <li><a href=\"https://github.com/maticzav/emma-cli\">Emma – Terminal assistant to find and install node packages.</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/newsletter-issue-20/",
+            "summary": "",
+            "date_published": "2018-03-20 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-37",
+            "title": "Daily Digest #37",
+            "content_html": "\n",
+            "url": "http://localhost:4000/daily-digest-37/",
+            "summary": "",
+            "date_published": "2018-03-20 00:00:00 +0700"
+        },
+{
+        {
             "id": "/dialy-digest-36",
             "title": "Daily Digest #36",
             "content_html": "<ul>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs\">Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js</a></li>\n  <li><a href=\"https://hackernoon.com/the-redux-type-flow-93aada6964e5\">The Redux Type Flow</a></li>\n  <li><a href=\"https://itnext.io/building-an-arm-kubernetes-cluster-ef31032636f9\">Building an ARM Kubernetes Cluster</a></li>\n  <li><a href=\"https://crystal-lang.org/2018/03/09/crystal-automated-release.html\">Crystal Automated Release</a></li>\n  <li><a href=\"https://apiumhub.com/tech-blog-barcelona/product-owner-role-software-development/\">The product owner role in software development</a></li>\n  <li><a href=\"https://medium.com/@fishpercolator/how-to-separate-frontend-backend-with-rails-api-nuxt-js-and-devise-jwt-cf7dd9da9d16\">How to separate frontend + backend with Rails API, Nuxt.js and Devise-JWT</a></li>\n  <li><a href=\"https://github.com/boisgera/bitstream/\">Bitsream - Binary Data for Humans</a> <span class=\"label\">code</span></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "http://localhost:4000/dialy-digest-34/",
             "summary": "",
             "date_published": "2018-03-17 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/dialy-digest-33",
-            "title": "Daily Digest #33",
-            "content_html": "<ul>\n  <li><a href=\"https://www.codenewbie.org/podcast\">CodeNewbie Podcast</a> <span class=\"label\">podcast</span> – new found podcast, listened to latest episode sith Anil Dash, great episode.</li>\n  <li><a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsIJP13VD_Cg8qS5g2bKWTaYx\">Cofee with Googler</a> <span class=\"label\">Video</span> – Kinda light talks with Google employee/engineers, get the human side of the engineer.</li>\n  <li><a href=\"https://medium.com/@zeldman/we-need-design-that-is-faster-and-design-that-is-slower-bbf6afd08e5?source=userActivityShare-2df49e453b3e-1521163281\">We need design that is faster and design that is slower</a></li>\n  <li><a href=\"https://kateheddleston.com/blog/becoming-a-10x-developer\">Becoming a 10x Developer</a></li>\n  <li><a href=\"http://www.soulcutter.com/articles/local-variable-aversion-antipattern.html\">The Local Variable Aversion Antipattern</a></li>\n  <li><a href=\"https://github.com/teh-cmc/go-internals\">A book about the internals of the Go programming language.</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/dialy-digest-33/",
-            "summary": "",
-            "date_published": "2018-03-16 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-32",
-            "title": "Daily Digest #32",
-            "content_html": "<ul>\n  <li><a href=\"http://stackabuse.com/creating-and-deleting-directories-with-python/\">Creating and Deleting Directories with Python</a></li>\n  <li><a href=\"https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b\">The Effect of Naming in Data Science Code</a></li>\n  <li><a href=\"https://www.valentinog.com/blog/tutorial-api-django-rest-react/\">Tutorial: Django REST with React (Django 2.0)</a></li>\n  <li><a href=\"https://testdriven.io/asynchronous-tasks-with-falcon-and-celery\">Asynchronous Tasks with Falcon and Celery</a></li>\n  <li><a href=\"https://talkpython.fm/\">TalkPython[‘Podcast’]</a> <span class=\"label\">podcast</span></li>\n  <li><a href=\"https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb\">To boldly log: debug Docker apps effectively using logs options, tail and grep</a></li>\n  <li><a href=\"https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/\">Secret management design decisions theory</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-32/",
-            "summary": "",
-            "date_published": "2018-03-15 00:00:00 +0700"
         }
 
     ]

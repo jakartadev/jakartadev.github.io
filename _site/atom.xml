@@ -4,13 +4,67 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-19T11:46:55+07:00</updated>
+ <updated>2018-03-20T11:10:52+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;20</title>
+   <link href="http://localhost:4000/newsletter-issue-20/"/>
+   <updated>2018-03-20T00:00:00+07:00</updated>
+   <id>http://localhost:4000/newsletter-issue-20</id>
+   <content type="html">&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401&quot;&gt;How JavaScript works: tracking changes in the DOM using MutationObserver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams&quot;&gt;Transforming enterprise integration with reactive streams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;amp;utm_source=jakartadev.org&quot;&gt;Accessibility for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away&quot;&gt;Serverless Ops: What do we do when the server goes away?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/&quot;&gt;Secret management design decisions theory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb&quot;&gt;To boldly log: debug Docker apps effectively using logs options, tail and grep&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/asynchronous-tasks-with-falcon-and-celery&quot;&gt;Asynchronous Tasks with Falcon and Celery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.valentinog.com/blog/tutorial-api-django-rest-react/&quot;&gt;Tutorial: Django REST with React (Django 2.0)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b&quot;&gt;The Effect of Naming in Data Science Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs&quot;&gt;Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/?utm_source=jakartadev&quot;&gt;Shattering the Trillion-Rows-Per-Second Barrier With MemSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/monolithic-applications-into-services?utm_source=jakartadev&quot;&gt;SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/grail/?utm_source=jakartadev&quot;&gt;Scaling Infrastructure Management with Grail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev&quot;&gt;How to Release a Buggy App (And Live to Tell the Tale)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev&quot;&gt;Developer Survey Results&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev&quot;&gt;Project Nimble: Region Evacuation Reimagined&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev&quot;&gt;Event Sourcing Using Apache Kafka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171813275740/v580-next0&quot;&gt;NPM v5.8.0-next.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;codes--tools&quot;&gt;Codes &amp;amp; Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/boisgera/bitstream/&quot;&gt;Bitstream – Binary Data for Humans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ajcr/rolling&quot;&gt;Rolling –  A collection of computationally efficient rolling window iterators (sum, min/max, variance, and more)
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gene1wood/github-collaborator-manager&quot;&gt;GitHub collaborators managers  – A tool to manage GitHub repo collaborators with files&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome-nodejs&quot;&gt;Awesome Nodejs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bitjson/typescript-starter&quot;&gt;TypeScript Starter – Quickly create and configure a new library or Node.js project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/maticzav/emma-cli&quot;&gt;Emma – Terminal assistant to find and install node packages.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;37</title>
+   <link href="http://localhost:4000/daily-digest-37/"/>
+   <updated>2018-03-20T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-37</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;36</title>
