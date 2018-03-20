@@ -5,9 +5,75 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Mar 2018 11:46:55 +0700</pubDate>
-    <lastBuildDate>Mon, 19 Mar 2018 11:46:55 +0700</lastBuildDate>
+    <pubDate>Tue, 20 Mar 2018 11:10:52 +0700</pubDate>
+    <lastBuildDate>Tue, 20 Mar 2018 11:10:52 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Issue &amp;#35;20</title>
+        <description>&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401&quot;&gt;How JavaScript works: tracking changes in the DOM using MutationObserver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams&quot;&gt;Transforming enterprise integration with reactive streams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;amp;utm_source=jakartadev.org&quot;&gt;Accessibility for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away&quot;&gt;Serverless Ops: What do we do when the server goes away?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/&quot;&gt;Secret management design decisions theory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb&quot;&gt;To boldly log: debug Docker apps effectively using logs options, tail and grep&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/asynchronous-tasks-with-falcon-and-celery&quot;&gt;Asynchronous Tasks with Falcon and Celery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.valentinog.com/blog/tutorial-api-django-rest-react/&quot;&gt;Tutorial: Django REST with React (Django 2.0)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b&quot;&gt;The Effect of Naming in Data Science Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs&quot;&gt;Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/?utm_source=jakartadev&quot;&gt;Shattering the Trillion-Rows-Per-Second Barrier With MemSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/monolithic-applications-into-services?utm_source=jakartadev&quot;&gt;SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/grail/?utm_source=jakartadev&quot;&gt;Scaling Infrastructure Management with Grail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev&quot;&gt;How to Release a Buggy App (And Live to Tell the Tale)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev&quot;&gt;Developer Survey Results&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev&quot;&gt;Project Nimble: Region Evacuation Reimagined&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev&quot;&gt;Event Sourcing Using Apache Kafka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171813275740/v580-next0&quot;&gt;NPM v5.8.0-next.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;codes--tools&quot;&gt;Codes &amp;amp; Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/boisgera/bitstream/&quot;&gt;Bitstream – Binary Data for Humans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ajcr/rolling&quot;&gt;Rolling –  A collection of computationally efficient rolling window iterators (sum, min/max, variance, and more)
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gene1wood/github-collaborator-manager&quot;&gt;GitHub collaborators managers  – A tool to manage GitHub repo collaborators with files&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome-nodejs&quot;&gt;Awesome Nodejs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bitjson/typescript-starter&quot;&gt;TypeScript Starter – Quickly create and configure a new library or Node.js project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/maticzav/emma-cli&quot;&gt;Emma – Terminal assistant to find and install node packages.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 20 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/newsletter-issue-20/</link>
+        <guid isPermaLink="true">http://localhost:4000/newsletter-issue-20/</guid>
+        
+        <category>issue</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;37</title>
+        <description>
+</description>
+        <pubDate>Tue, 20 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-37/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-37/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;36</title>
@@ -213,52 +279,6 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
         <pubDate>Tue, 13 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-30/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-30/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;29</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale?utm_source=jakartadev.org&quot;&gt;A Pods Architecture To Allow Shopify To Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/angular-1-to-react-migration/?utm_source=jakartadev.org&quot;&gt;Angular 1 to React Migration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4?utm_source=jakartadev.org&quot;&gt;How to Grow as an Engineer (Working Remotely)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/how-to-spot-bad-product/index.html?utm_source=jakartadev.org&quot;&gt;How to Spot a Bad Product&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/doctor-python-or-how-i-learned-to-stop-worrying-and-love-es6/?utm_source=jakartadev.org&quot;&gt;Doctor Python: Or How I Learned to Stop Worrying and Love ES6&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/todogroup/guides?utm_source=jakartadev.org&quot;&gt;TODO Group Guides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84?utm_source=jakartadev.org&quot;&gt;Why I left Google to join Grab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 12 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-29/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-29/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;28</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt; – much more simpler to administrate Kong.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bookdown.org/&quot;&gt;Books written with R Markdown&lt;/a&gt; – Great resource to learn R Language.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/&quot;&gt;The Programming Historian&lt;/a&gt; – Simple yet amazing collection of tutorials (or lessons).&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.joejag.com/2018/lego-workstream-visualisation.html&quot;&gt;Tracking where your time went with Lego workstream visualisation&lt;/a&gt; – harus coba&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/&quot;&gt;Introduction to Istio; It Makes A Mesh Of Things&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html&quot;&gt;CSS in the Age of React: How We Traded the Cascade for Consistency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f&quot;&gt;Dynamic optimizer — a perceptual video encoding optimization framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 11 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-28/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-28/</guid>
         
         <category>daily</category>
         
