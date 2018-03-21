@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Mar 2018 11:17:56 +0700</pubDate>
-    <lastBuildDate>Tue, 20 Mar 2018 11:17:56 +0700</lastBuildDate>
+    <pubDate>Wed, 21 Mar 2018 19:57:47 +0700</pubDate>
+    <lastBuildDate>Wed, 21 Mar 2018 19:57:47 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;38</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/&quot;&gt;The evolution of Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/226845501211938/fabric-aggregator-a-flexible-solution-to-our-traffic-demand/?utm_source=jakartadev&quot;&gt;Fabric Aggregator: A flexible solution to our traffic demand&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/&quot;&gt;Five Key Git Concepts Explained the Hard Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitkube.sh/&quot;&gt;Gitkube – tool for building and deploying docker images on Kubernetes using git push&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://redisgraph.io/design/&quot;&gt;RedisGraph – A High Performance In-Memory Graph Database as a Redis Module&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/service-fabric&quot;&gt;Microsoft Service Fabric&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soulcutter.com/articles/memoizing-in-ruby.html&quot;&gt;Memoizing in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 21 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-38/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-38/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Issue &amp;#35;20</title>
@@ -266,29 +289,6 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
         <guid isPermaLink="true">http://localhost:4000/newsletter-issue-19/</guid>
         
         <category>issue</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;30</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/&quot;&gt;Lessons from my first year of live coding on Twitch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pgmetrics.io/&quot;&gt;PGMetrics&lt;/a&gt; – PostgreSQL metrics tool for automation and monitoring.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/&quot;&gt;Go Fast or Go Home: The Process of Optimizing for Client Performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/tensor-flow-part-1-tensorflow-machine-learning-on-android-73fd536a1a7c&quot;&gt;Tensor &amp;amp; Flow: Part 1, TensorFlow &amp;amp; Machine Learning on Android&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/distributed-transactions-and-why-you-should-care-116b6da8d72&quot;&gt;Distributed transactions and why you should care&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/exploration-of-security-when-building-docker-containers&quot;&gt;A House of Cards: An Exploration of Security When Building Docker Containers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac&quot;&gt;Real-time API Monitoring Using GO and Pusher&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 13 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-30/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-30/</guid>
-        
-        <category>daily</category>
         
         <category>development</category>
         

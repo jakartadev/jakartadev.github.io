@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-20T11:17:56+07:00</updated>
+ <updated>2018-03-21T19:57:47+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;38</title>
+   <link href="http://localhost:4000/daily-digest-38/"/>
+   <updated>2018-03-21T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-38</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/&quot;&gt;The evolution of Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/226845501211938/fabric-aggregator-a-flexible-solution-to-our-traffic-demand/?utm_source=jakartadev&quot;&gt;Fabric Aggregator: A flexible solution to our traffic demand&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/&quot;&gt;Five Key Git Concepts Explained the Hard Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitkube.sh/&quot;&gt;Gitkube – tool for building and deploying docker images on Kubernetes using git push&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://redisgraph.io/design/&quot;&gt;RedisGraph – A High Performance In-Memory Graph Database as a Redis Module&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/service-fabric&quot;&gt;Microsoft Service Fabric&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soulcutter.com/articles/memoizing-in-ruby.html&quot;&gt;Memoizing in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;20</title>
