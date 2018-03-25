@@ -6,7 +6,7 @@ tags:
     - daily
     - development
 description: ""
-publish: false
+publish: true
 ---
 
 - [Gluster 4.0](https://www.gluster.org/announcing-gluster-4-0/)
