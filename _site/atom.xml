@@ -4,13 +4,74 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-23T20:59:39+07:00</updated>
+ <updated>2018-03-25T11:26:00+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;45</title>
+   <link href="http://localhost:4000/daily-digest-45/"/>
+   <updated>2018-03-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-45</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;44</title>
+   <link href="http://localhost:4000/daily-digest-44/"/>
+   <updated>2018-03-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-44</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;43</title>
+   <link href="http://localhost:4000/daily-digest-43/"/>
+   <updated>2018-03-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-43</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;42</title>
+   <link href="http://localhost:4000/daily-digest-42/"/>
+   <updated>2018-03-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-42</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/history-of-node-js/&quot;&gt;History of Node.js on a Timeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/187912491817160/the-next-step-in-facebook-s-ai-hardware-infrastructure/&quot;&gt;The next step in Facebook’s AI hardware infrastructure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/03/lazy-loading-with-conditioner-js/&quot;&gt;Lazy Loading JavaScript Modules With ConditionerJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1&quot;&gt;Make your GraphQL API Easier To Adopt Through Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/03/23/you-are-not-your-tools/&quot;&gt;You are not your tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alex.dzyoba.com/blog/redis-ha/&quot;&gt;Redis high availability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flaviocopes.com/script-async-defer/&quot;&gt;Efficiently load JavaScript with defer and async&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;41</title>
+   <link href="http://localhost:4000/daily-digest-41/"/>
+   <updated>2018-03-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-41</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.findmypast.com/technical-debt/&quot;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4&quot;&gt;2 Fast 2 Furious: migrating Medium’s codebase without slowing down&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/understanding-git-index-4821a0765cf&quot;&gt;Understanding Git — Index&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641&quot;&gt;Common Patterns for Analyzing Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82?source=jakartadev&quot;&gt;Automated front-end development using deep learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469&quot;&gt;🎁 Releasing “Supervisely Person” dataset for teaching machines to segment humans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb&quot;&gt;Integration and End-to-end Tests Made Easy with Node.js and MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;40</title>
