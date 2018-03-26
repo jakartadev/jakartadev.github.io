@@ -5,45 +5,23 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Mar 2018 11:26:00 +0700</pubDate>
-    <lastBuildDate>Sun, 25 Mar 2018 11:26:00 +0700</lastBuildDate>
+    <pubDate>Mon, 26 Mar 2018 17:18:05 +0700</pubDate>
+    <lastBuildDate>Mon, 26 Mar 2018 17:18:05 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;45</title>
-        <description>
-</description>
-        <pubDate>Sat, 24 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-45/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-45/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;44</title>
-        <description>
-</description>
-        <pubDate>Sat, 24 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-44/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-44/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
         <title>Daily Digest &amp;#35;43</title>
-        <description>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/3/20/17130056/telltale-games-developer-layoffs-toxic-video-game-industry&quot;&gt;Toxic Management cost and award-winning game studio its best developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michaelwashere.net/void/linux/culture/2017/09/18/into-the-void.html&quot;&gt;Into The Void&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.timoxley.com/post/47041269194/avoid-else-return-early&quot;&gt;Avoid Else, Return Early&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.marksblogg.com/billion-nyc-taxi-rides-ec2-versus-emr.html&quot;&gt;1.1 Billion Taxi Rides: EC2 versus EMR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rhye.org/post/native-methods-in-erlang/&quot;&gt;Natively Implemented Functions in Erlang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://treyhunner.com/2018/02/python-3-s-range-better-than-python-2-s-xrange/&quot;&gt;Python 3’s range is more powerful than Python 2’s xrange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.binary.com/unit-testing-with-futures/&quot;&gt;Unit Testing Asynchronous Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 24 Mar 2018 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 26 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-43/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-43/</guid>
         
@@ -66,9 +44,24 @@
   &lt;li&gt;&lt;a href=&quot;https://flaviocopes.com/script-async-defer/&quot;&gt;Efficiently load JavaScript with defer and async&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 24 Mar 2018 00:00:00 +0700</pubDate>
+        <pubDate>Sun, 25 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-42/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-42/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;44</title>
+        <description>
+</description>
+        <pubDate>Sat, 24 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-44/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-44/</guid>
         
         <category>daily</category>
         
@@ -235,6 +228,29 @@
         <pubDate>Tue, 20 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-37/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-37/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;36</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs&quot;&gt;Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-redux-type-flow-93aada6964e5&quot;&gt;The Redux Type Flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/building-an-arm-kubernetes-cluster-ef31032636f9&quot;&gt;Building an ARM Kubernetes Cluster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crystal-lang.org/2018/03/09/crystal-automated-release.html&quot;&gt;Crystal Automated Release&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apiumhub.com/tech-blog-barcelona/product-owner-role-software-development/&quot;&gt;The product owner role in software development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@fishpercolator/how-to-separate-frontend-backend-with-rails-api-nuxt-js-and-devise-jwt-cf7dd9da9d16&quot;&gt;How to separate frontend + backend with Rails API, Nuxt.js and Devise-JWT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/boisgera/bitstream/&quot;&gt;Bitsream - Binary Data for Humans&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 19 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/dialy-digest-36/</link>
+        <guid isPermaLink="true">http://localhost:4000/dialy-digest-36/</guid>
         
         <category>daily</category>
         
