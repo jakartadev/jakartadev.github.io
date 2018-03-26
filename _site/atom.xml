@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-25T11:26:00+07:00</updated>
+ <updated>2018-03-26T17:18:05+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,36 +13,26 @@
 
  
  <entry>
-   <title>Daily Digest &#35;45</title>
-   <link href="http://localhost:4000/daily-digest-45/"/>
-   <updated>2018-03-24T00:00:00+07:00</updated>
-   <id>http://localhost:4000/daily-digest-45</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Daily Digest &#35;44</title>
-   <link href="http://localhost:4000/daily-digest-44/"/>
-   <updated>2018-03-24T00:00:00+07:00</updated>
-   <id>http://localhost:4000/daily-digest-44</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
    <title>Daily Digest &#35;43</title>
    <link href="http://localhost:4000/daily-digest-43/"/>
-   <updated>2018-03-24T00:00:00+07:00</updated>
+   <updated>2018-03-26T00:00:00+07:00</updated>
    <id>http://localhost:4000/daily-digest-43</id>
-   <content type="html">
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/3/20/17130056/telltale-games-developer-layoffs-toxic-video-game-industry&quot;&gt;Toxic Management cost and award-winning game studio its best developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michaelwashere.net/void/linux/culture/2017/09/18/into-the-void.html&quot;&gt;Into The Void&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.timoxley.com/post/47041269194/avoid-else-return-early&quot;&gt;Avoid Else, Return Early&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.marksblogg.com/billion-nyc-taxi-rides-ec2-versus-emr.html&quot;&gt;1.1 Billion Taxi Rides: EC2 versus EMR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rhye.org/post/native-methods-in-erlang/&quot;&gt;Natively Implemented Functions in Erlang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://treyhunner.com/2018/02/python-3-s-range-better-than-python-2-s-xrange/&quot;&gt;Python 3’s range is more powerful than Python 2’s xrange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.binary.com/unit-testing-with-futures/&quot;&gt;Unit Testing Asynchronous Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
  <entry>
    <title>Daily Digest &#35;42</title>
    <link href="http://localhost:4000/daily-digest-42/"/>
-   <updated>2018-03-24T00:00:00+07:00</updated>
+   <updated>2018-03-25T00:00:00+07:00</updated>
    <id>http://localhost:4000/daily-digest-42</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/history-of-node-js/&quot;&gt;History of Node.js on a Timeline&lt;/a&gt;&lt;/li&gt;
@@ -53,6 +43,15 @@
   &lt;li&gt;&lt;a href=&quot;https://alex.dzyoba.com/blog/redis-ha/&quot;&gt;Redis high availability&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://flaviocopes.com/script-async-defer/&quot;&gt;Efficiently load JavaScript with defer and async&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;44</title>
+   <link href="http://localhost:4000/daily-digest-44/"/>
+   <updated>2018-03-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-44</id>
+   <content type="html">
 </content>
  </entry>
  
