@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/newsletter-issue-21",
+            "title": "Issue #21",
+            "content_html": "<h3 id=\"reading-list\">Reading list</h3>\n<ul>\n  <li><a href=\"https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/\">The evolution of Docker</a></li>\n  <li><a href=\"https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/\">Five Key Git Concepts Explained the Hard Way</a></li>\n  <li><a href=\"http://redisgraph.io/design/\">RedisGraph – A High Performance In-Memory Graph Database as a Redis Module</a></li>\n  <li><a href=\"http://www.soulcutter.com/articles/memoizing-in-ruby.html\">Memoizing in Ruby</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/\">Bringing interactive examples to MDN</a></li>\n  <li><a href=\"https://nordicapis.com/why-you-should-be-designing-apis-to-spec/\">Why You Should Be Designing APIs to Spec</a></li>\n  <li><a href=\"https://blog.codeship.com/finding-project-management-balance-for-small-engineering-teams/\">Finding project management balance for small engineering teams</a></li>\n  <li><a href=\"https://blog.loadmill.com/run-chaos-experiments-without-risking-your-job-2c8a5f4b0bfc\">Run Chaos Experiments Without Risking Your Job</a></li>\n  <li><a href=\"https://www.reuters.com/article/us-slack-outages/slack-technologies-builds-engineering-team-to-combat-outages-idUSKBN1GX31L\">Slack Technologies builds engineering team to combat outages</a></li>\n  <li><a href=\"https://arstechnica.com/gadgets/2018/03/building-windows-4-million-commits-10-million-work-items/\">Building Windows: 4 million commits, 10 million work items</a></li>\n  <li><a href=\"https://tech.findmypast.com/technical-debt/\">Technical debt</a></li>\n  <li><a href=\"https://hackernoon.com/understanding-git-index-4821a0765cf\">Understanding Git — Index</a></li>\n  <li><a href=\"https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb\">Integration and End-to-end Tests Made Easy with Node.js and MongoDB</a></li>\n  <li><a href=\"https://blog.risingstack.com/history-of-node-js/\">History of Node.js on a Timeline</a></li>\n  <li><a href=\"https://codewithoutrules.com/2018/03/23/you-are-not-your-tools/\">You are not your tools</a></li>\n</ul>\n\n<h3 id=\"news\">News</h3>\n<ul>\n  <li><a href=\"https://www.gluster.org/announcing-gluster-4-0/\">Gluster 4.0</a></li>\n</ul>\n\n<h3 id=\"codes--tools\">Codes &amp; Tools</h3>\n<ul>\n  <li><a href=\"https://fossa.io/\">Fossa</a></li>\n  <li><a href=\"https://github.com/sindresorhus/fkill-cli\">FKill – Fabulously kill processes. Cross-platform.</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/newsletter-issue-21/",
+            "summary": "",
+            "date_published": "2018-03-27 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-44",
             "title": "Daily Digest #44",
             "content_html": "<ul>\n  <li><a href=\"https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/\">GIT log – The good parts</a></li>\n  <li><a href=\"https://arrow.apache.org/\">Apache Arrow</a> <span class=\"label\">code</span> <span class=\"label\">big data</span></li>\n  <li><a href=\"https://gokrazy.org/\">Gokrazy – pure-Go userland for your Raspberry Pi 3 appliances</a></li>\n  <li><a href=\"https://github.com/onivim/oni\">Onivim – New editor</a> – !TODO: review</li>\n  <li><a href=\"https://github.com/djrobstep/migra\">migra: PostgreSQL migrations</a> <span class=\"label\">tool</span></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-41/",
             "summary": "",
             "date_published": "2018-03-24 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-40",
-            "title": "Daily Digest #40",
-            "content_html": "<ul>\n  <li><a href=\"https://www.gluster.org/announcing-gluster-4-0/\">Gluster 4.0</a></li>\n  <li><a href=\"https://nullp0tr.com/pages/declarative_apis.html\">Declarative Programming with Python</a></li>\n  <li><a href=\"https://blog.meetupfeed.com/go-talk-recordings-meetups-conferences-q4-2017/\">Go Talk recordings from meetups and conferences during Q4 2017</a></li>\n  <li><a href=\"https://www.reuters.com/article/us-slack-outages/slack-technologies-builds-engineering-team-to-combat-outages-idUSKBN1GX31L\">Slack Technologies builds engineering team to combat outages</a></li>\n  <li><a href=\"https://arstechnica.com/gadgets/2018/03/building-windows-4-million-commits-10-million-work-items/\">Building Windows: 4 million commits, 10 million work items</a></li>\n  <li><a href=\"https://engineering.shopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage\">Future proofing our cloud storage usage</a></li>\n  <li><a href=\"https://tech.findmypast.com/searching-for-solr/\">Searching for Solr</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-40/",
-            "summary": "",
-            "date_published": "2018-03-23 00:00:00 +0700"
         }
 
     ]

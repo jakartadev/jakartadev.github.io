@@ -4,13 +4,50 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-27T13:47:33+07:00</updated>
+ <updated>2018-03-27T13:52:15+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Issue &#35;21</title>
+   <link href="http://localhost:4000/newsletter-issue-21/"/>
+   <updated>2018-03-27T00:00:00+07:00</updated>
+   <id>http://localhost:4000/newsletter-issue-21</id>
+   <content type="html">&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/&quot;&gt;The evolution of Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/&quot;&gt;Five Key Git Concepts Explained the Hard Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://redisgraph.io/design/&quot;&gt;RedisGraph – A High Performance In-Memory Graph Database as a Redis Module&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soulcutter.com/articles/memoizing-in-ruby.html&quot;&gt;Memoizing in Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/&quot;&gt;Bringing interactive examples to MDN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/why-you-should-be-designing-apis-to-spec/&quot;&gt;Why You Should Be Designing APIs to Spec&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/finding-project-management-balance-for-small-engineering-teams/&quot;&gt;Finding project management balance for small engineering teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.loadmill.com/run-chaos-experiments-without-risking-your-job-2c8a5f4b0bfc&quot;&gt;Run Chaos Experiments Without Risking Your Job&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reuters.com/article/us-slack-outages/slack-technologies-builds-engineering-team-to-combat-outages-idUSKBN1GX31L&quot;&gt;Slack Technologies builds engineering team to combat outages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2018/03/building-windows-4-million-commits-10-million-work-items/&quot;&gt;Building Windows: 4 million commits, 10 million work items&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.findmypast.com/technical-debt/&quot;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/understanding-git-index-4821a0765cf&quot;&gt;Understanding Git — Index&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb&quot;&gt;Integration and End-to-end Tests Made Easy with Node.js and MongoDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/history-of-node-js/&quot;&gt;History of Node.js on a Timeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/03/23/you-are-not-your-tools/&quot;&gt;You are not your tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gluster.org/announcing-gluster-4-0/&quot;&gt;Gluster 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;codes--tools&quot;&gt;Codes &amp;amp; Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fossa.io/&quot;&gt;Fossa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/fkill-cli&quot;&gt;FKill – Fabulously kill processes. Cross-platform.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;44</title>
