@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-27T13:52:15+07:00</updated>
+ <updated>2018-03-28T11:54:55+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;45</title>
+   <link href="http://localhost:4000/daily-digest-45/"/>
+   <updated>2018-03-28T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-45</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.techradar.com/news/ruby-is-alive-and-well-and-thinking-about-the-next-25-years&quot;&gt;Ruby is alive and well and thinking about the next 25 years&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/python/in-depth-python-logging&quot;&gt;Python Logging: An In-Depth Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/.net/serverless-and-using-it/&quot;&gt;Serverless, and the challenges using it &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience&quot;&gt;LinkedIn Lite: A Lightweight Mobile Web Experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f&quot;&gt;Using Machine Learning to Improve Streaming Quality at Netflix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f&quot;&gt;A Beginner’s Guide to IPFS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/qalm/#utm_source=jakartadev&quot;&gt;Introducing QALM, Uber’s QoS Load Management Framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Issue &#35;21</title>

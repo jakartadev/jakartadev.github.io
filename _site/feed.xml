@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Mar 2018 13:52:15 +0700</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 13:52:15 +0700</lastBuildDate>
+    <pubDate>Wed, 28 Mar 2018 11:54:55 +0700</pubDate>
+    <lastBuildDate>Wed, 28 Mar 2018 11:54:55 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;45</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.techradar.com/news/ruby-is-alive-and-well-and-thinking-about-the-next-25-years&quot;&gt;Ruby is alive and well and thinking about the next 25 years&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/python/in-depth-python-logging&quot;&gt;Python Logging: An In-Depth Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/.net/serverless-and-using-it/&quot;&gt;Serverless, and the challenges using it &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience&quot;&gt;LinkedIn Lite: A Lightweight Mobile Web Experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f&quot;&gt;Using Machine Learning to Improve Streaming Quality at Netflix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f&quot;&gt;A Beginner’s Guide to IPFS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/qalm/#utm_source=jakartadev&quot;&gt;Introducing QALM, Uber’s QoS Load Management Framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 28 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-45/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-45/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Issue &amp;#35;21</title>
@@ -256,29 +279,6 @@
         <guid isPermaLink="true">http://localhost:4000/newsletter-issue-20/</guid>
         
         <category>issue</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;37</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://olivierlacan.com/posts/why-wont-bundle-update/?utm_source=jakartadev&quot;&gt;Why Won’t Bundle Update?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/using-yieldself-for-composable-activerecord-relations?utm_source=jakartadev&quot;&gt;Using &lt;code class=&quot;highlighter-rouge&quot;&gt;yield_self&lt;/code&gt; for composable ActiveRecord relations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Th8FNTzOXCM?utm_source=jakartadev&quot;&gt;“Ruby 25 years of commits” visualization&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/?utm_source=jakartadev&quot;&gt;An overview of Desktop Ruby GUI development in 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/test-kitchen/test-kitchen?utm_source=jakartadev&quot;&gt;Test Kitchen&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/vuejs-as-a-frontend-for-rails/&quot;&gt;Vuejs as a frontend for rails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/&quot;&gt;How BBC Interactive Content Works Across AMP, Apps, And The Web&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 20 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-37/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-37/</guid>
-        
-        <category>daily</category>
         
         <category>development</category>
         

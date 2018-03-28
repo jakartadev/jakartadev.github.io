@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-45",
+            "title": "Daily Digest #45",
+            "content_html": "<ul>\n  <li><a href=\"https://www.techradar.com/news/ruby-is-alive-and-well-and-thinking-about-the-next-25-years\">Ruby is alive and well and thinking about the next 25 years</a></li>\n  <li><a href=\"https://www.toptal.com/python/in-depth-python-logging\">Python Logging: An In-Depth Tutorial</a></li>\n  <li><a href=\"https://capgemini.github.io/.net/serverless-and-using-it/\">Serverless, and the challenges using it </a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience\">LinkedIn Lite: A Lightweight Mobile Web Experience</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f\">Using Machine Learning to Improve Streaming Quality at Netflix</a></li>\n  <li><a href=\"https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f\">A Beginner’s Guide to IPFS</a></li>\n  <li><a href=\"https://eng.uber.com/qalm/#utm_source=jakartadev\">Introducing QALM, Uber’s QoS Load Management Framework</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-45/",
+            "summary": "",
+            "date_published": "2018-03-28 00:00:00 +0700"
+        },
+{
+        {
             "id": "/newsletter-issue-21",
             "title": "Issue #21",
             "content_html": "<h3 id=\"reading-list\">Reading list</h3>\n<ul>\n  <li><a href=\"https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/\">The evolution of Docker</a></li>\n  <li><a href=\"https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/\">Five Key Git Concepts Explained the Hard Way</a></li>\n  <li><a href=\"http://redisgraph.io/design/\">RedisGraph – A High Performance In-Memory Graph Database as a Redis Module</a></li>\n  <li><a href=\"http://www.soulcutter.com/articles/memoizing-in-ruby.html\">Memoizing in Ruby</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/\">Bringing interactive examples to MDN</a></li>\n  <li><a href=\"https://nordicapis.com/why-you-should-be-designing-apis-to-spec/\">Why You Should Be Designing APIs to Spec</a></li>\n  <li><a href=\"https://blog.codeship.com/finding-project-management-balance-for-small-engineering-teams/\">Finding project management balance for small engineering teams</a></li>\n  <li><a href=\"https://blog.loadmill.com/run-chaos-experiments-without-risking-your-job-2c8a5f4b0bfc\">Run Chaos Experiments Without Risking Your Job</a></li>\n  <li><a href=\"https://www.reuters.com/article/us-slack-outages/slack-technologies-builds-engineering-team-to-combat-outages-idUSKBN1GX31L\">Slack Technologies builds engineering team to combat outages</a></li>\n  <li><a href=\"https://arstechnica.com/gadgets/2018/03/building-windows-4-million-commits-10-million-work-items/\">Building Windows: 4 million commits, 10 million work items</a></li>\n  <li><a href=\"https://tech.findmypast.com/technical-debt/\">Technical debt</a></li>\n  <li><a href=\"https://hackernoon.com/understanding-git-index-4821a0765cf\">Understanding Git — Index</a></li>\n  <li><a href=\"https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb\">Integration and End-to-end Tests Made Easy with Node.js and MongoDB</a></li>\n  <li><a href=\"https://blog.risingstack.com/history-of-node-js/\">History of Node.js on a Timeline</a></li>\n  <li><a href=\"https://codewithoutrules.com/2018/03/23/you-are-not-your-tools/\">You are not your tools</a></li>\n</ul>\n\n<h3 id=\"news\">News</h3>\n<ul>\n  <li><a href=\"https://www.gluster.org/announcing-gluster-4-0/\">Gluster 4.0</a></li>\n</ul>\n\n<h3 id=\"codes--tools\">Codes &amp; Tools</h3>\n<ul>\n  <li><a href=\"https://fossa.io/\">Fossa</a></li>\n  <li><a href=\"https://github.com/sindresorhus/fkill-cli\">FKill – Fabulously kill processes. Cross-platform.</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-42/",
             "summary": "",
             "date_published": "2018-03-25 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-41",
-            "title": "Daily Digest #41",
-            "content_html": "<ul>\n  <li><a href=\"https://tech.findmypast.com/technical-debt/\">Technical debt</a></li>\n  <li><a href=\"https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4\">2 Fast 2 Furious: migrating Medium’s codebase without slowing down</a></li>\n  <li><a href=\"https://hackernoon.com/understanding-git-index-4821a0765cf\">Understanding Git — Index</a></li>\n  <li><a href=\"https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641\">Common Patterns for Analyzing Data</a></li>\n  <li><a href=\"https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82?source=jakartadev\">Automated front-end development using deep learning</a></li>\n  <li><a href=\"https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469\">🎁 Releasing “Supervisely Person” dataset for teaching machines to segment humans</a></li>\n  <li><a href=\"https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb\">Integration and End-to-end Tests Made Easy with Node.js and MongoDB</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-41/",
-            "summary": "",
-            "date_published": "2018-03-24 00:00:00 +0700"
         }
 
     ]
