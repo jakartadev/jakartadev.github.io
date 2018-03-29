@@ -6,10 +6,10 @@ tags:
     - daily
     - development
 description: ""
-publish: false
+publish: true
 ---
 
-- [A Deep Dive into Database Attacks [Part III]: Why Scarlett Johansson’s Picture Got My Postgres Database to Start Mining Monero](https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/)
+- [A Deep Dive into Database Attacks (Part III): Why Scarlett Johansson’s Picture Got My Postgres Database to Start Mining Monero](https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/)
 - [Switching From Sublime Text to Visual Studio Code](https://nrempel.com/posts/sublime-to-vscode/)
 - [What happens when software developers are (un)happy](https://www.sciencedirect.com/science/article/pii/S0164121218300323?via%3Dihub)
 - [Dejavu -- The Missing Web UI for Elasticsearch](https://github.com/appbaseio/dejavu)
