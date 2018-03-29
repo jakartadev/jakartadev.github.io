@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-28T15:50:41+07:00</updated>
+ <updated>2018-03-29T12:32:32+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;46</title>
+   <link href="http://localhost:4000/daily-digest-46/"/>
+   <updated>2018-03-29T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-46</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/&quot;&gt;A Deep Dive into Database Attacks (Part III): Why Scarlett Johansson’s Picture Got My Postgres Database to Start Mining Monero&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nrempel.com/posts/sublime-to-vscode/&quot;&gt;Switching From Sublime Text to Visual Studio Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0164121218300323?via%3Dihub&quot;&gt;What happens when software developers are (un)happy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/appbaseio/dejavu&quot;&gt;Dejavu – The Missing Web UI for Elasticsearch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/devops/2018/03/12/how-vsts-is-accelerating-the-engineering-group-behind-windows/&quot;&gt;How VSTS is Accelerating the Engineering Group Behind Windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1&quot;&gt;Testing in Production, the safe way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.intercom.com/run-less-software/&quot;&gt;Run less software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;45</title>
