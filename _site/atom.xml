@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-29T12:32:32+07:00</updated>
+ <updated>2018-04-02T00:41:25+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;47</title>
+   <link href="http://localhost:4000/daily-digest-47/"/>
+   <updated>2018-03-30T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-47</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/oldnewthing/20180326-00/?p=98335&quot;&gt;What are the odds that two pull requests get completed at the exact same time?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/&quot;&gt;Announcing TypeScript 2.8&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rachelbythebay.com/w/2018/03/26/w/&quot;&gt;Why I usually run ‘w’ first when troubleshooting unknown machines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/firefox/facebook-container-extension/&quot;&gt;Facebook Container Extension: Take control of how you’re being tracked&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://olivierlacan.com/posts/cd-is-wasting-your-time/&quot;&gt;cd is Wasting Your Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flaviocopes.com/react-router/&quot;&gt;Introduction to React Router&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;46</title>

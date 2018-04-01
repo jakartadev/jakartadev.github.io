@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Mar 2018 12:32:32 +0700</pubDate>
-    <lastBuildDate>Thu, 29 Mar 2018 12:32:32 +0700</lastBuildDate>
+    <pubDate>Mon, 02 Apr 2018 00:41:25 +0700</pubDate>
+    <lastBuildDate>Mon, 02 Apr 2018 00:41:25 +0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;47</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/oldnewthing/20180326-00/?p=98335&quot;&gt;What are the odds that two pull requests get completed at the exact same time?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/&quot;&gt;Announcing TypeScript 2.8&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rachelbythebay.com/w/2018/03/26/w/&quot;&gt;Why I usually run ‘w’ first when troubleshooting unknown machines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/firefox/facebook-container-extension/&quot;&gt;Facebook Container Extension: Take control of how you’re being tracked&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://olivierlacan.com/posts/cd-is-wasting-your-time/&quot;&gt;cd is Wasting Your Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flaviocopes.com/react-router/&quot;&gt;Introduction to React Router&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 30 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-47/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-47/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;46</title>
@@ -226,29 +248,6 @@
         <pubDate>Thu, 22 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-39/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-39/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;38</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/&quot;&gt;The evolution of Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/226845501211938/fabric-aggregator-a-flexible-solution-to-our-traffic-demand/?utm_source=jakartadev&quot;&gt;Fabric Aggregator: A flexible solution to our traffic demand&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/&quot;&gt;Five Key Git Concepts Explained the Hard Way&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gitkube.sh/&quot;&gt;Gitkube – tool for building and deploying docker images on Kubernetes using git push&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://redisgraph.io/design/&quot;&gt;RedisGraph – A High Performance In-Memory Graph Database as a Redis Module&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Microsoft/service-fabric&quot;&gt;Microsoft Service Fabric&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.soulcutter.com/articles/memoizing-in-ruby.html&quot;&gt;Memoizing in Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 21 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-38/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-38/</guid>
         
         <category>daily</category>
         
