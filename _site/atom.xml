@@ -4,13 +4,31 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-04-02T00:45:13+07:00</updated>
+ <updated>2018-04-25T11:12:06+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;48</title>
+   <link href="http://localhost:4000/daily-digest-48/"/>
+   <updated>2018-04-25T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-48</id>
+   <content type="html">&lt;p&gt;Saatnya menulis kembali, &lt;em&gt;selamat hari rabu!&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itsfoss.com/ubuntu-18-04-faq/&quot;&gt;Things You Should Know About Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//migrations/&quot;&gt;Migrations: the sole scalable fix to tech debt.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905&quot;&gt;Announcing npm@6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds/&quot;&gt;Agile Team Organisation: Squads, Chapters, Tribes and Guilds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webdesign.tutsplus.com/articles/8-golden-rules-for-better-interface-design--cms-30886&quot;&gt;8 Golden Rules for Better Interface Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.codepipes.com/testing/software-testing-antipatterns.html&quot;&gt;Software Testing Anti-patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;47</title>
