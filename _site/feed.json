@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-50",
+            "title": "Daily Digest #50",
+            "content_html": "<ul>\n  <li><a href=\"https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/\">Visualizing Pandas’ Pivoting and Reshaping Functions</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-conquer-webpack-4-and-build-a-sweet-react-app-236d721e6745?source=rss----336d898217ee---4\">How to conquer Webpack 4 and build a sweet React app</a></li>\n  <li><a href=\"https://thenewstack.io/red-hat-releases-a-framework-to-easily-package-applications-for-kubernetes/\">Red Hat Releases a Framework to Easily Package Applications for Kubernetes</a>, project <a href=\"https://github.com/operator-framework\">Operator Framework</a></li>\n  <li><a href=\"https://hackernoon.com/1-min-to-run-a-service-in-kubernetes-kapp-tool-907fcec9f01a\">1 min* to run a service in Kubernetes — kapp tool</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/\">Sharing Code Between Projects: Lessons Learned In The Trenches</a></li>\n  <li><a href=\"https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb?utm_source=jakartadev\">These 6 essential tools will release, version, and maintain your NPM modules for you</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/migrating-java-8/index.html\">Short Story of a Long Migration </a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-50/",
+            "summary": "",
+            "date_published": "2018-05-04 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-49",
             "title": "Daily Digest #49",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/the-mission/how-to-become-an-expert-in-anything-6b0a5e6ab27f\">How To Become An Expert In Anything</a></li>\n  <li><a href=\"https://blog.codeship.com/refactoring-for-the-tell-dont-ask-pattern/\">Refactoring for the Tell Don’t Ask Pattern</a></li>\n  <li><a href=\"https://blog.eleven-labs.com/fr/rabbitmq-partie-1-les-bases/\">RabbitMQ, Basics to mastery (part 1)</a></li>\n  <li><a href=\"https://blog.eleven-labs.com/fr/rabbitmq-partie-2-la-maitrise/\">RabbitMQ, Basics to mastery (part 2)</a></li>\n  <li><a href=\"https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8\">GraphQL: Everything You Need to Know</a></li>\n  <li><a href=\"https://medium.com/@bharath.jayachandran29/docker-for-data-science-c525d5408b52\">Docker for Data Science</a></li>\n  <li><a href=\"https://medium.com/@nicola.rizzo/creating-the-simplest-possible-api-with-symfony-4-and-docker-3b5bf205b3b7\">Creating the simplest possible API with Symfony 4 and Docker</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-46/",
             "summary": "",
             "date_published": "2018-03-29 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-45",
-            "title": "Daily Digest #45",
-            "content_html": "<ul>\n  <li><a href=\"https://www.techradar.com/news/ruby-is-alive-and-well-and-thinking-about-the-next-25-years\">Ruby is alive and well and thinking about the next 25 years</a></li>\n  <li><a href=\"https://www.toptal.com/python/in-depth-python-logging\">Python Logging: An In-Depth Tutorial</a></li>\n  <li><a href=\"https://capgemini.github.io/.net/serverless-and-using-it/\">Serverless, and the challenges using it </a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience\">LinkedIn Lite: A Lightweight Mobile Web Experience</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f\">Using Machine Learning to Improve Streaming Quality at Netflix</a></li>\n  <li><a href=\"https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f\">A Beginner’s Guide to IPFS</a></li>\n  <li><a href=\"https://eng.uber.com/qalm/#utm_source=jakartadev\">Introducing QALM, Uber’s QoS Load Management Framework</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-45/",
-            "summary": "",
-            "date_published": "2018-03-28 00:00:00 +0700"
         }
 
     ]

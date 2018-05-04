@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Apr 2018 13:04:51 +0700</pubDate>
-    <lastBuildDate>Thu, 26 Apr 2018 13:04:51 +0700</lastBuildDate>
-    <generator>Jekyll v3.7.2</generator>
+    <pubDate>Fri, 04 May 2018 10:02:33 +0700</pubDate>
+    <lastBuildDate>Fri, 04 May 2018 10:02:33 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;50</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/&quot;&gt;Visualizing Pandas’ Pivoting and Reshaping Functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-conquer-webpack-4-and-build-a-sweet-react-app-236d721e6745?source=rss----336d898217ee---4&quot;&gt;How to conquer Webpack 4 and build a sweet React app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/red-hat-releases-a-framework-to-easily-package-applications-for-kubernetes/&quot;&gt;Red Hat Releases a Framework to Easily Package Applications for Kubernetes&lt;/a&gt;, project &lt;a href=&quot;https://github.com/operator-framework&quot;&gt;Operator Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/1-min-to-run-a-service-in-kubernetes-kapp-tool-907fcec9f01a&quot;&gt;1 min* to run a service in Kubernetes — kapp tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/&quot;&gt;Sharing Code Between Projects: Lessons Learned In The Trenches&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb?utm_source=jakartadev&quot;&gt;These 6 essential tools will release, version, and maintain your NPM modules for you&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/migrating-java-8/index.html&quot;&gt;Short Story of a Long Migration &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 04 May 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-50/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-50/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;49</title>
@@ -226,29 +249,6 @@
         <pubDate>Sun, 25 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-42/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-42/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;41</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.findmypast.com/technical-debt/&quot;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4&quot;&gt;2 Fast 2 Furious: migrating Medium’s codebase without slowing down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/understanding-git-index-4821a0765cf&quot;&gt;Understanding Git — Index&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641&quot;&gt;Common Patterns for Analyzing Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82?source=jakartadev&quot;&gt;Automated front-end development using deep learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469&quot;&gt;🎁 Releasing “Supervisely Person” dataset for teaching machines to segment humans&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb&quot;&gt;Integration and End-to-end Tests Made Easy with Node.js and MongoDB&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 24 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-41/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-41/</guid>
         
         <category>daily</category>
         
