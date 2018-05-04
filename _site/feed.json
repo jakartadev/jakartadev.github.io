@@ -12,15 +12,6 @@
     "items": [
       {
         {
-            "id": "/daily-digest-51",
-            "title": "Daily Digest #51",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3\">How To Power Your App Using a Realtime Data CDN</a></li>\n  <li><a href=\"https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d\">How Netlify’s deploying and routing infrastructure works</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-51/",
-            "summary": "",
-            "date_published": "2018-05-04 00:00:00 +0700"
-        },
-{
-        {
             "id": "/daily-digest-50",
             "title": "Daily Digest #50",
             "content_html": "<ul>\n  <li><a href=\"https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/\">Visualizing Pandas’ Pivoting and Reshaping Functions</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-conquer-webpack-4-and-build-a-sweet-react-app-236d721e6745?source=rss----336d898217ee---4\">How to conquer Webpack 4 and build a sweet React app</a></li>\n  <li><a href=\"https://thenewstack.io/red-hat-releases-a-framework-to-easily-package-applications-for-kubernetes/\">Red Hat Releases a Framework to Easily Package Applications for Kubernetes</a>, project <a href=\"https://github.com/operator-framework\">Operator Framework</a></li>\n  <li><a href=\"https://hackernoon.com/1-min-to-run-a-service-in-kubernetes-kapp-tool-907fcec9f01a\">1 min* to run a service in Kubernetes — kapp tool</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/\">Sharing Code Between Projects: Lessons Learned In The Trenches</a></li>\n  <li><a href=\"https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb?utm_source=jakartadev\">These 6 essential tools will release, version, and maintain your NPM modules for you</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/migrating-java-8/index.html\">Short Story of a Long Migration </a></li>\n</ul>\n",
@@ -54,6 +45,15 @@
             "url": "http://localhost:4000/daily-digest-47/",
             "summary": "",
             "date_published": "2018-03-30 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-46",
+            "title": "Daily Digest #46",
+            "content_html": "<ul>\n  <li><a href=\"https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/\">A Deep Dive into Database Attacks (Part III): Why Scarlett Johansson’s Picture Got My Postgres Database to Start Mining Monero</a></li>\n  <li><a href=\"https://nrempel.com/posts/sublime-to-vscode/\">Switching From Sublime Text to Visual Studio Code</a></li>\n  <li><a href=\"https://www.sciencedirect.com/science/article/pii/S0164121218300323?via%3Dihub\">What happens when software developers are (un)happy</a></li>\n  <li><a href=\"https://github.com/appbaseio/dejavu\">Dejavu – The Missing Web UI for Elasticsearch</a></li>\n  <li><a href=\"https://blogs.msdn.microsoft.com/devops/2018/03/12/how-vsts-is-accelerating-the-engineering-group-behind-windows/\">How VSTS is Accelerating the Engineering Group Behind Windows</a></li>\n  <li><a href=\"https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1\">Testing in Production, the safe way</a></li>\n  <li><a href=\"https://blog.intercom.com/run-less-software/\">Run less software</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-46/",
+            "summary": "",
+            "date_published": "2018-03-29 00:00:00 +0700"
         }
 
     ]

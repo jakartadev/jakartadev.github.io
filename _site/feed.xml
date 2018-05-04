@@ -5,27 +5,9 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 May 2018 10:00:13 +0700</pubDate>
-    <lastBuildDate>Fri, 04 May 2018 10:00:13 +0700</lastBuildDate>
+    <pubDate>Fri, 04 May 2018 10:02:33 +0700</pubDate>
+    <lastBuildDate>Fri, 04 May 2018 10:02:33 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
-    
-      <item>
-        <title>Daily Digest &amp;#35;51</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3&quot;&gt;How To Power Your App Using a Realtime Data CDN&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d&quot;&gt;How Netlify’s deploying and routing infrastructure works&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 04 May 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-51/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-51/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
     
       <item>
         <title>Daily Digest &amp;#35;50</title>
@@ -244,6 +226,29 @@
         <pubDate>Mon, 26 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-43/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-43/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;42</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/history-of-node-js/&quot;&gt;History of Node.js on a Timeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/187912491817160/the-next-step-in-facebook-s-ai-hardware-infrastructure/&quot;&gt;The next step in Facebook’s AI hardware infrastructure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/03/lazy-loading-with-conditioner-js/&quot;&gt;Lazy Loading JavaScript Modules With ConditionerJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1&quot;&gt;Make your GraphQL API Easier To Adopt Through Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/03/23/you-are-not-your-tools/&quot;&gt;You are not your tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alex.dzyoba.com/blog/redis-ha/&quot;&gt;Redis high availability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flaviocopes.com/script-async-defer/&quot;&gt;Efficiently load JavaScript with defer and async&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Mar 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-42/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-42/</guid>
         
         <category>daily</category>
         

@@ -4,25 +4,13 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-05-04T10:00:13+07:00</updated>
+ <updated>2018-05-04T10:02:33+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>Daily Digest &#35;51</title>
-   <link href="http://localhost:4000/daily-digest-51/"/>
-   <updated>2018-05-04T00:00:00+07:00</updated>
-   <id>http://localhost:4000/daily-digest-51</id>
-   <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3&quot;&gt;How To Power Your App Using a Realtime Data CDN&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d&quot;&gt;How Netlify’s deploying and routing infrastructure works&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
  
  <entry>
    <title>Daily Digest &#35;50</title>
