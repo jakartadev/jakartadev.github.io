@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-52",
+            "title": "Daily Digest #52",
+            "content_html": "<ul>\n  <li><a href=\"https://read.iopipe.com/streaming-open-source-work-one-hour-one-day-at-a-time-live-on-twitch-f510f2d46f4e\">Streaming Open Source Work: One Hour, One Day at a Time, Live on Twitch</a></li>\n  <li><a href=\"https://www.facebook.com/notes/protect-the-graph/detecting-phishing-domains-using-certificate-transparency/2037453483161459/\">Detecting phishing domains using Certificate Transparency</a></li>\n  <li><a href=\"http://cs.brown.edu/courses/cs173/2012/book/index.html\">Programming Languages: Application and Interpretation</a></li>\n  <li><a href=\"https://medium.com/@chrisdaviesgeek/when-mutability-bites-6387de768d7\">When mutability bites</a></li>\n  <li><a href=\"https://jacobian.org/writing/engmanager-reading-list/\">A reading list for new engineers managers</a></li>\n  <li><a href=\"https://asatarin.github.io/testing-distributed-systems/\">Testing Distributed Systems</a></li>\n  <li><a href=\"http://theorangeduck.com/page/the-software-thief\">The Software Thief</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-52/",
+            "summary": "",
+            "date_published": "2018-05-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-51",
             "title": "Daily Digest #51",
             "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3\">How To Power Your App Using a Realtime Data CDN</a></li>\n  <li><a href=\"https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d\">How Netlify’s deploying and routing infrastructure works</a></li>\n  <li><a href=\"https://github.com/cooldrip/jhop\">JHop – Create fake REST API in one sec</a> <span class=\"label\">code</span></li>\n  <li><a href=\"https://proton-native.js.org/#/\">Proton Native – Create native desktop app</a> <span class=\"label\">code</span></li>\n  <li><a href=\"https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929?gi=bcd727c0361a\">Rust in production at Figma</a></li>\n  <li><a href=\"https://medium.com/erlang-battleground/beautiful-code-254a5f8ef958\">Beautiful Code</a></li>\n  <li><a href=\"https://www.cockroachlabs.com/blog/kubernetes-state-of-stateful-apps/\">Kubernetes: The State of Stateful Apps</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-48/",
             "summary": "",
             "date_published": "2018-04-25 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-47",
-            "title": "Daily Digest #47",
-            "content_html": "<ul>\n  <li><a href=\"https://blogs.msdn.microsoft.com/oldnewthing/20180326-00/?p=98335\">What are the odds that two pull requests get completed at the exact same time?</a></li>\n  <li><a href=\"https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/\">Announcing TypeScript 2.8</a></li>\n  <li><a href=\"https://rachelbythebay.com/w/2018/03/26/w/\">Why I usually run ‘w’ first when troubleshooting unknown machines</a></li>\n  <li><a href=\"https://blog.mozilla.org/firefox/facebook-container-extension/\">Facebook Container Extension: Take control of how you’re being tracked</a></li>\n  <li><a href=\"https://olivierlacan.com/posts/cd-is-wasting-your-time/\">cd is Wasting Your Time</a></li>\n  <li><a href=\"https://flaviocopes.com/react-router/\">Introduction to React Router</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-47/",
-            "summary": "",
-            "date_published": "2018-03-30 00:00:00 +0700"
         }
 
     ]
