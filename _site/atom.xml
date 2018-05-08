@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-05-07T12:15:29+07:00</updated>
+ <updated>2018-05-08T14:51:48+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;52</title>
+   <link href="http://localhost:4000/daily-digest-52/"/>
+   <updated>2018-05-08T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-52</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://read.iopipe.com/streaming-open-source-work-one-hour-one-day-at-a-time-live-on-twitch-f510f2d46f4e&quot;&gt;Streaming Open Source Work: One Hour, One Day at a Time, Live on Twitch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/notes/protect-the-graph/detecting-phishing-domains-using-certificate-transparency/2037453483161459/&quot;&gt;Detecting phishing domains using Certificate Transparency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cs.brown.edu/courses/cs173/2012/book/index.html&quot;&gt;Programming Languages: Application and Interpretation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chrisdaviesgeek/when-mutability-bites-6387de768d7&quot;&gt;When mutability bites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jacobian.org/writing/engmanager-reading-list/&quot;&gt;A reading list for new engineers managers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://asatarin.github.io/testing-distributed-systems/&quot;&gt;Testing Distributed Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theorangeduck.com/page/the-software-thief&quot;&gt;The Software Thief&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;51</title>
