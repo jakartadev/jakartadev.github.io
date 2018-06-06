@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-53",
+            "title": "Daily Digest #53",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/catid/Zpng?utm_source=jakartadev\">Zpng – PNG lossless compression</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://stratechery.com/2018/the-cost-of-developers/?utm_source=jakartadev\">The Cost of Developers</a></li>\n  <li><a href=\"https://dev.to/neshaz/git-merge-vs-git-rebase-5134?utm_source=jakartadev\">Git Merge vs Git Rebase</a></li>\n  <li><a href=\"https://medium.com/@xevix/gaijin-engineer-in-tokyo-aaa9be8919b2?utm_source=jakartadev\">Gaijin Engineer in Tokyo</a></li>\n  <li><a href=\"https://developer.apple.com/wwdc/?utm_source=jakartadev\">WWDC 18</a></li>\n  <li><a href=\"https://gravitational.com/blog/hashing-for-anonymization/?utm_source=jakartadev\">The False Allure of Hashing for Anonymization</a></li>\n  <li><a href=\"https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd?utm_source=jakartadev\">Google Flutter with AWS Lambda to build a serverless mobile app for movie listings</a></li>\n  <li><a href=\"https://distill.pub/2018/building-blocks/?utm_source=jakartadev\">The Building Blocks of Interpretability</a></li>\n  <li><a href=\"https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff?utm_source=jakartadev\">Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code</a></li>\n  <li><a href=\"https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/?utm_source=jakartadev\">Microsoft acquired Github!</a>, and <a href=\"https://blog.github.com/2018-06-04-github-microsoft/\">blogpost from Github</a>.</li>\n  <li><a href=\"https://github.com/RohitAwate/Everest?utm_source=jakartadev\">Everest – A beautiful and lightweight REST client built with JavaFX</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/container-map/?utm_source=jakartadev\">Container map view in Datadog</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-53/",
+            "summary": "",
+            "date_published": "2018-06-06 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-52",
             "title": "Daily Digest #52",
             "content_html": "<ul>\n  <li><a href=\"https://read.iopipe.com/streaming-open-source-work-one-hour-one-day-at-a-time-live-on-twitch-f510f2d46f4e\">Streaming Open Source Work: One Hour, One Day at a Time, Live on Twitch</a></li>\n  <li><a href=\"https://www.facebook.com/notes/protect-the-graph/detecting-phishing-domains-using-certificate-transparency/2037453483161459/\">Detecting phishing domains using Certificate Transparency</a></li>\n  <li><a href=\"http://cs.brown.edu/courses/cs173/2012/book/index.html\">Programming Languages: Application and Interpretation</a></li>\n  <li><a href=\"https://medium.com/@chrisdaviesgeek/when-mutability-bites-6387de768d7\">When mutability bites</a></li>\n  <li><a href=\"https://jacobian.org/writing/engmanager-reading-list/\">A reading list for new engineers managers</a></li>\n  <li><a href=\"https://asatarin.github.io/testing-distributed-systems/\">Testing Distributed Systems</a></li>\n  <li><a href=\"http://theorangeduck.com/page/the-software-thief\">The Software Thief</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-49/",
             "summary": "",
             "date_published": "2018-04-26 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-48",
-            "title": "Daily Digest #48",
-            "content_html": "<p>Saatnya menulis kembali, <em>selamat hari rabu!</em></p>\n\n<ul>\n  <li><a href=\"https://itsfoss.com/ubuntu-18-04-faq/\">Things You Should Know About Ubuntu 18.04</a></li>\n  <li><a href=\"https://lethain.com//migrations/\">Migrations: the sole scalable fix to tech debt.</a></li>\n  <li><a href=\"https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905\">Announcing npm@6</a></li>\n  <li><a href=\"http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds/\">Agile Team Organisation: Squads, Chapters, Tribes and Guilds</a></li>\n  <li><a href=\"https://webdesign.tutsplus.com/articles/8-golden-rules-for-better-interface-design--cms-30886\">8 Golden Rules for Better Interface Design</a></li>\n  <li><a href=\"http://blog.codepipes.com/testing/software-testing-antipatterns.html\">Software Testing Anti-patterns</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-48/",
-            "summary": "",
-            "date_published": "2018-04-25 00:00:00 +0700"
         }
 
     ]
