@@ -5,9 +5,37 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 May 2018 14:51:48 +0700</pubDate>
-    <lastBuildDate>Tue, 08 May 2018 14:51:48 +0700</lastBuildDate>
+    <pubDate>Wed, 06 Jun 2018 11:44:05 +0700</pubDate>
+    <lastBuildDate>Wed, 06 Jun 2018 11:44:05 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;53</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/catid/Zpng?utm_source=jakartadev&quot;&gt;Zpng – PNG lossless compression&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stratechery.com/2018/the-cost-of-developers/?utm_source=jakartadev&quot;&gt;The Cost of Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/git-merge-vs-git-rebase-5134?utm_source=jakartadev&quot;&gt;Git Merge vs Git Rebase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@xevix/gaijin-engineer-in-tokyo-aaa9be8919b2?utm_source=jakartadev&quot;&gt;Gaijin Engineer in Tokyo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/wwdc/?utm_source=jakartadev&quot;&gt;WWDC 18&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gravitational.com/blog/hashing-for-anonymization/?utm_source=jakartadev&quot;&gt;The False Allure of Hashing for Anonymization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd?utm_source=jakartadev&quot;&gt;Google Flutter with AWS Lambda to build a serverless mobile app for movie listings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2018/building-blocks/?utm_source=jakartadev&quot;&gt;The Building Blocks of Interpretability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff?utm_source=jakartadev&quot;&gt;Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/?utm_source=jakartadev&quot;&gt;Microsoft acquired Github!&lt;/a&gt;, and &lt;a href=&quot;https://blog.github.com/2018-06-04-github-microsoft/&quot;&gt;blogpost from Github&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/RohitAwate/Everest?utm_source=jakartadev&quot;&gt;Everest – A beautiful and lightweight REST client built with JavaFX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/container-map/?utm_source=jakartadev&quot;&gt;Container map view in Datadog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-53/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-53/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;52</title>
@@ -230,27 +258,6 @@
         <guid isPermaLink="true">http://localhost:4000/newsletter-issue-21/</guid>
         
         <category>issue</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;44</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/&quot;&gt;GIT log – The good parts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arrow.apache.org/&quot;&gt;Apache Arrow&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;label&quot;&gt;big data&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gokrazy.org/&quot;&gt;Gokrazy – pure-Go userland for your Raspberry Pi 3 appliances&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/onivim/oni&quot;&gt;Onivim – New editor&lt;/a&gt; – !TODO: review&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/djrobstep/migra&quot;&gt;migra: PostgreSQL migrations&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 27 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-44/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-44/</guid>
-        
-        <category>daily</category>
         
         <category>development</category>
         
