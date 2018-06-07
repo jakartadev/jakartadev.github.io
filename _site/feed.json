@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-54",
+            "title": "Daily Digest #54",
+            "content_html": "<ul>\n  <li><a href=\"https://marsbased.com/blog/2018/05/28/shot-stars-landed-mars-lessons-learnt-fourth-year/\">Lesson learnt fourth year running a Ruby consultancy</a></li>\n  <li><a href=\"https://open.nytimes.com/how-the-new-york-times-uses-software-to-recognize-members-of-congress-29b46dd426c7?source=rss----51e1d1745b32---4\">How The New York Times Uses Software To Recognize Members of Congress</a></li>\n  <li><a href=\"https://buttercms.com/books/microservices-for-startups/should-you-break-up-your-monolithic-application\">Should you break up your monolithic application?</a></li>\n  <li><a href=\"https://dev.to/frosnerd/infrastructure-as-code---managing-aws-with-terraform-i9o\">Infrastructure as Code - Managing AWS With Terraform </a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-54/",
+            "summary": "",
+            "date_published": "2018-06-07 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-53",
             "title": "Daily Digest #53",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/catid/Zpng?utm_source=jakartadev\">Zpng – PNG lossless compression</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://stratechery.com/2018/the-cost-of-developers/?utm_source=jakartadev\">The Cost of Developers</a></li>\n  <li><a href=\"https://dev.to/neshaz/git-merge-vs-git-rebase-5134?utm_source=jakartadev\">Git Merge vs Git Rebase</a></li>\n  <li><a href=\"https://medium.com/@xevix/gaijin-engineer-in-tokyo-aaa9be8919b2?utm_source=jakartadev\">Gaijin Engineer in Tokyo</a></li>\n  <li><a href=\"https://developer.apple.com/wwdc/?utm_source=jakartadev\">WWDC 18</a></li>\n  <li><a href=\"https://gravitational.com/blog/hashing-for-anonymization/?utm_source=jakartadev\">The False Allure of Hashing for Anonymization</a></li>\n  <li><a href=\"https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd?utm_source=jakartadev\">Google Flutter with AWS Lambda to build a serverless mobile app for movie listings</a></li>\n  <li><a href=\"https://distill.pub/2018/building-blocks/?utm_source=jakartadev\">The Building Blocks of Interpretability</a></li>\n  <li><a href=\"https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff?utm_source=jakartadev\">Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code</a></li>\n  <li><a href=\"https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/?utm_source=jakartadev\">Microsoft acquired Github!</a>, and <a href=\"https://blog.github.com/2018-06-04-github-microsoft/\">blogpost from Github</a>.</li>\n  <li><a href=\"https://github.com/RohitAwate/Everest?utm_source=jakartadev\">Everest – A beautiful and lightweight REST client built with JavaFX</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/container-map/?utm_source=jakartadev\">Container map view in Datadog</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-50/",
             "summary": "",
             "date_published": "2018-05-04 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-49",
-            "title": "Daily Digest #49",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/the-mission/how-to-become-an-expert-in-anything-6b0a5e6ab27f\">How To Become An Expert In Anything</a></li>\n  <li><a href=\"https://blog.codeship.com/refactoring-for-the-tell-dont-ask-pattern/\">Refactoring for the Tell Don’t Ask Pattern</a></li>\n  <li><a href=\"https://blog.eleven-labs.com/fr/rabbitmq-partie-1-les-bases/\">RabbitMQ, Basics to mastery (part 1)</a></li>\n  <li><a href=\"https://blog.eleven-labs.com/fr/rabbitmq-partie-2-la-maitrise/\">RabbitMQ, Basics to mastery (part 2)</a></li>\n  <li><a href=\"https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8\">GraphQL: Everything You Need to Know</a></li>\n  <li><a href=\"https://medium.com/@bharath.jayachandran29/docker-for-data-science-c525d5408b52\">Docker for Data Science</a></li>\n  <li><a href=\"https://medium.com/@nicola.rizzo/creating-the-simplest-possible-api-with-symfony-4-and-docker-3b5bf205b3b7\">Creating the simplest possible API with Symfony 4 and Docker</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-49/",
-            "summary": "",
-            "date_published": "2018-04-26 00:00:00 +0700"
         }
 
     ]
