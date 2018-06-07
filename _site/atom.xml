@@ -4,13 +4,27 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-06-06T11:44:05+07:00</updated>
+ <updated>2018-06-07T13:09:56+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;54</title>
+   <link href="http://localhost:4000/daily-digest-54/"/>
+   <updated>2018-06-07T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-54</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marsbased.com/blog/2018/05/28/shot-stars-landed-mars-lessons-learnt-fourth-year/&quot;&gt;Lesson learnt fourth year running a Ruby consultancy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-the-new-york-times-uses-software-to-recognize-members-of-congress-29b46dd426c7?source=rss----51e1d1745b32---4&quot;&gt;How The New York Times Uses Software To Recognize Members of Congress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/should-you-break-up-your-monolithic-application&quot;&gt;Should you break up your monolithic application?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/frosnerd/infrastructure-as-code---managing-aws-with-terraform-i9o&quot;&gt;Infrastructure as Code - Managing AWS With Terraform &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;53</title>
