@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-55",
+            "title": "Daily Digest #55",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/openfootball/world-cup.json\">World cup 2018 Opendata</a></li>\n  <li><a href=\"https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac\">Real-time API Monitoring Using GO and Pusher</a></li>\n  <li><a href=\"https://blog.heroku.com/exploration-of-security-when-building-docker-containers\">A House of Cards: An Exploration of Security When Building Docker Containers</a></li>\n  <li><a href=\"https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/\">Learn How to Build a Time Series Database</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-55/",
+            "summary": "",
+            "date_published": "2018-06-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-54",
             "title": "Daily Digest #54",
             "content_html": "<ul>\n  <li><a href=\"https://marsbased.com/blog/2018/05/28/shot-stars-landed-mars-lessons-learnt-fourth-year/\">Lesson learnt fourth year running a Ruby consultancy</a></li>\n  <li><a href=\"https://open.nytimes.com/how-the-new-york-times-uses-software-to-recognize-members-of-congress-29b46dd426c7?source=rss----51e1d1745b32---4\">How The New York Times Uses Software To Recognize Members of Congress</a></li>\n  <li><a href=\"https://buttercms.com/books/microservices-for-startups/should-you-break-up-your-monolithic-application\">Should you break up your monolithic application?</a></li>\n  <li><a href=\"https://dev.to/frosnerd/infrastructure-as-code---managing-aws-with-terraform-i9o\">Infrastructure as Code - Managing AWS With Terraform </a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-51/",
             "summary": "",
             "date_published": "2018-05-07 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-50",
-            "title": "Daily Digest #50",
-            "content_html": "<ul>\n  <li><a href=\"https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/\">Visualizing Pandas’ Pivoting and Reshaping Functions</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-conquer-webpack-4-and-build-a-sweet-react-app-236d721e6745?source=rss----336d898217ee---4\">How to conquer Webpack 4 and build a sweet React app</a></li>\n  <li><a href=\"https://thenewstack.io/red-hat-releases-a-framework-to-easily-package-applications-for-kubernetes/\">Red Hat Releases a Framework to Easily Package Applications for Kubernetes</a>, project <a href=\"https://github.com/operator-framework\">Operator Framework</a></li>\n  <li><a href=\"https://hackernoon.com/1-min-to-run-a-service-in-kubernetes-kapp-tool-907fcec9f01a\">1 min* to run a service in Kubernetes — kapp tool</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/\">Sharing Code Between Projects: Lessons Learned In The Trenches</a></li>\n  <li><a href=\"https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb?utm_source=jakartadev\">These 6 essential tools will release, version, and maintain your NPM modules for you</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/migrating-java-8/index.html\">Short Story of a Long Migration </a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-50/",
-            "summary": "",
-            "date_published": "2018-05-04 00:00:00 +0700"
         }
 
     ]
