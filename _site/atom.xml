@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-06-08T14:12:18+07:00</updated>
+ <updated>2018-06-09T14:23:05+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;56</title>
+   <link href="http://localhost:4000/daily-digest-56/"/>
+   <updated>2018-06-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-56</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/is-graphql-moving-toward-ubiquity/&quot;&gt;Is GraphQL Moving Toward Ubiquity?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/tobi-knaup-and-gou-rao-on-stateful-containers&quot;&gt;Tobi Knaup and Gou Rao on stateful containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/03/performance-testing-a-low-latency-stream-processing-system/&quot;&gt;Performance testing a low-latency stream processing system&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jgraichen/msgr&quot;&gt;msgr – A Rails-like Messaging Framework&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mostly-adequate.gitbooks.io/mostly-adequate-guide/&quot;&gt;Learn the basic of functional programming using Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;55</title>
