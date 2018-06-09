@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jun 2018 14:12:18 +0700</pubDate>
-    <lastBuildDate>Fri, 08 Jun 2018 14:12:18 +0700</lastBuildDate>
+    <pubDate>Sat, 09 Jun 2018 14:23:05 +0700</pubDate>
+    <lastBuildDate>Sat, 09 Jun 2018 14:23:05 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;56</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/is-graphql-moving-toward-ubiquity/&quot;&gt;Is GraphQL Moving Toward Ubiquity?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/tobi-knaup-and-gou-rao-on-stateful-containers&quot;&gt;Tobi Knaup and Gou Rao on stateful containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/03/performance-testing-a-low-latency-stream-processing-system/&quot;&gt;Performance testing a low-latency stream processing system&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jgraichen/msgr&quot;&gt;msgr – A Rails-like Messaging Framework&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mostly-adequate.gitbooks.io/mostly-adequate-guide/&quot;&gt;Learn the basic of functional programming using Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 09 Jun 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-56/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-56/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;55</title>
@@ -207,29 +228,6 @@
         <pubDate>Fri, 30 Mar 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-47/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-47/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;46</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/&quot;&gt;A Deep Dive into Database Attacks (Part III): Why Scarlett Johansson’s Picture Got My Postgres Database to Start Mining Monero&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nrempel.com/posts/sublime-to-vscode/&quot;&gt;Switching From Sublime Text to Visual Studio Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0164121218300323?via%3Dihub&quot;&gt;What happens when software developers are (un)happy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/appbaseio/dejavu&quot;&gt;Dejavu – The Missing Web UI for Elasticsearch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/devops/2018/03/12/how-vsts-is-accelerating-the-engineering-group-behind-windows/&quot;&gt;How VSTS is Accelerating the Engineering Group Behind Windows&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1&quot;&gt;Testing in Production, the safe way&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.intercom.com/run-less-software/&quot;&gt;Run less software&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 29 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-46/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-46/</guid>
         
         <category>daily</category>
         

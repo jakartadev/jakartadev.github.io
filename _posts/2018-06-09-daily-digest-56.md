@@ -6,7 +6,7 @@ tags:
     - daily
     - development
 description: ""
-publish: false
+publish: true
 ---
 
 - [Is GraphQL Moving Toward Ubiquity?](https://nordicapis.com/is-graphql-moving-toward-ubiquity/)

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-56",
+            "title": "Daily Digest #56",
+            "content_html": "<ul>\n  <li><a href=\"https://nordicapis.com/is-graphql-moving-toward-ubiquity/\">Is GraphQL Moving Toward Ubiquity?</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/tobi-knaup-and-gou-rao-on-stateful-containers\">Tobi Knaup and Gou Rao on stateful containers</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/03/performance-testing-a-low-latency-stream-processing-system/\">Performance testing a low-latency stream processing system</a></li>\n  <li><a href=\"https://github.com/jgraichen/msgr\">msgr – A Rails-like Messaging Framework</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://mostly-adequate.gitbooks.io/mostly-adequate-guide/\">Learn the basic of functional programming using Javascript</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-56/",
+            "summary": "",
+            "date_published": "2018-06-09 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-55",
             "title": "Daily Digest #55",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/openfootball/world-cup.json\">World cup 2018 Opendata</a></li>\n  <li><a href=\"https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac\">Real-time API Monitoring Using GO and Pusher</a></li>\n  <li><a href=\"https://blog.heroku.com/exploration-of-security-when-building-docker-containers\">A House of Cards: An Exploration of Security When Building Docker Containers</a></li>\n  <li><a href=\"https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/\">Learn How to Build a Time Series Database</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-52/",
             "summary": "",
             "date_published": "2018-05-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-51",
-            "title": "Daily Digest #51",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3\">How To Power Your App Using a Realtime Data CDN</a></li>\n  <li><a href=\"https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d\">How Netlify’s deploying and routing infrastructure works</a></li>\n  <li><a href=\"https://github.com/cooldrip/jhop\">JHop – Create fake REST API in one sec</a> <span class=\"label\">code</span></li>\n  <li><a href=\"https://proton-native.js.org/#/\">Proton Native – Create native desktop app</a> <span class=\"label\">code</span></li>\n  <li><a href=\"https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929?gi=bcd727c0361a\">Rust in production at Figma</a></li>\n  <li><a href=\"https://medium.com/erlang-battleground/beautiful-code-254a5f8ef958\">Beautiful Code</a></li>\n  <li><a href=\"https://www.cockroachlabs.com/blog/kubernetes-state-of-stateful-apps/\">Kubernetes: The State of Stateful Apps</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-51/",
-            "summary": "",
-            "date_published": "2018-05-07 00:00:00 +0700"
         }
 
     ]
