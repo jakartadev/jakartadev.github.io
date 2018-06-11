@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/daily-digest-58",
+            "title": "Daily Digest #58",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2\">Using web workers for safe, concurrent JavaScript</a></li>\n  <li><a href=\"https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns\">The Comprehensive Guide to JavaScript Design Patterns</a></li>\n  <li><a href=\"https://techbeacon.com/new-face-ops-resources-modern-ops-distributed-systems-engineers\">30+ resources for modern IT Ops professionals</a></li>\n  <li><a href=\"http://jmoiron.net/blog/is-k8s-too-complicated/\">Is K8s Too Complicated?</a></li>\n  <li><a href=\"https://gitea.io/en-US/\">Gitea – self-hosted GIT</a> <span class=\"label\">tool</span></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-58/",
+            "summary": "",
+            "date_published": "2018-06-11 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-57",
+            "title": "Daily Digest #57",
+            "content_html": "<ul>\n  <li><a href=\"http://www.atdot.net/~ko1/activities/2018_RubyElixirConfTaiwan.pdf\">Progress report of “Ruby 3 Concurrency”</a></li>\n  <li><a href=\"https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68\">How To Use Technical Debt In Your Favor 🔊</a></li>\n  <li><a href=\"https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da\">The Stress of Remote Working</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained\">Optimizing React: Virtual DOM explained</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-57/",
+            "summary": "",
+            "date_published": "2018-06-10 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-56",
             "title": "Daily Digest #56",
             "content_html": "<ul>\n  <li><a href=\"https://nordicapis.com/is-graphql-moving-toward-ubiquity/\">Is GraphQL Moving Toward Ubiquity?</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/tobi-knaup-and-gou-rao-on-stateful-containers\">Tobi Knaup and Gou Rao on stateful containers</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/03/performance-testing-a-low-latency-stream-processing-system/\">Performance testing a low-latency stream processing system</a></li>\n  <li><a href=\"https://github.com/jgraichen/msgr\">msgr – A Rails-like Messaging Framework</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://mostly-adequate.gitbooks.io/mostly-adequate-guide/\">Learn the basic of functional programming using Javascript</a></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "http://localhost:4000/daily-digest-54/",
             "summary": "",
             "date_published": "2018-06-07 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-53",
-            "title": "Daily Digest #53",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/catid/Zpng?utm_source=jakartadev\">Zpng – PNG lossless compression</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://stratechery.com/2018/the-cost-of-developers/?utm_source=jakartadev\">The Cost of Developers</a></li>\n  <li><a href=\"https://dev.to/neshaz/git-merge-vs-git-rebase-5134?utm_source=jakartadev\">Git Merge vs Git Rebase</a></li>\n  <li><a href=\"https://medium.com/@xevix/gaijin-engineer-in-tokyo-aaa9be8919b2?utm_source=jakartadev\">Gaijin Engineer in Tokyo</a></li>\n  <li><a href=\"https://developer.apple.com/wwdc/?utm_source=jakartadev\">WWDC 18</a></li>\n  <li><a href=\"https://gravitational.com/blog/hashing-for-anonymization/?utm_source=jakartadev\">The False Allure of Hashing for Anonymization</a></li>\n  <li><a href=\"https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd?utm_source=jakartadev\">Google Flutter with AWS Lambda to build a serverless mobile app for movie listings</a></li>\n  <li><a href=\"https://distill.pub/2018/building-blocks/?utm_source=jakartadev\">The Building Blocks of Interpretability</a></li>\n  <li><a href=\"https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff?utm_source=jakartadev\">Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code</a></li>\n  <li><a href=\"https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/?utm_source=jakartadev\">Microsoft acquired Github!</a>, and <a href=\"https://blog.github.com/2018-06-04-github-microsoft/\">blogpost from Github</a>.</li>\n  <li><a href=\"https://github.com/RohitAwate/Everest?utm_source=jakartadev\">Everest – A beautiful and lightweight REST client built with JavaFX</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/container-map/?utm_source=jakartadev\">Container map view in Datadog</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-53/",
-            "summary": "",
-            "date_published": "2018-06-06 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-52",
-            "title": "Daily Digest #52",
-            "content_html": "<ul>\n  <li><a href=\"https://read.iopipe.com/streaming-open-source-work-one-hour-one-day-at-a-time-live-on-twitch-f510f2d46f4e\">Streaming Open Source Work: One Hour, One Day at a Time, Live on Twitch</a></li>\n  <li><a href=\"https://www.facebook.com/notes/protect-the-graph/detecting-phishing-domains-using-certificate-transparency/2037453483161459/\">Detecting phishing domains using Certificate Transparency</a></li>\n  <li><a href=\"http://cs.brown.edu/courses/cs173/2012/book/index.html\">Programming Languages: Application and Interpretation</a></li>\n  <li><a href=\"https://medium.com/@chrisdaviesgeek/when-mutability-bites-6387de768d7\">When mutability bites</a></li>\n  <li><a href=\"https://jacobian.org/writing/engmanager-reading-list/\">A reading list for new engineers managers</a></li>\n  <li><a href=\"https://asatarin.github.io/testing-distributed-systems/\">Testing Distributed Systems</a></li>\n  <li><a href=\"http://theorangeduck.com/page/the-software-thief\">The Software Thief</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-52/",
-            "summary": "",
-            "date_published": "2018-05-08 00:00:00 +0700"
         }
 
     ]

@@ -5,9 +5,50 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Jun 2018 14:23:05 +0700</pubDate>
-    <lastBuildDate>Sat, 09 Jun 2018 14:23:05 +0700</lastBuildDate>
+    <pubDate>Mon, 11 Jun 2018 11:37:03 +0700</pubDate>
+    <lastBuildDate>Mon, 11 Jun 2018 11:37:03 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;58</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2&quot;&gt;Using web workers for safe, concurrent JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns&quot;&gt;The Comprehensive Guide to JavaScript Design Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/new-face-ops-resources-modern-ops-distributed-systems-engineers&quot;&gt;30+ resources for modern IT Ops professionals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jmoiron.net/blog/is-k8s-too-complicated/&quot;&gt;Is K8s Too Complicated?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitea.io/en-US/&quot;&gt;Gitea – self-hosted GIT&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 11 Jun 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-58/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-58/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;57</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.atdot.net/~ko1/activities/2018_RubyElixirConfTaiwan.pdf&quot;&gt;Progress report of “Ruby 3 Concurrency”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68&quot;&gt;How To Use Technical Debt In Your Favor 🔊&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da&quot;&gt;The Stress of Remote Working&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained&quot;&gt;Optimizing React: Virtual DOM explained&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 10 Jun 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-57/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-57/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;56</title>
@@ -182,52 +223,6 @@
         <pubDate>Thu, 26 Apr 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-49/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-49/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;48</title>
-        <description>&lt;p&gt;Saatnya menulis kembali, &lt;em&gt;selamat hari rabu!&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itsfoss.com/ubuntu-18-04-faq/&quot;&gt;Things You Should Know About Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lethain.com//migrations/&quot;&gt;Migrations: the sole scalable fix to tech debt.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905&quot;&gt;Announcing npm@6&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds/&quot;&gt;Agile Team Organisation: Squads, Chapters, Tribes and Guilds&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://webdesign.tutsplus.com/articles/8-golden-rules-for-better-interface-design--cms-30886&quot;&gt;8 Golden Rules for Better Interface Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.codepipes.com/testing/software-testing-antipatterns.html&quot;&gt;Software Testing Anti-patterns&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 25 Apr 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-48/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-48/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;47</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/oldnewthing/20180326-00/?p=98335&quot;&gt;What are the odds that two pull requests get completed at the exact same time?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/&quot;&gt;Announcing TypeScript 2.8&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rachelbythebay.com/w/2018/03/26/w/&quot;&gt;Why I usually run ‘w’ first when troubleshooting unknown machines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/firefox/facebook-container-extension/&quot;&gt;Facebook Container Extension: Take control of how you’re being tracked&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://olivierlacan.com/posts/cd-is-wasting-your-time/&quot;&gt;cd is Wasting Your Time&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://flaviocopes.com/react-router/&quot;&gt;Introduction to React Router&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 30 Mar 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-47/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-47/</guid>
         
         <category>daily</category>
         

@@ -4,13 +4,42 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-06-09T14:23:05+07:00</updated>
+ <updated>2018-06-11T11:37:03+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;58</title>
+   <link href="http://localhost:4000/daily-digest-58/"/>
+   <updated>2018-06-11T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-58</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2&quot;&gt;Using web workers for safe, concurrent JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns&quot;&gt;The Comprehensive Guide to JavaScript Design Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/new-face-ops-resources-modern-ops-distributed-systems-engineers&quot;&gt;30+ resources for modern IT Ops professionals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jmoiron.net/blog/is-k8s-too-complicated/&quot;&gt;Is K8s Too Complicated?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitea.io/en-US/&quot;&gt;Gitea – self-hosted GIT&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;57</title>
+   <link href="http://localhost:4000/daily-digest-57/"/>
+   <updated>2018-06-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-57</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.atdot.net/~ko1/activities/2018_RubyElixirConfTaiwan.pdf&quot;&gt;Progress report of “Ruby 3 Concurrency”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68&quot;&gt;How To Use Technical Debt In Your Favor 🔊&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da&quot;&gt;The Stress of Remote Working&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained&quot;&gt;Optimizing React: Virtual DOM explained&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;56</title>
