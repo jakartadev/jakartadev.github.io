@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-06-11T11:37:03+07:00</updated>
+ <updated>2018-06-12T14:09:01+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;59</title>
+   <link href="http://localhost:4000/daily-digest-59/"/>
+   <updated>2018-06-12T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-59</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker?utm_source=jakartadev.org&quot;&gt;6 creative ways to solve problems with Linux containers and Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/levimoreira/i-love-anti-patterns-1bj1&quot;&gt;I Love Anti Pattern&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/running-distributed-erlang-elixir-applications-on-docker-b211d95affbe&quot;&gt;Running distributed Erlang &amp;amp; Elixir applications on Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73&quot;&gt;Analysing 1.4 billion rows with python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://loige.co/aws-command-line-s3-content-from-stdin-or-to-stdout/&quot;&gt;AWS Command line: S3 content from stdin or to stdout&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://happi.github.io/theBeamBook/&quot;&gt;Erlang Runtime System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;58</title>
