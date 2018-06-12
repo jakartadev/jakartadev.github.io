@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-59",
+            "title": "Daily Digest #59",
+            "content_html": "<ul>\n  <li><a href=\"https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker?utm_source=jakartadev.org\">6 creative ways to solve problems with Linux containers and Docker</a></li>\n  <li><a href=\"https://dev.to/levimoreira/i-love-anti-patterns-1bj1\">I Love Anti Pattern</a></li>\n  <li><a href=\"https://hackernoon.com/running-distributed-erlang-elixir-applications-on-docker-b211d95affbe\">Running distributed Erlang &amp; Elixir applications on Docker</a></li>\n  <li><a href=\"https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73\">Analysing 1.4 billion rows with python</a></li>\n  <li><a href=\"https://loige.co/aws-command-line-s3-content-from-stdin-or-to-stdout/\">AWS Command line: S3 content from stdin or to stdout</a></li>\n  <li><a href=\"https://happi.github.io/theBeamBook/\">Erlang Runtime System</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-59/",
+            "summary": "",
+            "date_published": "2018-06-12 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-58",
             "title": "Daily Digest #58",
             "content_html": "<ul>\n  <li><a href=\"https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2\">Using web workers for safe, concurrent JavaScript</a></li>\n  <li><a href=\"https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns\">The Comprehensive Guide to JavaScript Design Patterns</a></li>\n  <li><a href=\"https://techbeacon.com/new-face-ops-resources-modern-ops-distributed-systems-engineers\">30+ resources for modern IT Ops professionals</a></li>\n  <li><a href=\"http://jmoiron.net/blog/is-k8s-too-complicated/\">Is K8s Too Complicated?</a></li>\n  <li><a href=\"https://gitea.io/en-US/\">Gitea – self-hosted GIT</a> <span class=\"label\">tool</span></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-55/",
             "summary": "",
             "date_published": "2018-06-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-54",
-            "title": "Daily Digest #54",
-            "content_html": "<ul>\n  <li><a href=\"https://marsbased.com/blog/2018/05/28/shot-stars-landed-mars-lessons-learnt-fourth-year/\">Lesson learnt fourth year running a Ruby consultancy</a></li>\n  <li><a href=\"https://open.nytimes.com/how-the-new-york-times-uses-software-to-recognize-members-of-congress-29b46dd426c7?source=rss----51e1d1745b32---4\">How The New York Times Uses Software To Recognize Members of Congress</a></li>\n  <li><a href=\"https://buttercms.com/books/microservices-for-startups/should-you-break-up-your-monolithic-application\">Should you break up your monolithic application?</a></li>\n  <li><a href=\"https://dev.to/frosnerd/infrastructure-as-code---managing-aws-with-terraform-i9o\">Infrastructure as Code - Managing AWS With Terraform </a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-54/",
-            "summary": "",
-            "date_published": "2018-06-07 00:00:00 +0700"
         }
 
     ]
