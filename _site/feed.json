@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-60",
+            "title": "Daily Digest #60",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954\">Improving HBase backup efficiency at Pinterest</a></li>\n  <li><a href=\"https://makefrontendshitagain.party/\">Make frontend SHIT again</a> – kinda nostalgic</li>\n  <li><a href=\"https://github.com/bcongdon/corral\">Corral – A serverless MapReduce framework written for AWS Lambda</a></li>\n  <li><a href=\"https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af\">High availability and scalable reads in PostgreSQL</a></li>\n  <li><a href=\"https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5\">Open sourcing Terratest: a swiss army knife for testing infrastructure code</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-60/",
+            "summary": "",
+            "date_published": "2018-06-13 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-59",
             "title": "Daily Digest #59",
             "content_html": "<ul>\n  <li><a href=\"https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker?utm_source=jakartadev.org\">6 creative ways to solve problems with Linux containers and Docker</a></li>\n  <li><a href=\"https://dev.to/levimoreira/i-love-anti-patterns-1bj1\">I Love Anti Pattern</a></li>\n  <li><a href=\"https://hackernoon.com/running-distributed-erlang-elixir-applications-on-docker-b211d95affbe\">Running distributed Erlang &amp; Elixir applications on Docker</a></li>\n  <li><a href=\"https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73\">Analysing 1.4 billion rows with python</a></li>\n  <li><a href=\"https://loige.co/aws-command-line-s3-content-from-stdin-or-to-stdout/\">AWS Command line: S3 content from stdin or to stdout</a></li>\n  <li><a href=\"https://happi.github.io/theBeamBook/\">Erlang Runtime System</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-56/",
             "summary": "",
             "date_published": "2018-06-09 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-55",
-            "title": "Daily Digest #55",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/openfootball/world-cup.json\">World cup 2018 Opendata</a></li>\n  <li><a href=\"https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac\">Real-time API Monitoring Using GO and Pusher</a></li>\n  <li><a href=\"https://blog.heroku.com/exploration-of-security-when-building-docker-containers\">A House of Cards: An Exploration of Security When Building Docker Containers</a></li>\n  <li><a href=\"https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/\">Learn How to Build a Time Series Database</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-55/",
-            "summary": "",
-            "date_published": "2018-06-08 00:00:00 +0700"
         }
 
     ]
