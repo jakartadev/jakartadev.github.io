@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-62",
+            "title": "Daily Digest #62",
+            "content_html": "<ul>\n  <li><a href=\"http://engineering.khanacademy.org/posts/slicker.htm?source=jakartadev.org\">Slicker: A Tool for Moving Things in Python</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://eng.datafox.com/machine-learning/2018/04/03/extracting-signals-from-the-news/?source=jakartadev.org\">Extracting Signals From the News</a></li>\n  <li><a href=\"https://hackernoon.com/information-theory-of-neural-networks-c96a0f0a8d9?source=jakartadev.org\">Information Theory of Neural Networks</a></li>\n  <li><a href=\"https://dev.to/samipietikainen/why-junior-devs-should-review-seniors-commits-feb?source=jakartadev.org\">Why junior devs should review seniors’ commits</a></li>\n  <li><a href=\"https://hackernoon.com/builders-of-the-decentralized-web-10-of-the-most-innovative-technologies-197271aefa82?source=jakartadev.org\">Builders of the Decentralized Web: 10 Of The Most Innovative Technologies</a></li>\n  <li><a href=\"https://blog.getambassador.io/rate-limiting-a-useful-tool-with-distributed-systems-6be2b1a4f5f4?source=jakartadev.org\">Part 1: Rate Limiting: A Useful Tool with Distributed Systems</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-62/",
+            "summary": "",
+            "date_published": "2018-06-15 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-61",
             "title": "Daily Digest #61",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md?source=jakartadev.org\">Safe ways to do things in bash</a> – we all did it, aren’t we?</li>\n  <li><a href=\"https://blog.johnnyreilly.com/2018/05/compromising-guide-for-developers.html?source=jakartadev.org\">Compromising: A Guide for Developers</a></li>\n  <li><a href=\"http://wunder.schoenaberselten.com/2018/05/12/27-things-i-learned-about-hiring-in-tech-from-looking-for-a-new-engineering-management-role/?source=jakartadev.org\">27 things I learned about hiring in tech from looking for a new engineering management role</a></li>\n  <li><a href=\"https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400?source=jakartadev.org\">The Comprehensive Beginner’s Guide to JavaScript Geolocation Tracking</a></li>\n  <li><a href=\"https://blog.cloudflare.com/dns-resolver-1-1-1-1/?source=jakartadev.org\">Introducing DNS Resolver, 1.1.1.1 (not a joke)</a></li>\n  <li><a href=\"https://engineering.foursquare.com/phones-lambdas-and-the-joy-of-snap-to-place-technology-2875244100dd?source=jakartadev.org\">Phones, Lambdas and the Joy of Snap-to-Place Technology</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-58/",
             "summary": "",
             "date_published": "2018-06-11 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-57",
-            "title": "Daily Digest #57",
-            "content_html": "<ul>\n  <li><a href=\"http://www.atdot.net/~ko1/activities/2018_RubyElixirConfTaiwan.pdf\">Progress report of “Ruby 3 Concurrency”</a></li>\n  <li><a href=\"https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68\">How To Use Technical Debt In Your Favor 🔊</a></li>\n  <li><a href=\"https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da\">The Stress of Remote Working</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained\">Optimizing React: Virtual DOM explained</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-57/",
-            "summary": "",
-            "date_published": "2018-06-10 00:00:00 +0700"
         }
 
     ]
