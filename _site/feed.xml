@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jun 2018 20:08:05 +0700</pubDate>
-    <lastBuildDate>Fri, 15 Jun 2018 20:08:05 +0700</lastBuildDate>
+    <pubDate>Fri, 15 Jun 2018 20:36:43 +0700</pubDate>
+    <lastBuildDate>Fri, 15 Jun 2018 20:36:43 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;62</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://engineering.khanacademy.org/posts/slicker.htm?source=jakartadev.org&quot;&gt;Slicker: A Tool for Moving Things in Python&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.datafox.com/machine-learning/2018/04/03/extracting-signals-from-the-news/?source=jakartadev.org&quot;&gt;Extracting Signals From the News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/information-theory-of-neural-networks-c96a0f0a8d9?source=jakartadev.org&quot;&gt;Information Theory of Neural Networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/samipietikainen/why-junior-devs-should-review-seniors-commits-feb?source=jakartadev.org&quot;&gt;Why junior devs should review seniors’ commits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/builders-of-the-decentralized-web-10-of-the-most-innovative-technologies-197271aefa82?source=jakartadev.org&quot;&gt;Builders of the Decentralized Web: 10 Of The Most Innovative Technologies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.getambassador.io/rate-limiting-a-useful-tool-with-distributed-systems-6be2b1a4f5f4?source=jakartadev.org&quot;&gt;Part 1: Rate Limiting: A Useful Tool with Distributed Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 15 Jun 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-62/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-62/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;61</title>
@@ -196,29 +218,6 @@
         <pubDate>Wed, 06 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-53/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-53/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;52</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://read.iopipe.com/streaming-open-source-work-one-hour-one-day-at-a-time-live-on-twitch-f510f2d46f4e&quot;&gt;Streaming Open Source Work: One Hour, One Day at a Time, Live on Twitch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/notes/protect-the-graph/detecting-phishing-domains-using-certificate-transparency/2037453483161459/&quot;&gt;Detecting phishing domains using Certificate Transparency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://cs.brown.edu/courses/cs173/2012/book/index.html&quot;&gt;Programming Languages: Application and Interpretation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chrisdaviesgeek/when-mutability-bites-6387de768d7&quot;&gt;When mutability bites&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jacobian.org/writing/engmanager-reading-list/&quot;&gt;A reading list for new engineers managers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://asatarin.github.io/testing-distributed-systems/&quot;&gt;Testing Distributed Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://theorangeduck.com/page/the-software-thief&quot;&gt;The Software Thief&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 08 May 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-52/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-52/</guid>
         
         <category>daily</category>
         
