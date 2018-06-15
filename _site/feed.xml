@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jun 2018 14:50:03 +0700</pubDate>
-    <lastBuildDate>Wed, 13 Jun 2018 14:50:03 +0700</lastBuildDate>
+    <pubDate>Fri, 15 Jun 2018 20:08:05 +0700</pubDate>
+    <lastBuildDate>Fri, 15 Jun 2018 20:08:05 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;61</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md?source=jakartadev.org&quot;&gt;Safe ways to do things in bash&lt;/a&gt; – we all did it, aren’t we?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.johnnyreilly.com/2018/05/compromising-guide-for-developers.html?source=jakartadev.org&quot;&gt;Compromising: A Guide for Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wunder.schoenaberselten.com/2018/05/12/27-things-i-learned-about-hiring-in-tech-from-looking-for-a-new-engineering-management-role/?source=jakartadev.org&quot;&gt;27 things I learned about hiring in tech from looking for a new engineering management role&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400?source=jakartadev.org&quot;&gt;The Comprehensive Beginner’s Guide to JavaScript Geolocation Tracking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/dns-resolver-1-1-1-1/?source=jakartadev.org&quot;&gt;Introducing DNS Resolver, 1.1.1.1 (not a joke)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.foursquare.com/phones-lambdas-and-the-joy-of-snap-to-place-technology-2875244100dd?source=jakartadev.org&quot;&gt;Phones, Lambdas and the Joy of Snap-to-Place Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 14 Jun 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-61/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-61/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;60</title>
@@ -197,29 +219,6 @@
         <pubDate>Tue, 08 May 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-52/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-52/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;51</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3&quot;&gt;How To Power Your App Using a Realtime Data CDN&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d&quot;&gt;How Netlify’s deploying and routing infrastructure works&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/cooldrip/jhop&quot;&gt;JHop – Create fake REST API in one sec&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://proton-native.js.org/#/&quot;&gt;Proton Native – Create native desktop app&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929?gi=bcd727c0361a&quot;&gt;Rust in production at Figma&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/erlang-battleground/beautiful-code-254a5f8ef958&quot;&gt;Beautiful Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/kubernetes-state-of-stateful-apps/&quot;&gt;Kubernetes: The State of Stateful Apps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 07 May 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-51/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-51/</guid>
         
         <category>daily</category>
         
