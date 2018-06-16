@@ -6,7 +6,7 @@ tags:
     - daily
     - development
 description: ""
-publish: false
+publish: true
 ---
 
 - [Part 2: Rate Limiting for API gateways](https://blog.getambassador.io/rate-limiting-for-api-gateways-892310a2da02?source=jakartadev.org)
