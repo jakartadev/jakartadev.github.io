@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-64",
+            "title": "Daily Digest #64",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.codeship.com/performing-zero-downtime-releases/?utm_source=jakartadev.org\">Performing Zero Downtime Releases</a></li>\n  <li><a href=\"https://blog.novoda.com/introduction-to-redux-in-flutter/?utm_source=jakartadev.org\">Introduction to Redux in Flutter</a></li>\n  <li><a href=\"https://tech.showmax.com/2018/04/why-so-serious/?utm_source=jakartadev.org\">How Showmax got into live streaming – Part IV</a></li>\n  <li><a href=\"https://blogs.dxc.technology/2018/05/08/everything-old-is-new-again-microservices/?utm_source=jakartadev.org\">Everything old is new again: Microservices</a></li>\n  <li><a href=\"https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/?utm_source=jakartadev.org\">The History of React.js on a Timeline</a></li>\n  <li><a href=\"https://allegro.tech/2018/04/intuition-engineering-at-allegro-with-phobos.html?utm_source=jakartadev.org\">Intuition Engineering at Allegro with Phobos</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-64/",
+            "summary": "",
+            "date_published": "2018-06-17 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-63",
             "title": "Daily Digest #63",
             "content_html": "<ul>\n  <li><a href=\"https://blog.getambassador.io/rate-limiting-for-api-gateways-892310a2da02?source=jakartadev.org\">Part 2: Rate Limiting for API gateways</a></li>\n  <li><a href=\"https://di.nmfay.com/postgres-vs-mysql?source=jakartadev.org\">the ultimate postgres vs mysql blog post</a> – for a while..</li>\n  <li><a href=\"https://www.dataquest.io/blog/postgres-internals/?source=jakartadev.org\">Postgres Internals: Building a Description Tool</a></li>\n  <li><a href=\"http://patshaughnessy.net/2016/1/22/is-your-postgres-query-starved-for-memory?source=jakartadev.org\">Is Your Postgres Query Starved for Memory?</a> – old post, but still relevant for everyday use</li>\n  <li><a href=\"https://zwischenzugs.com/2018/05/14/beyond-punk-rock-git-in-eleven-steps/?source=jakartadev.org\">Beyond ‘Punk Rock Git’ in Eleven Steps</a></li>\n  <li><a href=\"https://buttercms.com/books/microservices-for-startups/five-microservice-testing-strategies-for-startups?source=jakartadev.org\">Five microservice testing strategies for startups</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-60/",
             "summary": "",
             "date_published": "2018-06-13 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-59",
-            "title": "Daily Digest #59",
-            "content_html": "<ul>\n  <li><a href=\"https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker?utm_source=jakartadev.org\">6 creative ways to solve problems with Linux containers and Docker</a></li>\n  <li><a href=\"https://dev.to/levimoreira/i-love-anti-patterns-1bj1\">I Love Anti Pattern</a></li>\n  <li><a href=\"https://hackernoon.com/running-distributed-erlang-elixir-applications-on-docker-b211d95affbe\">Running distributed Erlang &amp; Elixir applications on Docker</a></li>\n  <li><a href=\"https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73\">Analysing 1.4 billion rows with python</a></li>\n  <li><a href=\"https://loige.co/aws-command-line-s3-content-from-stdin-or-to-stdout/\">AWS Command line: S3 content from stdin or to stdout</a></li>\n  <li><a href=\"https://happi.github.io/theBeamBook/\">Erlang Runtime System</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-59/",
-            "summary": "",
-            "date_published": "2018-06-12 00:00:00 +0700"
         }
 
     ]

@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Jun 2018 11:24:45 +0700</pubDate>
-    <lastBuildDate>Sat, 16 Jun 2018 11:24:45 +0700</lastBuildDate>
+    <pubDate>Sun, 17 Jun 2018 11:17:12 +0700</pubDate>
+    <lastBuildDate>Sun, 17 Jun 2018 11:17:12 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;64</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/performing-zero-downtime-releases/?utm_source=jakartadev.org&quot;&gt;Performing Zero Downtime Releases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.novoda.com/introduction-to-redux-in-flutter/?utm_source=jakartadev.org&quot;&gt;Introduction to Redux in Flutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/04/why-so-serious/?utm_source=jakartadev.org&quot;&gt;How Showmax got into live streaming – Part IV&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dxc.technology/2018/05/08/everything-old-is-new-again-microservices/?utm_source=jakartadev.org&quot;&gt;Everything old is new again: Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/?utm_source=jakartadev.org&quot;&gt;The History of React.js on a Timeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://allegro.tech/2018/04/intuition-engineering-at-allegro-with-phobos.html?utm_source=jakartadev.org&quot;&gt;Intuition Engineering at Allegro with Phobos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 17 Jun 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-64/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-64/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;63</title>
@@ -192,26 +214,6 @@
         <pubDate>Fri, 08 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-55/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-55/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;54</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://marsbased.com/blog/2018/05/28/shot-stars-landed-mars-lessons-learnt-fourth-year/&quot;&gt;Lesson learnt fourth year running a Ruby consultancy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-the-new-york-times-uses-software-to-recognize-members-of-congress-29b46dd426c7?source=rss----51e1d1745b32---4&quot;&gt;How The New York Times Uses Software To Recognize Members of Congress&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/should-you-break-up-your-monolithic-application&quot;&gt;Should you break up your monolithic application?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/frosnerd/infrastructure-as-code---managing-aws-with-terraform-i9o&quot;&gt;Infrastructure as Code - Managing AWS With Terraform &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 07 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-54/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-54/</guid>
         
         <category>daily</category>
         
