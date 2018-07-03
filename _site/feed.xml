@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Jun 2018 11:17:12 +0700</pubDate>
-    <lastBuildDate>Sun, 17 Jun 2018 11:17:12 +0700</lastBuildDate>
+    <pubDate>Tue, 03 Jul 2018 11:37:55 +0700</pubDate>
+    <lastBuildDate>Tue, 03 Jul 2018 11:37:55 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;65</title>
+        <description>&lt;p&gt;&lt;em&gt;Off&lt;/em&gt; selama hampir sebulan.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/stop-coding-and-start-drawing&quot;&gt;Stop Coding and Start Drawing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices&quot;&gt; An Introduction to CI/CD Best Practices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/mapping-kubernetes-ceph-volumes-the-rbd-nbd-way-21f7c4161f04&quot;&gt;Mapping Kubernetes Ceph Volumes the RBD-NBD Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f?source=rss----3a8144eabfe3---4&quot;&gt;Another reason why your Docker containers may be slow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/5-tips-for-architecting-fast-data-applications&quot;&gt;5 tips for architecting fast data applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-security-guide/&quot;&gt;Kubernetes Security Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-65/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-65/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;64</title>
@@ -194,26 +218,6 @@
         <pubDate>Sat, 09 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-56/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-56/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;55</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/openfootball/world-cup.json&quot;&gt;World cup 2018 Opendata&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac&quot;&gt;Real-time API Monitoring Using GO and Pusher&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/exploration-of-security-when-building-docker-containers&quot;&gt;A House of Cards: An Exploration of Security When Building Docker Containers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 08 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-55/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-55/</guid>
         
         <category>daily</category>
         
