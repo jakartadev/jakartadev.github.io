@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-03T11:37:55+07:00</updated>
+ <updated>2018-07-04T12:36:10+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;66</title>
+   <link href="http://localhost:4000/daily-digest-66/"/>
+   <updated>2018-07-04T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-66</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/&quot;&gt;JavaScript to Rust and Back Again: A wasm-bindgen Tale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elastic.co/blog/leveraging-elasticsearch-for-a-1000-percent-performance-boost&quot;&gt;Leveraging Elasticsearch for a 1,000% performance boost&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/understanding-cpu-flame-graphs&quot;&gt;Understanding CPU Flame Graphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/evait-security/envizon&quot;&gt;Envizon – network visualization too&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consensus-mechanisms-explained-pow-vs-pos-89951c66ae10&quot;&gt;Consensus Mechanisms Explained: PoW vs. PoS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alexwlchan.net/a-plumbers-guide-to-git/&quot;&gt;A Plumber’s Guide to Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;65</title>
