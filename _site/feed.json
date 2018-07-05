@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-67",
+            "title": "Daily Digest #67",
+            "content_html": "<ul>\n  <li><a href=\"https://hanselminutes.com/600/which-javascript-stack-should-i-learn-with-tracy-lee?utm_source=jakartadev.org\">Which JavaScript Stack should I learn?</a></li>\n  <li><a href=\"https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering\">We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering</a></li>\n  <li><a href=\"https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684?utm_source=jakartadev.org\">Moving from React to Vue – Vue.js: the good, the meh, and the ugly</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528?utm_source=jakartadev.org\">Mobile development architecture</a></li>\n  <li><a href=\"https://blog.imaginea.com/channels-using-async-and-await/\">Channels using async and await</a></li>\n  <li><a href=\"https://technology.condenast.com/story/picking-trending-topics-and-celebrities-using-machine-learning\">Picking Trending Topics and Celebrities Using Machine Learning</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-67/",
+            "summary": "",
+            "date_published": "2018-07-05 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-66",
             "title": "Daily Digest #66",
             "content_html": "<ul>\n  <li><a href=\"https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/\">JavaScript to Rust and Back Again: A wasm-bindgen Tale</a></li>\n  <li><a href=\"https://www.elastic.co/blog/leveraging-elasticsearch-for-a-1000-percent-performance-boost\">Leveraging Elasticsearch for a 1,000% performance boost</a></li>\n  <li><a href=\"https://nodesource.com/blog/understanding-cpu-flame-graphs\">Understanding CPU Flame Graphs</a></li>\n  <li><a href=\"https://github.com/evait-security/envizon\">Envizon – network visualization too</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://hackernoon.com/consensus-mechanisms-explained-pow-vs-pos-89951c66ae10\">Consensus Mechanisms Explained: PoW vs. PoS</a></li>\n  <li><a href=\"https://alexwlchan.net/a-plumbers-guide-to-git/\">A Plumber’s Guide to Git</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-63/",
             "summary": "",
             "date_published": "2018-06-16 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-62",
-            "title": "Daily Digest #62",
-            "content_html": "<ul>\n  <li><a href=\"http://engineering.khanacademy.org/posts/slicker.htm?source=jakartadev.org\">Slicker: A Tool for Moving Things in Python</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://eng.datafox.com/machine-learning/2018/04/03/extracting-signals-from-the-news/?source=jakartadev.org\">Extracting Signals From the News</a></li>\n  <li><a href=\"https://hackernoon.com/information-theory-of-neural-networks-c96a0f0a8d9?source=jakartadev.org\">Information Theory of Neural Networks</a></li>\n  <li><a href=\"https://dev.to/samipietikainen/why-junior-devs-should-review-seniors-commits-feb?source=jakartadev.org\">Why junior devs should review seniors’ commits</a></li>\n  <li><a href=\"https://hackernoon.com/builders-of-the-decentralized-web-10-of-the-most-innovative-technologies-197271aefa82?source=jakartadev.org\">Builders of the Decentralized Web: 10 Of The Most Innovative Technologies</a></li>\n  <li><a href=\"https://blog.getambassador.io/rate-limiting-a-useful-tool-with-distributed-systems-6be2b1a4f5f4?source=jakartadev.org\">Part 1: Rate Limiting: A Useful Tool with Distributed Systems</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-62/",
-            "summary": "",
-            "date_published": "2018-06-15 00:00:00 +0700"
         }
 
     ]

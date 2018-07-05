@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jul 2018 12:36:10 +0700</pubDate>
-    <lastBuildDate>Wed, 04 Jul 2018 12:36:10 +0700</lastBuildDate>
+    <pubDate>Thu, 05 Jul 2018 12:01:32 +0700</pubDate>
+    <lastBuildDate>Thu, 05 Jul 2018 12:01:32 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;67</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hanselminutes.com/600/which-javascript-stack-should-i-learn-with-tracy-lee?utm_source=jakartadev.org&quot;&gt;Which JavaScript Stack should I learn?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering&quot;&gt;We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684?utm_source=jakartadev.org&quot;&gt;Moving from React to Vue – Vue.js: the good, the meh, and the ugly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528?utm_source=jakartadev.org&quot;&gt;Mobile development architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/channels-using-async-and-await/&quot;&gt;Channels using async and await&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://technology.condenast.com/story/picking-trending-topics-and-celebrities-using-machine-learning&quot;&gt;Picking Trending Topics and Celebrities Using Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-67/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-67/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;66</title>
@@ -199,26 +221,6 @@
         <pubDate>Mon, 11 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-58/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-58/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;57</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.atdot.net/~ko1/activities/2018_RubyElixirConfTaiwan.pdf&quot;&gt;Progress report of “Ruby 3 Concurrency”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68&quot;&gt;How To Use Technical Debt In Your Favor 🔊&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da&quot;&gt;The Stress of Remote Working&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained&quot;&gt;Optimizing React: Virtual DOM explained&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 10 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-57/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-57/</guid>
         
         <category>daily</category>
         
