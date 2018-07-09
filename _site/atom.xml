@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-05T12:01:32+07:00</updated>
+ <updated>2018-07-09T13:41:11+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;68</title>
+   <link href="http://localhost:4000/daily-digest-68/"/>
+   <updated>2018-07-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-68</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/scale-part-i-task-queues/&quot;&gt;@Scale – Part I (Task Queues)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/04/05/learn-git-rebase-interactively/&quot;&gt;Learn Git Rebase Interactively&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/building-real-time-analytics-apis/&quot;&gt;Building Real Time Analytics APIs at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html&quot;&gt;Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127&quot;&gt;Open Sourcing Design System React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;67</title>
