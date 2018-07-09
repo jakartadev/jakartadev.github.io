@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-68",
+            "title": "Daily Digest #68",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.imaginea.com/scale-part-i-task-queues/\">@Scale – Part I (Task Queues)</a></li>\n  <li><a href=\"https://zwischenzugs.com/2018/04/05/learn-git-rebase-interactively/\">Learn Git Rebase Interactively</a></li>\n  <li><a href=\"https://blog.algolia.com/building-real-time-analytics-apis/\">Building Real Time Analytics APIs at Scale</a></li>\n  <li><a href=\"http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html\">Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads</a></li>\n  <li><a href=\"https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127\">Open Sourcing Design System React</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-68/",
+            "summary": "",
+            "date_published": "2018-07-09 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-67",
             "title": "Daily Digest #67",
             "content_html": "<ul>\n  <li><a href=\"https://hanselminutes.com/600/which-javascript-stack-should-i-learn-with-tracy-lee?utm_source=jakartadev.org\">Which JavaScript Stack should I learn?</a></li>\n  <li><a href=\"https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering\">We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering</a></li>\n  <li><a href=\"https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684?utm_source=jakartadev.org\">Moving from React to Vue – Vue.js: the good, the meh, and the ugly</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528?utm_source=jakartadev.org\">Mobile development architecture</a></li>\n  <li><a href=\"https://blog.imaginea.com/channels-using-async-and-await/\">Channels using async and await</a></li>\n  <li><a href=\"https://technology.condenast.com/story/picking-trending-topics-and-celebrities-using-machine-learning\">Picking Trending Topics and Celebrities Using Machine Learning</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-64/",
             "summary": "",
             "date_published": "2018-06-17 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-63",
-            "title": "Daily Digest #63",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.getambassador.io/rate-limiting-for-api-gateways-892310a2da02?source=jakartadev.org\">Part 2: Rate Limiting for API gateways</a></li>\n  <li><a href=\"https://di.nmfay.com/postgres-vs-mysql?source=jakartadev.org\">the ultimate postgres vs mysql blog post</a> – for a while..</li>\n  <li><a href=\"https://www.dataquest.io/blog/postgres-internals/?source=jakartadev.org\">Postgres Internals: Building a Description Tool</a></li>\n  <li><a href=\"http://patshaughnessy.net/2016/1/22/is-your-postgres-query-starved-for-memory?source=jakartadev.org\">Is Your Postgres Query Starved for Memory?</a> – old post, but still relevant for everyday use</li>\n  <li><a href=\"https://zwischenzugs.com/2018/05/14/beyond-punk-rock-git-in-eleven-steps/?source=jakartadev.org\">Beyond ‘Punk Rock Git’ in Eleven Steps</a></li>\n  <li><a href=\"https://buttercms.com/books/microservices-for-startups/five-microservice-testing-strategies-for-startups?source=jakartadev.org\">Five microservice testing strategies for startups</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-63/",
-            "summary": "",
-            "date_published": "2018-06-16 00:00:00 +0700"
         }
 
     ]
