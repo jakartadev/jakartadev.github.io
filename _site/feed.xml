@@ -5,12 +5,12 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jul 2018 17:56:26 +0700</pubDate>
-    <lastBuildDate>Tue, 10 Jul 2018 17:56:26 +0700</lastBuildDate>
+    <pubDate>Tue, 10 Jul 2018 17:59:09 +0700</pubDate>
+    <lastBuildDate>Tue, 10 Jul 2018 17:59:09 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;68</title>
+        <title>Daily Digest &amp;#35;69</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Fewbytes/rubber-docker&quot;&gt;Rebuild Docker from Scratch&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/going-offline&quot;&gt;Going Offline&lt;/a&gt;&lt;/li&gt;
