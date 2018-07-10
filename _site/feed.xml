@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Jul 2018 13:41:11 +0700</pubDate>
-    <lastBuildDate>Mon, 09 Jul 2018 13:41:11 +0700</lastBuildDate>
+    <pubDate>Tue, 10 Jul 2018 17:56:26 +0700</pubDate>
+    <lastBuildDate>Tue, 10 Jul 2018 17:56:26 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;68</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Fewbytes/rubber-docker&quot;&gt;Rebuild Docker from Scratch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/going-offline&quot;&gt;Going Offline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apiumhub.com/tech-blog-barcelona/devops-reading-list-devops-books/&quot;&gt;Devops reading list: top 30 best devops books you should read in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.botreetechnologies.com/encrypted-credentials-a-new-way-to-use-secrets-in-rails-5-2-eca929629bb4&quot;&gt;Encrypted Credentials — A new way to use Secrets in Rails 5.2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tomnomnom/gron/&quot;&gt;Gron – JSON aware grep tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/dark-ecology/&quot;&gt;The Agile Ecology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-69/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-69/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;68</title>
@@ -199,28 +221,6 @@
         <pubDate>Wed, 13 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-60/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-60/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;59</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker?utm_source=jakartadev.org&quot;&gt;6 creative ways to solve problems with Linux containers and Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/levimoreira/i-love-anti-patterns-1bj1&quot;&gt;I Love Anti Pattern&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/running-distributed-erlang-elixir-applications-on-docker-b211d95affbe&quot;&gt;Running distributed Erlang &amp;amp; Elixir applications on Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73&quot;&gt;Analysing 1.4 billion rows with python&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://loige.co/aws-command-line-s3-content-from-stdin-or-to-stdout/&quot;&gt;AWS Command line: S3 content from stdin or to stdout&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://happi.github.io/theBeamBook/&quot;&gt;Erlang Runtime System&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-59/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-59/</guid>
         
         <category>daily</category>
         
