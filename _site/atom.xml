@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-10T17:59:09+07:00</updated>
+ <updated>2018-07-16T12:47:31+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;70</title>
+   <link href="http://localhost:4000/daily-digest-70/"/>
+   <updated>2018-07-16T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-70</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/taxonomy-tech-debt&quot;&gt;A Taxonomy of tech debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843&quot;&gt;Serverless monitoring — the good, the bad and the ugly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lmatteis/on-user-interface-development-appending-to-the-event-log-8d8ca966795d&quot;&gt;On User Interface Development: appending to the event log&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/&quot;&gt;How To Design Emotional Interfaces For Boring Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526&quot;&gt;6 things I’ve learned in my first 6 months using serverless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;69</title>

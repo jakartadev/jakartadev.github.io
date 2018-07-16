@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jul 2018 17:59:09 +0700</pubDate>
-    <lastBuildDate>Tue, 10 Jul 2018 17:59:09 +0700</lastBuildDate>
+    <pubDate>Mon, 16 Jul 2018 12:47:31 +0700</pubDate>
+    <lastBuildDate>Mon, 16 Jul 2018 12:47:31 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;70</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/taxonomy-tech-debt&quot;&gt;A Taxonomy of tech debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843&quot;&gt;Serverless monitoring — the good, the bad and the ugly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lmatteis/on-user-interface-development-appending-to-the-event-log-8d8ca966795d&quot;&gt;On User Interface Development: appending to the event log&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/&quot;&gt;How To Design Emotional Interfaces For Boring Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526&quot;&gt;6 things I’ve learned in my first 6 months using serverless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 16 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-70/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-70/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;69</title>
@@ -200,27 +222,6 @@
         <pubDate>Thu, 14 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-61/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-61/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;60</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954&quot;&gt;Improving HBase backup efficiency at Pinterest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://makefrontendshitagain.party/&quot;&gt;Make frontend SHIT again&lt;/a&gt; – kinda nostalgic&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bcongdon/corral&quot;&gt;Corral – A serverless MapReduce framework written for AWS Lambda&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af&quot;&gt;High availability and scalable reads in PostgreSQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5&quot;&gt;Open sourcing Terratest: a swiss army knife for testing infrastructure code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-60/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-60/</guid>
         
         <category>daily</category>
         
