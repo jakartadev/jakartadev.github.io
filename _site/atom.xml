@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-16T12:47:31+07:00</updated>
+ <updated>2018-07-19T18:33:12+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;71</title>
+   <link href="http://localhost:4000/daily-digest-71/"/>
+   <updated>2018-07-19T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-71</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b&quot;&gt;The State of Cryptocurrency Mining&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://users.ece.utexas.edu/~adnan/pike.html&quot;&gt;Rob Pike’s 5 Rules of Programming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3&quot;&gt;How Does Your Company Approach Continuous Improvement?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224&quot;&gt;Event Sourcing made Simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret&quot;&gt;Docker is the dangerous gamble which we will regret&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;70</title>
