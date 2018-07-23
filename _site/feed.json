@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-72",
+            "title": "Daily Digest #72",
+            "content_html": "<ul>\n  <li><a href=\"https://cate.blog/2018/05/08/creating-success-together/\">Creating success, together</a></li>\n  <li><a href=\"https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html\">Introducing Git protocol version 2</a></li>\n  <li><a href=\"https://gregoryszorc.com/blog/2018/05/16/revisiting-using-docker/\">Revisiting Using Docker</a></li>\n  <li><a href=\"https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/\">Blockchain Just Isn’t As Radical As You Want It To Be</a></li>\n  <li><a href=\"https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html\">The sad state of sysadmin in the age of containers</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-72/",
+            "summary": "",
+            "date_published": "2018-07-23 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-71",
             "title": "Daily Digest #71",
             "content_html": "<ul>\n  <li><a href=\"https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b\">The State of Cryptocurrency Mining</a></li>\n  <li><a href=\"https://users.ece.utexas.edu/~adnan/pike.html\">Rob Pike’s 5 Rules of Programming</a></li>\n  <li><a href=\"https://hackernoon.com/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3\">How Does Your Company Approach Continuous Improvement?</a></li>\n  <li><a href=\"https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224\">Event Sourcing made Simple</a></li>\n  <li><a href=\"http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret\">Docker is the dangerous gamble which we will regret</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-68/",
             "summary": "",
             "date_published": "2018-07-09 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-67",
-            "title": "Daily Digest #67",
-            "content_html": "<ul>\n  <li><a href=\"https://hanselminutes.com/600/which-javascript-stack-should-i-learn-with-tracy-lee?utm_source=jakartadev.org\">Which JavaScript Stack should I learn?</a></li>\n  <li><a href=\"https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering\">We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering</a></li>\n  <li><a href=\"https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684?utm_source=jakartadev.org\">Moving from React to Vue – Vue.js: the good, the meh, and the ugly</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528?utm_source=jakartadev.org\">Mobile development architecture</a></li>\n  <li><a href=\"https://blog.imaginea.com/channels-using-async-and-await/\">Channels using async and await</a></li>\n  <li><a href=\"https://technology.condenast.com/story/picking-trending-topics-and-celebrities-using-machine-learning\">Picking Trending Topics and Celebrities Using Machine Learning</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-67/",
-            "summary": "",
-            "date_published": "2018-07-05 00:00:00 +0700"
         }
 
     ]
