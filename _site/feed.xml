@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Jul 2018 18:33:12 +0700</pubDate>
-    <lastBuildDate>Thu, 19 Jul 2018 18:33:12 +0700</lastBuildDate>
+    <pubDate>Mon, 23 Jul 2018 15:31:47 +0700</pubDate>
+    <lastBuildDate>Mon, 23 Jul 2018 15:31:47 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;72</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cate.blog/2018/05/08/creating-success-together/&quot;&gt;Creating success, together&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html&quot;&gt;Introducing Git protocol version 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gregoryszorc.com/blog/2018/05/16/revisiting-using-docker/&quot;&gt;Revisiting Using Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/&quot;&gt;Blockchain Just Isn’t As Radical As You Want It To Be&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html&quot;&gt;The sad state of sysadmin in the age of containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 23 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-72/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-72/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;71</title>
@@ -199,28 +220,6 @@
         <pubDate>Sat, 16 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-63/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-63/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;62</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://engineering.khanacademy.org/posts/slicker.htm?source=jakartadev.org&quot;&gt;Slicker: A Tool for Moving Things in Python&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.datafox.com/machine-learning/2018/04/03/extracting-signals-from-the-news/?source=jakartadev.org&quot;&gt;Extracting Signals From the News&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/information-theory-of-neural-networks-c96a0f0a8d9?source=jakartadev.org&quot;&gt;Information Theory of Neural Networks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/samipietikainen/why-junior-devs-should-review-seniors-commits-feb?source=jakartadev.org&quot;&gt;Why junior devs should review seniors’ commits&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/builders-of-the-decentralized-web-10-of-the-most-innovative-technologies-197271aefa82?source=jakartadev.org&quot;&gt;Builders of the Decentralized Web: 10 Of The Most Innovative Technologies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.getambassador.io/rate-limiting-a-useful-tool-with-distributed-systems-6be2b1a4f5f4?source=jakartadev.org&quot;&gt;Part 1: Rate Limiting: A Useful Tool with Distributed Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 15 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-62/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-62/</guid>
         
         <category>daily</category>
         
