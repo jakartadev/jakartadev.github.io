@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Jul 2018 15:31:47 +0700</pubDate>
-    <lastBuildDate>Mon, 23 Jul 2018 15:31:47 +0700</lastBuildDate>
+    <pubDate>Tue, 24 Jul 2018 10:02:17 +0700</pubDate>
+    <lastBuildDate>Tue, 24 Jul 2018 10:02:17 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;73</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/manage-systemd-logs-using-journalctl/&quot;&gt;Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/05/13/scdoc.html&quot;&gt;Introducing scdoc, a man page generator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1805.04956&quot;&gt;Nethammer: Inducing Rowhammer Faults through Network Requests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0&quot;&gt;How to Hold the Most Effective Meetings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/guardicore/monkey&quot;&gt;Infection Monkey - An automated pentest tool&lt;/a&gt;  &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@leshchuk/zipem-all-61076c7da4c&quot;&gt;Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 24 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-73/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-73/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;72</title>
@@ -198,28 +220,6 @@
         <pubDate>Sun, 17 Jun 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-64/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-64/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;63</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.getambassador.io/rate-limiting-for-api-gateways-892310a2da02?source=jakartadev.org&quot;&gt;Part 2: Rate Limiting for API gateways&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://di.nmfay.com/postgres-vs-mysql?source=jakartadev.org&quot;&gt;the ultimate postgres vs mysql blog post&lt;/a&gt; – for a while..&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/postgres-internals/?source=jakartadev.org&quot;&gt;Postgres Internals: Building a Description Tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://patshaughnessy.net/2016/1/22/is-your-postgres-query-starved-for-memory?source=jakartadev.org&quot;&gt;Is Your Postgres Query Starved for Memory?&lt;/a&gt; – old post, but still relevant for everyday use&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/05/14/beyond-punk-rock-git-in-eleven-steps/?source=jakartadev.org&quot;&gt;Beyond ‘Punk Rock Git’ in Eleven Steps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/five-microservice-testing-strategies-for-startups?source=jakartadev.org&quot;&gt;Five microservice testing strategies for startups&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 16 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-63/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-63/</guid>
         
         <category>daily</category>
         

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-73",
+            "title": "Daily Digest #73",
+            "content_html": "<ul>\n  <li><a href=\"https://www.tecmint.com/manage-systemd-logs-using-journalctl/\">Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]</a></li>\n  <li><a href=\"https://drewdevault.com/2018/05/13/scdoc.html\">Introducing scdoc, a man page generator</a></li>\n  <li><a href=\"https://arxiv.org/abs/1805.04956\">Nethammer: Inducing Rowhammer Faults through Network Requests</a></li>\n  <li><a href=\"https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0\">How to Hold the Most Effective Meetings</a></li>\n  <li><a href=\"https://github.com/guardicore/monkey\">Infection Monkey - An automated pentest tool</a>  <span class=\"label\">tool</span></li>\n  <li><a href=\"https://medium.com/@leshchuk/zipem-all-61076c7da4c\">Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-73/",
+            "summary": "",
+            "date_published": "2018-07-24 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-72",
             "title": "Daily Digest #72",
             "content_html": "<ul>\n  <li><a href=\"https://cate.blog/2018/05/08/creating-success-together/\">Creating success, together</a></li>\n  <li><a href=\"https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html\">Introducing Git protocol version 2</a></li>\n  <li><a href=\"https://gregoryszorc.com/blog/2018/05/16/revisiting-using-docker/\">Revisiting Using Docker</a></li>\n  <li><a href=\"https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/\">Blockchain Just Isn’t As Radical As You Want It To Be</a></li>\n  <li><a href=\"https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html\">The sad state of sysadmin in the age of containers</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-69/",
             "summary": "",
             "date_published": "2018-07-10 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-68",
-            "title": "Daily Digest #68",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.imaginea.com/scale-part-i-task-queues/\">@Scale – Part I (Task Queues)</a></li>\n  <li><a href=\"https://zwischenzugs.com/2018/04/05/learn-git-rebase-interactively/\">Learn Git Rebase Interactively</a></li>\n  <li><a href=\"https://blog.algolia.com/building-real-time-analytics-apis/\">Building Real Time Analytics APIs at Scale</a></li>\n  <li><a href=\"http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html\">Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads</a></li>\n  <li><a href=\"https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127\">Open Sourcing Design System React</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-68/",
-            "summary": "",
-            "date_published": "2018-07-09 00:00:00 +0700"
         }
 
     ]
