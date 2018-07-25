@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-24T10:02:17+07:00</updated>
+ <updated>2018-07-25T10:30:56+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;74</title>
+   <link href="http://localhost:4000/daily-digest-74/"/>
+   <updated>2018-07-25T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-74</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pmusolino/Wormholy&quot;&gt;Wormholy – iOS network debugging, like a wizard 🧙‍♂️&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.castsoftware.com/blog/devops-5-steps-to-get-derailed-projects-back-on-track&quot;&gt;DevOps: 5 Steps to Get Derailed Projects Back on Track&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops&quot;&gt;Kubernetes anti-patterns: Let’s do GitOps, not CIOps!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack&quot;&gt;Load Testing Round Up: 8 tools you can use to strengthen your stack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nextplatform.com/2018/07/17/when-does-kubernetes-become-invisible-and-ubiquitous/&quot;&gt;When does kubernetes become invisible and ubiquitous?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;73</title>

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-74",
+            "title": "Daily Digest #74",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/pmusolino/Wormholy\">Wormholy – iOS network debugging, like a wizard 🧙‍♂️</a></li>\n  <li><a href=\"https://www.castsoftware.com/blog/devops-5-steps-to-get-derailed-projects-back-on-track\">DevOps: 5 Steps to Get Derailed Projects Back on Track</a></li>\n  <li><a href=\"https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops\">Kubernetes anti-patterns: Let’s do GitOps, not CIOps!</a></li>\n  <li><a href=\"https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack\">Load Testing Round Up: 8 tools you can use to strengthen your stack</a></li>\n  <li><a href=\"https://www.nextplatform.com/2018/07/17/when-does-kubernetes-become-invisible-and-ubiquitous/\">When does kubernetes become invisible and ubiquitous?</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-74/",
+            "summary": "",
+            "date_published": "2018-07-25 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-73",
             "title": "Daily Digest #73",
             "content_html": "<ul>\n  <li><a href=\"https://www.tecmint.com/manage-systemd-logs-using-journalctl/\">Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]</a></li>\n  <li><a href=\"https://drewdevault.com/2018/05/13/scdoc.html\">Introducing scdoc, a man page generator</a></li>\n  <li><a href=\"https://arxiv.org/abs/1805.04956\">Nethammer: Inducing Rowhammer Faults through Network Requests</a></li>\n  <li><a href=\"https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0\">How to Hold the Most Effective Meetings</a></li>\n  <li><a href=\"https://github.com/guardicore/monkey\">Infection Monkey - An automated pentest tool</a>  <span class=\"label\">tool</span></li>\n  <li><a href=\"https://medium.com/@leshchuk/zipem-all-61076c7da4c\">Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-70/",
             "summary": "",
             "date_published": "2018-07-16 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-69",
-            "title": "Daily Digest #69",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/Fewbytes/rubber-docker\">Rebuild Docker from Scratch</a></li>\n  <li><a href=\"http://alistapart.com/article/going-offline\">Going Offline</a></li>\n  <li><a href=\"https://apiumhub.com/tech-blog-barcelona/devops-reading-list-devops-books/\">Devops reading list: top 30 best devops books you should read in 2018</a></li>\n  <li><a href=\"https://blog.botreetechnologies.com/encrypted-credentials-a-new-way-to-use-secrets-in-rails-5-2-eca929629bb4\">Encrypted Credentials — A new way to use Secrets in Rails 5.2</a></li>\n  <li><a href=\"https://github.com/tomnomnom/gron/\">Gron – JSON aware grep tool</a></li>\n  <li><a href=\"https://ronjeffries.com/articles/018-01ff/dark-ecology/\">The Agile Ecology</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-69/",
-            "summary": "",
-            "date_published": "2018-07-10 00:00:00 +0700"
         }
 
     ]

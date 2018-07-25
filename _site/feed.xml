@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jul 2018 10:02:17 +0700</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 10:02:17 +0700</lastBuildDate>
+    <pubDate>Wed, 25 Jul 2018 10:30:56 +0700</pubDate>
+    <lastBuildDate>Wed, 25 Jul 2018 10:30:56 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;74</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pmusolino/Wormholy&quot;&gt;Wormholy – iOS network debugging, like a wizard 🧙‍♂️&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.castsoftware.com/blog/devops-5-steps-to-get-derailed-projects-back-on-track&quot;&gt;DevOps: 5 Steps to Get Derailed Projects Back on Track&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops&quot;&gt;Kubernetes anti-patterns: Let’s do GitOps, not CIOps!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack&quot;&gt;Load Testing Round Up: 8 tools you can use to strengthen your stack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nextplatform.com/2018/07/17/when-does-kubernetes-become-invisible-and-ubiquitous/&quot;&gt;When does kubernetes become invisible and ubiquitous?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 25 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-74/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-74/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;73</title>
@@ -198,28 +219,6 @@
         <pubDate>Tue, 03 Jul 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-65/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-65/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;64</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/performing-zero-downtime-releases/?utm_source=jakartadev.org&quot;&gt;Performing Zero Downtime Releases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.novoda.com/introduction-to-redux-in-flutter/?utm_source=jakartadev.org&quot;&gt;Introduction to Redux in Flutter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/04/why-so-serious/?utm_source=jakartadev.org&quot;&gt;How Showmax got into live streaming – Part IV&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dxc.technology/2018/05/08/everything-old-is-new-again-microservices/?utm_source=jakartadev.org&quot;&gt;Everything old is new again: Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/?utm_source=jakartadev.org&quot;&gt;The History of React.js on a Timeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://allegro.tech/2018/04/intuition-engineering-at-allegro-with-phobos.html?utm_source=jakartadev.org&quot;&gt;Intuition Engineering at Allegro with Phobos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 17 Jun 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-64/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-64/</guid>
         
         <category>daily</category>
         
