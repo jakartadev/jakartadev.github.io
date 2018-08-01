@@ -1,21 +1,30 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "jakartaDEV",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "http://localhost:4001/",
+    "feed_url": "http://localhost:4001/feed.json",
     "author": {
         "name": "Deden Fathurahman",
         "url": "https://keybase.io/dedenf"
     },
-    "icon": "http://localhost:4000/images/favicon.png",
+    "icon": "http://localhost:4001/images/favicon.png",
     "expired": false,
     "items": [
       {
         {
+            "id": "/daily-digest-75",
+            "title": "Daily Digest #75",
+            "content_html": "<ul>\n  <li><a href=\"https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/\">AWS Kinesis with Lambdas: Lessons Learned</a></li>\n  <li><a href=\"https://justinscholz.de/2018/06/15/an-extensive-zfs-setup-on-macos/\">An extensive ZFS setup on MacOS</a></li>\n  <li><a href=\"https://github.com/chubin/cheat.sh\">Various CLI cheatsheet</a></li>\n  <li><a href=\"https://svpg.com/revenge-of-the-pmo/\">Revenge of the PMO</a></li>\n  <li><a href=\"https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684\">Vue.js: the good, the meh, and the ugly</a></li>\n</ul>\n",
+            "url": "http://localhost:4001/daily-digest-75/",
+            "summary": "",
+            "date_published": "2018-08-01 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-74",
             "title": "Daily Digest #74",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/pmusolino/Wormholy\">Wormholy – iOS network debugging, like a wizard 🧙‍♂️</a></li>\n  <li><a href=\"https://www.castsoftware.com/blog/devops-5-steps-to-get-derailed-projects-back-on-track\">DevOps: 5 Steps to Get Derailed Projects Back on Track</a></li>\n  <li><a href=\"https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops\">Kubernetes anti-patterns: Let’s do GitOps, not CIOps!</a></li>\n  <li><a href=\"https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack\">Load Testing Round Up: 8 tools you can use to strengthen your stack</a></li>\n  <li><a href=\"https://www.nextplatform.com/2018/07/17/when-does-kubernetes-become-invisible-and-ubiquitous/\">When does kubernetes become invisible and ubiquitous?</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-74/",
+            "url": "http://localhost:4001/daily-digest-74/",
             "summary": "",
             "date_published": "2018-07-25 00:00:00 +0700"
         },
@@ -24,7 +33,7 @@
             "id": "/daily-digest-73",
             "title": "Daily Digest #73",
             "content_html": "<ul>\n  <li><a href=\"https://www.tecmint.com/manage-systemd-logs-using-journalctl/\">Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]</a></li>\n  <li><a href=\"https://drewdevault.com/2018/05/13/scdoc.html\">Introducing scdoc, a man page generator</a></li>\n  <li><a href=\"https://arxiv.org/abs/1805.04956\">Nethammer: Inducing Rowhammer Faults through Network Requests</a></li>\n  <li><a href=\"https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0\">How to Hold the Most Effective Meetings</a></li>\n  <li><a href=\"https://github.com/guardicore/monkey\">Infection Monkey - An automated pentest tool</a>  <span class=\"label\">tool</span></li>\n  <li><a href=\"https://medium.com/@leshchuk/zipem-all-61076c7da4c\">Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-73/",
+            "url": "http://localhost:4001/daily-digest-73/",
             "summary": "",
             "date_published": "2018-07-24 00:00:00 +0700"
         },
@@ -33,7 +42,7 @@
             "id": "/daily-digest-72",
             "title": "Daily Digest #72",
             "content_html": "<ul>\n  <li><a href=\"https://cate.blog/2018/05/08/creating-success-together/\">Creating success, together</a></li>\n  <li><a href=\"https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html\">Introducing Git protocol version 2</a></li>\n  <li><a href=\"https://gregoryszorc.com/blog/2018/05/16/revisiting-using-docker/\">Revisiting Using Docker</a></li>\n  <li><a href=\"https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/\">Blockchain Just Isn’t As Radical As You Want It To Be</a></li>\n  <li><a href=\"https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html\">The sad state of sysadmin in the age of containers</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-72/",
+            "url": "http://localhost:4001/daily-digest-72/",
             "summary": "",
             "date_published": "2018-07-23 00:00:00 +0700"
         },
@@ -42,18 +51,9 @@
             "id": "/daily-digest-71",
             "title": "Daily Digest #71",
             "content_html": "<ul>\n  <li><a href=\"https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b\">The State of Cryptocurrency Mining</a></li>\n  <li><a href=\"https://users.ece.utexas.edu/~adnan/pike.html\">Rob Pike’s 5 Rules of Programming</a></li>\n  <li><a href=\"https://hackernoon.com/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3\">How Does Your Company Approach Continuous Improvement?</a></li>\n  <li><a href=\"https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224\">Event Sourcing made Simple</a></li>\n  <li><a href=\"http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret\">Docker is the dangerous gamble which we will regret</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-71/",
+            "url": "http://localhost:4001/daily-digest-71/",
             "summary": "",
             "date_published": "2018-07-19 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-70",
-            "title": "Daily Digest #70",
-            "content_html": "<ul>\n  <li><a href=\"https://engineering.riotgames.com/news/taxonomy-tech-debt\">A Taxonomy of tech debt</a></li>\n  <li><a href=\"https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843\">Serverless monitoring — the good, the bad and the ugly</a></li>\n  <li><a href=\"https://medium.com/@lmatteis/on-user-interface-development-appending-to-the-event-log-8d8ca966795d\">On User Interface Development: appending to the event log</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/\">How To Design Emotional Interfaces For Boring Apps</a></li>\n  <li><a href=\"https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526\">6 things I’ve learned in my first 6 months using serverless</a></li>\n  <li><a href=\"https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e\">Useful tricks you might not know about Git stash</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-70/",
-            "summary": "",
-            "date_published": "2018-07-16 00:00:00 +0700"
         }
 
     ]
