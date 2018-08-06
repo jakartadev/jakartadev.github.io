@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4001/atom.xml" rel="self"/>
  <link href="http://localhost:4001/"/>
- <updated>2018-08-01T16:52:27+07:00</updated>
+ <updated>2018-08-06T14:58:44+07:00</updated>
  <id>http://localhost:4001</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;76</title>
+   <link href="http://localhost:4001/daily-digest-76/"/>
+   <updated>2018-08-06T00:00:00+07:00</updated>
+   <id>http://localhost:4001/daily-digest-76</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/milestoner&quot;&gt;Milestoner – A command line interface for releasing Git repository milestones&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/shopify/e-commerce-at-scale-inside-shopifys-tech-stack&quot;&gt;E-Commerce at Scale: Inside Shopify’s Tech Stack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/&quot;&gt;Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f&quot;&gt;ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95?WT.mc_id=docs-blog-tajanca&amp;amp;WT.mc_id=shehackspurple-blog-tajanca&quot;&gt;Pushing Left, Like a Boss: Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;75</title>

@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4001/</link>
     <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Aug 2018 16:52:27 +0700</pubDate>
-    <lastBuildDate>Wed, 01 Aug 2018 16:52:27 +0700</lastBuildDate>
+    <pubDate>Mon, 06 Aug 2018 14:58:44 +0700</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 14:58:44 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;76</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/milestoner&quot;&gt;Milestoner – A command line interface for releasing Git repository milestones&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/shopify/e-commerce-at-scale-inside-shopifys-tech-stack&quot;&gt;E-Commerce at Scale: Inside Shopify’s Tech Stack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/&quot;&gt;Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f&quot;&gt;ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95?WT.mc_id=docs-blog-tajanca&amp;amp;WT.mc_id=shehackspurple-blog-tajanca&quot;&gt;Pushing Left, Like a Boss: Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/daily-digest-76/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-76/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;75</title>
@@ -194,28 +215,6 @@
         <pubDate>Thu, 05 Jul 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4001/daily-digest-67/</link>
         <guid isPermaLink="true">http://localhost:4001/daily-digest-67/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;66</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/&quot;&gt;JavaScript to Rust and Back Again: A wasm-bindgen Tale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.elastic.co/blog/leveraging-elasticsearch-for-a-1000-percent-performance-boost&quot;&gt;Leveraging Elasticsearch for a 1,000% performance boost&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/understanding-cpu-flame-graphs&quot;&gt;Understanding CPU Flame Graphs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/evait-security/envizon&quot;&gt;Envizon – network visualization too&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consensus-mechanisms-explained-pow-vs-pos-89951c66ae10&quot;&gt;Consensus Mechanisms Explained: PoW vs. PoS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://alexwlchan.net/a-plumbers-guide-to-git/&quot;&gt;A Plumber’s Guide to Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 04 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-66/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-66/</guid>
         
         <category>daily</category>
         

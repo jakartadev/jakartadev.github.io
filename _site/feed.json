@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-76",
+            "title": "Daily Digest #76",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/bkuhlmann/milestoner\">Milestoner – A command line interface for releasing Git repository milestones</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://stackshare.io/shopify/e-commerce-at-scale-inside-shopifys-tech-stack\">E-Commerce at Scale: Inside Shopify’s Tech Stack</a></li>\n  <li><a href=\"https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/\">Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge</a></li>\n  <li><a href=\"https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f\">ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms</a></li>\n  <li><a href=\"https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95?WT.mc_id=docs-blog-tajanca&amp;WT.mc_id=shehackspurple-blog-tajanca\">Pushing Left, Like a Boss: Part 1</a></li>\n</ul>\n",
+            "url": "http://localhost:4001/daily-digest-76/",
+            "summary": "",
+            "date_published": "2018-08-06 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-75",
             "title": "Daily Digest #75",
             "content_html": "<ul>\n  <li><a href=\"https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/\">AWS Kinesis with Lambdas: Lessons Learned</a></li>\n  <li><a href=\"https://justinscholz.de/2018/06/15/an-extensive-zfs-setup-on-macos/\">An extensive ZFS setup on MacOS</a></li>\n  <li><a href=\"https://github.com/chubin/cheat.sh\">Various CLI cheatsheet</a></li>\n  <li><a href=\"https://svpg.com/revenge-of-the-pmo/\">Revenge of the PMO</a></li>\n  <li><a href=\"https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684\">Vue.js: the good, the meh, and the ugly</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4001/daily-digest-72/",
             "summary": "",
             "date_published": "2018-07-23 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-71",
-            "title": "Daily Digest #71",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b\">The State of Cryptocurrency Mining</a></li>\n  <li><a href=\"https://users.ece.utexas.edu/~adnan/pike.html\">Rob Pike’s 5 Rules of Programming</a></li>\n  <li><a href=\"https://hackernoon.com/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3\">How Does Your Company Approach Continuous Improvement?</a></li>\n  <li><a href=\"https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224\">Event Sourcing made Simple</a></li>\n  <li><a href=\"http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret\">Docker is the dangerous gamble which we will regret</a></li>\n</ul>\n",
-            "url": "http://localhost:4001/daily-digest-71/",
-            "summary": "",
-            "date_published": "2018-07-19 00:00:00 +0700"
         }
 
     ]
