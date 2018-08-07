@@ -3,11 +3,32 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4001/</link>
-    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Aug 2018 14:58:44 +0700</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 14:58:44 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 07 Aug 2018 12:20:55 +0700</pubDate>
+    <lastBuildDate>Tue, 07 Aug 2018 12:20:55 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;77</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/about-firefox-pioneer&quot;&gt;Firefox Pioneer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-lifecycle-management-for-amazon-ebs-snapshots/&quot;&gt;New – Lifecycle Management for Amazon EBS Snapshots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/&quot;&gt;CAP Theorem illustrated&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/&quot;&gt;Add Constrained Optimization To Your Toolbelt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/headless-cms-vs-traditional-cms-a-deep-dive-4ec834fd6fd3&quot;&gt;Headless CMS vs Traditional CMS: A Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 07 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-77/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-77/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;76</title>
@@ -20,8 +41,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 06 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-76/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-76/</guid>
+        <link>http://localhost:4000/daily-digest-76/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-76/</guid>
         
         <category>daily</category>
         
@@ -41,8 +62,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 01 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-75/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-75/</guid>
+        <link>http://localhost:4000/daily-digest-75/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-75/</guid>
         
         <category>daily</category>
         
@@ -62,8 +83,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 25 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-74/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-74/</guid>
+        <link>http://localhost:4000/daily-digest-74/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-74/</guid>
         
         <category>daily</category>
         
@@ -84,8 +105,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 24 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-73/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-73/</guid>
+        <link>http://localhost:4000/daily-digest-73/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-73/</guid>
         
         <category>daily</category>
         
@@ -105,8 +126,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-72/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-72/</guid>
+        <link>http://localhost:4000/daily-digest-72/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-72/</guid>
         
         <category>daily</category>
         
@@ -126,8 +147,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 19 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-71/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-71/</guid>
+        <link>http://localhost:4000/daily-digest-71/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-71/</guid>
         
         <category>daily</category>
         
@@ -148,8 +169,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 16 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-70/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-70/</guid>
+        <link>http://localhost:4000/daily-digest-70/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-70/</guid>
         
         <category>daily</category>
         
@@ -170,8 +191,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 10 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-69/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-69/</guid>
+        <link>http://localhost:4000/daily-digest-69/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-69/</guid>
         
         <category>daily</category>
         
@@ -191,30 +212,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 09 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-68/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-68/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;67</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hanselminutes.com/600/which-javascript-stack-should-i-learn-with-tracy-lee?utm_source=jakartadev.org&quot;&gt;Which JavaScript Stack should I learn?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering&quot;&gt;We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684?utm_source=jakartadev.org&quot;&gt;Moving from React to Vue – Vue.js: the good, the meh, and the ugly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528?utm_source=jakartadev.org&quot;&gt;Mobile development architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/channels-using-async-and-await/&quot;&gt;Channels using async and await&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://technology.condenast.com/story/picking-trending-topics-and-celebrities-using-machine-learning&quot;&gt;Picking Trending Topics and Celebrities Using Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 05 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-67/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-67/</guid>
+        <link>http://localhost:4000/daily-digest-68/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-68/</guid>
         
         <category>daily</category>
         
