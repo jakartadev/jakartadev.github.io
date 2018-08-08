@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-07T12:20:55+07:00</updated>
+ <updated>2018-08-08T13:36:53+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;78</title>
+   <link href="http://localhost:4000/daily-digest-78/"/>
+   <updated>2018-08-08T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-78</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab&quot;&gt;How I gained commit access to Homebrew in 30 minutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed&quot;&gt;Scaling Microservices with Message Queues, Spring Boot and Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/discussing-serverless-with-stackery-and-google/&quot;&gt;Discussing Serverless with Stackery and Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/your-infrastructure-as-code-cloudformation-vs-terraform-34ec5fb5f044&quot;&gt;Your Infrastructure as Code 🌩 CloudFormation Vs Terraform?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/7/sysadmin-tasks-ansible&quot;&gt;A sysadmin’s guide to Ansible: How to simplify tasks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;77</title>

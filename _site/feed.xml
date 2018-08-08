@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Aug 2018 12:20:55 +0700</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 12:20:55 +0700</lastBuildDate>
+    <pubDate>Wed, 08 Aug 2018 13:36:53 +0700</pubDate>
+    <lastBuildDate>Wed, 08 Aug 2018 13:36:53 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;78</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab&quot;&gt;How I gained commit access to Homebrew in 30 minutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed&quot;&gt;Scaling Microservices with Message Queues, Spring Boot and Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/discussing-serverless-with-stackery-and-google/&quot;&gt;Discussing Serverless with Stackery and Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/your-infrastructure-as-code-cloudformation-vs-terraform-34ec5fb5f044&quot;&gt;Your Infrastructure as Code 🌩 CloudFormation Vs Terraform?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/7/sysadmin-tasks-ansible&quot;&gt;A sysadmin’s guide to Ansible: How to simplify tasks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 08 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-78/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-78/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;77</title>
@@ -193,27 +214,6 @@
         <pubDate>Tue, 10 Jul 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-69/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-69/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;68</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/scale-part-i-task-queues/&quot;&gt;@Scale – Part I (Task Queues)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/04/05/learn-git-rebase-interactively/&quot;&gt;Learn Git Rebase Interactively&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/building-real-time-analytics-apis/&quot;&gt;Building Real Time Analytics APIs at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html&quot;&gt;Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127&quot;&gt;Open Sourcing Design System React&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 09 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-68/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-68/</guid>
         
         <category>daily</category>
         

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-78",
+            "title": "Daily Digest #78",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab\">How I gained commit access to Homebrew in 30 minutes</a></li>\n  <li><a href=\"https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed\">Scaling Microservices with Message Queues, Spring Boot and Kubernetes</a></li>\n  <li><a href=\"https://thenewstack.io/discussing-serverless-with-stackery-and-google/\">Discussing Serverless with Stackery and Google</a></li>\n  <li><a href=\"https://hackernoon.com/your-infrastructure-as-code-cloudformation-vs-terraform-34ec5fb5f044\">Your Infrastructure as Code 🌩 CloudFormation Vs Terraform?</a></li>\n  <li><a href=\"https://opensource.com/article/18/7/sysadmin-tasks-ansible\">A sysadmin’s guide to Ansible: How to simplify tasks</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-78/",
+            "summary": "",
+            "date_published": "2018-08-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-77",
             "title": "Daily Digest #77",
             "content_html": "<ul>\n  <li><a href=\"https://support.mozilla.org/en-US/kb/about-firefox-pioneer\">Firefox Pioneer</a></li>\n  <li><a href=\"https://aws.amazon.com/blogs/aws/new-lifecycle-management-for-amazon-ebs-snapshots/\">New – Lifecycle Management for Amazon EBS Snapshots</a></li>\n  <li><a href=\"https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/\">CAP Theorem illustrated</a></li>\n  <li><a href=\"https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/\">Add Constrained Optimization To Your Toolbelt</a></li>\n  <li><a href=\"https://hackernoon.com/headless-cms-vs-traditional-cms-a-deep-dive-4ec834fd6fd3\">Headless CMS vs Traditional CMS: A Deep Dive</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-74/",
             "summary": "",
             "date_published": "2018-07-25 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-73",
-            "title": "Daily Digest #73",
-            "content_html": "<ul>\n  <li><a href=\"https://www.tecmint.com/manage-systemd-logs-using-journalctl/\">Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]</a></li>\n  <li><a href=\"https://drewdevault.com/2018/05/13/scdoc.html\">Introducing scdoc, a man page generator</a></li>\n  <li><a href=\"https://arxiv.org/abs/1805.04956\">Nethammer: Inducing Rowhammer Faults through Network Requests</a></li>\n  <li><a href=\"https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0\">How to Hold the Most Effective Meetings</a></li>\n  <li><a href=\"https://github.com/guardicore/monkey\">Infection Monkey - An automated pentest tool</a>  <span class=\"label\">tool</span></li>\n  <li><a href=\"https://medium.com/@leshchuk/zipem-all-61076c7da4c\">Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-73/",
-            "summary": "",
-            "date_published": "2018-07-24 00:00:00 +0700"
         }
 
     ]
