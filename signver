@@ -2,7 +2,7 @@
 for file in _posts/*.md
 do
   name=${file##*/}
-  if [ -f signed_posts/$name.asc ]; then
+  if [ -f signed/$name.asc ]; then
     :
   else
     echo "Warning :("
