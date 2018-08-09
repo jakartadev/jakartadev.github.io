@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Aug 2018 13:36:53 +0700</pubDate>
-    <lastBuildDate>Wed, 08 Aug 2018 13:36:53 +0700</lastBuildDate>
+    <pubDate>Thu, 09 Aug 2018 18:11:15 +0700</pubDate>
+    <lastBuildDate>Thu, 09 Aug 2018 18:11:15 +0700</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;79</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/07/event-sourcing-kafka-streams?utm_source=jakartadev&quot;&gt;Experiences from Building an Event-Sourced System with Kafka Streams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/learn-vuejs/vue-patterns?utm_source=jakartadev&quot;&gt;vue-pattern – Useful Vue patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf?utm_source=jakartadev&quot;&gt;Best Practices for ML Engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theoutline.com/post/5495/how-to-beat-linked-in-the-game?utm_source=jakartadev&quot;&gt;How to beat Linkedin: The Game&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alexgaynor.net/2018/jul/20/worst-truism-in-infosec/&quot;&gt;The worst truism in information security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-79/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-79/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;78</title>
@@ -192,28 +213,6 @@
         <pubDate>Mon, 16 Jul 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-70/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-70/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;69</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Fewbytes/rubber-docker&quot;&gt;Rebuild Docker from Scratch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/going-offline&quot;&gt;Going Offline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://apiumhub.com/tech-blog-barcelona/devops-reading-list-devops-books/&quot;&gt;Devops reading list: top 30 best devops books you should read in 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.botreetechnologies.com/encrypted-credentials-a-new-way-to-use-secrets-in-rails-5-2-eca929629bb4&quot;&gt;Encrypted Credentials — A new way to use Secrets in Rails 5.2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tomnomnom/gron/&quot;&gt;Gron – JSON aware grep tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/dark-ecology/&quot;&gt;The Agile Ecology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 10 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-69/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-69/</guid>
         
         <category>daily</category>
         
