@@ -8,7 +8,7 @@ tags:
     - serverless
 
 description: ""
-publish: true
+publish: false
 ---
 
 [Netlify](https://www.netlify.com/) adalah salah satu penyedia service untuk *dpeloy* aplikasi web yang mendukung web statis atau dinamis melalui dukungan *serverless* web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
