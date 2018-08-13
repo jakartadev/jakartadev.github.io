@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/publish-website-dengan-netlify",
+            "title": "Publish web dengan menggunakan Jekyll dan Netlify",
+            "content_html": "<p><a href=\"https://www.netlify.com/\">Netlify</a> adalah salah satu penyedia service untuk <em>dpeloy</em> aplikasi web yang mendukung web statis atau dinamis melalui dukungan <em>serverless</em> web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.\nUntuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-<em>deploy</em> dengan menggunakan gabungan antara Github sebagai SCM <em>web static</em> yang saya gunakan, yaitu Jekyll, Dan membuat <em>pipeline</em> dari Github ke Netlify melalui panel Netlify.</p>\n\n<h3 id=\"domain\">Domain</h3>\n<p>Untuk memudahkan <em>deployment</em> kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar, di panel ini kita bisa melakukan aksi seperti menambahkan <em>CNAME</em> atau mengubah MX atau A-Record kita. \nSaya akan melakukan untuk domain jakarta</p>\n",
+            "url": "http://localhost:4001/publish-website-dengan-netlify/",
+            "summary": "",
+            "date_published": "2018-08-13 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-82",
+            "title": "Daily Digest #82",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c\">Apache Kafka is not for Event Sourcing</a></li>\n  <li><a href=\"https://www.hellosign.com/blog/software-ate-world\">Software Ate the World. Now What?</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/economic-perspective-testing/\">Lean Testing, or Why Unit Tests are Worse than You Think</a></li>\n  <li><a href=\"https://itnext.io/filepond-frontend-trickery-a3073c934c77\">5 interesting technical challenges I faced when building FilePond</a></li>\n  <li><a href=\"https://hackernoon.com/youre-not-even-criticising-scrum-caecf4eb19d3\">You’re not even criticising Scrum</a></li>\n</ul>\n",
+            "url": "http://localhost:4001/daily-digest-82/",
+            "summary": "",
+            "date_published": "2018-08-13 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-81",
             "title": "Daily Digest #81",
             "content_html": "<ul>\n  <li><a href=\"https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab\">How JavaScript works: WebRTC and the mechanics of peer to peer networking</a></li>\n  <li><a href=\"https://blog.cloudflare.com/debugging-serverless-apps/\">Debugging Serverless Apps</a></li>\n  <li><a href=\"https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999\">Multi-server Chat in Node Without a Database</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/xdp-ddos-cloudflare?utm_source=jakartadev\">XDP in Practice: DDoS Mitigation @Cloudflare</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/unikraft-unikernels?utm_source=jakartadev\">Unikraft - Unleashing the Power of Unikernels</a></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "http://localhost:4001/daily-digest-79/",
             "summary": "",
             "date_published": "2018-08-09 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-78",
-            "title": "Daily Digest #78",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab\">How I gained commit access to Homebrew in 30 minutes</a></li>\n  <li><a href=\"https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed\">Scaling Microservices with Message Queues, Spring Boot and Kubernetes</a></li>\n  <li><a href=\"https://thenewstack.io/discussing-serverless-with-stackery-and-google/\">Discussing Serverless with Stackery and Google</a></li>\n  <li><a href=\"https://hackernoon.com/your-infrastructure-as-code-cloudformation-vs-terraform-34ec5fb5f044\">Your Infrastructure as Code 🌩 CloudFormation Vs Terraform?</a></li>\n  <li><a href=\"https://opensource.com/article/18/7/sysadmin-tasks-ansible\">A sysadmin’s guide to Ansible: How to simplify tasks</a></li>\n</ul>\n",
-            "url": "http://localhost:4001/daily-digest-78/",
-            "summary": "",
-            "date_published": "2018-08-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-77",
-            "title": "Daily Digest #77",
-            "content_html": "<ul>\n  <li><a href=\"https://support.mozilla.org/en-US/kb/about-firefox-pioneer\">Firefox Pioneer</a></li>\n  <li><a href=\"https://aws.amazon.com/blogs/aws/new-lifecycle-management-for-amazon-ebs-snapshots/\">New – Lifecycle Management for Amazon EBS Snapshots</a></li>\n  <li><a href=\"https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/\">CAP Theorem illustrated</a></li>\n  <li><a href=\"https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/\">Add Constrained Optimization To Your Toolbelt</a></li>\n  <li><a href=\"https://hackernoon.com/headless-cms-vs-traditional-cms-a-deep-dive-4ec834fd6fd3\">Headless CMS vs Traditional CMS: A Deep Dive</a></li>\n</ul>\n",
-            "url": "http://localhost:4001/daily-digest-77/",
-            "summary": "",
-            "date_published": "2018-08-07 00:00:00 +0700"
         }
 
     ]

@@ -5,9 +5,52 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4001/</link>
     <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Aug 2018 12:48:50 +0700</pubDate>
-    <lastBuildDate>Mon, 13 Aug 2018 12:48:50 +0700</lastBuildDate>
+    <pubDate>Mon, 13 Aug 2018 13:17:04 +0700</pubDate>
+    <lastBuildDate>Mon, 13 Aug 2018 13:17:04 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Publish web dengan menggunakan Jekyll dan Netlify</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;dpeloy&lt;/em&gt; aplikasi web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
+Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
+
+&lt;h3 id=&quot;domain&quot;&gt;Domain&lt;/h3&gt;
+&lt;p&gt;Untuk memudahkan &lt;em&gt;deployment&lt;/em&gt; kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar, di panel ini kita bisa melakukan aksi seperti menambahkan &lt;em&gt;CNAME&lt;/em&gt; atau mengubah MX atau A-Record kita. 
+Saya akan melakukan untuk domain jakarta&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/publish-website-dengan-netlify/</link>
+        <guid isPermaLink="true">http://localhost:4001/publish-website-dengan-netlify/</guid>
+        
+        <category>netlify</category>
+        
+        <category>development</category>
+        
+        <category>serverless</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;82</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c&quot;&gt;Apache Kafka is not for Event Sourcing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hellosign.com/blog/software-ate-world&quot;&gt;Software Ate the World. Now What?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/filepond-frontend-trickery-a3073c934c77&quot;&gt;5 interesting technical challenges I faced when building FilePond&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/youre-not-even-criticising-scrum-caecf4eb19d3&quot;&gt;You’re not even criticising Scrum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/daily-digest-82/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-82/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;81</title>
@@ -169,49 +212,6 @@
         <pubDate>Wed, 25 Jul 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4001/daily-digest-74/</link>
         <guid isPermaLink="true">http://localhost:4001/daily-digest-74/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;73</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/manage-systemd-logs-using-journalctl/&quot;&gt;Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/05/13/scdoc.html&quot;&gt;Introducing scdoc, a man page generator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1805.04956&quot;&gt;Nethammer: Inducing Rowhammer Faults through Network Requests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0&quot;&gt;How to Hold the Most Effective Meetings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/guardicore/monkey&quot;&gt;Infection Monkey - An automated pentest tool&lt;/a&gt;  &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@leshchuk/zipem-all-61076c7da4c&quot;&gt;Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 24 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-73/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-73/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;72</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cate.blog/2018/05/08/creating-success-together/&quot;&gt;Creating success, together&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html&quot;&gt;Introducing Git protocol version 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gregoryszorc.com/blog/2018/05/16/revisiting-using-docker/&quot;&gt;Revisiting Using Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/&quot;&gt;Blockchain Just Isn’t As Radical As You Want It To Be&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html&quot;&gt;The sad state of sysadmin in the age of containers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 23 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-72/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-72/</guid>
         
         <category>daily</category>
         

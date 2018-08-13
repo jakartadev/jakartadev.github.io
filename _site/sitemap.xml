@@ -429,6 +429,14 @@
 <lastmod>2018-08-11T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4001/daily-digest-82/</loc>
+<lastmod>2018-08-13T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4001/publish-website-dengan-netlify/</loc>
+<lastmod>2018-08-13T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4001/404/</loc>
 </url>
 <url>
@@ -502,5 +510,8 @@
 </url>
 <url>
 <loc>http://localhost:4001/page/18/</loc>
+</url>
+<url>
+<loc>http://localhost:4001/page/19/</loc>
 </url>
 </urlset>
