@@ -3,11 +3,53 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Aug 2018 20:29:54 +0700</pubDate>
-    <lastBuildDate>Thu, 09 Aug 2018 20:29:54 +0700</lastBuildDate>
-    <generator>Jekyll v3.8.1</generator>
+    <link>http://localhost:4001/</link>
+    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Aug 2018 12:48:50 +0700</pubDate>
+    <lastBuildDate>Mon, 13 Aug 2018 12:48:50 +0700</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;81</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab&quot;&gt;How JavaScript works: WebRTC and the mechanics of peer to peer networking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/debugging-serverless-apps/&quot;&gt;Debugging Serverless Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999&quot;&gt;Multi-server Chat in Node Without a Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/xdp-ddos-cloudflare?utm_source=jakartadev&quot;&gt;XDP in Practice: DDoS Mitigation @Cloudflare&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/unikraft-unikernels?utm_source=jakartadev&quot;&gt;Unikraft - Unleashing the Power of Unikernels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 11 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/daily-digest-81/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-81/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;80</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joshwcomeau/guppy&quot;&gt;Guppy – 🐠A friendly application manager and task runner for React.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@farsi_mehdi/the-forwardable-module-in-ruby-part-i-d83d9063b4f4&quot;&gt;The Forwardable module in Ruby — Part I&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.praveen.science/git-shortcuts/&quot;&gt;Git Shortcut&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@atulanand94/building-web-based-uis-for-terminals-using-javascript-60b5eee31213&quot;&gt;📟 Building Web based UIs for Terminals using JavaScript&lt;/a&gt; – because, why not?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/transforming-financial-forecasting-machine-learning/?utm_source=rss&amp;amp;utm_source=jakartadev&quot;&gt;Transforming Financial Forecasting with Data Science and Machine Learning at Uber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/daily-digest-80/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-80/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;79</title>
@@ -20,8 +62,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 09 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-79/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-79/</guid>
+        <link>http://localhost:4001/daily-digest-79/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-79/</guid>
         
         <category>daily</category>
         
@@ -41,8 +83,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 08 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-78/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-78/</guid>
+        <link>http://localhost:4001/daily-digest-78/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-78/</guid>
         
         <category>daily</category>
         
@@ -62,8 +104,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 07 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-77/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-77/</guid>
+        <link>http://localhost:4001/daily-digest-77/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-77/</guid>
         
         <category>daily</category>
         
@@ -83,8 +125,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 06 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-76/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-76/</guid>
+        <link>http://localhost:4001/daily-digest-76/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-76/</guid>
         
         <category>daily</category>
         
@@ -104,8 +146,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 01 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-75/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-75/</guid>
+        <link>http://localhost:4001/daily-digest-75/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-75/</guid>
         
         <category>daily</category>
         
@@ -125,8 +167,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 25 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-74/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-74/</guid>
+        <link>http://localhost:4001/daily-digest-74/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-74/</guid>
         
         <category>daily</category>
         
@@ -147,8 +189,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 24 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-73/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-73/</guid>
+        <link>http://localhost:4001/daily-digest-73/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-73/</guid>
         
         <category>daily</category>
         
@@ -168,51 +210,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-72/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-72/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;71</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b&quot;&gt;The State of Cryptocurrency Mining&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://users.ece.utexas.edu/~adnan/pike.html&quot;&gt;Rob Pike’s 5 Rules of Programming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3&quot;&gt;How Does Your Company Approach Continuous Improvement?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224&quot;&gt;Event Sourcing made Simple&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret&quot;&gt;Docker is the dangerous gamble which we will regret&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 19 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-71/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-71/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;70</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/taxonomy-tech-debt&quot;&gt;A Taxonomy of tech debt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843&quot;&gt;Serverless monitoring — the good, the bad and the ugly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lmatteis/on-user-interface-development-appending-to-the-event-log-8d8ca966795d&quot;&gt;On User Interface Development: appending to the event log&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/&quot;&gt;How To Design Emotional Interfaces For Boring Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526&quot;&gt;6 things I’ve learned in my first 6 months using serverless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 16 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-70/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-70/</guid>
+        <link>http://localhost:4001/daily-digest-72/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-72/</guid>
         
         <category>daily</category>
         
