@@ -5,9 +5,51 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Aug 2018 20:40:45 +0700</pubDate>
-    <lastBuildDate>Mon, 13 Aug 2018 20:40:45 +0700</lastBuildDate>
+    <pubDate>Wed, 15 Aug 2018 19:18:12 +0700</pubDate>
+    <lastBuildDate>Wed, 15 Aug 2018 19:18:12 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;84</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-talk-about-when-i-talk-about-logging-36237fad7336&quot;&gt;What I Talk About When I Talk About Logging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-to-drop-10-million-packets/&quot;&gt;How to drop 10 million packets per second&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.buildo.io/emails-boring-are-not-15c7b92fa90a&quot;&gt;Emails Boring Are Not&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html&quot;&gt;Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://engineering.hackerearth.com/2018/07/07/introducing-nuskha/&quot;&gt;Introducing Nuskha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 15 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-84/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-84/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;83</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c&quot;&gt;How to write a good software design doc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChromeLabs/ndb&quot;&gt;ndb – ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@henriksylvesterpedersen/you-dont-need-that-bastion-host-cd1b1717a9e7&quot;&gt;You don’t need that Bastion host&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/scrum-not-asd-1/&quot;&gt;Scrum is not an Agile Software Development Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.imaginarycloud.com/blog/material-design-is-a-political-choice/&quot;&gt;Material design is a political choice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 14 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-83/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-83/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Publish web dengan menggunakan Jekyll dan Netlify</title>
@@ -170,48 +212,6 @@ Saya akan melakukan untuk domain jakarta&lt;/p&gt;
         <pubDate>Mon, 06 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-76/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-76/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;75</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/&quot;&gt;AWS Kinesis with Lambdas: Lessons Learned&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://justinscholz.de/2018/06/15/an-extensive-zfs-setup-on-macos/&quot;&gt;An extensive ZFS setup on MacOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/chubin/cheat.sh&quot;&gt;Various CLI cheatsheet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://svpg.com/revenge-of-the-pmo/&quot;&gt;Revenge of the PMO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684&quot;&gt;Vue.js: the good, the meh, and the ugly&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 01 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-75/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-75/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;74</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pmusolino/Wormholy&quot;&gt;Wormholy – iOS network debugging, like a wizard 🧙‍♂️&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.castsoftware.com/blog/devops-5-steps-to-get-derailed-projects-back-on-track&quot;&gt;DevOps: 5 Steps to Get Derailed Projects Back on Track&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops&quot;&gt;Kubernetes anti-patterns: Let’s do GitOps, not CIOps!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack&quot;&gt;Load Testing Round Up: 8 tools you can use to strengthen your stack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nextplatform.com/2018/07/17/when-does-kubernetes-become-invisible-and-ubiquitous/&quot;&gt;When does kubernetes become invisible and ubiquitous?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 25 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-74/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-74/</guid>
         
         <category>daily</category>
         
