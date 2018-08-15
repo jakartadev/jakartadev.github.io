@@ -4,13 +4,57 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-09T18:11:15+07:00</updated>
+ <updated>2018-08-15T19:13:29+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;81</title>
+   <link href="http://localhost:4000/daily-digest-81/"/>
+   <updated>2018-08-11T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-81</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab&quot;&gt;How JavaScript works: WebRTC and the mechanics of peer to peer networking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/debugging-serverless-apps/&quot;&gt;Debugging Serverless Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999&quot;&gt;Multi-server Chat in Node Without a Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/xdp-ddos-cloudflare?utm_source=jakartadev&quot;&gt;XDP in Practice: DDoS Mitigation @Cloudflare&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/unikraft-unikernels?utm_source=jakartadev&quot;&gt;Unikraft - Unleashing the Power of Unikernels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;80</title>
+   <link href="http://localhost:4000/daily-digest-80/"/>
+   <updated>2018-08-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-80</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joshwcomeau/guppy&quot;&gt;Guppy – 🐠A friendly application manager and task runner for React.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@farsi_mehdi/the-forwardable-module-in-ruby-part-i-d83d9063b4f4&quot;&gt;The Forwardable module in Ruby — Part I&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.praveen.science/git-shortcuts/&quot;&gt;Git Shortcut&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@atulanand94/building-web-based-uis-for-terminals-using-javascript-60b5eee31213&quot;&gt;📟 Building Web based UIs for Terminals using JavaScript&lt;/a&gt; – because, why not?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/transforming-financial-forecasting-machine-learning/?utm_source=rss&amp;amp;utm_source=jakartadev&quot;&gt;Transforming Financial Forecasting with Data Science and Machine Learning at Uber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Publish web dengan menggunakan Netlify</title>
+   <link href="http://localhost:4000/publis-dengan-netlify/"/>
+   <updated>2018-08-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/publis-dengan-netlify</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;dpeloy&lt;/em&gt; aplikasi web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
+Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
+
+&lt;h3 id=&quot;domain&quot;&gt;Domain&lt;/h3&gt;
+&lt;p&gt;Untuk memudahkan &lt;em&gt;deployment&lt;/em&gt; kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar, di panel ini kita bisa melakukan aksi seperti menambahkan &lt;em&gt;CNAME&lt;/em&gt; atau mengubah MX atau A-Record kita. 
+Saya akan melakukan untuk domain jakarta&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;79</title>

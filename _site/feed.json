@@ -12,6 +12,33 @@
     "items": [
       {
         {
+            "id": "/daily-digest-81",
+            "title": "Daily Digest #81",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab\">How JavaScript works: WebRTC and the mechanics of peer to peer networking</a></li>\n  <li><a href=\"https://blog.cloudflare.com/debugging-serverless-apps/\">Debugging Serverless Apps</a></li>\n  <li><a href=\"https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999\">Multi-server Chat in Node Without a Database</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/xdp-ddos-cloudflare?utm_source=jakartadev\">XDP in Practice: DDoS Mitigation @Cloudflare</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/unikraft-unikernels?utm_source=jakartadev\">Unikraft - Unleashing the Power of Unikernels</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-81/",
+            "summary": "",
+            "date_published": "2018-08-11 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-80",
+            "title": "Daily Digest #80",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/joshwcomeau/guppy\">Guppy – 🐠A friendly application manager and task runner for React.js</a></li>\n  <li><a href=\"https://medium.com/@farsi_mehdi/the-forwardable-module-in-ruby-part-i-d83d9063b4f4\">The Forwardable module in Ruby — Part I</a></li>\n  <li><a href=\"https://blog.praveen.science/git-shortcuts/\">Git Shortcut</a></li>\n  <li><a href=\"https://medium.com/@atulanand94/building-web-based-uis-for-terminals-using-javascript-60b5eee31213\">📟 Building Web based UIs for Terminals using JavaScript</a> – because, why not?</li>\n  <li><a href=\"https://eng.uber.com/transforming-financial-forecasting-machine-learning/?utm_source=rss&amp;utm_source=jakartadev\">Transforming Financial Forecasting with Data Science and Machine Learning at Uber</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-80/",
+            "summary": "",
+            "date_published": "2018-08-10 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/publis-dengan-netlify",
+            "title": "Publish web dengan menggunakan Netlify",
+            "content_html": "<p><a href=\"https://www.netlify.com/\">Netlify</a> adalah salah satu penyedia service untuk <em>dpeloy</em> aplikasi web yang mendukung web statis atau dinamis melalui dukungan <em>serverless</em> web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.\nUntuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-<em>deploy</em> dengan menggunakan gabungan antara Github sebagai SCM <em>web static</em> yang saya gunakan, yaitu Jekyll, Dan membuat <em>pipeline</em> dari Github ke Netlify melalui panel Netlify.</p>\n\n<h3 id=\"domain\">Domain</h3>\n<p>Untuk memudahkan <em>deployment</em> kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar, di panel ini kita bisa melakukan aksi seperti menambahkan <em>CNAME</em> atau mengubah MX atau A-Record kita. \nSaya akan melakukan untuk domain jakarta</p>\n",
+            "url": "http://localhost:4000/publis-dengan-netlify/",
+            "summary": "",
+            "date_published": "2018-08-09 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-79",
             "title": "Daily Digest #79",
             "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/news/2018/07/event-sourcing-kafka-streams?utm_source=jakartadev\">Experiences from Building an Event-Sourced System with Kafka Streams</a></li>\n  <li><a href=\"https://github.com/learn-vuejs/vue-patterns?utm_source=jakartadev\">vue-pattern – Useful Vue patterns</a></li>\n  <li><a href=\"http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf?utm_source=jakartadev\">Best Practices for ML Engineering</a></li>\n  <li><a href=\"https://theoutline.com/post/5495/how-to-beat-linked-in-the-game?utm_source=jakartadev\">How to beat Linkedin: The Game</a></li>\n  <li><a href=\"https://alexgaynor.net/2018/jul/20/worst-truism-in-infosec/\">The worst truism in information security</a></li>\n</ul>\n",
@@ -27,33 +54,6 @@
             "url": "http://localhost:4000/daily-digest-78/",
             "summary": "",
             "date_published": "2018-08-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-77",
-            "title": "Daily Digest #77",
-            "content_html": "<ul>\n  <li><a href=\"https://support.mozilla.org/en-US/kb/about-firefox-pioneer\">Firefox Pioneer</a></li>\n  <li><a href=\"https://aws.amazon.com/blogs/aws/new-lifecycle-management-for-amazon-ebs-snapshots/\">New – Lifecycle Management for Amazon EBS Snapshots</a></li>\n  <li><a href=\"https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/\">CAP Theorem illustrated</a></li>\n  <li><a href=\"https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/\">Add Constrained Optimization To Your Toolbelt</a></li>\n  <li><a href=\"https://hackernoon.com/headless-cms-vs-traditional-cms-a-deep-dive-4ec834fd6fd3\">Headless CMS vs Traditional CMS: A Deep Dive</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-77/",
-            "summary": "",
-            "date_published": "2018-08-07 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-76",
-            "title": "Daily Digest #76",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/bkuhlmann/milestoner\">Milestoner – A command line interface for releasing Git repository milestones</a> <span class=\"label\">tool</span></li>\n  <li><a href=\"https://stackshare.io/shopify/e-commerce-at-scale-inside-shopifys-tech-stack\">E-Commerce at Scale: Inside Shopify’s Tech Stack</a></li>\n  <li><a href=\"https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/\">Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge</a></li>\n  <li><a href=\"https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f\">ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms</a></li>\n  <li><a href=\"https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95?WT.mc_id=docs-blog-tajanca&amp;WT.mc_id=shehackspurple-blog-tajanca\">Pushing Left, Like a Boss: Part 1</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-76/",
-            "summary": "",
-            "date_published": "2018-08-06 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-75",
-            "title": "Daily Digest #75",
-            "content_html": "<ul>\n  <li><a href=\"https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/\">AWS Kinesis with Lambdas: Lessons Learned</a></li>\n  <li><a href=\"https://justinscholz.de/2018/06/15/an-extensive-zfs-setup-on-macos/\">An extensive ZFS setup on MacOS</a></li>\n  <li><a href=\"https://github.com/chubin/cheat.sh\">Various CLI cheatsheet</a></li>\n  <li><a href=\"https://svpg.com/revenge-of-the-pmo/\">Revenge of the PMO</a></li>\n  <li><a href=\"https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684\">Vue.js: the good, the meh, and the ugly</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-75/",
-            "summary": "",
-            "date_published": "2018-08-01 00:00:00 +0700"
         }
 
     ]
