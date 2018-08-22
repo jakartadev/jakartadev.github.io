@@ -12,48 +12,48 @@
     "items": [
       {
         {
-            "id": "/daily-digest-84",
-            "title": "Daily Digest #84",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/what-i-talk-about-when-i-talk-about-logging-36237fad7336\">What I Talk About When I Talk About Logging</a></li>\n  <li><a href=\"https://blog.cloudflare.com/how-to-drop-10-million-packets/\">How to drop 10 million packets per second</a></li>\n  <li><a href=\"https://blog.buildo.io/emails-boring-are-not-15c7b92fa90a\">Emails Boring Are Not</a></li>\n  <li><a href=\"https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html\">Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1</a></li>\n  <li><a href=\"http://engineering.hackerearth.com/2018/07/07/introducing-nuskha/\">Introducing Nuskha</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-84/",
+            "id": "/daily-digest-89",
+            "title": "Daily Digest #89",
+            "content_html": "<ul>\n  <li><a href=\"https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/\">Securing New Products at Clever</a></li>\n  <li><a href=\"https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241\">Freezing Python’s Dependency Hell in 2018</a></li>\n  <li><a href=\"https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/\">Developing Real-Time Web Applications with Server-Sent Events\n</a></li>\n  <li><a href=\"https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html\">Machine Learning in Google BigQuery</a></li>\n  <li><a href=\"https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824\">To Send Emails to Readers, We Went Serverless</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-89/",
             "summary": "",
-            "date_published": "2018-08-15 00:00:00 +0700"
+            "date_published": "2018-08-22 00:00:00 +0700"
         },
 {
         {
-            "id": "/daily-digest-83",
-            "title": "Daily Digest #83",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c\">How to write a good software design doc</a></li>\n  <li><a href=\"https://github.com/GoogleChromeLabs/ndb\">ndb – ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools</a></li>\n  <li><a href=\"https://medium.com/@henriksylvesterpedersen/you-dont-need-that-bastion-host-cd1b1717a9e7\">You don’t need that Bastion host</a></li>\n  <li><a href=\"https://ronjeffries.com/articles/018-01ff/scrum-not-asd-1/\">Scrum is not an Agile Software Development Framework</a></li>\n  <li><a href=\"https://www.imaginarycloud.com/blog/material-design-is-a-political-choice/\">Material design is a political choice</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-83/",
+            "id": "/daily-digest-88",
+            "title": "Daily Digest #88",
+            "content_html": "<ul>\n  <li><a href=\"https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast\">Why the New V8 is so Damn Fast</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/07/improving-test-coverage-android-app-mockito-espresso/\">How To Improve Test Coverage For Your Android App Using Mockito And Espresso</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/panel-containers-scalability\">Containers at Web Scale Panel</a></li>\n  <li><a href=\"https://hackernoon.com/building-serverless-contact-form-for-static-websites-b0e622d5a035\">Building Serverless Contact Form For Static Websites</a></li>\n  <li><a href=\"https://galois.com/blog/2018/07/the-lean-theorem-prover-past-present-and-future/\">The Lean Theorem Prover: Past, Present and Future</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-88/",
             "summary": "",
-            "date_published": "2018-08-14 00:00:00 +0700"
+            "date_published": "2018-08-21 00:00:00 +0700"
         },
 {
         {
-            "id": "/publish-website-dengan-netlify",
-            "title": "Publish web dengan menggunakan Jekyll dan Netlify",
-            "content_html": "<p><a href=\"https://www.netlify.com/\">Netlify</a> adalah salah satu penyedia service untuk <em>dpeloy</em> aplikasi web yang mendukung web statis atau dinamis melalui dukungan <em>serverless</em> web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.\nUntuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-<em>deploy</em> dengan menggunakan gabungan antara Github sebagai SCM <em>web static</em> yang saya gunakan, yaitu Jekyll, Dan membuat <em>pipeline</em> dari Github ke Netlify melalui panel Netlify.</p>\n\n<h3 id=\"domain\">Domain</h3>\n<p>Untuk memudahkan <em>deployment</em> kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar, di panel ini kita bisa melakukan aksi seperti menambahkan <em>CNAME</em> atau mengubah MX atau A-Record kita. \nSaya akan melakukan untuk domain jakarta</p>\n",
-            "url": "http://localhost:4000/publish-website-dengan-netlify/",
+            "id": "/daily-digest-87",
+            "title": "Daily Digest #87",
+            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/five-ways-to-gain-serverless-observability-406e5cab51af\">5 ways to gain serverless observability</a></li>\n  <li><a href=\"http://rea.tech/evaluating-scala-and-sticking-with-ruby/\">Evaluating Scala and sticking with Ruby</a></li>\n  <li><a href=\"https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood\">Kubernetes Networking Under the Hood</a></li>\n  <li><a href=\"https://nordicapis.com/a-pragmatic-take-on-rest-anti-patterns/\">A Pragmatic Take On REST Anti Patterns</a></li>\n  <li><a href=\"https://www.thoughtworks.com/insights/blog/write-quality-mobile-apps-any-architecture\">Write quality mobile apps in any architecture</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-87/",
             "summary": "",
-            "date_published": "2018-08-13 00:00:00 +0700"
+            "date_published": "2018-08-20 00:00:00 +0700"
         },
 {
         {
-            "id": "/daily-digest-82",
-            "title": "Daily Digest #82",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c\">Apache Kafka is not for Event Sourcing</a></li>\n  <li><a href=\"https://www.hellosign.com/blog/software-ate-world\">Software Ate the World. Now What?</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/economic-perspective-testing/\">Lean Testing, or Why Unit Tests are Worse than You Think</a></li>\n  <li><a href=\"https://itnext.io/filepond-frontend-trickery-a3073c934c77\">5 interesting technical challenges I faced when building FilePond</a></li>\n  <li><a href=\"https://hackernoon.com/youre-not-even-criticising-scrum-caecf4eb19d3\">You’re not even criticising Scrum</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-82/",
+            "id": "/daily-digest-86",
+            "title": "Daily Digest #86",
+            "content_html": "<ul>\n  <li><a href=\"https://azure.microsoft.com/en-us/resources/designing-distributed-systems/\">Designing Distributed Systems</a></li>\n  <li><a href=\"https://drewdevault.com/2018/07/23/Git-is-already-distributed.html\">Git is already federated &amp; decentralized</a></li>\n  <li><a href=\"https://www.slideshare.net/nathenharvey/introduction-to-test-kitchen\">Introduction to Test Kitchen</a></li>\n  <li><a href=\"https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial\">Web Scraping with a Headless Browser: A Puppeteer Tutorial</a></li>\n  <li><a href=\"https://8thlight.com/blog/sam-szreter/2018/07/24/inversion-of-control-container.html\">Don’t call us, we’ll call you: Inversion of Control Containers</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-86/",
             "summary": "",
-            "date_published": "2018-08-13 00:00:00 +0700"
+            "date_published": "2018-08-17 00:00:00 +0700"
         },
 {
         {
-            "id": "/daily-digest-81",
-            "title": "Daily Digest #81",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab\">How JavaScript works: WebRTC and the mechanics of peer to peer networking</a></li>\n  <li><a href=\"https://blog.cloudflare.com/debugging-serverless-apps/\">Debugging Serverless Apps</a></li>\n  <li><a href=\"https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999\">Multi-server Chat in Node Without a Database</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/xdp-ddos-cloudflare?utm_source=jakartadev\">XDP in Practice: DDoS Mitigation @Cloudflare</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/unikraft-unikernels?utm_source=jakartadev\">Unikraft - Unleashing the Power of Unikernels</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-81/",
+            "id": "/daily-digest-85",
+            "title": "Daily Digest #85",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.codeship.com/what-you-should-know-about-penetration-testing/\">What You Should Know About Penetration Testing</a></li>\n  <li><a href=\"https://medium.com/@timhberry/terraform-pipelines-in-gitlab-415b9d842596\">Terraform Pipelines in GitLab</a></li>\n  <li><a href=\"https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a\">On Toxic Jobs, Low Self-Esteem, &amp; Interviewing</a></li>\n  <li><a href=\"https://tinyssh.org/\">Tinyssh</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-85/",
             "summary": "",
-            "date_published": "2018-08-11 00:00:00 +0700"
+            "date_published": "2018-08-16 00:00:00 +0700"
         }
 
     ]

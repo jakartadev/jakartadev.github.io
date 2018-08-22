@@ -5,9 +5,114 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Aug 2018 19:18:12 +0700</pubDate>
-    <lastBuildDate>Wed, 15 Aug 2018 19:18:12 +0700</lastBuildDate>
+    <pubDate>Wed, 22 Aug 2018 11:45:14 +0700</pubDate>
+    <lastBuildDate>Wed, 22 Aug 2018 11:45:14 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;89</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/&quot;&gt;Securing New Products at Clever&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241&quot;&gt;Freezing Python’s Dependency Hell in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/&quot;&gt;Developing Real-Time Web Applications with Server-Sent Events
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html&quot;&gt;Machine Learning in Google BigQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824&quot;&gt;To Send Emails to Readers, We Went Serverless&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 22 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-89/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-89/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;88</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast&quot;&gt;Why the New V8 is so Damn Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/07/improving-test-coverage-android-app-mockito-espresso/&quot;&gt;How To Improve Test Coverage For Your Android App Using Mockito And Espresso&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/panel-containers-scalability&quot;&gt;Containers at Web Scale Panel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/building-serverless-contact-form-for-static-websites-b0e622d5a035&quot;&gt;Building Serverless Contact Form For Static Websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://galois.com/blog/2018/07/the-lean-theorem-prover-past-present-and-future/&quot;&gt;The Lean Theorem Prover: Past, Present and Future&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 21 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-88/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-88/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;87</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/five-ways-to-gain-serverless-observability-406e5cab51af&quot;&gt;5 ways to gain serverless observability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rea.tech/evaluating-scala-and-sticking-with-ruby/&quot;&gt;Evaluating Scala and sticking with Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood&quot;&gt;Kubernetes Networking Under the Hood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/a-pragmatic-take-on-rest-anti-patterns/&quot;&gt;A Pragmatic Take On REST Anti Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/write-quality-mobile-apps-any-architecture&quot;&gt;Write quality mobile apps in any architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-87/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-87/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;86</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/resources/designing-distributed-systems/&quot;&gt;Designing Distributed Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/07/23/Git-is-already-distributed.html&quot;&gt;Git is already federated &amp;amp; decentralized&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/nathenharvey/introduction-to-test-kitchen&quot;&gt;Introduction to Test Kitchen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial&quot;&gt;Web Scraping with a Headless Browser: A Puppeteer Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://8thlight.com/blog/sam-szreter/2018/07/24/inversion-of-control-container.html&quot;&gt;Don’t call us, we’ll call you: Inversion of Control Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-86/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-86/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;85</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/what-you-should-know-about-penetration-testing/&quot;&gt;What You Should Know About Penetration Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@timhberry/terraform-pipelines-in-gitlab-415b9d842596&quot;&gt;Terraform Pipelines in GitLab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a&quot;&gt;On Toxic Jobs, Low Self-Esteem, &amp;amp; Interviewing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tinyssh.org/&quot;&gt;Tinyssh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 16 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-85/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-85/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;84</title>
@@ -107,111 +212,6 @@ Saya akan melakukan untuk domain jakarta&lt;/p&gt;
         <pubDate>Sat, 11 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-81/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-81/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;80</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joshwcomeau/guppy&quot;&gt;Guppy – 🐠A friendly application manager and task runner for React.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@farsi_mehdi/the-forwardable-module-in-ruby-part-i-d83d9063b4f4&quot;&gt;The Forwardable module in Ruby — Part I&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.praveen.science/git-shortcuts/&quot;&gt;Git Shortcut&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@atulanand94/building-web-based-uis-for-terminals-using-javascript-60b5eee31213&quot;&gt;📟 Building Web based UIs for Terminals using JavaScript&lt;/a&gt; – because, why not?&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/transforming-financial-forecasting-machine-learning/?utm_source=rss&amp;amp;utm_source=jakartadev&quot;&gt;Transforming Financial Forecasting with Data Science and Machine Learning at Uber&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 10 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-80/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-80/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;79</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/07/event-sourcing-kafka-streams?utm_source=jakartadev&quot;&gt;Experiences from Building an Event-Sourced System with Kafka Streams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/learn-vuejs/vue-patterns?utm_source=jakartadev&quot;&gt;vue-pattern – Useful Vue patterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf?utm_source=jakartadev&quot;&gt;Best Practices for ML Engineering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://theoutline.com/post/5495/how-to-beat-linked-in-the-game?utm_source=jakartadev&quot;&gt;How to beat Linkedin: The Game&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://alexgaynor.net/2018/jul/20/worst-truism-in-infosec/&quot;&gt;The worst truism in information security&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 09 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-79/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-79/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;78</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab&quot;&gt;How I gained commit access to Homebrew in 30 minutes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed&quot;&gt;Scaling Microservices with Message Queues, Spring Boot and Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/discussing-serverless-with-stackery-and-google/&quot;&gt;Discussing Serverless with Stackery and Google&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/your-infrastructure-as-code-cloudformation-vs-terraform-34ec5fb5f044&quot;&gt;Your Infrastructure as Code 🌩 CloudFormation Vs Terraform?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/7/sysadmin-tasks-ansible&quot;&gt;A sysadmin’s guide to Ansible: How to simplify tasks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 08 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-78/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-78/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;77</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/about-firefox-pioneer&quot;&gt;Firefox Pioneer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-lifecycle-management-for-amazon-ebs-snapshots/&quot;&gt;New – Lifecycle Management for Amazon EBS Snapshots&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/&quot;&gt;CAP Theorem illustrated&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/&quot;&gt;Add Constrained Optimization To Your Toolbelt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/headless-cms-vs-traditional-cms-a-deep-dive-4ec834fd6fd3&quot;&gt;Headless CMS vs Traditional CMS: A Deep Dive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 07 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-77/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-77/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;76</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/milestoner&quot;&gt;Milestoner – A command line interface for releasing Git repository milestones&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/shopify/e-commerce-at-scale-inside-shopifys-tech-stack&quot;&gt;E-Commerce at Scale: Inside Shopify’s Tech Stack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/&quot;&gt;Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f&quot;&gt;ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95?WT.mc_id=docs-blog-tajanca&amp;amp;WT.mc_id=shehackspurple-blog-tajanca&quot;&gt;Pushing Left, Like a Boss: Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 06 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-76/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-76/</guid>
         
         <category>daily</category>
         
