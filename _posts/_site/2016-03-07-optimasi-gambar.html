@@ -1,0 +1,28 @@
+<p>Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.</p>
+
+<p>Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce.</p>
+
+<p>Beberapa pilihan alat untuk mengompress gambar, bisa untuk <a href="http://mashable.com/2013/10/29/image-compressors">desktop</a> maupun CLI, untuk command line, saya menggunakan <code class="highlighter-rouge">jpegoptim</code> dan <code class="highlighter-rouge">pngout</code> sebagai tools untuk mengompress file gambar.</p>
+
+<p>Saya menggunakan ubuntu 14.04 LTS sebagai base dari sistem operasi server <br />
+<code class="highlighter-rouge">$ sudo apt-get install jpegoptim pngout</code> <br />
+menjalankan perintah <code class="highlighter-rouge">$ jpegoptim file.jpg </code>, hal ini akan mengompress file gambar dengan menghilangkan info-info yang tidak dibutuhkan seperti comment di exif, atau informasi lain yang menambah berat satu file.</p>
+
+<p>Anda juga bisa menjalankan perintah <code class="highlighter-rouge">jpegoptim</code> agar bisa secara masif mengompress file dengan perintah</p>
+
+<p><code class="highlighter-rouge">$ find . -type f -name "*.jpg" -exec jpegoptim -m90 --strip-all --all-progressive  {} \;</code></p>
+
+<p>Untuk perintah di atas, itu akan mencari file <code class="highlighter-rouge">.jpg</code> sampai ke dalam folder secara recursive,  Opsi <code class="highlighter-rouge">.</code> di atas menunjukkan working directory yang sedang anda gunakan, jika hendak mengarahkan ke folder yang lain bisa ditulis <code class="highlighter-rouge">PATH</code>-nya, seperti perintah di bawah.</p>
+
+<p><code class="highlighter-rouge">$ find /path/ke/gambar/ -type f -name "*.jpg" -exec jpegoptim -m90 --strip-all --all-progressive  {} \;</code></p>
+
+<p>Opsi yang digunakan adalah <code class="highlighter-rouge">-m90</code> artinya menggunakan kualitas 90, <code class="highlighter-rouge">--strip-all</code> menghilangkan informasi exif yang tidak terpakai, dan <code class="highlighter-rouge">--all-progressive</code> opsi ini untuk menjadikan gambar itu progressive mode. <br />
+Output: <br />
+<code class="highlighter-rouge">/path/ke/file_gambar.jpg 100x150 24bit N JFIF  [OK] 2706 --&gt; 2580 bytes (4.66%), optimized.</code></p>
+
+<p><strong>note:</strong> terkadang ada kasus dimana file anda akan hilang permission code-nya, dan tidak bisa diakses oleh borwser, ini bisa diakali dengan menambahkan perintah seperti berikut</p>
+
+<p><code class="highlighter-rouge">find . -type f -name "*.jpg" -exec jpegoptim -m90 --strip-all --all-progressive  {} \; -exec chmod 677 {} \;</code></p>
+
+<p>dengan cara di atas, anda mengembalikan permission file agar bisa dibaca oleh webserver dan akhirnya ditampilkan ke browser.</p>
+

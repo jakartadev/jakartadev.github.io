@@ -5,17 +5,37 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Aug 2018 11:45:14 +0700</pubDate>
-    <lastBuildDate>Wed, 22 Aug 2018 11:45:14 +0700</lastBuildDate>
+    <pubDate>Thu, 23 Aug 2018 13:26:07 +0700</pubDate>
+    <lastBuildDate>Thu, 23 Aug 2018 13:26:07 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;90</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d&quot;&gt;Streamlining Your Workflow: Debugging for HHVM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39&quot;&gt;Improving Operations with Route Optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2018/differentiable-parameterizations/&quot;&gt;Differentiable Image Parameterizations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/&quot;&gt;Logging Activity With The Web Beacon API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-90/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-90/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;89</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/&quot;&gt;Securing New Products at Clever&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241&quot;&gt;Freezing Python’s Dependency Hell in 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/&quot;&gt;Developing Real-Time Web Applications with Server-Sent Events
-&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/&quot;&gt;Developing Real-Time Web Applications with Server-Sent Events&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html&quot;&gt;Machine Learning in Google BigQuery&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824&quot;&gt;To Send Emails to Readers, We Went Serverless&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -191,27 +211,6 @@ Saya akan melakukan untuk domain jakarta&lt;/p&gt;
         <pubDate>Mon, 13 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-82/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-82/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;81</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab&quot;&gt;How JavaScript works: WebRTC and the mechanics of peer to peer networking&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/debugging-serverless-apps/&quot;&gt;Debugging Serverless Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999&quot;&gt;Multi-server Chat in Node Without a Database&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/xdp-ddos-cloudflare?utm_source=jakartadev&quot;&gt;XDP in Practice: DDoS Mitigation @Cloudflare&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/unikraft-unikernels?utm_source=jakartadev&quot;&gt;Unikraft - Unleashing the Power of Unikernels&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 11 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-81/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-81/</guid>
         
         <category>daily</category>
         

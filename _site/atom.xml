@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-22T11:45:14+07:00</updated>
+ <updated>2018-08-23T13:26:07+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;90</title>
+   <link href="http://localhost:4000/daily-digest-90/"/>
+   <updated>2018-08-23T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-90</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d&quot;&gt;Streamlining Your Workflow: Debugging for HHVM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39&quot;&gt;Improving Operations with Route Optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2018/differentiable-parameterizations/&quot;&gt;Differentiable Image Parameterizations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/&quot;&gt;Logging Activity With The Web Beacon API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;89</title>
@@ -20,8 +35,7 @@
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/&quot;&gt;Securing New Products at Clever&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241&quot;&gt;Freezing Python’s Dependency Hell in 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/&quot;&gt;Developing Real-Time Web Applications with Server-Sent Events
-&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/&quot;&gt;Developing Real-Time Web Applications with Server-Sent Events&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html&quot;&gt;Machine Learning in Google BigQuery&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824&quot;&gt;To Send Emails to Readers, We Went Serverless&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

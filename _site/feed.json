@@ -12,9 +12,18 @@
     "items": [
       {
         {
+            "id": "/daily-digest-90",
+            "title": "Daily Digest #90",
+            "content_html": "<ul>\n  <li><a href=\"https://www.hashicorp.com/resources/multi-tenant-vault-namespaces\">Learn How to Run a Multi-tenant Vault with the New Namespaces Feature</a></li>\n  <li><a href=\"https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d\">Streamlining Your Workflow: Debugging for HHVM</a></li>\n  <li><a href=\"https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39\">Improving Operations with Route Optimization</a></li>\n  <li><a href=\"https://distill.pub/2018/differentiable-parameterizations/\">Differentiable Image Parameterizations</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/\">Logging Activity With The Web Beacon API</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-90/",
+            "summary": "",
+            "date_published": "2018-08-23 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-89",
             "title": "Daily Digest #89",
-            "content_html": "<ul>\n  <li><a href=\"https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/\">Securing New Products at Clever</a></li>\n  <li><a href=\"https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241\">Freezing Python’s Dependency Hell in 2018</a></li>\n  <li><a href=\"https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/\">Developing Real-Time Web Applications with Server-Sent Events\n</a></li>\n  <li><a href=\"https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html\">Machine Learning in Google BigQuery</a></li>\n  <li><a href=\"https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824\">To Send Emails to Readers, We Went Serverless</a></li>\n</ul>\n",
+            "content_html": "<ul>\n  <li><a href=\"https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/\">Securing New Products at Clever</a></li>\n  <li><a href=\"https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241\">Freezing Python’s Dependency Hell in 2018</a></li>\n  <li><a href=\"https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/\">Developing Real-Time Web Applications with Server-Sent Events</a></li>\n  <li><a href=\"https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html\">Machine Learning in Google BigQuery</a></li>\n  <li><a href=\"https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824\">To Send Emails to Readers, We Went Serverless</a></li>\n</ul>\n",
             "url": "http://localhost:4000/daily-digest-89/",
             "summary": "",
             "date_published": "2018-08-22 00:00:00 +0700"
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-86/",
             "summary": "",
             "date_published": "2018-08-17 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-85",
-            "title": "Daily Digest #85",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.codeship.com/what-you-should-know-about-penetration-testing/\">What You Should Know About Penetration Testing</a></li>\n  <li><a href=\"https://medium.com/@timhberry/terraform-pipelines-in-gitlab-415b9d842596\">Terraform Pipelines in GitLab</a></li>\n  <li><a href=\"https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a\">On Toxic Jobs, Low Self-Esteem, &amp; Interviewing</a></li>\n  <li><a href=\"https://tinyssh.org/\">Tinyssh</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-85/",
-            "summary": "",
-            "date_published": "2018-08-16 00:00:00 +0700"
         }
 
     ]
