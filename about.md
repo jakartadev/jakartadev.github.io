@@ -16,7 +16,10 @@ jakartaDEV menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-n
 
 jakartaDEV repo disimpan di [github.com](https://http://github.com/jakartadev/jakartadev.github.io), dan menggunakan ~~fitur Github Pages~~ [Netlify](https://netlify.com) untuk mem-*publish* website ini.
 
-Menggunakan cloudflare sebagai DNS server dan fitur SSL-nya untk https jakartadev.org
+~~Menggunakan cloudflare sebagai DNS server dan fitur SSL-nya untk https jakartadev.org~~
+Sekarang jakartadev.org untuk mengatur DNS dan juga menggunakan let's encrypt feature dari Netlify.com
+
+saya juga mencoba service dari subsctack di https://jakartadev.substack.com/
 
 ### Contact 
 
