@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Aug 2018 13:26:07 +0700</pubDate>
-    <lastBuildDate>Thu, 23 Aug 2018 13:26:07 +0700</lastBuildDate>
+    <pubDate>Fri, 24 Aug 2018 10:33:28 +0700</pubDate>
+    <lastBuildDate>Fri, 24 Aug 2018 10:33:28 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;91</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/chaos-engineering-resilience&quot;&gt;Using Chaos to Build Resilient Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427&quot;&gt;Why Discord is Sticking with React Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/07/26/how-scylla-data-cache-works/&quot;&gt;Exploring How the Scylla Data Cache Works&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-road-to-quic/&quot;&gt;The Road to QUIC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/how-i-reverse-engineered-notion-api-19480490bbeb&quot;&gt;How I reverse engineered Notion API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 24 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-91/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-91/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;90</title>
@@ -194,27 +215,6 @@ Saya akan melakukan untuk domain jakarta&lt;/p&gt;
         <category>development</category>
         
         <category>serverless</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;82</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c&quot;&gt;Apache Kafka is not for Event Sourcing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hellosign.com/blog/software-ate-world&quot;&gt;Software Ate the World. Now What?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/filepond-frontend-trickery-a3073c934c77&quot;&gt;5 interesting technical challenges I faced when building FilePond&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/youre-not-even-criticising-scrum-caecf4eb19d3&quot;&gt;You’re not even criticising Scrum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-82/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-82/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
         
         
       </item>

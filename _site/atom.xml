@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-23T13:26:07+07:00</updated>
+ <updated>2018-08-24T10:33:28+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;91</title>
+   <link href="http://localhost:4000/daily-digest-91/"/>
+   <updated>2018-08-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-91</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/chaos-engineering-resilience&quot;&gt;Using Chaos to Build Resilient Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427&quot;&gt;Why Discord is Sticking with React Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/07/26/how-scylla-data-cache-works/&quot;&gt;Exploring How the Scylla Data Cache Works&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-road-to-quic/&quot;&gt;The Road to QUIC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/how-i-reverse-engineered-notion-api-19480490bbeb&quot;&gt;How I reverse engineered Notion API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;90</title>

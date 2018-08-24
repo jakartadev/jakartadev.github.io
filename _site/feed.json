@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-91",
+            "title": "Daily Digest #91",
+            "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/presentations/chaos-engineering-resilience\">Using Chaos to Build Resilient Systems</a></li>\n  <li><a href=\"https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427\">Why Discord is Sticking with React Native</a></li>\n  <li><a href=\"https://www.scylladb.com/2018/07/26/how-scylla-data-cache-works/\">Exploring How the Scylla Data Cache Works</a></li>\n  <li><a href=\"https://blog.cloudflare.com/the-road-to-quic/\">The Road to QUIC</a></li>\n  <li><a href=\"https://itnext.io/how-i-reverse-engineered-notion-api-19480490bbeb\">How I reverse engineered Notion API</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-91/",
+            "summary": "",
+            "date_published": "2018-08-24 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-90",
             "title": "Daily Digest #90",
             "content_html": "<ul>\n  <li><a href=\"https://www.hashicorp.com/resources/multi-tenant-vault-namespaces\">Learn How to Run a Multi-tenant Vault with the New Namespaces Feature</a></li>\n  <li><a href=\"https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d\">Streamlining Your Workflow: Debugging for HHVM</a></li>\n  <li><a href=\"https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39\">Improving Operations with Route Optimization</a></li>\n  <li><a href=\"https://distill.pub/2018/differentiable-parameterizations/\">Differentiable Image Parameterizations</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/\">Logging Activity With The Web Beacon API</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-87/",
             "summary": "",
             "date_published": "2018-08-20 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-86",
-            "title": "Daily Digest #86",
-            "content_html": "<ul>\n  <li><a href=\"https://azure.microsoft.com/en-us/resources/designing-distributed-systems/\">Designing Distributed Systems</a></li>\n  <li><a href=\"https://drewdevault.com/2018/07/23/Git-is-already-distributed.html\">Git is already federated &amp; decentralized</a></li>\n  <li><a href=\"https://www.slideshare.net/nathenharvey/introduction-to-test-kitchen\">Introduction to Test Kitchen</a></li>\n  <li><a href=\"https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial\">Web Scraping with a Headless Browser: A Puppeteer Tutorial</a></li>\n  <li><a href=\"https://8thlight.com/blog/sam-szreter/2018/07/24/inversion-of-control-container.html\">Don’t call us, we’ll call you: Inversion of Control Containers</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-86/",
-            "summary": "",
-            "date_published": "2018-08-17 00:00:00 +0700"
         }
 
     ]
