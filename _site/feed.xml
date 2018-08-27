@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Aug 2018 10:58:16 +0700</pubDate>
-    <lastBuildDate>Fri, 24 Aug 2018 10:58:16 +0700</lastBuildDate>
+    <pubDate>Mon, 27 Aug 2018 13:04:00 +0700</pubDate>
+    <lastBuildDate>Mon, 27 Aug 2018 13:04:00 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;92</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snyk.io/blog/how-to-crash-an-email-server-with-a-single-email/&quot;&gt;How to crash an email server with a single email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/the-web-push-checklist/&quot;&gt;The Web Push Checklist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/07/introducing-the-d-web/&quot;&gt;Introducing the Dweb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brandur.org/minimalism&quot;&gt;In Pursuit of Production Minimalism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 27 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-92/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-92/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;91</title>
@@ -193,28 +214,6 @@
         <category>daily</category>
         
         <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Publish web dengan menggunakan Jekyll dan Netlify</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;dpeloy&lt;/em&gt; aplikasi web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
-Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
-
-&lt;h3 id=&quot;domain&quot;&gt;Domain&lt;/h3&gt;
-&lt;p&gt;Untuk memudahkan &lt;em&gt;deployment&lt;/em&gt; kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar, di panel ini kita bisa melakukan aksi seperti menambahkan &lt;em&gt;CNAME&lt;/em&gt; atau mengubah MX atau A-Record kita. 
-Saya akan melakukan untuk domain jakarta&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/publish-website-dengan-netlify/</link>
-        <guid isPermaLink="true">http://localhost:4000/publish-website-dengan-netlify/</guid>
-        
-        <category>netlify</category>
-        
-        <category>development</category>
-        
-        <category>serverless</category>
         
         
       </item>

@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-24T10:58:16+07:00</updated>
+ <updated>2018-08-27T13:04:00+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;92</title>
+   <link href="http://localhost:4000/daily-digest-92/"/>
+   <updated>2018-08-27T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-92</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snyk.io/blog/how-to-crash-an-email-server-with-a-single-email/&quot;&gt;How to crash an email server with a single email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/the-web-push-checklist/&quot;&gt;The Web Push Checklist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/07/introducing-the-d-web/&quot;&gt;Introducing the Dweb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brandur.org/minimalism&quot;&gt;In Pursuit of Production Minimalism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;91</title>

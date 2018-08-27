@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-92",
+            "title": "Daily Digest #92",
+            "content_html": "<ul>\n  <li><a href=\"https://www.hashicorp.com/resources/multi-tenant-vault-namespaces\">Learn How to Run a Multi-tenant Vault with the New Namespaces Feature</a></li>\n  <li><a href=\"https://snyk.io/blog/how-to-crash-an-email-server-with-a-single-email/\">How to crash an email server with a single email</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/the-web-push-checklist/\">The Web Push Checklist</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/07/introducing-the-d-web/\">Introducing the Dweb</a></li>\n  <li><a href=\"https://brandur.org/minimalism\">In Pursuit of Production Minimalism</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-92/",
+            "summary": "",
+            "date_published": "2018-08-27 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-91",
             "title": "Daily Digest #91",
             "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/presentations/chaos-engineering-resilience\">Using Chaos to Build Resilient Systems</a></li>\n  <li><a href=\"https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427\">Why Discord is Sticking with React Native</a></li>\n  <li><a href=\"https://www.scylladb.com/2018/07/26/how-scylla-data-cache-works/\">Exploring How the Scylla Data Cache Works</a></li>\n  <li><a href=\"https://blog.cloudflare.com/the-road-to-quic/\">The Road to QUIC</a></li>\n  <li><a href=\"https://itnext.io/how-i-reverse-engineered-notion-api-19480490bbeb\">How I reverse engineered Notion API</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-88/",
             "summary": "",
             "date_published": "2018-08-21 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-87",
-            "title": "Daily Digest #87",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/five-ways-to-gain-serverless-observability-406e5cab51af\">5 ways to gain serverless observability</a></li>\n  <li><a href=\"http://rea.tech/evaluating-scala-and-sticking-with-ruby/\">Evaluating Scala and sticking with Ruby</a></li>\n  <li><a href=\"https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood\">Kubernetes Networking Under the Hood</a></li>\n  <li><a href=\"https://nordicapis.com/a-pragmatic-take-on-rest-anti-patterns/\">A Pragmatic Take On REST Anti Patterns</a></li>\n  <li><a href=\"https://www.thoughtworks.com/insights/blog/write-quality-mobile-apps-any-architecture\">Write quality mobile apps in any architecture</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-87/",
-            "summary": "",
-            "date_published": "2018-08-20 00:00:00 +0700"
         }
 
     ]
