@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-94",
+            "title": "Daily Digest #94",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/open-guides/og-aws\">📙 Amazon Web Services — a practical guide</a></li>\n  <li><a href=\"https://www.rubypigeon.com/posts/dependency_injection_containers_vs_hardcoded_constants/\">Dependency Injection Containers vs Hard-coded Constants</a></li>\n  <li><a href=\"https://www.holloway.com/g/equity-compensation\">The Holloway guide to Equity Compensation</a></li>\n  <li><a href=\"https://blog.mozilla.org/blog/2018/08/07/firefox-offers-recommendations-with-latest-test-pilot-experiment-advance/\">Firefox Offers Recommendations with Latest Test Pilot Experiment: Advance</a></li>\n  <li><a href=\"https://latacora.singles/2018/08/03/the-default-openssh.html\">The default OpenSSH key encryption is worse than plaintext</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-94/",
+            "summary": "",
+            "date_published": "2018-08-29 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-93",
             "title": "Daily Digest #93",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/@cwilliams1290/developing-great-leaders-is-more-important-than-training-bad-managers-7ae6c9e0441a\">Developing Great Leaders is More Important than Training Bad Managers</a></li>\n  <li><a href=\"https://brew.sh/2018/08/05/security-incident-disclosure/\">Security Incident Disclosure</a></li>\n  <li><a href=\"https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and\">Repeat yourself, do more than one thing, and rewrite everything</a></li>\n  <li><a href=\"https://github.com/UKHomeOffice/repo-security-scanner\">Repo security scanner</a></li>\n  <li><a href=\"https://eng.uber.com/databook/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=databook\">Databook: Turning Big Data into Knowledge with Metadata at Uber</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-90/",
             "summary": "",
             "date_published": "2018-08-23 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-89",
-            "title": "Daily Digest #89",
-            "content_html": "<ul>\n  <li><a href=\"https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/\">Securing New Products at Clever</a></li>\n  <li><a href=\"https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241\">Freezing Python’s Dependency Hell in 2018</a></li>\n  <li><a href=\"https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/\">Developing Real-Time Web Applications with Server-Sent Events</a></li>\n  <li><a href=\"https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html\">Machine Learning in Google BigQuery</a></li>\n  <li><a href=\"https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824\">To Send Emails to Readers, We Went Serverless</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-89/",
-            "summary": "",
-            "date_published": "2018-08-22 00:00:00 +0700"
         }
 
     ]
