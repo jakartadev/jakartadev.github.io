@@ -4,13 +4,57 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-29T11:57:33+07:00</updated>
+ <updated>2018-08-30T12:48:57+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;95</title>
+   <link href="http://localhost:4000/daily-digest-95/"/>
+   <updated>2018-08-30T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-95</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bessey.io/blog/2018/08/04/rails-webpacker-react-ssr/&quot;&gt;Rails + React Server Side Rendering, with Webpacker + Hypernova&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/should-you-build-or-buy-microservices&quot;&gt;Should you build or buy microservices?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jesseduffield/lazygit&quot;&gt;Lazygit – simple terminal UI for git commands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/07/introducing-docker-application-guides/&quot;&gt;Introducing docker application guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/the-orange-juice-test/&quot;&gt;The Orange Juice Test&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.girlboss.com/work/first-time-manager-checklist&quot;&gt;First time manager checklist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Publish web Jekyll + Netlify</title>
+   <link href="http://localhost:4000/publish-website-dengan-netlify/"/>
+   <updated>2018-08-29T00:00:00+07:00</updated>
+   <id>http://localhost:4000/publish-website-dengan-netlify</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;deploy&lt;/em&gt; aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
+Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
+
+&lt;h3 id=&quot;domain&quot;&gt;Domain&lt;/h3&gt;
+&lt;p&gt;Untuk memudahkan &lt;em&gt;deployment&lt;/em&gt; kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar. 
+&lt;img src=&quot;/public/images/posts/netlify/dns-panel.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Di panel ini kita bisa melakukan penambahan domain yang kita miliki, setelah menambahkan domain, kita diminta untuk melakukan perubahan domain nameserver, yang sebelumnya menggunakan registrar kita biasanya ke yang dimiliki oleh Netlify, daftar nameserver yang jakartadev gunakan.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dns1.p01.nsone.net
+dns2.p01.nsone.net
+dns3.p01.nsone.net
+dns4.p01.nsone.net
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify tipe &lt;code class=&quot;highlighter-rouge&quot;&gt;A&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;MX&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;TXT&lt;/code&gt; dan lainnya&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/posts/netlify/domain.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sesudah setup DNS A record yang disesuaikan dengan IP Address yang diberikan oleh Netlify&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;94</title>
@@ -188,20 +232,6 @@
   &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/scrum-not-asd-1/&quot;&gt;Scrum is not an Agile Software Development Framework&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.imaginarycloud.com/blog/material-design-is-a-political-choice/&quot;&gt;Material design is a political choice&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Publish web dengan menggunakan Jekyll dan Netlify</title>
-   <link href="http://localhost:4000/publish-website-dengan-netlify/"/>
-   <updated>2018-08-13T00:00:00+07:00</updated>
-   <id>http://localhost:4000/publish-website-dengan-netlify</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;dpeloy&lt;/em&gt; aplikasi web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
-Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
-
-&lt;h3 id=&quot;domain&quot;&gt;Domain&lt;/h3&gt;
-&lt;p&gt;Untuk memudahkan &lt;em&gt;deployment&lt;/em&gt; kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar, di panel ini kita bisa melakukan aksi seperti menambahkan &lt;em&gt;CNAME&lt;/em&gt; atau mengubah MX atau A-Record kita. 
-Saya akan melakukan untuk domain jakarta&lt;/p&gt;
 </content>
  </entry>
  

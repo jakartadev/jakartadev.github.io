@@ -5,9 +5,67 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Aug 2018 11:57:33 +0700</pubDate>
-    <lastBuildDate>Wed, 29 Aug 2018 11:57:33 +0700</lastBuildDate>
+    <pubDate>Thu, 30 Aug 2018 12:48:57 +0700</pubDate>
+    <lastBuildDate>Thu, 30 Aug 2018 12:48:57 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;95</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bessey.io/blog/2018/08/04/rails-webpacker-react-ssr/&quot;&gt;Rails + React Server Side Rendering, with Webpacker + Hypernova&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/should-you-build-or-buy-microservices&quot;&gt;Should you build or buy microservices?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jesseduffield/lazygit&quot;&gt;Lazygit – simple terminal UI for git commands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/07/introducing-docker-application-guides/&quot;&gt;Introducing docker application guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/the-orange-juice-test/&quot;&gt;The Orange Juice Test&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.girlboss.com/work/first-time-manager-checklist&quot;&gt;First time manager checklist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 30 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-95/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-95/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Publish web Jekyll + Netlify</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;deploy&lt;/em&gt; aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
+Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
+
+&lt;h3 id=&quot;domain&quot;&gt;Domain&lt;/h3&gt;
+&lt;p&gt;Untuk memudahkan &lt;em&gt;deployment&lt;/em&gt; kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar. 
+&lt;img src=&quot;/public/images/posts/netlify/dns-panel.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Di panel ini kita bisa melakukan penambahan domain yang kita miliki, setelah menambahkan domain, kita diminta untuk melakukan perubahan domain nameserver, yang sebelumnya menggunakan registrar kita biasanya ke yang dimiliki oleh Netlify, daftar nameserver yang jakartadev gunakan.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dns1.p01.nsone.net
+dns2.p01.nsone.net
+dns3.p01.nsone.net
+dns4.p01.nsone.net
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify tipe &lt;code class=&quot;highlighter-rouge&quot;&gt;A&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;MX&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;TXT&lt;/code&gt; dan lainnya&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/posts/netlify/domain.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sesudah setup DNS A record yang disesuaikan dengan IP Address yang diberikan oleh Netlify&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/publish-website-dengan-netlify/</link>
+        <guid isPermaLink="true">http://localhost:4000/publish-website-dengan-netlify/</guid>
+        
+        <category>netlify</category>
+        
+        <category>development</category>
+        
+        <category>serverless</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;94</title>
@@ -169,47 +227,6 @@
         <pubDate>Mon, 20 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-87/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-87/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;86</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/resources/designing-distributed-systems/&quot;&gt;Designing Distributed Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/07/23/Git-is-already-distributed.html&quot;&gt;Git is already federated &amp;amp; decentralized&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/nathenharvey/introduction-to-test-kitchen&quot;&gt;Introduction to Test Kitchen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial&quot;&gt;Web Scraping with a Headless Browser: A Puppeteer Tutorial&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://8thlight.com/blog/sam-szreter/2018/07/24/inversion-of-control-container.html&quot;&gt;Don’t call us, we’ll call you: Inversion of Control Containers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 17 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-86/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-86/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;85</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/what-you-should-know-about-penetration-testing/&quot;&gt;What You Should Know About Penetration Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@timhberry/terraform-pipelines-in-gitlab-415b9d842596&quot;&gt;Terraform Pipelines in GitLab&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a&quot;&gt;On Toxic Jobs, Low Self-Esteem, &amp;amp; Interviewing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tinyssh.org/&quot;&gt;Tinyssh&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 16 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-85/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-85/</guid>
         
         <category>daily</category>
         
