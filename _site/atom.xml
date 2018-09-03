@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-31T10:29:14+07:00</updated>
+ <updated>2018-09-03T13:29:45+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;97</title>
+   <link href="http://localhost:4000/daily-digest-97/"/>
+   <updated>2018-09-03T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-97</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/&quot;&gt;Kubernetes for the Kubernewbie - The Journey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3297437/javascript/vue-javascript-cli-tool-gets-a-rewrite.html&quot;&gt;Vue JavaScript CLI tool gets a rewrite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/&quot;&gt;Scroll Bouncing On Your Websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apnews.com/f60bc112665b458cb6473d7ee9492932&quot;&gt;AP Exclusive: Google tracks your movements, like it or not&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.influencive.com/5-questions-to-ask-before-any-ux-project/&quot;&gt;5 Questions to Ask Before Any UX Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/notebook-innovation-591ee3221233&quot;&gt;Beyond Interactive: Notebook Innovation at Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;96</title>

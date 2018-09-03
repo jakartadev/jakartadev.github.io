@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Aug 2018 10:29:14 +0700</pubDate>
-    <lastBuildDate>Fri, 31 Aug 2018 10:29:14 +0700</lastBuildDate>
+    <pubDate>Mon, 03 Sep 2018 13:29:45 +0700</pubDate>
+    <lastBuildDate>Mon, 03 Sep 2018 13:29:45 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;97</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/&quot;&gt;Kubernetes for the Kubernewbie - The Journey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3297437/javascript/vue-javascript-cli-tool-gets-a-rewrite.html&quot;&gt;Vue JavaScript CLI tool gets a rewrite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/&quot;&gt;Scroll Bouncing On Your Websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apnews.com/f60bc112665b458cb6473d7ee9492932&quot;&gt;AP Exclusive: Google tracks your movements, like it or not&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.influencive.com/5-questions-to-ask-before-any-ux-project/&quot;&gt;5 Questions to Ask Before Any UX Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/notebook-innovation-591ee3221233&quot;&gt;Beyond Interactive: Notebook Innovation at Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-97/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-97/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;96</title>
@@ -207,27 +229,6 @@ dns4.p01.nsone.net
         <pubDate>Wed, 22 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-89/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-89/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;88</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast&quot;&gt;Why the New V8 is so Damn Fast&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/07/improving-test-coverage-android-app-mockito-espresso/&quot;&gt;How To Improve Test Coverage For Your Android App Using Mockito And Espresso&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/panel-containers-scalability&quot;&gt;Containers at Web Scale Panel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/building-serverless-contact-form-for-static-websites-b0e622d5a035&quot;&gt;Building Serverless Contact Form For Static Websites&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://galois.com/blog/2018/07/the-lean-theorem-prover-past-present-and-future/&quot;&gt;The Lean Theorem Prover: Past, Present and Future&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 21 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-88/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-88/</guid>
         
         <category>daily</category>
         
