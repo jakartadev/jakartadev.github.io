@@ -5,9 +5,120 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Sep 2018 12:28:38 +0700</pubDate>
-    <lastBuildDate>Tue, 04 Sep 2018 12:28:38 +0700</lastBuildDate>
+    <pubDate>Tue, 04 Sep 2018 12:36:42 +0700</pubDate>
+    <lastBuildDate>Tue, 04 Sep 2018 12:36:42 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Tmuxinator</title>
+        <description>&lt;p&gt;Originally published at &lt;a href=&quot;https://jenius.tech/2018/09/03/tmuxinator/&quot;&gt;Jenius.tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Di Jenius, &lt;em&gt;automation&lt;/em&gt; adalah salah satu kunci untuk men-&lt;em&gt;deliver&lt;/em&gt; software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan &lt;em&gt;environment&lt;/em&gt; development, Setelah sebelumnya diperkenalkan dengan &lt;a href=&quot;https://jenius.tech/2018/01/30/pengenalan-tmux/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt;, yang sangat berguna untuk bekerja di &lt;em&gt;multi-shell&lt;/em&gt;. di sini akan diperkenalkan &lt;em&gt;tool&lt;/em&gt; pendukung untuk tmux, yaitu &lt;a href=&quot;https://github.com/tmuxinator/tmuxinator&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Sebagai contoh, saya menggunakan 6 ‘tab’ di shell yang saya gunakan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/posts/tmuxinator/tmuxinator.jpg&quot; alt=&quot;shell&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jika kita melakukan pembukaan shell secara manual, misalkan jika &lt;code class=&quot;highlighter-rouge&quot;&gt;keybinding&lt;/code&gt; menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + a + c&lt;/code&gt; maka akan dibutuhkan setidaknya 6 kali untuk membuat 6 tab. kita bisa menggunakan Tmuxinator untuk meng-automasi ini, menjadikan tiap kali kita membuka tmux, shell yang menjadi favorit atau shell yang biasa kita gunakan untuk bekerja bisa langsung terhadirkan.&lt;/p&gt;
+
+&lt;h3 id=&quot;install&quot;&gt;install&lt;/h3&gt;
+&lt;p&gt;sesuai dengan howto dari github page-nya, kita install tmuxinator, dan karena tmuxinator dipaketkan sebagai &lt;code class=&quot;highlighter-rouge&quot;&gt;gem&lt;/code&gt;, maka untuk meng-install menginstallnya digunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;ruby-gem&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install tmuxinator&lt;/code&gt; ↩&lt;/p&gt;
+
+&lt;p&gt;Setelah ini, set editor yang anda gunakan, saya menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;vim&lt;/code&gt; sebagai default editor, jika hendak mengubahnya, tinggal ubah shell config ke editor pilihan, misalkan jika hendak mengubah default editor ke vim atau visual code editor dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;export EDITOR='vim'&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;export EDITOR='code'&lt;/code&gt; untuk vsc.&lt;/p&gt;
+
+&lt;p&gt;Setelah setting default editor buatlah project baru dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator new development&lt;/code&gt; (di sini saya menggunakan development sebagai nama project), dan akan diberikan semacam template window yang bisa digunakan sebagai tahap awal.&lt;/p&gt;
+
+&lt;p&gt;Untuk setting saya sendiri, berikut file yml tmuxinator project yang dibuat.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# ~/.tmuxinator/development.yml
+
+name: dev
+root: ~/
+
+windows:
+  - System:
+      layout: even-vertical
+      root: ~
+      panes:
+        - htop
+        - vtop
+  - JeniusApp: 
+      layout: even-vertical
+      root: ~/Developments/jenius/jenius2-apps/
+      panes:
+        - gss
+        - git pull origin develop
+
+  - Microservice:
+      layout: even-vertical
+      root: ~/Developments/jenius/microservice/
+      panes:
+        - git multi pull
+
+  - Mongo:
+      layout: tiled
+      panes:
+        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
+        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
+        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
+        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
+
+  - Orchestrator:
+      layout: tiled
+      panes:
+        - ls
+  - Side:
+      layout: tiled
+      root: ~/Developments/blogs/
+      panes:
+        - cd ~/Developments/blogs/dedenf.github.io; gss
+        - cd ~/Developments/blogs/jeniusteam.github.io; gss
+        - cd ~/Developments/blogs/jakartadev.github.io; gss
+        - cd ~/Developments/blogs/epicoffee.github.io; gss
+  
+  - Infra:
+      layout: tiled
+      panes:
+        - ls
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Untuk koleksi dotfiles yang digunakan, saya simpan &lt;a href=&quot;https://github.com/dedenf/dotfiles&quot;&gt;di repo ini&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;eksekusi&quot;&gt;Eksekusi&lt;/h3&gt;
+&lt;p&gt;Setelah membuat konfigurasi yang dibutuhkan, jalankan dengan menggunakan perintah&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ tmux&lt;/code&gt; ↩&lt;/p&gt;
+
+&lt;p&gt;Dengan memanggil perintah ini, maka session tmux dibuat, baru kita bisa menjalankan &lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt; diatas session &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ tmuxinator development&lt;/code&gt; ↩&lt;/p&gt;
+
+&lt;p&gt;Maka shell anda akan menampilkan 6 tab, sesuai dengan konfigurasi yang ditulis. Silakan ubah dan gunakan perintah sesuai dengan project yang sedang aktif digunakan.&lt;/p&gt;
+
+&lt;h3 id=&quot;footnote&quot;&gt;Footnote&lt;/h3&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;tmuxinator salah satu tool yang bisa digunakan, masih banyak project lain yang bisa digunakan, misalkan &lt;a href=&quot;https://github.com/remiprev/teamocil&quot;&gt;teamocil&lt;/a&gt; dan project lainnya. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 04 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/tmuxinator/</link>
+        <guid isPermaLink="true">http://localhost:4000/tmuxinator/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;98</title>
@@ -211,27 +322,6 @@ dns4.p01.nsone.net
         <pubDate>Fri, 24 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-91/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-91/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;90</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d&quot;&gt;Streamlining Your Workflow: Debugging for HHVM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39&quot;&gt;Improving Operations with Route Optimization&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2018/differentiable-parameterizations/&quot;&gt;Differentiable Image Parameterizations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/&quot;&gt;Logging Activity With The Web Beacon API&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 23 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-90/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-90/</guid>
         
         <category>daily</category>
         
