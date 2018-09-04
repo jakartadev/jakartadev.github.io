@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-98",
+            "title": "Daily Digest #98",
+            "content_html": "<ul>\n  <li><a href=\"https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202\">Scaling at Instacart: Distributing Data Across Multiple Postgres Databases with Rails</a>  <br />\nInteresting part of scaling distributed data at Instacart.</li>\n  <li><a href=\"https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/\">How to Debug a Node.js app in a Docker Container</a> <br />\nDebugging directly on container can be a faster way to know what’s going on.</li>\n  <li><a href=\"https://www.toptal.com/react-native/react-native-for-android-development\">Dive into React Native for Android Development</a> <br />\npros and cons using react-native as its engine to develop android application</li>\n  <li><a href=\"https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71\">WebAssembly: How and why</a> <br />\nHow to run native code in the browser, why would you do that, and what does it all mean for JavaScript and the future of web development</li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-98/",
+            "summary": "",
+            "date_published": "2018-09-04 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-97",
             "title": "Daily Digest #97",
             "content_html": "<ul>\n  <li><a href=\"https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/\">Kubernetes for the Kubernewbie - The Journey</a></li>\n  <li><a href=\"https://www.infoworld.com/article/3297437/javascript/vue-javascript-cli-tool-gets-a-rewrite.html\">Vue JavaScript CLI tool gets a rewrite</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/\">Scroll Bouncing On Your Websites</a></li>\n  <li><a href=\"https://apnews.com/f60bc112665b458cb6473d7ee9492932\">AP Exclusive: Google tracks your movements, like it or not</a></li>\n  <li><a href=\"https://www.influencive.com/5-questions-to-ask-before-any-ux-project/\">5 Questions to Ask Before Any UX Project</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/notebook-innovation-591ee3221233\">Beyond Interactive: Notebook Innovation at Netflix</a></li>\n</ul>\n",
@@ -43,15 +52,6 @@
             "title": "Publish web Jekyll + Netlify",
             "content_html": "<p><a href=\"https://www.netlify.com/\">Netlify</a> adalah salah satu penyedia service untuk <em>deploy</em> aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan <em>serverless</em> web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.\nUntuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-<em>deploy</em> dengan menggunakan gabungan antara Github sebagai SCM <em>web static</em> yang saya gunakan, yaitu Jekyll, Dan membuat <em>pipeline</em> dari Github ke Netlify melalui panel Netlify.</p>\n\n<h3 id=\"domain\">Domain</h3>\n<p>Untuk memudahkan <em>deployment</em> kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar. \n<img src=\"/public/images/posts/netlify/dns-panel.png\" alt=\"\" /></p>\n\n<p>Di panel ini kita bisa melakukan penambahan domain yang kita miliki, setelah menambahkan domain, kita diminta untuk melakukan perubahan domain nameserver, yang sebelumnya menggunakan registrar kita biasanya ke yang dimiliki oleh Netlify, daftar nameserver yang jakartadev gunakan.</p>\n\n<div class=\"highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>dns1.p01.nsone.net\ndns2.p01.nsone.net\ndns3.p01.nsone.net\ndns4.p01.nsone.net\n</code></pre></div></div>\n\n<p>Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify tipe <code class=\"highlighter-rouge\">A</code>, <code class=\"highlighter-rouge\">MX</code>, <code class=\"highlighter-rouge\">TXT</code> dan lainnya</p>\n\n<p><img src=\"/public/images/posts/netlify/domain.png\" alt=\"\" /></p>\n\n<p>Sesudah setup DNS A record yang disesuaikan dengan IP Address yang diberikan oleh Netlify</p>\n",
             "url": "http://localhost:4000/publish-website-dengan-netlify/",
-            "summary": "",
-            "date_published": "2018-08-29 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-94",
-            "title": "Daily Digest #94",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/open-guides/og-aws\">📙 Amazon Web Services — a practical guide</a></li>\n  <li><a href=\"https://www.rubypigeon.com/posts/dependency_injection_containers_vs_hardcoded_constants/\">Dependency Injection Containers vs Hard-coded Constants</a></li>\n  <li><a href=\"https://www.holloway.com/g/equity-compensation\">The Holloway guide to Equity Compensation</a></li>\n  <li><a href=\"https://blog.mozilla.org/blog/2018/08/07/firefox-offers-recommendations-with-latest-test-pilot-experiment-advance/\">Firefox Offers Recommendations with Latest Test Pilot Experiment: Advance</a></li>\n  <li><a href=\"https://latacora.singles/2018/08/03/the-default-openssh.html\">The default OpenSSH key encryption is worse than plaintext</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-94/",
             "summary": "",
             "date_published": "2018-08-29 00:00:00 +0700"
         }
