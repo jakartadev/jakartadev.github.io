@@ -4,13 +4,28 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-04T12:36:42+07:00</updated>
+ <updated>2018-09-05T12:15:14+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;99</title>
+   <link href="http://localhost:4000/daily-digest-99/"/>
+   <updated>2018-09-05T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-99</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/old-write/&quot;&gt;Zero Downtime Table Migrations using a Double Write Methodology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877&quot;&gt;TimescaleDB vs. InfluxDB: purpose built differently for time-series data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.ibm.com/dwblog/2018/monolithic-microservices-transformation-journey/&quot;&gt;From monolithic to microservices: A transformation journey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/maze/?utm_source=jakartadev&quot;&gt;Maximizing Process Performance with Maze, Uber’s Funnel Visualization Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.olioapps.com/blog/automatic-code-formatting/&quot;&gt;Automatic Code Formatting for Partially-Staged Files&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tmuxinator</title>
