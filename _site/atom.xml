@@ -4,13 +4,34 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-05T12:15:14+07:00</updated>
+ <updated>2018-09-06T15:55:28+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;100</title>
+   <link href="http://localhost:4000/daily-digest-100/"/>
+   <updated>2018-09-06T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-100</id>
+   <content type="html">&lt;p&gt;Edisi ke-100 dari Daily Digest, kategori ini diawali dari sharing apa yang dibaca pada hari ini yang menarik, biasanya dari teknologi, development.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/&quot;&gt;Why bare metal servers are the new king&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/&quot;&gt;Designing For Micro-Moments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/&quot;&gt;Microservices Messaging: Why REST Isn’t Always the Best Choice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/&quot;&gt;Utilizing Elixir as a lightweight tool to store real-time metrics data &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2018/08/17/on-engineers-and-influence/&quot;&gt;On Engineers and Influence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/01/how-to-hire&quot;&gt;How to Hire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wildbit.com/blog/2018/08/17/remote-product-management-challenges-and-opportunities&quot;&gt;Remote product management: challenges and opportunities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/agile-manager/&quot;&gt;Manager Responsibilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/amp/&quot;&gt;In praise of SWARMing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;99</title>

@@ -5,9 +5,36 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Sep 2018 12:15:14 +0700</pubDate>
-    <lastBuildDate>Wed, 05 Sep 2018 12:15:14 +0700</lastBuildDate>
+    <pubDate>Thu, 06 Sep 2018 15:55:28 +0700</pubDate>
+    <lastBuildDate>Thu, 06 Sep 2018 15:55:28 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;100</title>
+        <description>&lt;p&gt;Edisi ke-100 dari Daily Digest, kategori ini diawali dari sharing apa yang dibaca pada hari ini yang menarik, biasanya dari teknologi, development.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/&quot;&gt;Why bare metal servers are the new king&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/&quot;&gt;Designing For Micro-Moments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/&quot;&gt;Microservices Messaging: Why REST Isn’t Always the Best Choice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/&quot;&gt;Utilizing Elixir as a lightweight tool to store real-time metrics data &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2018/08/17/on-engineers-and-influence/&quot;&gt;On Engineers and Influence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/01/how-to-hire&quot;&gt;How to Hire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wildbit.com/blog/2018/08/17/remote-product-management-challenges-and-opportunities&quot;&gt;Remote product management: challenges and opportunities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/agile-manager/&quot;&gt;Manager Responsibilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/amp/&quot;&gt;In praise of SWARMing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 06 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-100/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-100/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;99</title>
@@ -301,27 +328,6 @@ dns4.p01.nsone.net
         <pubDate>Tue, 28 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-93/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-93/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;92</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://snyk.io/blog/how-to-crash-an-email-server-with-a-single-email/&quot;&gt;How to crash an email server with a single email&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/the-web-push-checklist/&quot;&gt;The Web Push Checklist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/07/introducing-the-d-web/&quot;&gt;Introducing the Dweb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://brandur.org/minimalism&quot;&gt;In Pursuit of Production Minimalism&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 27 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-92/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-92/</guid>
         
         <category>daily</category>
         

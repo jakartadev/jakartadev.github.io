@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-100",
+            "title": "Daily Digest #100",
+            "content_html": "<p>Edisi ke-100 dari Daily Digest, kategori ini diawali dari sharing apa yang dibaca pada hari ini yang menarik, biasanya dari teknologi, development.</p>\n\n<ul>\n  <li><a href=\"https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/\">Why bare metal servers are the new king</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/\">Designing For Micro-Moments</a></li>\n  <li><a href=\"https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/\">Microservices Messaging: Why REST Isn’t Always the Best Choice</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/\">Utilizing Elixir as a lightweight tool to store real-time metrics data </a></li>\n  <li><a href=\"https://charity.wtf/2018/08/17/on-engineers-and-influence/\">On Engineers and Influence</a></li>\n  <li><a href=\"https://hbr.org/2018/01/how-to-hire\">How to Hire</a></li>\n  <li><a href=\"https://wildbit.com/blog/2018/08/17/remote-product-management-challenges-and-opportunities\">Remote product management: challenges and opportunities</a></li>\n  <li><a href=\"https://ronjeffries.com/articles/018-01ff/agile-manager/\">Manager Responsibilities</a></li>\n  <li><a href=\"https://dannorth.net/2018/01/26/in-praise-of-swarming/amp/\">In praise of SWARMing</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-100/",
+            "summary": "",
+            "date_published": "2018-09-06 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-99",
             "title": "Daily Digest #99",
             "content_html": "<ul>\n  <li><a href=\"https://engineering.gusto.com/old-write/\">Zero Downtime Table Migrations using a Double Write Methodology</a></li>\n  <li><a href=\"https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877\">TimescaleDB vs. InfluxDB: purpose built differently for time-series data</a></li>\n  <li><a href=\"https://developer.ibm.com/dwblog/2018/monolithic-microservices-transformation-journey/\">From monolithic to microservices: A transformation journey</a></li>\n  <li><a href=\"https://eng.uber.com/maze/?utm_source=jakartadev\">Maximizing Process Performance with Maze, Uber’s Funnel Visualization Platform</a></li>\n  <li><a href=\"https://www.olioapps.com/blog/automatic-code-formatting/\">Automatic Code Formatting for Partially-Staged Files</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-97/",
             "summary": "",
             "date_published": "2018-09-03 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-96",
-            "title": "Daily Digest #96",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/you-have-to-choose-between-software-delivered-on-time-and-good-software-44f4af1249b1\">You have to choose between Software Delivered on Time and Good Software</a></li>\n  <li><a href=\"https://medium.com/project-management-learnings/spotify-squad-framework-part-ii-c5d4b9398c30\">Spotify Squad framework — Part II</a></li>\n  <li><a href=\"https://blog.ably.io/the-18-ghosts-in-your-infrastructure-stack-that-can-cause-failure-and-how-to-avoid-them-1373daebfe1a\">The 18 ghosts in your infrastructure stack that can cause failure (and how to avoid them)</a></li>\n  <li><a href=\"https://www.michaelnygard.com/blog/2016/07/qa-instability-implies-production-instability/\">QA Instability Implies Production Instability</a></li>\n  <li><a href=\"https://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html\">Introduction to Distributed System Design</a></li>\n  <li><a href=\"https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/\">The RED Method: How to Instrument Your Services</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-96/",
-            "summary": "",
-            "date_published": "2018-08-31 00:00:00 +0700"
         }
 
     ]
