@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Sep 2018 15:55:28 +0700</pubDate>
-    <lastBuildDate>Thu, 06 Sep 2018 15:55:28 +0700</lastBuildDate>
+    <pubDate>Fri, 07 Sep 2018 12:10:02 +0700</pubDate>
+    <lastBuildDate>Fri, 07 Sep 2018 12:10:02 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;101</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.fb.com/building-switch-software-at-facebook-scale/&quot;&gt;Building Switch Software at Facebook Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gojko.net/2018/08/30/sprints-marathons-root-canals.html&quot;&gt;Sprints, marathons and root canals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@george3d6/stop-future-proofing-software-c984cbd65e78&quot;&gt;Stop future proofing software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beeceptor.com/&quot;&gt;Rest API mocking and intercepting in seconds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aergoio/litetree&quot;&gt; SQLite with Branches – &lt;em&gt;interesting&lt;/em&gt;..&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/african-traffic-growth-and-predictions-for-the-future/&quot;&gt;African traffic growth and predictions for the future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2018/08/17/designing-for-developers/&quot;&gt;How to design for (and with) developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 07 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-101/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-101/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;100</title>
@@ -307,27 +330,6 @@ dns4.p01.nsone.net
         <pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-94/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-94/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;93</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@cwilliams1290/developing-great-leaders-is-more-important-than-training-bad-managers-7ae6c9e0441a&quot;&gt;Developing Great Leaders is More Important than Training Bad Managers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://brew.sh/2018/08/05/security-incident-disclosure/&quot;&gt;Security Incident Disclosure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and&quot;&gt;Repeat yourself, do more than one thing, and rewrite everything&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/UKHomeOffice/repo-security-scanner&quot;&gt;Repo security scanner&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/databook/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=databook&quot;&gt;Databook: Turning Big Data into Knowledge with Metadata at Uber&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 28 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-93/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-93/</guid>
         
         <category>daily</category>
         

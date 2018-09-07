@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-101",
+            "title": "Daily Digest #101",
+            "content_html": "<ul>\n  <li><a href=\"https://research.fb.com/building-switch-software-at-facebook-scale/\">Building Switch Software at Facebook Scale</a></li>\n  <li><a href=\"https://gojko.net/2018/08/30/sprints-marathons-root-canals.html\">Sprints, marathons and root canals</a></li>\n  <li><a href=\"https://medium.com/@george3d6/stop-future-proofing-software-c984cbd65e78\">Stop future proofing software</a></li>\n  <li><a href=\"https://beeceptor.com/\">Rest API mocking and intercepting in seconds</a></li>\n  <li><a href=\"https://github.com/aergoio/litetree\"> SQLite with Branches – <em>interesting</em>..</a></li>\n  <li><a href=\"https://blog.cloudflare.com/african-traffic-growth-and-predictions-for-the-future/\">African traffic growth and predictions for the future</a></li>\n  <li><a href=\"https://about.gitlab.com/2018/08/17/designing-for-developers/\">How to design for (and with) developers</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-101/",
+            "summary": "",
+            "date_published": "2018-09-07 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-100",
             "title": "Daily Digest #100",
             "content_html": "<p>Edisi ke-100 dari Daily Digest, kategori ini diawali dari sharing apa yang dibaca pada hari ini yang menarik, biasanya dari teknologi, development.</p>\n\n<ul>\n  <li><a href=\"https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/\">Why bare metal servers are the new king</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/\">Designing For Micro-Moments</a></li>\n  <li><a href=\"https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/\">Microservices Messaging: Why REST Isn’t Always the Best Choice</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/\">Utilizing Elixir as a lightweight tool to store real-time metrics data </a></li>\n  <li><a href=\"https://charity.wtf/2018/08/17/on-engineers-and-influence/\">On Engineers and Influence</a></li>\n  <li><a href=\"https://hbr.org/2018/01/how-to-hire\">How to Hire</a></li>\n  <li><a href=\"https://wildbit.com/blog/2018/08/17/remote-product-management-challenges-and-opportunities\">Remote product management: challenges and opportunities</a></li>\n  <li><a href=\"https://ronjeffries.com/articles/018-01ff/agile-manager/\">Manager Responsibilities</a></li>\n  <li><a href=\"https://dannorth.net/2018/01/26/in-praise-of-swarming/amp/\">In praise of SWARMing</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-98/",
             "summary": "",
             "date_published": "2018-09-04 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-97",
-            "title": "Daily Digest #97",
-            "content_html": "<ul>\n  <li><a href=\"https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/\">Kubernetes for the Kubernewbie - The Journey</a></li>\n  <li><a href=\"https://www.infoworld.com/article/3297437/javascript/vue-javascript-cli-tool-gets-a-rewrite.html\">Vue JavaScript CLI tool gets a rewrite</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/\">Scroll Bouncing On Your Websites</a></li>\n  <li><a href=\"https://apnews.com/f60bc112665b458cb6473d7ee9492932\">AP Exclusive: Google tracks your movements, like it or not</a></li>\n  <li><a href=\"https://www.influencive.com/5-questions-to-ask-before-any-ux-project/\">5 Questions to Ask Before Any UX Project</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/notebook-innovation-591ee3221233\">Beyond Interactive: Notebook Innovation at Netflix</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-97/",
-            "summary": "",
-            "date_published": "2018-09-03 00:00:00 +0700"
         }
 
     ]
