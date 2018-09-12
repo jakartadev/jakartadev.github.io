@@ -4,13 +4,47 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-07T12:10:02+07:00</updated>
+ <updated>2018-09-12T17:31:33+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;103</title>
+   <link href="http://localhost:4000/daily-digest-103/"/>
+   <updated>2018-09-12T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-103</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/&quot;&gt;I Wanna Go Fast - Load Balancing Dynamic Steering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c&quot;&gt;Service Worker Caching Strategies Based on Request Types&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/07/20/wasm-future.html&quot;&gt;The future of WebAssembly - A look at upcoming features and proposals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent&quot;&gt;Productivity at Scale: How We Improved Build Time by 400% at LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/&quot;&gt;Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/&quot;&gt;Event Triggered Customer Segmentation
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;102</title>
+   <link href="http://localhost:4000/daily-digest-102/"/>
+   <updated>2018-09-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-102</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackexchange.com/performance&quot;&gt;stackexchange performance report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reaktor.com/celebrationofcode/&quot;&gt;A celebration of code – 6 pieces of code that had an impact&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb&quot;&gt;Kubernetes Networking: Behind the scenes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/brief-history-containers/&quot;&gt;A Brief History of Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/companies-using-graphql-in-production-2018&quot;&gt;How Big Companies Are Using GraphQL in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fly.io/articles/lighthouse-how-to-reduce-render-blocking-scripts/&quot;&gt;Lighthouse: how to reduce render-blocking scripts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;101</title>

@@ -5,9 +5,55 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Sep 2018 12:10:02 +0700</pubDate>
-    <lastBuildDate>Fri, 07 Sep 2018 12:10:02 +0700</lastBuildDate>
+    <pubDate>Wed, 12 Sep 2018 17:31:33 +0700</pubDate>
+    <lastBuildDate>Wed, 12 Sep 2018 17:31:33 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;103</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/&quot;&gt;I Wanna Go Fast - Load Balancing Dynamic Steering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c&quot;&gt;Service Worker Caching Strategies Based on Request Types&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/07/20/wasm-future.html&quot;&gt;The future of WebAssembly - A look at upcoming features and proposals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent&quot;&gt;Productivity at Scale: How We Improved Build Time by 400% at LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/&quot;&gt;Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/&quot;&gt;Event Triggered Customer Segmentation
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-103/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-103/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;102</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackexchange.com/performance&quot;&gt;stackexchange performance report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reaktor.com/celebrationofcode/&quot;&gt;A celebration of code – 6 pieces of code that had an impact&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb&quot;&gt;Kubernetes Networking: Behind the scenes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/brief-history-containers/&quot;&gt;A Brief History of Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/companies-using-graphql-in-production-2018&quot;&gt;How Big Companies Are Using GraphQL in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fly.io/articles/lighthouse-how-to-reduce-render-blocking-scripts/&quot;&gt;Lighthouse: how to reduce render-blocking scripts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-102/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-102/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;101</title>
@@ -273,63 +319,6 @@ How to run native code in the browser, why would you do that, and what does it a
         <pubDate>Thu, 30 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-95/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-95/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Publish web Jekyll + Netlify</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;deploy&lt;/em&gt; aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
-Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
-
-&lt;h3 id=&quot;domain&quot;&gt;Domain&lt;/h3&gt;
-&lt;p&gt;Untuk memudahkan &lt;em&gt;deployment&lt;/em&gt; kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar. 
-&lt;img src=&quot;/public/images/posts/netlify/dns-panel.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Di panel ini kita bisa melakukan penambahan domain yang kita miliki, setelah menambahkan domain, kita diminta untuk melakukan perubahan domain nameserver, yang sebelumnya menggunakan registrar kita biasanya ke yang dimiliki oleh Netlify, daftar nameserver yang jakartadev gunakan.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dns1.p01.nsone.net
-dns2.p01.nsone.net
-dns3.p01.nsone.net
-dns4.p01.nsone.net
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify tipe &lt;code class=&quot;highlighter-rouge&quot;&gt;A&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;MX&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;TXT&lt;/code&gt; dan lainnya&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/images/posts/netlify/domain.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sesudah setup DNS A record yang disesuaikan dengan IP Address yang diberikan oleh Netlify&lt;/p&gt;
-</description>
-        <pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/publish-website-dengan-netlify/</link>
-        <guid isPermaLink="true">http://localhost:4000/publish-website-dengan-netlify/</guid>
-        
-        <category>netlify</category>
-        
-        <category>development</category>
-        
-        <category>serverless</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;94</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/open-guides/og-aws&quot;&gt;📙 Amazon Web Services — a practical guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rubypigeon.com/posts/dependency_injection_containers_vs_hardcoded_constants/&quot;&gt;Dependency Injection Containers vs Hard-coded Constants&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.holloway.com/g/equity-compensation&quot;&gt;The Holloway guide to Equity Compensation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/blog/2018/08/07/firefox-offers-recommendations-with-latest-test-pilot-experiment-advance/&quot;&gt;Firefox Offers Recommendations with Latest Test Pilot Experiment: Advance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://latacora.singles/2018/08/03/the-default-openssh.html&quot;&gt;The default OpenSSH key encryption is worse than plaintext&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-94/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-94/</guid>
         
         <category>daily</category>
         

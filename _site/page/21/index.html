@@ -74,6 +74,64 @@
     
     <article class="post">
 
+      <h1 class="title"><a href="/optimasi-gambar/">Optimasi Gambar</a>  <time datetime="March  7, 2016"> &dash; March  7, 2016</time></h1>
+      
+      <div class="entry">
+        
+        
+          <p>Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.</p>
+
+<p>Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce.</p>
+
+<p>Beberapa pilihan alat untuk mengompress gambar, bisa untuk <a href="http://mashable.com/2013/10/29/image-compressors">desktop</a> maupun CLI, untuk command line, saya menggunakan <code class="highlighter-rouge">jpegoptim</code> dan <code class="highlighter-rouge">pngout</code> sebagai tools untuk mengompress file gambar.</p>
+
+<p>Saya menggunakan ubuntu 14.04 LTS sebagai base dari sistem operasi server <br />
+<code class="highlighter-rouge">$ sudo apt-get install jpegoptim pngout</code> <br />
+menjalankan perintah <code class="highlighter-rouge">$ jpegoptim file.jpg </code>, hal ini akan mengompress file gambar dengan menghilangkan info-info yang tidak dibutuhkan seperti comment di exif, atau informasi lain yang menambah berat satu file.</p>
+
+<p>Anda juga bisa menjalankan perintah <code class="highlighter-rouge">jpegoptim</code> agar bisa secara masif mengompress file dengan perintah</p>
+
+<p><code class="highlighter-rouge">$ find . -type f -name "*.jpg" -exec jpegoptim -m90 --strip-all --all-progressive  {} \;</code></p>
+
+<p>Untuk perintah di atas, itu akan mencari file <code class="highlighter-rouge">.jpg</code> sampai ke dalam folder secara recursive,  Opsi <code class="highlighter-rouge">.</code> di atas menunjukkan working directory yang sedang anda gunakan, jika hendak mengarahkan ke folder yang lain bisa ditulis <code class="highlighter-rouge">PATH</code>-nya, seperti perintah di bawah.</p>
+
+<p><code class="highlighter-rouge">$ find /path/ke/gambar/ -type f -name "*.jpg" -exec jpegoptim -m90 --strip-all --all-progressive  {} \;</code></p>
+
+<p>Opsi yang digunakan adalah <code class="highlighter-rouge">-m90</code> artinya menggunakan kualitas 90, <code class="highlighter-rouge">--strip-all</code> menghilangkan informasi exif yang tidak terpakai, dan <code class="highlighter-rouge">--all-progressive</code> opsi ini untuk menjadikan gambar itu progressive mode. <br />
+Output: <br />
+<code class="highlighter-rouge">/path/ke/file_gambar.jpg 100x150 24bit N JFIF  [OK] 2706 --&gt; 2580 bytes (4.66%), optimized.</code></p>
+
+<p><strong>note:</strong> terkadang ada kasus dimana file anda akan hilang permission code-nya, dan tidak bisa diakses oleh borwser, ini bisa diakali dengan menambahkan perintah seperti berikut</p>
+
+<p><code class="highlighter-rouge">find . -type f -name "*.jpg" -exec jpegoptim -m90 --strip-all --all-progressive  {} \; -exec chmod 677 {} \;</code></p>
+
+<p>dengan cara di atas, anda mengembalikan permission file agar bisa dibaca oleh webserver dan akhirnya ditampilkan ke browser.</p>
+
+
+        
+      </div>
+      
+      
+      
+    </article>
+    <hr class="post-break" />
+    
+    
+
+    
+
+   
+
+  
+    
+
+   
+
+  
+    
+    
+    <article class="post">
+
       <h1 class="title"><a href="/daily-digest-4/">Daily Digest &#35;4</a>  <time datetime="March  7, 2016"> &dash; March  7, 2016</time></h1>
       
       <div class="entry">
@@ -269,75 +327,6 @@ jika sudah ada di box list, clone repo kong</p>
   </li>
 </ol>
 
-
-        
-      </div>
-      
-      
-      
-    </article>
-    <hr class="post-break" />
-    
-    
-
-    
-
-   
-
-  
-    
-
-   
-
-  
-    
-    
-    <article class="post">
-
-      <h1 class="title"><a href="/daily-digest-2/">Daily Digest &#35;2</a>  <time datetime="February 22, 2016"> &dash; February 22, 2016</time></h1>
-      
-      <div class="entry">
-        
-        
-          <ul>
-  <li><a href="http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html">Linux flaw may be fixed, what about linux container?</a>
-Bug yang ada di GNU C telah ditambal, bug di gcc ini berdampak pada distribusi Linux yang ada, walaupun bug ini telah di<i>patch</i> di sisi linux, bagaimana dengan <i>architecture</i> yang menggunakan Docker?</li>
-  <li><a href="https://www.redhat.com/en/about/press-releases/red-hat-brings-devops-network-new-ansible-capabilities">Ansible 2.0</a>
-Selain untuk deployment, me-<i>manage</i> service, networking, versi 2.0 ini menambahkan modul untuk mengontrol <i>networking device</i> seperti Arista, Cisco dan lain-lain.</li>
-  <li><a href="http://www.meetup.com/JakartaJS/events/228776402/">JakartaJS Meetup: Creative JavaScript</a>
-JakartaJS kembali melakukan meetup pada 23 Februari dengan topik “doing creative stuff with JavaScript and Node.js”</li>
-  <li><a href="http://blog.balazspocze.me/2016/01/26/mysql-in-docker-or-native-performance-benchmarks/">MySQL in docker or native – performance benchmarks</a>
-Perbandingan deploy MySQL di docker dan native.</li>
-  <li><a href="https://www.nginx.com/blog/dynamic-modules-nginx-1-9-11/">Dynamic Modules in NGINX 1.9.11</a>
-Dengan <em>Dynamic Module</em>, kita bisa me-<em>load shared object</em> yang berbeda.</li>
-  <li>
-    <p><a href="http://googlecloudplatform.blogspot.co.id/2016/02/what-it-looks-like-to-process-3.5-million-books-in-Googles-cloud.html">What it looks like to process 3.5 million books in Google’s cloud</a>
-Visualisasi Google cloud memproses 3.5 juta buku.</p>
-  </li>
-  <li><a href="http://www.toptal.com/agile/art-of-war-software-development">The Art of War Applied To Software Development</a>
-Topik menarik mengaplikasikan sun-tzu ke dalam <em>software development</em>.</li>
-  <li><a href="http://code.tutsplus.com/tutorials/20-material-design-resources--cms-25951">20 Material Design Resources</a>
-20 Material design untuk yang sedang membangun aplikasi Android, design ini bisa digunakan untuk project-project yang disedang dibangun.</li>
-  <li><a href="http://www.sitepoint.com/how-to-consume-laravel-api-with-angularjs/">How to Consume Laravel API with AngularJS</a>
-Sedang membangun aplikasi dengan Laravel sebagai framework? di sini dijelaskan membangun aplikasi dengan Laravel sebagai backend dan AngularJS untuk <em>Frontend</em>.</li>
-  <li><a href="http://code.tutsplus.com/tutorials/how-to-get-started-with-push-notifications-on-android--cms-25870">How to get started with push notif on Android</a>
-Tutorial bagaimana memulai push notifications di Android.</li>
-  <li><a href="http://engineering.twinprime.com/sql-or-nosql/">SQL or NoSQL</a>
-Perbandingan menggunakan solusi SQL atau NO-SQL.</li>
-  <li><a href="https://hostpresto.com/community/tutorials/how-to-install-mongo-db-on-ubuntu-14-04/">How to Install MongoDB 3 on Ubuntu 14.04</a>
-How to Install MongoDB 3 on Ubuntu 14.04 oleh @sumodirjo</li>
-  <li><a href="http://www.vertabelo.com/blog/notes-from-the-lab/19-online-resources-for-learning-about-database-design-errors">19 Online Resources for Learning About Database Design Errors</a>
-Kumpulan Artikel <em>Online</em> mengenai design database dan apa yang bisa dihindari dalam mendesignnya.</li>
-  <li><a href="https://www.dashingd3js.com/">Learn how to make Data Visualizations with D3.js</a>
-Data viz menggunakan D3 sebagai library.</li>
-  <li><a href="http://www.infoq.com/articles/no-more-mvc-frameworks">Why I No Longer Use MVC Frameworks</a></li>
-  <li><a href="https://github.com/dadgar/onecache">OneCache</a>
-OneCache is a best-effort, replicated KV store accessible via the memcached protocol</li>
-  <li><a href="https://github.com/sethreno/schemazen">Schemazen</a>
-Script and create SQL Server objects quickly</li>
-  <li><a href="https://yabwe.github.io/medium-editor/">Medium Editor</a>
-Online Editor yang dibangun dengan inspirasi dari <a href="https://medium.com">Medium.com</a></li>
-</ul>
 
         
       </div>
