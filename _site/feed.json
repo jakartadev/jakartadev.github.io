@@ -12,9 +12,18 @@
     "items": [
       {
         {
+            "id": "/daily-digest-104",
+            "title": "Daily Digest #104",
+            "content_html": "<ul>\n  <li><a href=\"https://crate.io/a/on-writing-beautiful-tests/\">On Writing Beautiful Tests</a> – should be writing about this</li>\n  <li><a href=\"https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/\">Protecting Mozilla’s GitHub Repositories from Malicious Modification</a> <br />\nyeah, i learn the hard way.</li>\n  <li><a href=\"https://blog.eutopian.io/the-age-of-invisible-disasters/\">The Age Of Invisible Disasters</a></li>\n  <li><a href=\"https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world\">Employee Engagement in a Remote World</a></li>\n  <li><a href=\"https://developers.soundcloud.com/blog/hands-off-deployment-with-canary\">Hands-Off Deployment with Canary</a></li>\n  <li><a href=\"https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/\">Changing Our Approach to Anti-tracking</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-104/",
+            "summary": "",
+            "date_published": "2018-09-13 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-103",
             "title": "Daily Digest #103",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/\">I Wanna Go Fast - Load Balancing Dynamic Steering</a></li>\n  <li><a href=\"https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c\">Service Worker Caching Strategies Based on Request Types</a></li>\n  <li><a href=\"https://blog.scottlogic.com/2018/07/20/wasm-future.html\">The future of WebAssembly - A look at upcoming features and proposals</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html\">Lean Testing, or Why Unit Tests are Worse than You Think</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent\">Productivity at Scale: How We Improved Build Time by 400% at LinkedIn</a></li>\n  <li><a href=\"https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/\">Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/\">Event Triggered Customer Segmentation\n</a></li>\n</ul>\n",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/\">I Wanna Go Fast - Load Balancing Dynamic Steering</a></li>\n  <li><a href=\"https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c\">Service Worker Caching Strategies Based on Request Types</a></li>\n  <li><a href=\"https://blog.scottlogic.com/2018/07/20/wasm-future.html\">The future of WebAssembly - A look at upcoming features and proposals</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html\">Lean Testing, or Why Unit Tests are Worse than You Think</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent\">Productivity at Scale: How We Improved Build Time by 400% at LinkedIn</a></li>\n  <li><a href=\"https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/\">Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/\">Event Triggered Customer Segmentation</a></li>\n</ul>\n",
             "url": "http://localhost:4000/daily-digest-103/",
             "summary": "",
             "date_published": "2018-09-12 00:00:00 +0700"
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-100/",
             "summary": "",
             "date_published": "2018-09-06 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-99",
-            "title": "Daily Digest #99",
-            "content_html": "<ul>\n  <li><a href=\"https://engineering.gusto.com/old-write/\">Zero Downtime Table Migrations using a Double Write Methodology</a></li>\n  <li><a href=\"https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877\">TimescaleDB vs. InfluxDB: purpose built differently for time-series data</a></li>\n  <li><a href=\"https://developer.ibm.com/dwblog/2018/monolithic-microservices-transformation-journey/\">From monolithic to microservices: A transformation journey</a></li>\n  <li><a href=\"https://eng.uber.com/maze/?utm_source=jakartadev\">Maximizing Process Performance with Maze, Uber’s Funnel Visualization Platform</a></li>\n  <li><a href=\"https://www.olioapps.com/blog/automatic-code-formatting/\">Automatic Code Formatting for Partially-Staged Files</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-99/",
-            "summary": "",
-            "date_published": "2018-09-05 00:00:00 +0700"
         }
 
     ]

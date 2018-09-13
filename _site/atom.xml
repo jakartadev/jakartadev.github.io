@@ -4,13 +4,30 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-12T17:31:33+07:00</updated>
+ <updated>2018-09-13T11:02:08+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;104</title>
+   <link href="http://localhost:4000/daily-digest-104/"/>
+   <updated>2018-09-13T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-104</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crate.io/a/on-writing-beautiful-tests/&quot;&gt;On Writing Beautiful Tests&lt;/a&gt; – should be writing about this&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/&quot;&gt;Protecting Mozilla’s GitHub Repositories from Malicious Modification&lt;/a&gt; &lt;br /&gt;
+yeah, i learn the hard way.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.eutopian.io/the-age-of-invisible-disasters/&quot;&gt;The Age Of Invisible Disasters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world&quot;&gt;Employee Engagement in a Remote World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/hands-off-deployment-with-canary&quot;&gt;Hands-Off Deployment with Canary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/&quot;&gt;Changing Our Approach to Anti-tracking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;103</title>
@@ -24,8 +41,7 @@
   &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent&quot;&gt;Productivity at Scale: How We Improved Build Time by 400% at LinkedIn&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/&quot;&gt;Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/&quot;&gt;Event Triggered Customer Segmentation
-&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/&quot;&gt;Event Triggered Customer Segmentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

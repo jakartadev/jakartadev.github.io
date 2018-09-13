@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Sep 2018 17:31:33 +0700</pubDate>
-    <lastBuildDate>Wed, 12 Sep 2018 17:31:33 +0700</lastBuildDate>
+    <pubDate>Thu, 13 Sep 2018 11:02:08 +0700</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 11:02:08 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;104</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crate.io/a/on-writing-beautiful-tests/&quot;&gt;On Writing Beautiful Tests&lt;/a&gt; – should be writing about this&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/&quot;&gt;Protecting Mozilla’s GitHub Repositories from Malicious Modification&lt;/a&gt; &lt;br /&gt;
+yeah, i learn the hard way.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.eutopian.io/the-age-of-invisible-disasters/&quot;&gt;The Age Of Invisible Disasters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world&quot;&gt;Employee Engagement in a Remote World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/hands-off-deployment-with-canary&quot;&gt;Hands-Off Deployment with Canary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/&quot;&gt;Changing Our Approach to Anti-tracking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-104/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-104/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;103</title>
@@ -18,8 +41,7 @@
   &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent&quot;&gt;Productivity at Scale: How We Improved Build Time by 400% at LinkedIn&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/&quot;&gt;Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/&quot;&gt;Event Triggered Customer Segmentation
-&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/&quot;&gt;Event Triggered Customer Segmentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
@@ -297,28 +319,6 @@ How to run native code in the browser, why would you do that, and what does it a
         <pubDate>Fri, 31 Aug 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-96/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-96/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;95</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bessey.io/blog/2018/08/04/rails-webpacker-react-ssr/&quot;&gt;Rails + React Server Side Rendering, with Webpacker + Hypernova&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/should-you-build-or-buy-microservices&quot;&gt;Should you build or buy microservices?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jesseduffield/lazygit&quot;&gt;Lazygit – simple terminal UI for git commands&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/07/introducing-docker-application-guides/&quot;&gt;Introducing docker application guides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/the-orange-juice-test/&quot;&gt;The Orange Juice Test&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.girlboss.com/work/first-time-manager-checklist&quot;&gt;First time manager checklist&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 30 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-95/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-95/</guid>
         
         <category>daily</category>
         
