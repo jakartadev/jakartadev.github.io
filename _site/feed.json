@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-105",
+            "title": "Daily Digest #104",
+            "content_html": "<p>Happy friday, here are some links for your weekend!</p>\n\n<ul>\n  <li><a href=\"https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/\">Cypress – the reason why we’re not stuck with Selenium</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/\">Real-time Streaming Pattern: Analyzing Trends</a></li>\n  <li><a href=\"https://sysdig.com/blog/kubernetes-monitoring-prometheus/\">Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)</a></li>\n  <li><a href=\"https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html\">Continuous Delivery Patterns with Serverless Applications</a></li>\n  <li><a href=\"https://tech.wayfair.com/2018/08/optimizing-tv-advertising-toward-return-on-investment/\">Optimizing TV Advertising Toward Return on Investment</a></li>\n  <li><a href=\"https://towardsdatascience.com/building-machine-learning-engineering-tools-e348ae4edf8\">Building Machine Learning Engineering Tools</a></li>\n  <li><a href=\"https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9\">An OAuth 2.0 introduction for beginners</a></li>\n  <li><a href=\"https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f\">Leveraging Elastic Demand for Forecasting</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-105/",
+            "summary": "",
+            "date_published": "2018-09-14 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-104",
             "title": "Daily Digest #104",
             "content_html": "<ul>\n  <li><a href=\"https://crate.io/a/on-writing-beautiful-tests/\">On Writing Beautiful Tests</a> – should be writing about this</li>\n  <li><a href=\"https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/\">Protecting Mozilla’s GitHub Repositories from Malicious Modification</a> <br />\nyeah, i learn the hard way.</li>\n  <li><a href=\"https://blog.eutopian.io/the-age-of-invisible-disasters/\">The Age Of Invisible Disasters</a></li>\n  <li><a href=\"https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world\">Employee Engagement in a Remote World</a></li>\n  <li><a href=\"https://developers.soundcloud.com/blog/hands-off-deployment-with-canary\">Hands-Off Deployment with Canary</a></li>\n  <li><a href=\"https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/\">Changing Our Approach to Anti-tracking</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-101/",
             "summary": "",
             "date_published": "2018-09-07 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-100",
-            "title": "Daily Digest #100",
-            "content_html": "<p>Edisi ke-100 dari Daily Digest, kategori ini diawali dari sharing apa yang dibaca pada hari ini yang menarik, biasanya dari teknologi, development.</p>\n\n<ul>\n  <li><a href=\"https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/\">Why bare metal servers are the new king</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/\">Designing For Micro-Moments</a></li>\n  <li><a href=\"https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/\">Microservices Messaging: Why REST Isn’t Always the Best Choice</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/\">Utilizing Elixir as a lightweight tool to store real-time metrics data </a></li>\n  <li><a href=\"https://charity.wtf/2018/08/17/on-engineers-and-influence/\">On Engineers and Influence</a></li>\n  <li><a href=\"https://hbr.org/2018/01/how-to-hire\">How to Hire</a></li>\n  <li><a href=\"https://wildbit.com/blog/2018/08/17/remote-product-management-challenges-and-opportunities\">Remote product management: challenges and opportunities</a></li>\n  <li><a href=\"https://ronjeffries.com/articles/018-01ff/agile-manager/\">Manager Responsibilities</a></li>\n  <li><a href=\"https://dannorth.net/2018/01/26/in-praise-of-swarming/amp/\">In praise of SWARMing</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-100/",
-            "summary": "",
-            "date_published": "2018-09-06 00:00:00 +0700"
         }
 
     ]

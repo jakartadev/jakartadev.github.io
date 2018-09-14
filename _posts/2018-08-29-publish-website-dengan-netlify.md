@@ -8,7 +8,7 @@ tags:
     - serverless
 
 description: ""
-publish: false
+publish: true
 ---
 
 [Netlify](https://www.netlify.com/) adalah salah satu penyedia service untuk *deploy* aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan *serverless* web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
@@ -27,7 +27,7 @@ dns3.p01.nsone.net
 dns4.p01.nsone.net
 ```
 
-Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify tipe `A`, `MX`, `TXT` dan lainnya
+Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify Domain tipe `A`, `MX`, `TXT` dan lainnya.
 
 ![](/public/images/posts/netlify/domain.png)
 

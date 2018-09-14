@@ -74,6 +74,51 @@
     
     <article class="post">
 
+      <h1 class="title"><a href="/publish-website-dengan-netlify/">Publish web Jekyll + Netlify</a>  <time datetime="August 29, 2018"> &dash; August 29, 2018</time></h1>
+      
+      <div class="entry">
+        
+        
+          <p><a href="https://www.netlify.com/">Netlify</a> adalah salah satu penyedia service untuk <em>deploy</em> aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan <em>serverless</em> web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
+Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-<em>deploy</em> dengan menggunakan gabungan antara Github sebagai SCM <em>web static</em> yang saya gunakan, yaitu Jekyll, Dan membuat <em>pipeline</em> dari Github ke Netlify melalui panel Netlify.</p>
+
+<h3 id="domain">Domain</h3>
+<p>Untuk memudahkan <em>deployment</em> kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar. 
+<img src="/public/images/posts/netlify/dns-panel.png" alt="" /></p>
+
+<p>Di panel ini kita bisa melakukan penambahan domain yang kita miliki, setelah menambahkan domain, kita diminta untuk melakukan perubahan domain nameserver, yang sebelumnya menggunakan registrar kita biasanya ke yang dimiliki oleh Netlify, daftar nameserver yang jakartadev gunakan.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dns1.p01.nsone.net
+dns2.p01.nsone.net
+dns3.p01.nsone.net
+dns4.p01.nsone.net
+</code></pre></div></div>
+
+<p>Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify Domain tipe <code class="highlighter-rouge">A</code>, <code class="highlighter-rouge">MX</code>, <code class="highlighter-rouge">TXT</code> dan lainnya.</p>
+
+<p><img src="/public/images/posts/netlify/domain.png" alt="" /></p>
+
+<p>Sesudah setup DNS A record yang disesuaikan dengan IP Address yang diberikan oleh Netlify</p>
+
+        
+      </div>
+      
+      
+      
+    </article>
+    <hr class="post-break" />
+    
+    
+
+    
+
+   
+
+  
+    
+    
+    <article class="post">
+
       <h1 class="title"><a href="/daily-digest-94/">Daily Digest &#35;94</a>  <time datetime="August 29, 2018"> &dash; August 29, 2018</time></h1>
       
       <div class="entry">
@@ -213,38 +258,6 @@
   <li><a href="https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39">Improving Operations with Route Optimization</a></li>
   <li><a href="https://distill.pub/2018/differentiable-parameterizations/">Differentiable Image Parameterizations</a></li>
   <li><a href="https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/">Logging Activity With The Web Beacon API</a></li>
-</ul>
-
-        
-      </div>
-      
-      
-      
-    </article>
-    <hr class="post-break" />
-    
-    
-
-    
-
-   
-
-  
-    
-    
-    <article class="post">
-
-      <h1 class="title"><a href="/daily-digest-89/">Daily Digest &#35;89</a>  <time datetime="August 22, 2018"> &dash; August 22, 2018</time></h1>
-      
-      <div class="entry">
-        
-        
-          <ul>
-  <li><a href="https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/">Securing New Products at Clever</a></li>
-  <li><a href="https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241">Freezing Python’s Dependency Hell in 2018</a></li>
-  <li><a href="https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/">Developing Real-Time Web Applications with Server-Sent Events</a></li>
-  <li><a href="https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html">Machine Learning in Google BigQuery</a></li>
-  <li><a href="https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824">To Send Emails to Readers, We Went Serverless</a></li>
 </ul>
 
         

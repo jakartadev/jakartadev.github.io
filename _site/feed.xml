@@ -5,9 +5,35 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Sep 2018 11:02:08 +0700</pubDate>
-    <lastBuildDate>Thu, 13 Sep 2018 11:02:08 +0700</lastBuildDate>
+    <pubDate>Fri, 14 Sep 2018 11:42:38 +0700</pubDate>
+    <lastBuildDate>Fri, 14 Sep 2018 11:42:38 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;104</title>
+        <description>&lt;p&gt;Happy friday, here are some links for your weekend!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/&quot;&gt;Cypress – the reason why we’re not stuck with Selenium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/&quot;&gt;Real-time Streaming Pattern: Analyzing Trends&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-monitoring-prometheus/&quot;&gt;Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html&quot;&gt;Continuous Delivery Patterns with Serverless Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/2018/08/optimizing-tv-advertising-toward-return-on-investment/&quot;&gt;Optimizing TV Advertising Toward Return on Investment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/building-machine-learning-engineering-tools-e348ae4edf8&quot;&gt;Building Machine Learning Engineering Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9&quot;&gt;An OAuth 2.0 introduction for beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f&quot;&gt;Leveraging Elastic Demand for Forecasting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-105/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-105/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;104</title>
@@ -297,28 +323,6 @@ How to run native code in the browser, why would you do that, and what does it a
         <pubDate>Mon, 03 Sep 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-97/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-97/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;96</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/you-have-to-choose-between-software-delivered-on-time-and-good-software-44f4af1249b1&quot;&gt;You have to choose between Software Delivered on Time and Good Software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/project-management-learnings/spotify-squad-framework-part-ii-c5d4b9398c30&quot;&gt;Spotify Squad framework — Part II&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.ably.io/the-18-ghosts-in-your-infrastructure-stack-that-can-cause-failure-and-how-to-avoid-them-1373daebfe1a&quot;&gt;The 18 ghosts in your infrastructure stack that can cause failure (and how to avoid them)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.michaelnygard.com/blog/2016/07/qa-instability-implies-production-instability/&quot;&gt;QA Instability Implies Production Instability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html&quot;&gt;Introduction to Distributed System Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/&quot;&gt;The RED Method: How to Instrument Your Services&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 31 Aug 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-96/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-96/</guid>
         
         <category>daily</category>
         

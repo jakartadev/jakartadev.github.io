@@ -4,13 +4,33 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-13T11:02:08+07:00</updated>
+ <updated>2018-09-14T11:42:38+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;104</title>
+   <link href="http://localhost:4000/daily-digest-105/"/>
+   <updated>2018-09-14T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-105</id>
+   <content type="html">&lt;p&gt;Happy friday, here are some links for your weekend!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/&quot;&gt;Cypress – the reason why we’re not stuck with Selenium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/&quot;&gt;Real-time Streaming Pattern: Analyzing Trends&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-monitoring-prometheus/&quot;&gt;Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html&quot;&gt;Continuous Delivery Patterns with Serverless Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/2018/08/optimizing-tv-advertising-toward-return-on-investment/&quot;&gt;Optimizing TV Advertising Toward Return on Investment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/building-machine-learning-engineering-tools-e348ae4edf8&quot;&gt;Building Machine Learning Engineering Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9&quot;&gt;An OAuth 2.0 introduction for beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f&quot;&gt;Leveraging Elastic Demand for Forecasting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;104</title>
@@ -306,7 +326,7 @@ dns3.p01.nsone.net
 dns4.p01.nsone.net
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify tipe &lt;code class=&quot;highlighter-rouge&quot;&gt;A&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;MX&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;TXT&lt;/code&gt; dan lainnya&lt;/p&gt;
+&lt;p&gt;Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify Domain tipe &lt;code class=&quot;highlighter-rouge&quot;&gt;A&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;MX&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;TXT&lt;/code&gt; dan lainnya.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/posts/netlify/domain.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
