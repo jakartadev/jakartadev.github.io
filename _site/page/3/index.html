@@ -24,11 +24,11 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://jakartadev.org/" />
     <meta property="og:site_name" content="JakartaDEV: developement news, tech news dan open source" />
-    <meta property="og:image" content="https://jakartadev.org//images/logo.png" />
+    <meta property="og:image" content="http://localhost:4000/images/logo.png" />
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:title" content="Daily discoveries dan newsletter mingguan untuk developer dan Open source enthusias"/>
     <meta name="twitter:site" content="@JakartaDev"/>
-    <meta name="twitter:image" content="https://jakartadev.org//images/logo.png"/>
+    <meta name="twitter:image" content="http://localhost:4000/images/logo.png"/>
     <meta name="twitter:creator" content="@JakartaDev"/>
 
     <!--[if lt IE 9]>
@@ -39,8 +39,8 @@
     <link rel="alternate" type="application/rss+xml" title="jakartaDEV - Daily discoveries" href="/feed.xml" />
     <!-- <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Fjalla+One|Lobster|Oswald|Patua+One" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Condensed|Roboto|Lobster|Patua+One|Open+Sans|PT+Mono" rel="stylesheet">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://jakartadev.org//images/apple-touch-icon-precomposed.png">
-    <link rel="icon" type="image/png" href="https://jakartadev.org//images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+    <link rel="icon" type="image/png" href="http://localhost:4000/images/favicon.png">
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -103,43 +103,6 @@
    
 
   
-    
-    
-    <article class="post">
-
-      <h1 class="title"><a href="/publish-website-dengan-netlify/">Publish web Jekyll + Netlify</a>  <time datetime="August 29, 2018"> &dash; August 29, 2018</time></h1>
-      
-      <div class="entry">
-        
-        
-          <p><a href="https://www.netlify.com/">Netlify</a> adalah salah satu penyedia service untuk <em>deploy</em> aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan <em>serverless</em> web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
-Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-<em>deploy</em> dengan menggunakan gabungan antara Github sebagai SCM <em>web static</em> yang saya gunakan, yaitu Jekyll, Dan membuat <em>pipeline</em> dari Github ke Netlify melalui panel Netlify.</p>
-
-<h3 id="domain">Domain</h3>
-<p>Untuk memudahkan <em>deployment</em> kita bisa memindahkan domain ke Netlify DNS manager, di sini kita bisa melakukan administrasi DNS yang biasanya ada di registrar. 
-<img src="/public/images/posts/netlify/dns-panel.png" alt="" /></p>
-
-<p>Di panel ini kita bisa melakukan penambahan domain yang kita miliki, setelah menambahkan domain, kita diminta untuk melakukan perubahan domain nameserver, yang sebelumnya menggunakan registrar kita biasanya ke yang dimiliki oleh Netlify, daftar nameserver yang jakartadev gunakan.</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dns1.p01.nsone.net
-dns2.p01.nsone.net
-dns3.p01.nsone.net
-dns4.p01.nsone.net
-</code></pre></div></div>
-
-<p>Setelah menambahkan, kita bisa melakukan penambahan record di panel domain Netlify Domain tipe <code class="highlighter-rouge">A</code>, <code class="highlighter-rouge">MX</code>, <code class="highlighter-rouge">TXT</code> dan lainnya.</p>
-
-<p><img src="/public/images/posts/netlify/domain.png" alt="" /></p>
-
-<p>Sesudah setup DNS A record yang disesuaikan dengan IP Address yang diberikan oleh Netlify</p>
-
-        
-      </div>
-      
-      
-      
-    </article>
-    <hr class="post-break" />
     
     
 

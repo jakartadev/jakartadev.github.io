@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>https://jakartadev.org//</link>
-    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Sep 2018 17:00:49 +0700</pubDate>
-    <lastBuildDate>Mon, 17 Sep 2018 17:00:49 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 17 Sep 2018 20:27:26 +0700</pubDate>
+    <lastBuildDate>Mon, 17 Sep 2018 20:27:26 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -24,8 +24,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-106/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-106/</guid>
+        <link>http://localhost:4000/daily-digest-106/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-106/</guid>
         
         <category>daily</category>
         
@@ -50,8 +50,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-105/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-105/</guid>
+        <link>http://localhost:4000/daily-digest-105/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-105/</guid>
         
         <category>daily</category>
         
@@ -73,8 +73,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-104/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-104/</guid>
+        <link>http://localhost:4000/daily-digest-104/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-104/</guid>
         
         <category>daily</category>
         
@@ -96,8 +96,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-103/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-103/</guid>
+        <link>http://localhost:4000/daily-digest-103/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-103/</guid>
         
         <category>daily</category>
         
@@ -118,8 +118,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-102/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-102/</guid>
+        <link>http://localhost:4000/daily-digest-102/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-102/</guid>
         
         <category>daily</category>
         
@@ -141,8 +141,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-101/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-101/</guid>
+        <link>http://localhost:4000/daily-digest-101/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-101/</guid>
         
         <category>daily</category>
         
@@ -168,8 +168,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 06 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-100/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-100/</guid>
+        <link>http://localhost:4000/daily-digest-100/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-100/</guid>
         
         <category>daily</category>
         
@@ -189,8 +189,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 05 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-99/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-99/</guid>
+        <link>http://localhost:4000/daily-digest-99/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-99/</guid>
         
         <category>daily</category>
         
@@ -300,8 +300,8 @@ windows:
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 04 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//tmuxinator/</link>
-        <guid isPermaLink="true">https://jakartadev.org//tmuxinator/</guid>
+        <link>http://localhost:4000/tmuxinator/</link>
+        <guid isPermaLink="true">http://localhost:4000/tmuxinator/</guid>
         
         <category>daily</category>
         
@@ -324,8 +324,8 @@ How to run native code in the browser, why would you do that, and what does it a
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 04 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-98/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-98/</guid>
+        <link>http://localhost:4000/daily-digest-98/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-98/</guid>
         
         <category>daily</category>
         

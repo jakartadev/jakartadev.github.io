@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "jakartaDEV",
-    "home_page_url": "https://jakartadev.org//",
-    "feed_url": "https://jakartadev.org//feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "author": {
         "name": "Deden Fathurahman",
         "url": "https://keybase.io/dedenf"
     },
-    "icon": "https://jakartadev.org//images/favicon.png",
+    "icon": "http://localhost:4000/images/favicon.png",
     "expired": false,
     "items": [
       {
@@ -15,7 +15,7 @@
             "id": "/daily-digest-106",
             "title": "Daily Digest #105",
             "content_html": "<p>Senin, iya, sudah senin lagi, dan selamat bekerja!</p>\n\n<ul>\n  <li><a href=\"https://frontendian.co/service-workers\">Service Workers</a></li>\n  <li><a href=\"http://hickori.es/blog/2018/what-if-learning-code-started-in-an-agile-environment\">What if learning code started in an agile environment?</a></li>\n  <li><a href=\"https://www.infoq.com/articles/microservices-post-kubernetes\">Microservices in a Post-Kubernetes Era</a></li>\n  <li><a href=\"https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113\">Lessons Learned: Code Splitting with Webpack and React</a></li>\n  <li><a href=\"https://hackernoon.com/goodbye-redux-26e6a27b3a0b\">Goodbye Redux</a></li>\n  <li><a href=\"https://blog.octo.com/en/octo-vision-on-service-mesh-the-challenges/\">OCTO vision on Service Mesh : the challenges</a></li>\n  <li><a href=\"https://www.erlang-solutions.com/blog/receiving-messages-in-elixir-or-a-few-things-you-need-to-know-in-order-to-avoid-performance-issues.html\">Receiving messages in Elixir, or a few things you need to know in order to avoid performance issues</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-106/",
+            "url": "http://localhost:4000/daily-digest-106/",
             "summary": "",
             "date_published": "2018-09-17 00:00:00 +0700"
         },
@@ -24,7 +24,7 @@
             "id": "/daily-digest-105",
             "title": "Daily Digest #104",
             "content_html": "<p>Happy friday, here are some links for your weekend!</p>\n\n<ul>\n  <li><a href=\"https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/\">Cypress – the reason why we’re not stuck with Selenium</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/\">Real-time Streaming Pattern: Analyzing Trends</a></li>\n  <li><a href=\"https://sysdig.com/blog/kubernetes-monitoring-prometheus/\">Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)</a></li>\n  <li><a href=\"https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html\">Continuous Delivery Patterns with Serverless Applications</a></li>\n  <li><a href=\"https://tech.wayfair.com/2018/08/optimizing-tv-advertising-toward-return-on-investment/\">Optimizing TV Advertising Toward Return on Investment</a></li>\n  <li><a href=\"https://towardsdatascience.com/building-machine-learning-engineering-tools-e348ae4edf8\">Building Machine Learning Engineering Tools</a></li>\n  <li><a href=\"https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9\">An OAuth 2.0 introduction for beginners</a></li>\n  <li><a href=\"https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f\">Leveraging Elastic Demand for Forecasting</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-105/",
+            "url": "http://localhost:4000/daily-digest-105/",
             "summary": "",
             "date_published": "2018-09-14 00:00:00 +0700"
         },
@@ -33,7 +33,7 @@
             "id": "/daily-digest-104",
             "title": "Daily Digest #104",
             "content_html": "<ul>\n  <li><a href=\"https://crate.io/a/on-writing-beautiful-tests/\">On Writing Beautiful Tests</a> – should be writing about this</li>\n  <li><a href=\"https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/\">Protecting Mozilla’s GitHub Repositories from Malicious Modification</a> <br />\nyeah, i learn the hard way.</li>\n  <li><a href=\"https://blog.eutopian.io/the-age-of-invisible-disasters/\">The Age Of Invisible Disasters</a></li>\n  <li><a href=\"https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world\">Employee Engagement in a Remote World</a></li>\n  <li><a href=\"https://developers.soundcloud.com/blog/hands-off-deployment-with-canary\">Hands-Off Deployment with Canary</a></li>\n  <li><a href=\"https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/\">Changing Our Approach to Anti-tracking</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-104/",
+            "url": "http://localhost:4000/daily-digest-104/",
             "summary": "",
             "date_published": "2018-09-13 00:00:00 +0700"
         },
@@ -42,7 +42,7 @@
             "id": "/daily-digest-103",
             "title": "Daily Digest #103",
             "content_html": "<ul>\n  <li><a href=\"https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/\">I Wanna Go Fast - Load Balancing Dynamic Steering</a></li>\n  <li><a href=\"https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c\">Service Worker Caching Strategies Based on Request Types</a></li>\n  <li><a href=\"https://blog.scottlogic.com/2018/07/20/wasm-future.html\">The future of WebAssembly - A look at upcoming features and proposals</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html\">Lean Testing, or Why Unit Tests are Worse than You Think</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent\">Productivity at Scale: How We Improved Build Time by 400% at LinkedIn</a></li>\n  <li><a href=\"https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/\">Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/\">Event Triggered Customer Segmentation</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-103/",
+            "url": "http://localhost:4000/daily-digest-103/",
             "summary": "",
             "date_published": "2018-09-12 00:00:00 +0700"
         },
@@ -51,7 +51,7 @@
             "id": "/daily-digest-102",
             "title": "Daily Digest #102",
             "content_html": "<ul>\n  <li><a href=\"https://stackexchange.com/performance\">stackexchange performance report</a></li>\n  <li><a href=\"https://www.reaktor.com/celebrationofcode/\">A celebration of code – 6 pieces of code that had an impact</a></li>\n  <li><a href=\"https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb\">Kubernetes Networking: Behind the scenes</a></li>\n  <li><a href=\"https://mesosphere.com/blog/brief-history-containers/\">A Brief History of Containers</a></li>\n  <li><a href=\"https://stackshare.io/posts/companies-using-graphql-in-production-2018\">How Big Companies Are Using GraphQL in 2018</a></li>\n  <li><a href=\"https://fly.io/articles/lighthouse-how-to-reduce-render-blocking-scripts/\">Lighthouse: how to reduce render-blocking scripts</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-102/",
+            "url": "http://localhost:4000/daily-digest-102/",
             "summary": "",
             "date_published": "2018-09-10 00:00:00 +0700"
         }
