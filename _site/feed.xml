@@ -3,11 +3,36 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Sep 2018 11:42:38 +0700</pubDate>
-    <lastBuildDate>Fri, 14 Sep 2018 11:42:38 +0700</lastBuildDate>
+    <link>https://jakartadev.org//</link>
+    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 17 Sep 2018 17:00:49 +0700</pubDate>
+    <lastBuildDate>Mon, 17 Sep 2018 17:00:49 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;105</title>
+        <description>&lt;p&gt;Senin, iya, sudah senin lagi, dan selamat bekerja!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://frontendian.co/service-workers&quot;&gt;Service Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hickori.es/blog/2018/what-if-learning-code-started-in-an-agile-environment&quot;&gt;What if learning code started in an agile environment?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/microservices-post-kubernetes&quot;&gt;Microservices in a Post-Kubernetes Era&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113&quot;&gt;Lessons Learned: Code Splitting with Webpack and React&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/goodbye-redux-26e6a27b3a0b&quot;&gt;Goodbye Redux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/octo-vision-on-service-mesh-the-challenges/&quot;&gt;OCTO vision on Service Mesh : the challenges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.erlang-solutions.com/blog/receiving-messages-in-elixir-or-a-few-things-you-need-to-know-in-order-to-avoid-performance-issues.html&quot;&gt;Receiving messages in Elixir, or a few things you need to know in order to avoid performance issues&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-106/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-106/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;104</title>
@@ -25,8 +50,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-105/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-105/</guid>
+        <link>https://jakartadev.org//daily-digest-105/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-105/</guid>
         
         <category>daily</category>
         
@@ -48,8 +73,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-104/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-104/</guid>
+        <link>https://jakartadev.org//daily-digest-104/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-104/</guid>
         
         <category>daily</category>
         
@@ -71,8 +96,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-103/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-103/</guid>
+        <link>https://jakartadev.org//daily-digest-103/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-103/</guid>
         
         <category>daily</category>
         
@@ -93,8 +118,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-102/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-102/</guid>
+        <link>https://jakartadev.org//daily-digest-102/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-102/</guid>
         
         <category>daily</category>
         
@@ -116,8 +141,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-101/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-101/</guid>
+        <link>https://jakartadev.org//daily-digest-101/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-101/</guid>
         
         <category>daily</category>
         
@@ -143,8 +168,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 06 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-100/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-100/</guid>
+        <link>https://jakartadev.org//daily-digest-100/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-100/</guid>
         
         <category>daily</category>
         
@@ -164,8 +189,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 05 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-99/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-99/</guid>
+        <link>https://jakartadev.org//daily-digest-99/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-99/</guid>
         
         <category>daily</category>
         
@@ -275,8 +300,8 @@ windows:
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 04 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/tmuxinator/</link>
-        <guid isPermaLink="true">http://localhost:4000/tmuxinator/</guid>
+        <link>https://jakartadev.org//tmuxinator/</link>
+        <guid isPermaLink="true">https://jakartadev.org//tmuxinator/</guid>
         
         <category>daily</category>
         
@@ -299,30 +324,8 @@ How to run native code in the browser, why would you do that, and what does it a
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 04 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-98/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-98/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;97</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/&quot;&gt;Kubernetes for the Kubernewbie - The Journey&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3297437/javascript/vue-javascript-cli-tool-gets-a-rewrite.html&quot;&gt;Vue JavaScript CLI tool gets a rewrite&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/&quot;&gt;Scroll Bouncing On Your Websites&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://apnews.com/f60bc112665b458cb6473d7ee9492932&quot;&gt;AP Exclusive: Google tracks your movements, like it or not&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.influencive.com/5-questions-to-ask-before-any-ux-project/&quot;&gt;5 Questions to Ask Before Any UX Project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/notebook-innovation-591ee3221233&quot;&gt;Beyond Interactive: Notebook Innovation at Netflix&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 03 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-97/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-97/</guid>
+        <link>https://jakartadev.org//daily-digest-98/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-98/</guid>
         
         <category>daily</category>
         
