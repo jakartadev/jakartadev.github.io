@@ -3,11 +3,86 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Sep 2018 20:27:26 +0700</pubDate>
-    <lastBuildDate>Mon, 17 Sep 2018 20:27:26 +0700</lastBuildDate>
+    <link>https://jakartadev.org//</link>
+    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 21 Sep 2018 11:40:40 +0700</pubDate>
+    <lastBuildDate>Fri, 21 Sep 2018 11:40:40 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;107</title>
+        <description>&lt;p&gt;3 hari ini waktu dibuat untuk menyiapkan materi untuk &lt;a href=&quot;http://agileimpact.id/&quot;&gt;Agile Impact&lt;/a&gt;, akan dibuatkan artikel khusus tentang ini.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.7pace.com/blog/become-a-better-programmer-skills-development&quot;&gt;How to Become a Better Software Developer: A Handbook on Personal Performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/removing-jquery-from-github-frontend/&quot;&gt;Removing jQuery from GitHub.com frontend&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/data-wrangling-apache-kafka-ksql&quot;&gt;Data Wrangling with Apache Kafka and KSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale&quot;&gt;Managing Software Dependency at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ubereng.wpengine.com/forecasting-introduction/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=forecasting-introduction&quot;&gt;Forecasting at Uber: An Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-107/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-107/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Membangun Kubernetes cluster</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://kubernetes.io/&quot;&gt;Kubernetes&lt;/a&gt;, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes.&lt;/p&gt;
+
+&lt;p&gt;Di sini akan mencoba membangun cluster kubernetes dilokal mesin kita, bisa berupa laptop atau desktop yang biasa digunakan, untuk membangun cluster ini setidaknya dibutuhkan beberapa hal berikut:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;RAM 8GB&lt;/li&gt;
+  &lt;li&gt;Storage, setidaknya membutuhkan 4GB per-node&lt;/li&gt;
+  &lt;li&gt;Virtualbox&lt;/li&gt;
+  &lt;li&gt;Vagrant (opsional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vagrant digunakan sebagai alat untuk membuat development environment lebih mudah disini, dan virtualbox digunakan sebagai mesin virtualisasinya, cluster ini terdiri dari 1 &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; dan 3 &lt;code class=&quot;highlighter-rouge&quot;&gt;node&lt;/code&gt; (slave) kubernetes. Untuk OS yang digunakan adalah GNU/Linux distribusi Centos, bisa saja menggunakan distro lain, seperti Ubuntu, tinggal ubah perintah package management sesuai dengan distro yang digunakan.&lt;/p&gt;
+
+&lt;h3 id=&quot;setup&quot;&gt;Setup&lt;/h3&gt;
+&lt;p&gt;Untuk setup awal, kita akan mendefinisikan host atau node yang akan kita gunakan di Vagrantfile, disini akan disetup 4 node, sourcecode untuk artikel ini ada &lt;a href=&quot;https://github.com/dedenf/kubernetes&quot;&gt;disini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ vagrant up&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk menghidupkan 4 node yang sudah ditulis di &lt;code class=&quot;highlighter-rouge&quot;&gt;Vagrantfile&lt;/code&gt;. Setelah semua node hidup, kita bisa melihat status dari masing-masing node di vagrant dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;$ vagrant status&lt;/code&gt; dan akan mendapat respon berikut.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Shell&quot;&gt;Current machine states:
+
+master                    running (virtualbox)
+kube1                     running (virtualbox)
+kube2                     running (virtualbox)
+kube3                     running (virtualbox)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Setelah hidup node-node tersebut, ssh ke node master &lt;code class=&quot;highlighter-rouge&quot;&gt;$ vagrant ssh master&lt;/code&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Shell&quot;&gt;[vagrant@k8s-master ~]$ sudo su - 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Perintah ini untuk bisa bertukar posisi ke &lt;code class=&quot;highlighter-rouge&quot;&gt;root&lt;/code&gt; sehingga lebih mudah, untuk yang lebih &lt;em&gt;concern&lt;/em&gt; dengan keamanan, cukup dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo&lt;/code&gt; ditiap perintah yang membutuhkan privilege lebih tinggi, hanya pastikan bahwa user anda bisa sudah mendapatkan izin di &lt;code class=&quot;highlighter-rouge&quot;&gt;visudo&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;setelah kita akan mendaftarkan 4 node yang digunakan ini di &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/hosts&lt;/code&gt; masing-masing node.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//deploy-kubernetes/</link>
+        <guid isPermaLink="true">https://jakartadev.org//deploy-kubernetes/</guid>
+        
+        <category>development</category>
+        
+        <category>kubernetes</category>
+        
+        <category>devops</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;105</title>
@@ -24,8 +99,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-106/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-106/</guid>
+        <link>https://jakartadev.org//daily-digest-106/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-106/</guid>
         
         <category>daily</category>
         
@@ -50,8 +125,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-105/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-105/</guid>
+        <link>https://jakartadev.org//daily-digest-105/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-105/</guid>
         
         <category>daily</category>
         
@@ -73,8 +148,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-104/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-104/</guid>
+        <link>https://jakartadev.org//daily-digest-104/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-104/</guid>
         
         <category>daily</category>
         
@@ -96,8 +171,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-103/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-103/</guid>
+        <link>https://jakartadev.org//daily-digest-103/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-103/</guid>
         
         <category>daily</category>
         
@@ -118,8 +193,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-102/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-102/</guid>
+        <link>https://jakartadev.org//daily-digest-102/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-102/</guid>
         
         <category>daily</category>
         
@@ -141,8 +216,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-101/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-101/</guid>
+        <link>https://jakartadev.org//daily-digest-101/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-101/</guid>
         
         <category>daily</category>
         
@@ -168,8 +243,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 06 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-100/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-100/</guid>
+        <link>https://jakartadev.org//daily-digest-100/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-100/</guid>
         
         <category>daily</category>
         
@@ -189,143 +264,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 05 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-99/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-99/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tmuxinator</title>
-        <description>&lt;p&gt;Originally published at &lt;a href=&quot;https://jenius.tech/2018/09/03/tmuxinator/&quot;&gt;Jenius.tech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Di Jenius, &lt;em&gt;automation&lt;/em&gt; adalah salah satu kunci untuk men-&lt;em&gt;deliver&lt;/em&gt; software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan &lt;em&gt;environment&lt;/em&gt; development, Setelah sebelumnya diperkenalkan dengan &lt;a href=&quot;https://jenius.tech/2018/01/30/pengenalan-tmux/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt;, yang sangat berguna untuk bekerja di &lt;em&gt;multi-shell&lt;/em&gt;. di sini akan diperkenalkan &lt;em&gt;tool&lt;/em&gt; pendukung untuk tmux, yaitu &lt;a href=&quot;https://github.com/tmuxinator/tmuxinator&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Sebagai contoh, saya menggunakan 6 ‘tab’ di shell yang saya gunakan.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/images/posts/tmuxinator/tmuxinator.jpg&quot; alt=&quot;shell&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jika kita melakukan pembukaan shell secara manual, misalkan jika &lt;code class=&quot;highlighter-rouge&quot;&gt;keybinding&lt;/code&gt; menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + a + c&lt;/code&gt; maka akan dibutuhkan setidaknya 6 kali untuk membuat 6 tab. kita bisa menggunakan Tmuxinator untuk meng-automasi ini, menjadikan tiap kali kita membuka tmux, shell yang menjadi favorit atau shell yang biasa kita gunakan untuk bekerja bisa langsung terhadirkan.&lt;/p&gt;
-
-&lt;h3 id=&quot;install&quot;&gt;install&lt;/h3&gt;
-&lt;p&gt;sesuai dengan howto dari github page-nya, kita install tmuxinator, dan karena tmuxinator dipaketkan sebagai &lt;code class=&quot;highlighter-rouge&quot;&gt;gem&lt;/code&gt;, maka untuk meng-install menginstallnya digunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;ruby-gem&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install tmuxinator&lt;/code&gt; ↩&lt;/p&gt;
-
-&lt;p&gt;Setelah ini, set editor yang anda gunakan, saya menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;vim&lt;/code&gt; sebagai default editor, jika hendak mengubahnya, tinggal ubah shell config ke editor pilihan, misalkan jika hendak mengubah default editor ke vim atau visual code editor dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;export EDITOR='vim'&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;export EDITOR='code'&lt;/code&gt; untuk vsc.&lt;/p&gt;
-
-&lt;p&gt;Setelah setting default editor buatlah project baru dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator new development&lt;/code&gt; (di sini saya menggunakan development sebagai nama project), dan akan diberikan semacam template window yang bisa digunakan sebagai tahap awal.&lt;/p&gt;
-
-&lt;p&gt;Untuk setting saya sendiri, berikut file yml tmuxinator project yang dibuat.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# ~/.tmuxinator/development.yml
-
-name: dev
-root: ~/
-
-windows:
-  - System:
-      layout: even-vertical
-      root: ~
-      panes:
-        - htop
-        - vtop
-  - JeniusApp: 
-      layout: even-vertical
-      root: ~/Developments/jenius/jenius2-apps/
-      panes:
-        - gss
-        - git pull origin develop
-
-  - Microservice:
-      layout: even-vertical
-      root: ~/Developments/jenius/microservice/
-      panes:
-        - git multi pull
-
-  - Mongo:
-      layout: tiled
-      panes:
-        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
-        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
-        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
-        - cd ~/Developments/devops/mongodb-vagrant/ &amp;amp;&amp;amp; vagrant status
-
-  - Orchestrator:
-      layout: tiled
-      panes:
-        - ls
-  - Side:
-      layout: tiled
-      root: ~/Developments/blogs/
-      panes:
-        - cd ~/Developments/blogs/dedenf.github.io; gss
-        - cd ~/Developments/blogs/jeniusteam.github.io; gss
-        - cd ~/Developments/blogs/jakartadev.github.io; gss
-        - cd ~/Developments/blogs/epicoffee.github.io; gss
-  
-  - Infra:
-      layout: tiled
-      panes:
-        - ls
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Untuk koleksi dotfiles yang digunakan, saya simpan &lt;a href=&quot;https://github.com/dedenf/dotfiles&quot;&gt;di repo ini&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;eksekusi&quot;&gt;Eksekusi&lt;/h3&gt;
-&lt;p&gt;Setelah membuat konfigurasi yang dibutuhkan, jalankan dengan menggunakan perintah&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ tmux&lt;/code&gt; ↩&lt;/p&gt;
-
-&lt;p&gt;Dengan memanggil perintah ini, maka session tmux dibuat, baru kita bisa menjalankan &lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt; diatas session &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ tmuxinator development&lt;/code&gt; ↩&lt;/p&gt;
-
-&lt;p&gt;Maka shell anda akan menampilkan 6 tab, sesuai dengan konfigurasi yang ditulis. Silakan ubah dan gunakan perintah sesuai dengan project yang sedang aktif digunakan.&lt;/p&gt;
-
-&lt;h3 id=&quot;footnote&quot;&gt;Footnote&lt;/h3&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;tmuxinator salah satu tool yang bisa digunakan, masih banyak project lain yang bisa digunakan, misalkan &lt;a href=&quot;https://github.com/remiprev/teamocil&quot;&gt;teamocil&lt;/a&gt; dan project lainnya. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 04 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/tmuxinator/</link>
-        <guid isPermaLink="true">http://localhost:4000/tmuxinator/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;98</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202&quot;&gt;Scaling at Instacart: Distributing Data Across Multiple Postgres Databases with Rails&lt;/a&gt;  &lt;br /&gt;
-Interesting part of scaling distributed data at Instacart.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/&quot;&gt;How to Debug a Node.js app in a Docker Container&lt;/a&gt; &lt;br /&gt;
-Debugging directly on container can be a faster way to know what’s going on.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/react-native/react-native-for-android-development&quot;&gt;Dive into React Native for Android Development&lt;/a&gt; &lt;br /&gt;
-pros and cons using react-native as its engine to develop android application&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71&quot;&gt;WebAssembly: How and why&lt;/a&gt; &lt;br /&gt;
-How to run native code in the browser, why would you do that, and what does it all mean for JavaScript and the future of web development&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 04 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-98/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-98/</guid>
+        <link>https://jakartadev.org//daily-digest-99/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-99/</guid>
         
         <category>daily</category>
         
