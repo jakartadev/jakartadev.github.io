@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "jakartaDEV",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "https://jakartadev.org//",
+    "feed_url": "https://jakartadev.org//feed.json",
     "author": {
         "name": "Deden Fathurahman",
         "url": "https://keybase.io/dedenf"
     },
-    "icon": "http://localhost:4000/images/favicon.png",
+    "icon": "https://jakartadev.org//images/favicon.png",
     "expired": false,
     "items": [
       {
@@ -15,7 +15,7 @@
             "id": "/daily-digest-107",
             "title": "Daily Digest #107",
             "content_html": "<p>3 hari ini waktu dibuat untuk menyiapkan materi untuk <a href=\"http://agileimpact.id/\">Agile Impact</a>, akan dibuatkan artikel khusus tentang ini.</p>\n\n<ul>\n  <li><a href=\"https://www.7pace.com/blog/become-a-better-programmer-skills-development\">How to Become a Better Software Developer: A Handbook on Personal Performance</a></li>\n  <li><a href=\"https://githubengineering.com/removing-jquery-from-github-frontend/\">Removing jQuery from GitHub.com frontend</a></li>\n  <li><a href=\"https://www.confluent.io/blog/data-wrangling-apache-kafka-ksql\">Data Wrangling with Apache Kafka and KSQL</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale\">Managing Software Dependency at Scale</a></li>\n  <li><a href=\"https://ubereng.wpengine.com/forecasting-introduction/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=forecasting-introduction\">Forecasting at Uber: An Introduction</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-107/",
+            "url": "https://jakartadev.org//daily-digest-107/",
             "summary": "",
             "date_published": "2018-09-21 00:00:00 +0700"
         },
@@ -24,7 +24,7 @@
             "id": "/deploy-kubernetes",
             "title": "Membangun Kubernetes cluster",
             "content_html": "<p><a href=\"https://kubernetes.io/\">Kubernetes</a>, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes.</p>\n\n<p>Di sini akan mencoba membangun cluster kubernetes dilokal mesin kita, bisa berupa laptop atau desktop yang biasa digunakan, untuk membangun cluster ini setidaknya dibutuhkan beberapa hal berikut:</p>\n\n<ul>\n  <li>RAM 8GB</li>\n  <li>Storage, setidaknya membutuhkan 4GB per-node</li>\n  <li>Virtualbox</li>\n  <li>Vagrant (opsional)</li>\n</ul>\n\n<p>Vagrant digunakan sebagai alat untuk membuat development environment lebih mudah disini, dan virtualbox digunakan sebagai mesin virtualisasinya, cluster ini terdiri dari 1 <code class=\"highlighter-rouge\">master</code> dan 3 <code class=\"highlighter-rouge\">node</code> (slave) kubernetes. Untuk OS yang digunakan adalah GNU/Linux distribusi Centos, bisa saja menggunakan distro lain, seperti Ubuntu, tinggal ubah perintah package management sesuai dengan distro yang digunakan.</p>\n\n<h3 id=\"setup\">Setup</h3>\n<p>Untuk setup awal, kita akan mendefinisikan host atau node yang akan kita gunakan di Vagrantfile, disini akan disetup 4 node, sourcecode untuk artikel ini ada <a href=\"https://github.com/dedenf/kubernetes\">disini</a>.</p>\n\n<p><code class=\"highlighter-rouge\">$ vagrant up</code></p>\n\n<p>Untuk menghidupkan 4 node yang sudah ditulis di <code class=\"highlighter-rouge\">Vagrantfile</code>. Setelah semua node hidup, kita bisa melihat status dari masing-masing node di vagrant dengan perintah <code class=\"highlighter-rouge\">$ vagrant status</code> dan akan mendapat respon berikut.</p>\n\n<pre><code class=\"language-Shell\">Current machine states:\n\nmaster                    running (virtualbox)\nkube1                     running (virtualbox)\nkube2                     running (virtualbox)\nkube3                     running (virtualbox)\n</code></pre>\n\n<p>Setelah hidup node-node tersebut, ssh ke node master <code class=\"highlighter-rouge\">$ vagrant ssh master</code>.</p>\n\n<pre><code class=\"language-Shell\">[vagrant@k8s-master ~]$ sudo su - \n</code></pre>\n\n<p>Perintah ini untuk bisa bertukar posisi ke <code class=\"highlighter-rouge\">root</code> sehingga lebih mudah, untuk yang lebih <em>concern</em> dengan keamanan, cukup dengan perintah <code class=\"highlighter-rouge\">sudo</code> ditiap perintah yang membutuhkan privilege lebih tinggi, hanya pastikan bahwa user anda bisa sudah mendapatkan izin di <code class=\"highlighter-rouge\">visudo</code>.</p>\n\n<p>setelah kita akan mendaftarkan 4 node yang digunakan ini di <code class=\"highlighter-rouge\">/etc/hosts</code> masing-masing node.</p>\n",
-            "url": "http://localhost:4000/deploy-kubernetes/",
+            "url": "https://jakartadev.org//deploy-kubernetes/",
             "summary": "",
             "date_published": "2018-09-17 00:00:00 +0700"
         },
@@ -33,7 +33,7 @@
             "id": "/daily-digest-106",
             "title": "Daily Digest #105",
             "content_html": "<p>Senin, iya, sudah senin lagi, dan selamat bekerja!</p>\n\n<ul>\n  <li><a href=\"https://frontendian.co/service-workers\">Service Workers</a></li>\n  <li><a href=\"http://hickori.es/blog/2018/what-if-learning-code-started-in-an-agile-environment\">What if learning code started in an agile environment?</a></li>\n  <li><a href=\"https://www.infoq.com/articles/microservices-post-kubernetes\">Microservices in a Post-Kubernetes Era</a></li>\n  <li><a href=\"https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113\">Lessons Learned: Code Splitting with Webpack and React</a></li>\n  <li><a href=\"https://hackernoon.com/goodbye-redux-26e6a27b3a0b\">Goodbye Redux</a></li>\n  <li><a href=\"https://blog.octo.com/en/octo-vision-on-service-mesh-the-challenges/\">OCTO vision on Service Mesh : the challenges</a></li>\n  <li><a href=\"https://www.erlang-solutions.com/blog/receiving-messages-in-elixir-or-a-few-things-you-need-to-know-in-order-to-avoid-performance-issues.html\">Receiving messages in Elixir, or a few things you need to know in order to avoid performance issues</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-106/",
+            "url": "https://jakartadev.org//daily-digest-106/",
             "summary": "",
             "date_published": "2018-09-17 00:00:00 +0700"
         },
@@ -42,7 +42,7 @@
             "id": "/daily-digest-105",
             "title": "Daily Digest #104",
             "content_html": "<p>Happy friday, here are some links for your weekend!</p>\n\n<ul>\n  <li><a href=\"https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/\">Cypress – the reason why we’re not stuck with Selenium</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/\">Real-time Streaming Pattern: Analyzing Trends</a></li>\n  <li><a href=\"https://sysdig.com/blog/kubernetes-monitoring-prometheus/\">Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)</a></li>\n  <li><a href=\"https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html\">Continuous Delivery Patterns with Serverless Applications</a></li>\n  <li><a href=\"https://tech.wayfair.com/2018/08/optimizing-tv-advertising-toward-return-on-investment/\">Optimizing TV Advertising Toward Return on Investment</a></li>\n  <li><a href=\"https://towardsdatascience.com/building-machine-learning-engineering-tools-e348ae4edf8\">Building Machine Learning Engineering Tools</a></li>\n  <li><a href=\"https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9\">An OAuth 2.0 introduction for beginners</a></li>\n  <li><a href=\"https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f\">Leveraging Elastic Demand for Forecasting</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-105/",
+            "url": "https://jakartadev.org//daily-digest-105/",
             "summary": "",
             "date_published": "2018-09-14 00:00:00 +0700"
         },
@@ -51,7 +51,7 @@
             "id": "/daily-digest-104",
             "title": "Daily Digest #104",
             "content_html": "<ul>\n  <li><a href=\"https://crate.io/a/on-writing-beautiful-tests/\">On Writing Beautiful Tests</a> – should be writing about this</li>\n  <li><a href=\"https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/\">Protecting Mozilla’s GitHub Repositories from Malicious Modification</a> <br />\nyeah, i learn the hard way.</li>\n  <li><a href=\"https://blog.eutopian.io/the-age-of-invisible-disasters/\">The Age Of Invisible Disasters</a></li>\n  <li><a href=\"https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world\">Employee Engagement in a Remote World</a></li>\n  <li><a href=\"https://developers.soundcloud.com/blog/hands-off-deployment-with-canary\">Hands-Off Deployment with Canary</a></li>\n  <li><a href=\"https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/\">Changing Our Approach to Anti-tracking</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-104/",
+            "url": "https://jakartadev.org//daily-digest-104/",
             "summary": "",
             "date_published": "2018-09-13 00:00:00 +0700"
         }
