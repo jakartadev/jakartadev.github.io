@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Sep 2018 14:33:19 +0700</pubDate>
-    <lastBuildDate>Mon, 24 Sep 2018 14:33:19 +0700</lastBuildDate>
+    <pubDate>Mon, 24 Sep 2018 14:38:00 +0700</pubDate>
+    <lastBuildDate>Mon, 24 Sep 2018 14:38:00 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;108</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Physiix/topsi-project-manager&quot;&gt;Topsi – A Desktop Kanban board app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microservices-infrastructure&quot;&gt;No Microservice Is an Island&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/shop-look-deep-learning/index.html&quot;&gt;Shop the Look with Deep Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ubereng.wpengine.com/marmaray-hadoop-ingestion-open-source/&quot;&gt;Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/engineering-housing/image-resizing-architecture-at-housing-com-86fcd295bdab&quot;&gt;Image Resizing Architecture at housing.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/progress-for-big-data-in-kubernetes&quot;&gt;Progress for big data in Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 24 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-108/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-108/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;107</title>
@@ -245,27 +267,6 @@ yeah, i learn the hard way.&lt;/li&gt;
         <pubDate>Thu, 06 Sep 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-100/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-100/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;99</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/old-write/&quot;&gt;Zero Downtime Table Migrations using a Double Write Methodology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877&quot;&gt;TimescaleDB vs. InfluxDB: purpose built differently for time-series data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.ibm.com/dwblog/2018/monolithic-microservices-transformation-journey/&quot;&gt;From monolithic to microservices: A transformation journey&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/maze/?utm_source=jakartadev&quot;&gt;Maximizing Process Performance with Maze, Uber’s Funnel Visualization Platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.olioapps.com/blog/automatic-code-formatting/&quot;&gt;Automatic Code Formatting for Partially-Staged Files&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 05 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-99/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-99/</guid>
         
         <category>daily</category>
         
