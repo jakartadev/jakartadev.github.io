@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div class"posts">
+<div class="posts">
   {% for post in paginator.posts %}
     {% if post.type == "digest" or post.type == "blog" %}
     {% if post.publish == true %}
