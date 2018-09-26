@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4001/</link>
-    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Sep 2018 00:40:08 +0700</pubDate>
-    <lastBuildDate>Wed, 26 Sep 2018 00:40:08 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Sep 2018 11:11:10 +0700</pubDate>
+    <lastBuildDate>Wed, 26 Sep 2018 11:11:10 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -289,8 +289,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
 </description>
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/deploy-kubernetes/</link>
-        <guid isPermaLink="true">http://localhost:4001/deploy-kubernetes/</guid>
+        <link>http://localhost:4000/deploy-kubernetes/</link>
+        <guid isPermaLink="true">http://localhost:4000/deploy-kubernetes/</guid>
         
         <category>development</category>
         
@@ -315,8 +315,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-200/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-200/</guid>
+        <link>http://localhost:4000/daily-digest-200/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-200/</guid>
         
         <category>daily</category>
         
@@ -337,8 +337,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 25 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-109/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-109/</guid>
+        <link>http://localhost:4000/daily-digest-109/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-109/</guid>
         
         <category>daily</category>
         
@@ -359,8 +359,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-108/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-108/</guid>
+        <link>http://localhost:4000/daily-digest-108/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-108/</guid>
         
         <category>daily</category>
         
@@ -382,8 +382,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-107/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-107/</guid>
+        <link>http://localhost:4000/daily-digest-107/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-107/</guid>
         
         <category>daily</category>
         
@@ -407,8 +407,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-106/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-106/</guid>
+        <link>http://localhost:4000/daily-digest-106/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-106/</guid>
         
         <category>daily</category>
         
@@ -433,8 +433,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-105/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-105/</guid>
+        <link>http://localhost:4000/daily-digest-105/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-105/</guid>
         
         <category>daily</category>
         
@@ -456,8 +456,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-104/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-104/</guid>
+        <link>http://localhost:4000/daily-digest-104/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-104/</guid>
         
         <category>daily</category>
         
@@ -479,8 +479,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-103/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-103/</guid>
+        <link>http://localhost:4000/daily-digest-103/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-103/</guid>
         
         <category>daily</category>
         
@@ -501,8 +501,8 @@ yeah, i learn the hard way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4001/daily-digest-102/</link>
-        <guid isPermaLink="true">http://localhost:4001/daily-digest-102/</guid>
+        <link>http://localhost:4000/daily-digest-102/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-102/</guid>
         
         <category>daily</category>
         
