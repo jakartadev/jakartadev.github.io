@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-26T11:11:10+07:00</updated>
+ <updated>2018-09-26T11:13:20+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Membangun cluster Kubernetes di Vagrant + CentOS</title>
-   <link href="http://localhost:4000/deploy-kubernetes/"/>
+   <link href="http://localhost:4000/deploy-kubernetes-cluster-vagrant-centos/"/>
    <updated>2018-09-26T00:00:00+07:00</updated>
-   <id>http://localhost:4000/deploy-kubernetes</id>
+   <id>http://localhost:4000/deploy-kubernetes-cluster-vagrant-centos</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://kubernetes.io/&quot;&gt;Kubernetes&lt;/a&gt;, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes.&lt;/p&gt;
 
 &lt;p&gt;Di sini akan mencoba membangun cluster kubernetes dilokal mesin kita, bisa berupa laptop atau desktop yang biasa digunakan, untuk membangun cluster ini setidaknya dibutuhkan beberapa hal berikut:&lt;/p&gt;
