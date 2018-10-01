@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Sep 2018 11:13:20 +0700</pubDate>
-    <lastBuildDate>Wed, 26 Sep 2018 11:13:20 +0700</lastBuildDate>
+    <pubDate>Mon, 01 Oct 2018 15:42:08 +0700</pubDate>
+    <lastBuildDate>Mon, 01 Oct 2018 15:42:08 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;201</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/containers-as-i-didnt-know-them-67cd4eaf3739&quot;&gt;Containers as I didn’t know them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/modernizing-applications-for-kubernetes&quot;&gt;Modernizing Applications for Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083&quot;&gt;Flutter: Pros and Cons for Seamless Cross Platform Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase&quot;&gt;Securing your Ruby and Rails Codebase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec&quot;&gt;Top 5 Courses to Learn Python in 2018 — Best of Lot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trix-editor.org/&quot;&gt;Trix Editor – A rich text editor for everyday writing from Basecamp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181&quot;&gt;Goku: Building a scalable and high performant time series database system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Oct 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-201/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-201/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Membangun cluster Kubernetes di Vagrant + CentOS</title>
@@ -481,28 +504,6 @@ yeah, i learn the hard way.&lt;/li&gt;
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-103/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-103/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;102</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackexchange.com/performance&quot;&gt;stackexchange performance report&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reaktor.com/celebrationofcode/&quot;&gt;A celebration of code – 6 pieces of code that had an impact&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb&quot;&gt;Kubernetes Networking: Behind the scenes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/brief-history-containers/&quot;&gt;A Brief History of Containers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/companies-using-graphql-in-production-2018&quot;&gt;How Big Companies Are Using GraphQL in 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fly.io/articles/lighthouse-how-to-reduce-render-blocking-scripts/&quot;&gt;Lighthouse: how to reduce render-blocking scripts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 10 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-102/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-102/</guid>
         
         <category>daily</category>
         
