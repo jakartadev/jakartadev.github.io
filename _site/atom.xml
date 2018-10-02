@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-10-01T15:42:08+07:00</updated>
+ <updated>2018-10-02T15:58:35+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;202</title>
+   <link href="http://localhost:4000/daily-digest-202/"/>
+   <updated>2018-10-02T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-202</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660?utm_source=jakartadev&quot;&gt;Why should Chaos be part of your Distributed Systems Engineering?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/7-leadership-skills-will-make-or-break-your-devops-transformation?utm_source=jakartadev&quot;&gt;7 leadership skills that will make or break your DevOps transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grahamc.com/blog/nix-and-layered-docker-images?utm_source=jakartadev&quot;&gt;Optimising Docker Layers for Better Caching with Nix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-container-based-architectures-require-different-networking?utm_source=jakartadev&quot;&gt;How Container-Based Architectures Require Different Networking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security?utm_source=jakartadev&quot;&gt;Temper Kubernetes and Container FOMO Through Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/serious-scrum/the-logic-of-noestimates-4238e0be3bb6?utm_source=jakartadev&quot;&gt;The logic of #NoEstimates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;201</title>

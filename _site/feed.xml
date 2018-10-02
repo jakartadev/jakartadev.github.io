@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Oct 2018 15:42:08 +0700</pubDate>
-    <lastBuildDate>Mon, 01 Oct 2018 15:42:08 +0700</lastBuildDate>
+    <pubDate>Tue, 02 Oct 2018 15:58:35 +0700</pubDate>
+    <lastBuildDate>Tue, 02 Oct 2018 15:58:35 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;202</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660?utm_source=jakartadev&quot;&gt;Why should Chaos be part of your Distributed Systems Engineering?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/7-leadership-skills-will-make-or-break-your-devops-transformation?utm_source=jakartadev&quot;&gt;7 leadership skills that will make or break your DevOps transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grahamc.com/blog/nix-and-layered-docker-images?utm_source=jakartadev&quot;&gt;Optimising Docker Layers for Better Caching with Nix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-container-based-architectures-require-different-networking?utm_source=jakartadev&quot;&gt;How Container-Based Architectures Require Different Networking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security?utm_source=jakartadev&quot;&gt;Temper Kubernetes and Container FOMO Through Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/serious-scrum/the-logic-of-noestimates-4238e0be3bb6?utm_source=jakartadev&quot;&gt;The logic of #NoEstimates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 02 Oct 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-202/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-202/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;201</title>
@@ -481,29 +503,6 @@ yeah, i learn the hard way.&lt;/li&gt;
         <pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-104/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-104/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;103</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/&quot;&gt;I Wanna Go Fast - Load Balancing Dynamic Steering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c&quot;&gt;Service Worker Caching Strategies Based on Request Types&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/07/20/wasm-future.html&quot;&gt;The future of WebAssembly - A look at upcoming features and proposals&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent&quot;&gt;Productivity at Scale: How We Improved Build Time by 400% at LinkedIn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/&quot;&gt;Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/&quot;&gt;Event Triggered Customer Segmentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-103/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-103/</guid>
         
         <category>daily</category>
         
