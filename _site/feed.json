@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-203",
+            "title": "Daily Digest #203",
+            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security/\">Temper Kubernetes and Container FOMO Through Security</a></li>\n  <li><a href=\"https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44\">Dockerizing modern web apps</a></li>\n  <li><a href=\"https://opensource.com/article/18/9/distributed-tracing-tools\">3 open source distributed tracing tools</a></li>\n  <li><a href=\"https://thenewstack.io/the-future-of-inner-source/\">The Future of Inner Source</a></li>\n  <li><a href=\"https://dev.to/bgadrian/16-free-toolsservices-that-any-developer-should-use-4e7e\">16 free tools &amp; services that any developer should use</a></li>\n  <li><a href=\"http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html\">Be Nice And Write Stable Code</a></li>\n  <li><a href=\"http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf\">Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-203/",
+            "summary": "",
+            "date_published": "2018-10-03 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-202",
             "title": "Daily Digest #202",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660?utm_source=jakartadev\">Why should Chaos be part of your Distributed Systems Engineering?</a></li>\n  <li><a href=\"https://techbeacon.com/7-leadership-skills-will-make-or-break-your-devops-transformation?utm_source=jakartadev\">7 leadership skills that will make or break your DevOps transformation</a></li>\n  <li><a href=\"https://grahamc.com/blog/nix-and-layered-docker-images?utm_source=jakartadev\">Optimising Docker Layers for Better Caching with Nix</a></li>\n  <li><a href=\"https://thenewstack.io/how-container-based-architectures-require-different-networking?utm_source=jakartadev\">How Container-Based Architectures Require Different Networking</a></li>\n  <li><a href=\"https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security?utm_source=jakartadev\">Temper Kubernetes and Container FOMO Through Security</a></li>\n  <li><a href=\"https://medium.com/serious-scrum/the-logic-of-noestimates-4238e0be3bb6?utm_source=jakartadev\">The logic of #NoEstimates</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "http://localhost:4000/daily-digest-200/",
             "summary": "",
             "date_published": "2018-09-26 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-109",
-            "title": "Daily Digest #109",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/engineering-housing/running-production-elasticsearch-cluster-on-spot-instances-80bf03655092\">Running elasticsearch cluster on spot instances</a></li>\n  <li><a href=\"https://hackernoon.com/going-on-a-tair-an-alibaba-guide-to-nvm-caching-optimization-97f799675a44\">Going on a Tair: A Guide to NVM Caching Optimization</a></li>\n  <li><a href=\"https://medium.com/skills-matter/the-horrors-lurking-in-your-legacy-codebase-616d7d631f35\">The Horrors Lurking in your Legacy Codebase</a></li>\n  <li><a href=\"https://hackernoon.com/the-evolution-of-healthchecks-io-hosting-setup-4fa0d249a35a\">From DigitalOcean to Linode to Google Cloud Platform: the Evolution of healthchecks.io Hosting Setup</a></li>\n  <li><a href=\"https://robots.thoughtbot.com/the-real-story-behind-story-points\">The Real Story Behind Story Points</a></li>\n  <li><a href=\"https://s3-us-west-2.amazonaws.com/buttercms/ButterCMS+presents+MicroservicesForStartups.pdf\">Microservices for startups</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-109/",
-            "summary": "",
-            "date_published": "2018-09-25 00:00:00 +0700"
         }
 
     ]

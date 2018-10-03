@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Oct 2018 16:00:54 +0700</pubDate>
-    <lastBuildDate>Tue, 02 Oct 2018 16:00:54 +0700</lastBuildDate>
+    <pubDate>Wed, 03 Oct 2018 11:26:25 +0700</pubDate>
+    <lastBuildDate>Wed, 03 Oct 2018 11:26:25 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;203</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security/&quot;&gt;Temper Kubernetes and Container FOMO Through Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44&quot;&gt;Dockerizing modern web apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/9/distributed-tracing-tools&quot;&gt;3 open source distributed tracing tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/the-future-of-inner-source/&quot;&gt;The Future of Inner Source&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/bgadrian/16-free-toolsservices-that-any-developer-should-use-4e7e&quot;&gt;16 free tools &amp;amp; services that any developer should use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html&quot;&gt;Be Nice And Write Stable Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf&quot;&gt;Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 03 Oct 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-203/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-203/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;202</title>
@@ -480,29 +503,6 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
         <pubDate>Fri, 14 Sep 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-105/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-105/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;104</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://crate.io/a/on-writing-beautiful-tests/&quot;&gt;On Writing Beautiful Tests&lt;/a&gt; – should be writing about this&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/&quot;&gt;Protecting Mozilla’s GitHub Repositories from Malicious Modification&lt;/a&gt; &lt;br /&gt;
-yeah, i learn the hard way.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.eutopian.io/the-age-of-invisible-disasters/&quot;&gt;The Age Of Invisible Disasters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world&quot;&gt;Employee Engagement in a Remote World&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/hands-off-deployment-with-canary&quot;&gt;Hands-Off Deployment with Canary&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/&quot;&gt;Changing Our Approach to Anti-tracking&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-104/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-104/</guid>
         
         <category>daily</category>
         
