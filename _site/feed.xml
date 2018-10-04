@@ -3,11 +3,37 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Oct 2018 11:26:25 +0700</pubDate>
-    <lastBuildDate>Wed, 03 Oct 2018 11:26:25 +0700</lastBuildDate>
+    <link>https://jakartadev.org//</link>
+    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Oct 2018 11:17:34 +0700</pubDate>
+    <lastBuildDate>Thu, 04 Oct 2018 11:17:34 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;204</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://resources.codeship.com/ebooks/webrtc-debugging&quot;&gt;How to Debug WebRTC Issues&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://labs.spotify.com/2018/09/18/scalable-user-privacy/&quot;&gt;Scalable User Privacy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/blockchain-bioxroute&quot;&gt;How Blockchains Work and How to Scale Them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10&quot;&gt;How browser rendering works — behind the scenes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/continuous-security&quot;&gt;CI/CD/CS: Implementing Continuous Security across Your Delivery Pipeline and at Run-Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/kelsey-hightower-and-chris-gaun-on-serverless-and-kubernetes&quot;&gt;Kelsey Hightower and Chris Gaun on serverless and Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces&quot;&gt;Using Kubernetes Pod Metadata to Improve Zipkin Traces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/mockers&quot;&gt;Mockers - overcoming testing challenges at Grab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/looking-inside-the-technology-that-powers-pinterest-2e8bd1cfc329&quot;&gt;Looking inside the technology that powers Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/production-secret-management-at-airbnb-ad230e1bc0f6&quot;&gt;Production Secret Management at Airbnb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 04 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-204/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-204/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;203</title>
@@ -22,8 +48,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 03 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-203/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-203/</guid>
+        <link>https://jakartadev.org//daily-digest-203/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-203/</guid>
         
         <category>daily</category>
         
@@ -44,8 +70,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 02 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-202/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-202/</guid>
+        <link>https://jakartadev.org//daily-digest-202/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-202/</guid>
         
         <category>daily</category>
         
@@ -67,8 +93,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 01 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-201/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-201/</guid>
+        <link>https://jakartadev.org//daily-digest-201/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-201/</guid>
         
         <category>daily</category>
         
@@ -357,8 +383,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
 </description>
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/deploy-kubernetes-cluster-vagrant-centos/</link>
-        <guid isPermaLink="true">http://localhost:4000/deploy-kubernetes-cluster-vagrant-centos/</guid>
+        <link>https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos/</link>
+        <guid isPermaLink="true">https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos/</guid>
         
         <category>development</category>
         
@@ -383,8 +409,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-200/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-200/</guid>
+        <link>https://jakartadev.org//daily-digest-200/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-200/</guid>
         
         <category>daily</category>
         
@@ -405,8 +431,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 25 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-109/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-109/</guid>
+        <link>https://jakartadev.org//daily-digest-109/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-109/</guid>
         
         <category>daily</category>
         
@@ -427,8 +453,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-108/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-108/</guid>
+        <link>https://jakartadev.org//daily-digest-108/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-108/</guid>
         
         <category>daily</category>
         
@@ -450,8 +476,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-107/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-107/</guid>
+        <link>https://jakartadev.org//daily-digest-107/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-107/</guid>
         
         <category>daily</category>
         
@@ -475,34 +501,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-106/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-106/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;105</title>
-        <description>&lt;p&gt;Happy friday, here are some links for your weekend!&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/&quot;&gt;Cypress – the reason why we’re not stuck with Selenium&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/&quot;&gt;Real-time Streaming Pattern: Analyzing Trends&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-monitoring-prometheus/&quot;&gt;Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html&quot;&gt;Continuous Delivery Patterns with Serverless Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/2018/08/optimizing-tv-advertising-toward-return-on-investment/&quot;&gt;Optimizing TV Advertising Toward Return on Investment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/building-machine-learning-engineering-tools-e348ae4edf8&quot;&gt;Building Machine Learning Engineering Tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9&quot;&gt;An OAuth 2.0 introduction for beginners&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f&quot;&gt;Leveraging Elastic Demand for Forecasting&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 14 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-105/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-105/</guid>
+        <link>https://jakartadev.org//daily-digest-106/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-106/</guid>
         
         <category>daily</category>
         
