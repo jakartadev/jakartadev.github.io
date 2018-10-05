@@ -3,11 +3,36 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>https://jakartadev.org//</link>
-    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Oct 2018 11:17:34 +0700</pubDate>
-    <lastBuildDate>Thu, 04 Oct 2018 11:17:34 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 05 Oct 2018 10:31:35 +0700</pubDate>
+    <lastBuildDate>Fri, 05 Oct 2018 10:31:35 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;205</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hellofresh/janus-dashboard&quot;&gt;Janus Dashboard&lt;/a&gt; – a dashboard for &lt;a href=&quot;https://github.com/hellofresh/janus&quot;&gt;Janus Api Gateway&lt;/a&gt; from HelloFresh&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jetstack/cert-manager&quot;&gt;Cert Manager – Automatically provision and manage TLS certificates in Kubernetes&lt;/a&gt; – Kinda need this one&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/blog/2018/09/27/kubernetes-1.12-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets-vmss-move-to-general-availability/&quot;&gt;Kubernetes 1.12 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/roughtime/&quot;&gt;Roughtime: Securing Time with Digital Signatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linecorp.com/en/blog/detail/342&quot;&gt;Go GC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9&quot;&gt;Building a dynamic and responsive Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/real-time-linux-communications-2faabf31cf5e&quot;&gt;Real-time Linux communications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://eng.wealthfront.com/2018/09/20/our-adventures-in-scaling/&quot;&gt;Our Adventures in Scaling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dailyjs/comparison-of-state-management-solutions-for-react-2161a0b4af7b&quot;&gt;Comparison of state management solutions for React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 05 Oct 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-205/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-205/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;204</title>
@@ -25,8 +50,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 04 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-204/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-204/</guid>
+        <link>http://localhost:4000/daily-digest-204/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-204/</guid>
         
         <category>daily</category>
         
@@ -48,8 +73,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 03 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-203/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-203/</guid>
+        <link>http://localhost:4000/daily-digest-203/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-203/</guid>
         
         <category>daily</category>
         
@@ -70,8 +95,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 02 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-202/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-202/</guid>
+        <link>http://localhost:4000/daily-digest-202/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-202/</guid>
         
         <category>daily</category>
         
@@ -93,8 +118,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 01 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-201/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-201/</guid>
+        <link>http://localhost:4000/daily-digest-201/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-201/</guid>
         
         <category>daily</category>
         
@@ -383,8 +408,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
 </description>
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos/</link>
-        <guid isPermaLink="true">https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos/</guid>
+        <link>http://localhost:4000/deploy-kubernetes-cluster-vagrant-centos/</link>
+        <guid isPermaLink="true">http://localhost:4000/deploy-kubernetes-cluster-vagrant-centos/</guid>
         
         <category>development</category>
         
@@ -409,8 +434,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-200/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-200/</guid>
+        <link>http://localhost:4000/daily-digest-200/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-200/</guid>
         
         <category>daily</category>
         
@@ -431,8 +456,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 25 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-109/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-109/</guid>
+        <link>http://localhost:4000/daily-digest-109/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-109/</guid>
         
         <category>daily</category>
         
@@ -453,8 +478,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-108/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-108/</guid>
+        <link>http://localhost:4000/daily-digest-108/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-108/</guid>
         
         <category>daily</category>
         
@@ -476,33 +501,8 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-107/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-107/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;106</title>
-        <description>&lt;p&gt;Senin, iya, sudah senin lagi, dan selamat bekerja!&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://frontendian.co/service-workers&quot;&gt;Service Workers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hickori.es/blog/2018/what-if-learning-code-started-in-an-agile-environment&quot;&gt;What if learning code started in an agile environment?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/microservices-post-kubernetes&quot;&gt;Microservices in a Post-Kubernetes Era&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113&quot;&gt;Lessons Learned: Code Splitting with Webpack and React&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/goodbye-redux-26e6a27b3a0b&quot;&gt;Goodbye Redux&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/octo-vision-on-service-mesh-the-challenges/&quot;&gt;OCTO vision on Service Mesh : the challenges&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.erlang-solutions.com/blog/receiving-messages-in-elixir-or-a-few-things-you-need-to-know-in-order-to-avoid-performance-issues.html&quot;&gt;Receiving messages in Elixir, or a few things you need to know in order to avoid performance issues&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 17 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-106/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-106/</guid>
+        <link>http://localhost:4000/daily-digest-107/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-107/</guid>
         
         <category>daily</category>
         
