@@ -1,21 +1,30 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "jakartaDEV",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "https://jakartadev.org//",
+    "feed_url": "https://jakartadev.org//feed.json",
     "author": {
         "name": "Deden Fathurahman",
         "url": "https://keybase.io/dedenf"
     },
-    "icon": "http://localhost:4000/images/favicon.png",
+    "icon": "https://jakartadev.org//images/favicon.png",
     "expired": false,
     "items": [
       {
         {
+            "id": "/daily-digest-206",
+            "title": "Daily Digest #206",
+            "content_html": "<ul>\n  <li><a href=\"https://www.wired.com/story/javascript-developers-more-choices-mean-hard-choices/?utm_source=jakartadev\">For javascript developers, more choices mean hard choices</a></li>\n  <li><a href=\"https://www.infoworld.com/article/3305340/tensorflow/tensorflowjs-puts-machine-learning-in-the-browser.html?utm_source=jakartadev\">TensorFlow.js puts machine learning in the browser</a></li>\n  <li><a href=\"https://blog.cloudflare.com/using-cloudflare-registrar/?utm_source=jakartadev\">Cloudflare Registrar: what happens when you register a domain?</a></li>\n  <li><a href=\"https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15?utm_source=jakartadev\">Cache your React event listeners to improve performance</a></li>\n  <li><a href=\"https://www.darkreading.com/application-security/overestimating-webassemblys-security-benefits-is-risky-for-developers-/v/d-id/1332697?utm_source=jakartadev\">Overestimating WebAssembly’s Security Benefits Is Risky for Developers</a></li>\n  <li><a href=\"https://css-tricks.com/what-makes-a-good-front-end-developer/?utm_source=jakartadev\">What makes a good front-end developer?</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-206/",
+            "summary": "",
+            "date_published": "2018-10-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-205",
             "title": "Daily Digest #205",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/hellofresh/janus-dashboard\">Janus Dashboard</a> – a dashboard for <a href=\"https://github.com/hellofresh/janus\">Janus Api Gateway</a> from HelloFresh</li>\n  <li><a href=\"https://github.com/jetstack/cert-manager\">Cert Manager – Automatically provision and manage TLS certificates in Kubernetes</a> – Kinda need this one</li>\n  <li><a href=\"https://kubernetes.io/blog/2018/09/27/kubernetes-1.12-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets-vmss-move-to-general-availability/\">Kubernetes 1.12 released</a></li>\n  <li><a href=\"https://blog.cloudflare.com/roughtime/\">Roughtime: Securing Time with Digital Signatures</a></li>\n  <li><a href=\"https://engineering.linecorp.com/en/blog/detail/342\">Go GC</a></li>\n  <li><a href=\"https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9\">Building a dynamic and responsive Pinterest</a></li>\n  <li><a href=\"https://hackernoon.com/real-time-linux-communications-2faabf31cf5e\">Real-time Linux communications</a></li>\n  <li><a href=\"http://eng.wealthfront.com/2018/09/20/our-adventures-in-scaling/\">Our Adventures in Scaling</a></li>\n  <li><a href=\"https://medium.com/dailyjs/comparison-of-state-management-solutions-for-react-2161a0b4af7b\">Comparison of state management solutions for React</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-205/",
+            "url": "https://jakartadev.org//daily-digest-205/",
             "summary": "",
             "date_published": "2018-10-05 00:00:00 +0700"
         },
@@ -24,7 +33,7 @@
             "id": "/daily-digest-204",
             "title": "Daily Digest #204",
             "content_html": "<ul>\n  <li><a href=\"https://resources.codeship.com/ebooks/webrtc-debugging\">How to Debug WebRTC Issues</a></li>\n  <li><a href=\"https://labs.spotify.com/2018/09/18/scalable-user-privacy/\">Scalable User Privacy</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/blockchain-bioxroute\">How Blockchains Work and How to Scale Them</a></li>\n  <li><a href=\"https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10\">How browser rendering works — behind the scenes</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/continuous-security\">CI/CD/CS: Implementing Continuous Security across Your Delivery Pipeline and at Run-Time</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/kelsey-hightower-and-chris-gaun-on-serverless-and-kubernetes\">Kelsey Hightower and Chris Gaun on serverless and Kubernetes</a></li>\n  <li><a href=\"https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces\">Using Kubernetes Pod Metadata to Improve Zipkin Traces</a></li>\n  <li><a href=\"https://engineering.grab.com/mockers\">Mockers - overcoming testing challenges at Grab</a></li>\n  <li><a href=\"https://medium.com/@Pinterest_Engineering/looking-inside-the-technology-that-powers-pinterest-2e8bd1cfc329\">Looking inside the technology that powers Pinterest</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/production-secret-management-at-airbnb-ad230e1bc0f6\">Production Secret Management at Airbnb</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-204/",
+            "url": "https://jakartadev.org//daily-digest-204/",
             "summary": "",
             "date_published": "2018-10-04 00:00:00 +0700"
         },
@@ -33,7 +42,7 @@
             "id": "/daily-digest-203",
             "title": "Daily Digest #203",
             "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security/\">Temper Kubernetes and Container FOMO Through Security</a></li>\n  <li><a href=\"https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44\">Dockerizing modern web apps</a></li>\n  <li><a href=\"https://opensource.com/article/18/9/distributed-tracing-tools\">3 open source distributed tracing tools</a></li>\n  <li><a href=\"https://thenewstack.io/the-future-of-inner-source/\">The Future of Inner Source</a></li>\n  <li><a href=\"https://dev.to/bgadrian/16-free-toolsservices-that-any-developer-should-use-4e7e\">16 free tools &amp; services that any developer should use</a></li>\n  <li><a href=\"http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html\">Be Nice And Write Stable Code</a></li>\n  <li><a href=\"http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf\">Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-203/",
+            "url": "https://jakartadev.org//daily-digest-203/",
             "summary": "",
             "date_published": "2018-10-03 00:00:00 +0700"
         },
@@ -42,18 +51,9 @@
             "id": "/daily-digest-202",
             "title": "Daily Digest #202",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660?utm_source=jakartadev\">Why should Chaos be part of your Distributed Systems Engineering?</a></li>\n  <li><a href=\"https://techbeacon.com/7-leadership-skills-will-make-or-break-your-devops-transformation?utm_source=jakartadev\">7 leadership skills that will make or break your DevOps transformation</a></li>\n  <li><a href=\"https://grahamc.com/blog/nix-and-layered-docker-images?utm_source=jakartadev\">Optimising Docker Layers for Better Caching with Nix</a></li>\n  <li><a href=\"https://thenewstack.io/how-container-based-architectures-require-different-networking?utm_source=jakartadev\">How Container-Based Architectures Require Different Networking</a></li>\n  <li><a href=\"https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security?utm_source=jakartadev\">Temper Kubernetes and Container FOMO Through Security</a></li>\n  <li><a href=\"https://medium.com/serious-scrum/the-logic-of-noestimates-4238e0be3bb6?utm_source=jakartadev\">The logic of #NoEstimates</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-202/",
+            "url": "https://jakartadev.org//daily-digest-202/",
             "summary": "",
             "date_published": "2018-10-02 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-201",
-            "title": "Daily Digest #201",
-            "content_html": "<ul>\n  <li><a href=\"https://itnext.io/containers-as-i-didnt-know-them-67cd4eaf3739\">Containers as I didn’t know them</a></li>\n  <li><a href=\"https://www.digitalocean.com/community/tutorials/modernizing-applications-for-kubernetes\">Modernizing Applications for Kubernetes</a></li>\n  <li><a href=\"https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083\">Flutter: Pros and Cons for Seamless Cross Platform Development</a></li>\n  <li><a href=\"https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase\">Securing your Ruby and Rails Codebase</a></li>\n  <li><a href=\"https://hackernoon.com/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec\">Top 5 Courses to Learn Python in 2018 — Best of Lot</a></li>\n  <li><a href=\"https://trix-editor.org/\">Trix Editor – A rich text editor for everyday writing from Basecamp</a></li>\n  <li><a href=\"https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181\">Goku: Building a scalable and high performant time series database system</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-201/",
-            "summary": "",
-            "date_published": "2018-10-01 00:00:00 +0700"
         }
 
     ]
