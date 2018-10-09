@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Oct 2018 11:51:08 +0700</pubDate>
-    <lastBuildDate>Mon, 08 Oct 2018 11:51:08 +0700</lastBuildDate>
+    <pubDate>Tue, 09 Oct 2018 13:17:28 +0700</pubDate>
+    <lastBuildDate>Tue, 09 Oct 2018 13:17:28 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;207</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/danmayer/coverband&quot;&gt;Rack middleware to help measure production code line of code usage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://justinjackson.ca/cost/&quot;&gt;The hidden cost of bootstrapping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/is-agile-the-enemy-of-good-design-14a35806cde7&quot;&gt;Is Agile the Enemy (of Good Design)?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benjiweber.co.uk/blog/2018/09/12/learning-from-pain/&quot;&gt;Learning from Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/baking-compliance-in-your-ci-cd-pipeline/&quot;&gt;Baking Compliance in your CI/CD Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/scaling-your-developer-community-plugins&quot;&gt;Scaling your developer community with plugins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itopstimes.com/contain/kubernetes-1-2-released-with-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets/&quot;&gt;Kubernetes 1.2 released with Kubelet TLS Bootstrap and Azure Virtual Machine Scale Sets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 09 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-207/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-207/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;206</title>
@@ -480,28 +503,6 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
         <pubDate>Tue, 25 Sep 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-109/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-109/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;108</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Physiix/topsi-project-manager&quot;&gt;Topsi – A Desktop Kanban board app&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microservices-infrastructure&quot;&gt;No Microservice Is an Island&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/shop-look-deep-learning/index.html&quot;&gt;Shop the Look with Deep Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ubereng.wpengine.com/marmaray-hadoop-ingestion-open-source/&quot;&gt;Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/engineering-housing/image-resizing-architecture-at-housing-com-86fcd295bdab&quot;&gt;Image Resizing Architecture at housing.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/progress-for-big-data-in-kubernetes&quot;&gt;Progress for big data in Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 24 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-108/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-108/</guid>
         
         <category>daily</category>
         

@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-08T11:51:08+07:00</updated>
+ <updated>2018-10-09T13:17:28+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;207</title>
+   <link href="https://jakartadev.org//daily-digest-207/"/>
+   <updated>2018-10-09T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-207</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/danmayer/coverband&quot;&gt;Rack middleware to help measure production code line of code usage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://justinjackson.ca/cost/&quot;&gt;The hidden cost of bootstrapping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/is-agile-the-enemy-of-good-design-14a35806cde7&quot;&gt;Is Agile the Enemy (of Good Design)?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benjiweber.co.uk/blog/2018/09/12/learning-from-pain/&quot;&gt;Learning from Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/baking-compliance-in-your-ci-cd-pipeline/&quot;&gt;Baking Compliance in your CI/CD Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/scaling-your-developer-community-plugins&quot;&gt;Scaling your developer community with plugins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itopstimes.com/contain/kubernetes-1-2-released-with-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets/&quot;&gt;Kubernetes 1.2 released with Kubelet TLS Bootstrap and Azure Virtual Machine Scale Sets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;206</title>
