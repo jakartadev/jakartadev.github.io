@@ -15,7 +15,7 @@ publish: false
 `brew install ottomatica/ottomatica/baker --devel`
 
 ```shell
-dedenf@mokas-MacBook-Pro [23:12:00] [~/devs/ops/baker]
+dedenf@skypeia [23:12:00] [~/devs/ops/baker]
 -> % baker init
 ? Baker environment name: test-env
 ? Amount of memory to share with this environment (in MB): 1024
@@ -27,7 +27,7 @@ dedenf@mokas-MacBook-Pro [23:12:00] [~/devs/ops/baker]
 ```
 
 ```shell
-dedenf@mokas-MacBook-Pro [23:13:27] [~/devs/ops/baker]
+dedenf@skypeia [23:13:27] [~/devs/ops/baker]
 -> % baker bake --local
 ✔ Downloading BakerForMac kernel
 ⠧ Downloading BakerForMac filesystem image

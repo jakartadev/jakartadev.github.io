@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4001/atom.xml" rel="self"/>
  <link href="http://localhost:4001/"/>
- <updated>2018-10-10T10:07:59+07:00</updated>
+ <updated>2018-10-10T10:53:48+07:00</updated>
  <id>http://localhost:4001</id>
  <author>
    <name></name>
@@ -54,7 +54,7 @@
    <content type="html">&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;brew install ottomatica/ottomatica/baker --devel&lt;/code&gt;&lt;/p&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@mokas-MacBook-Pro &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:12:00] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@skypeia &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:12:00] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
 -&amp;gt; % baker init
 ? Baker environment name: test-env
 ? Amount of memory to share with this environment &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;MB&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: 1024
@@ -65,7 +65,7 @@
 ? Select tools:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@mokas-MacBook-Pro &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:13:27] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@skypeia &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:13:27] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
 -&amp;gt; % baker bake &lt;span class=&quot;nt&quot;&gt;--local&lt;/span&gt;
 ✔ Downloading BakerForMac kernel
 ⠧ Downloading BakerForMac filesystem image

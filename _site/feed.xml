@@ -5,8 +5,8 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4001/</link>
     <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Oct 2018 10:07:59 +0700</pubDate>
-    <lastBuildDate>Wed, 10 Oct 2018 10:07:59 +0700</lastBuildDate>
+    <pubDate>Wed, 10 Oct 2018 10:53:48 +0700</pubDate>
+    <lastBuildDate>Wed, 10 Oct 2018 10:53:48 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -60,7 +60,7 @@
         <description>&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;brew install ottomatica/ottomatica/baker --devel&lt;/code&gt;&lt;/p&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@mokas-MacBook-Pro &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:12:00] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@skypeia &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:12:00] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
 -&amp;gt; % baker init
 ? Baker environment name: test-env
 ? Amount of memory to share with this environment &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;MB&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: 1024
@@ -71,7 +71,7 @@
 ? Select tools:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@mokas-MacBook-Pro &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:13:27] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@skypeia &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:13:27] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
 -&amp;gt; % baker bake &lt;span class=&quot;nt&quot;&gt;--local&lt;/span&gt;
 ✔ Downloading BakerForMac kernel
 ⠧ Downloading BakerForMac filesystem image
