@@ -3,11 +3,34 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>https://jakartadev.org//</link>
-    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Oct 2018 13:17:28 +0700</pubDate>
-    <lastBuildDate>Tue, 09 Oct 2018 13:17:28 +0700</lastBuildDate>
+    <link>http://localhost:4001/</link>
+    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Oct 2018 10:07:59 +0700</pubDate>
+    <lastBuildDate>Wed, 10 Oct 2018 10:07:59 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;208</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/is-noops-the-future-of-cloud-networking/&quot;&gt;Is NoOps the Future of Cloud Networking?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itopstimes.com/itops/beyond-blockchain-building-trustless-networks/&quot;&gt;Beyond blockchain: Building trustless networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-agile&quot;&gt;What is agile?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-you-should-not-neglect-your-developers-kubernetes-clusters-a658c8ca0e78&quot;&gt;Why You Should Not Neglect Your Developer’s Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/devops-measurement-tools&quot;&gt;13 tools to measure DevOps success&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/serverless-for-teams/&quot;&gt;Serverless for Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ansible.com/blog/make-your-ansible-playbooks-flexible-maintainable-and-scalable&quot;&gt;Make your ansible playbooks flexible, maintainable, and scalable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/daily-digest-208/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-208/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;207</title>
@@ -22,12 +45,45 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 09 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-207/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-207/</guid>
+        <link>http://localhost:4001/daily-digest-207/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-207/</guid>
         
         <category>daily</category>
         
         <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Baker bake</title>
+        <description>&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;brew install ottomatica/ottomatica/baker --devel&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@mokas-MacBook-Pro &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:12:00] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
+-&amp;gt; % baker init
+? Baker environment name: test-env
+? Amount of memory to share with this environment &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;MB&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: 1024
+? IP to use &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;this VM:  192.168.10.11
+? Forward ports comma separated, &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GUEST:HOST&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; or &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GUEST&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: 80
+? Select languages:
+? Select services:
+? Select tools:
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@mokas-MacBook-Pro &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;23:13:27] &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;~/devs/ops/baker]
+-&amp;gt; % baker bake &lt;span class=&quot;nt&quot;&gt;--local&lt;/span&gt;
+✔ Downloading BakerForMac kernel
+⠧ Downloading BakerForMac filesystem image
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 09 Oct 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/baker-bake/</link>
+        <guid isPermaLink="true">http://localhost:4001/baker-bake/</guid>
+        
+        <category>baker</category>
+        
+        <category>devops</category>
         
         
       </item>
@@ -44,8 +100,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 08 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-206/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-206/</guid>
+        <link>http://localhost:4001/daily-digest-206/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-206/</guid>
         
         <category>daily</category>
         
@@ -69,8 +125,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 05 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-205/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-205/</guid>
+        <link>http://localhost:4001/daily-digest-205/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-205/</guid>
         
         <category>daily</category>
         
@@ -95,8 +151,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 04 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-204/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-204/</guid>
+        <link>http://localhost:4001/daily-digest-204/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-204/</guid>
         
         <category>daily</category>
         
@@ -118,8 +174,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 03 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-203/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-203/</guid>
+        <link>http://localhost:4001/daily-digest-203/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-203/</guid>
         
         <category>daily</category>
         
@@ -140,8 +196,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 02 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-202/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-202/</guid>
+        <link>http://localhost:4001/daily-digest-202/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-202/</guid>
         
         <category>daily</category>
         
@@ -163,8 +219,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 01 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-201/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-201/</guid>
+        <link>http://localhost:4001/daily-digest-201/</link>
+        <guid isPermaLink="true">http://localhost:4001/daily-digest-201/</guid>
         
         <category>daily</category>
         
@@ -453,60 +509,14 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
 </description>
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos/</link>
-        <guid isPermaLink="true">https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos/</guid>
+        <link>http://localhost:4001/deploy-kubernetes-cluster-vagrant-centos/</link>
+        <guid isPermaLink="true">http://localhost:4001/deploy-kubernetes-cluster-vagrant-centos/</guid>
         
         <category>development</category>
         
         <category>kubernetes</category>
         
         <category>devops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;200</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/agile-2018&quot;&gt;Martin Fowler – Agile in 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes&quot;&gt;Techie to tech lead: My five biggest mistakes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/from-zero-to-hero-with-vue-up-and-running-f1acd4696b71&quot;&gt;From zero to hero with Vue — getting up and running&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://wiremock.org/&quot;&gt;WireMock – API mocking&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nickwignall.com/productive-procrastination/&quot;&gt;Productive Procrastination: How to Get More Done by Procrastinating on Purpose&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/the-terrible-performance-cost-of-cors-api-on-the-single-page-application-spa-6fcf71e50147&quot;&gt;How Cross-Origin Resource Sharing requests affect your app’s performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://intensecrypto.org/public/&quot;&gt;An Intensive Introduction to Cryptography&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/digital-anatomy/five-facets-of-flow-strategy-96a737243ee5&quot;&gt;Five Facets of Flow Strategy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 26 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-200/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-200/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;109</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/engineering-housing/running-production-elasticsearch-cluster-on-spot-instances-80bf03655092&quot;&gt;Running elasticsearch cluster on spot instances&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/going-on-a-tair-an-alibaba-guide-to-nvm-caching-optimization-97f799675a44&quot;&gt;Going on a Tair: A Guide to NVM Caching Optimization&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/skills-matter/the-horrors-lurking-in-your-legacy-codebase-616d7d631f35&quot;&gt;The Horrors Lurking in your Legacy Codebase&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-evolution-of-healthchecks-io-hosting-setup-4fa0d249a35a&quot;&gt;From DigitalOcean to Linode to Google Cloud Platform: the Evolution of healthchecks.io Hosting Setup&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/the-real-story-behind-story-points&quot;&gt;The Real Story Behind Story Points&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://s3-us-west-2.amazonaws.com/buttercms/ButterCMS+presents+MicroservicesForStartups.pdf&quot;&gt;Microservices for startups&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 25 Sep 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-109/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-109/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
         
         
       </item>
