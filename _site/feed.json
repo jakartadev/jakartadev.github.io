@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-210",
+            "title": "Daily Digest #210",
+            "content_html": "<ul>\n  <li><a href=\"https://gizmodo.com/how-to-get-more-out-of-your-chromebook-by-running-linux-1829058899\">Get More Out of Your Chromebook by Running Linux Apps</a></li>\n  <li><a href=\"https://github.com/slothking-online/graphql-editor\">GraphQL Visual Node Editor</a></li>\n  <li><a href=\"https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/\">How Etsy Localizes Addresses</a></li>\n  <li><a href=\"https://auth0.com/blog/how-we-store-data-in-the-cloud-at-auth0/\">How We Store Data in the Cloud at Auth0</a></li>\n  <li><a href=\"https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c\">Open Sourcing HASSH</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/\">Architecture of Nautilus, the new Dropbox search engine</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-210/",
+            "summary": "",
+            "date_published": "2018-10-12 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-209",
             "title": "Daily Digest #209",
             "content_html": "<ul>\n  <li><a href=\"https://dbngin.com/\">Free All-in-One Database Version Management Tool</a></li>\n  <li><a href=\"https://www.templarbit.com/blog/2018/09/07/the-story-of-why-chrome-and-firefox-will-soon-block-sites-with-certain-ssl-certificates/\">The story of why Chrome and Firefox will soon block sites with certain SSL certificates</a></li>\n  <li><a href=\"https://vapid.com/\">Vapid – Content management system</a> – new kids on the block</li>\n  <li><a href=\"https://www.imaginarycloud.com/blog/ditching-ruby-on-rails-for-javascript-and-nodejs/\">Why we’re ditching ruby on rails for javascript &amp; node.js</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8\">Enhancing the Netflix UI Experience with HDR</a></li>\n  <li><a href=\"https://engineering.laterooms.com/making-search-work-for-us/\">Making Search Work For Us</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//baker-bake/",
             "summary": "",
             "date_published": "2018-10-09 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-206",
-            "title": "Daily Digest #206",
-            "content_html": "<ul>\n  <li><a href=\"https://www.wired.com/story/javascript-developers-more-choices-mean-hard-choices/?utm_source=jakartadev\">For javascript developers, more choices mean hard choices</a></li>\n  <li><a href=\"https://www.infoworld.com/article/3305340/tensorflow/tensorflowjs-puts-machine-learning-in-the-browser.html?utm_source=jakartadev\">TensorFlow.js puts machine learning in the browser</a></li>\n  <li><a href=\"https://blog.cloudflare.com/using-cloudflare-registrar/?utm_source=jakartadev\">Cloudflare Registrar: what happens when you register a domain?</a></li>\n  <li><a href=\"https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15?utm_source=jakartadev\">Cache your React event listeners to improve performance</a></li>\n  <li><a href=\"https://www.darkreading.com/application-security/overestimating-webassemblys-security-benefits-is-risky-for-developers-/v/d-id/1332697?utm_source=jakartadev\">Overestimating WebAssembly’s Security Benefits Is Risky for Developers</a></li>\n  <li><a href=\"https://css-tricks.com/what-makes-a-good-front-end-developer/?utm_source=jakartadev\">What makes a good front-end developer?</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-206/",
-            "summary": "",
-            "date_published": "2018-10-08 00:00:00 +0700"
         }
 
     ]

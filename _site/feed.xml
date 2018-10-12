@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Oct 2018 14:35:23 +0700</pubDate>
-    <lastBuildDate>Thu, 11 Oct 2018 14:35:23 +0700</lastBuildDate>
+    <pubDate>Fri, 12 Oct 2018 15:57:16 +0700</pubDate>
+    <lastBuildDate>Fri, 12 Oct 2018 15:57:16 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;210</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gizmodo.com/how-to-get-more-out-of-your-chromebook-by-running-linux-1829058899&quot;&gt;Get More Out of Your Chromebook by Running Linux Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/slothking-online/graphql-editor&quot;&gt;GraphQL Visual Node Editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/&quot;&gt;How Etsy Localizes Addresses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/how-we-store-data-in-the-cloud-at-auth0/&quot;&gt;How We Store Data in the Cloud at Auth0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c&quot;&gt;Open Sourcing HASSH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/&quot;&gt;Architecture of Nautilus, the new Dropbox search engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-210/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-210/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;209</title>
@@ -220,29 +242,6 @@
         <pubDate>Tue, 02 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-202/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-202/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;201</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/containers-as-i-didnt-know-them-67cd4eaf3739&quot;&gt;Containers as I didn’t know them&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/modernizing-applications-for-kubernetes&quot;&gt;Modernizing Applications for Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083&quot;&gt;Flutter: Pros and Cons for Seamless Cross Platform Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase&quot;&gt;Securing your Ruby and Rails Codebase&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec&quot;&gt;Top 5 Courses to Learn Python in 2018 — Best of Lot&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://trix-editor.org/&quot;&gt;Trix Editor – A rich text editor for everyday writing from Basecamp&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181&quot;&gt;Goku: Building a scalable and high performant time series database system&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 01 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-201/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-201/</guid>
         
         <category>daily</category>
         
