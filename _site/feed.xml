@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Oct 2018 14:17:34 +0700</pubDate>
-    <lastBuildDate>Mon, 15 Oct 2018 14:17:34 +0700</lastBuildDate>
+    <pubDate>Tue, 16 Oct 2018 11:13:39 +0700</pubDate>
+    <lastBuildDate>Tue, 16 Oct 2018 11:13:39 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;212</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sourcegraph/sourcegraph&quot;&gt;Sourcegraph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/awslabs/aws-service-operator&quot;&gt;AWS Service Operator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;Kube-score – Kubernetes object static code analysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/oscarmorrison/md-page&quot;&gt;Markdown Page – build webpage with markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.bejarano.io/hardening-macos.html&quot;&gt;Hardening macOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/socketry/falcon&quot;&gt;Falcon – A modern high-performance web server for Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 16 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-212/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-212/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;211</title>
@@ -221,29 +243,6 @@
         <pubDate>Thu, 04 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-204/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-204/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;203</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security/&quot;&gt;Temper Kubernetes and Container FOMO Through Security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44&quot;&gt;Dockerizing modern web apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/9/distributed-tracing-tools&quot;&gt;3 open source distributed tracing tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/the-future-of-inner-source/&quot;&gt;The Future of Inner Source&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/bgadrian/16-free-toolsservices-that-any-developer-should-use-4e7e&quot;&gt;16 free tools &amp;amp; services that any developer should use&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html&quot;&gt;Be Nice And Write Stable Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf&quot;&gt;Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 03 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-203/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-203/</guid>
         
         <category>daily</category>
         

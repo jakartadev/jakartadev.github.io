@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-15T14:17:34+07:00</updated>
+ <updated>2018-10-16T11:13:39+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;212</title>
+   <link href="https://jakartadev.org//daily-digest-212/"/>
+   <updated>2018-10-16T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-212</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sourcegraph/sourcegraph&quot;&gt;Sourcegraph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/awslabs/aws-service-operator&quot;&gt;AWS Service Operator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;Kube-score – Kubernetes object static code analysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/oscarmorrison/md-page&quot;&gt;Markdown Page – build webpage with markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.bejarano.io/hardening-macos.html&quot;&gt;Hardening macOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/socketry/falcon&quot;&gt;Falcon – A modern high-performance web server for Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;211</title>
