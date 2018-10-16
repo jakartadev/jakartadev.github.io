@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "jakartaDEV",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "https://jakartadev.org//",
+    "feed_url": "https://jakartadev.org//feed.json",
     "author": {
         "name": "Deden Fathurahman",
         "url": "https://keybase.io/dedenf"
     },
-    "icon": "http://localhost:4000/images/favicon.png",
+    "icon": "https://jakartadev.org//images/favicon.png",
     "expired": false,
     "items": [
       {
@@ -15,7 +15,7 @@
             "id": "/daily-digest-212",
             "title": "Daily Digest #212",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/sourcegraph/sourcegraph\">Sourcegraph</a></li>\n  <li><a href=\"https://github.com/awslabs/aws-service-operator\">AWS Service Operator</a></li>\n  <li><a href=\"https://github.com/zegl/kube-score\">Kube-score – Kubernetes object static code analysis</a></li>\n  <li><a href=\"https://github.com/oscarmorrison/md-page\">Markdown Page – build webpage with markdown</a></li>\n  <li><a href=\"https://blog.bejarano.io/hardening-macos.html\">Hardening macOS</a></li>\n  <li><a href=\"https://github.com/socketry/falcon\">Falcon – A modern high-performance web server for Ruby</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-212/",
+            "url": "https://jakartadev.org//daily-digest-212/",
             "summary": "",
             "date_published": "2018-10-16 00:00:00 +0700"
         },
@@ -24,7 +24,7 @@
             "id": "/daily-digest-211",
             "title": "Daily Digest #211",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/bench-engineering/breaking-good-55fed1d81aac\">Breaking Good — Having a blameless engineering culture</a></li>\n  <li><a href=\"https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/\">Etsy’s experiment with immutable documentation</a></li>\n  <li><a href=\"https://www.trek10.com/blog/business-case-for-serverless/\">The Business Case For Serverless</a></li>\n  <li><a href=\"https://hub.packtpub.com/chaos-conf-2018-recap-chaos-engineering-hits-maturity-as-community-moves-towards-controlled-experimentation/\">Chaos Conf 2018 Recap: Chaos engineering hits maturity as community moves towards controlled experimentation</a></li>\n  <li><a href=\"https://speakerdeck.com/jthomas/serverless-the-missing-manual\">Serverless: The Missing Manual</a></li>\n  <li><a href=\"https://read.acloud.guru/dear-aws-we-need-to-talk-about-service-naming-d33ea68027d8\">Dear AWS, we need to talk about your service names</a></li>\n  <li><a href=\"https://buttercms.com/blog/5-things-your-team-should-do-to-make-pull-requests-less-painful\">5 Things Your Team Should Do to Make Pull Requests Less Painful</a></li>\n  <li><a href=\"https://suva.sh/posts/well-documented-makefiles/\">Well documented Makefiles (available via <code class=\"highlighter-rouge\">make help</code>)</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-211/",
+            "url": "https://jakartadev.org//daily-digest-211/",
             "summary": "",
             "date_published": "2018-10-15 00:00:00 +0700"
         },
@@ -33,7 +33,7 @@
             "id": "/daily-digest-210",
             "title": "Daily Digest #210",
             "content_html": "<ul>\n  <li><a href=\"https://gizmodo.com/how-to-get-more-out-of-your-chromebook-by-running-linux-1829058899\">Get More Out of Your Chromebook by Running Linux Apps</a></li>\n  <li><a href=\"https://github.com/slothking-online/graphql-editor\">GraphQL Visual Node Editor</a></li>\n  <li><a href=\"https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/\">How Etsy Localizes Addresses</a></li>\n  <li><a href=\"https://auth0.com/blog/how-we-store-data-in-the-cloud-at-auth0/\">How We Store Data in the Cloud at Auth0</a></li>\n  <li><a href=\"https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c\">Open Sourcing HASSH</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/\">Architecture of Nautilus, the new Dropbox search engine</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-210/",
+            "url": "https://jakartadev.org//daily-digest-210/",
             "summary": "",
             "date_published": "2018-10-12 00:00:00 +0700"
         },
@@ -42,7 +42,7 @@
             "id": "/daily-digest-209",
             "title": "Daily Digest #209",
             "content_html": "<ul>\n  <li><a href=\"https://dbngin.com/\">Free All-in-One Database Version Management Tool</a></li>\n  <li><a href=\"https://www.templarbit.com/blog/2018/09/07/the-story-of-why-chrome-and-firefox-will-soon-block-sites-with-certain-ssl-certificates/\">The story of why Chrome and Firefox will soon block sites with certain SSL certificates</a></li>\n  <li><a href=\"https://vapid.com/\">Vapid – Content management system</a> – new kids on the block</li>\n  <li><a href=\"https://www.imaginarycloud.com/blog/ditching-ruby-on-rails-for-javascript-and-nodejs/\">Why we’re ditching ruby on rails for javascript &amp; node.js</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8\">Enhancing the Netflix UI Experience with HDR</a></li>\n  <li><a href=\"https://engineering.laterooms.com/making-search-work-for-us/\">Making Search Work For Us</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-209/",
+            "url": "https://jakartadev.org//daily-digest-209/",
             "summary": "",
             "date_published": "2018-10-11 00:00:00 +0700"
         },
@@ -51,7 +51,7 @@
             "id": "/daily-digest-208",
             "title": "Daily Digest #208",
             "content_html": "<ul>\n  <li><a href=\"https://devops.com/is-noops-the-future-of-cloud-networking/\">Is NoOps the Future of Cloud Networking?</a></li>\n  <li><a href=\"https://www.itopstimes.com/itops/beyond-blockchain-building-trustless-networks/\">Beyond blockchain: Building trustless networks</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/what-agile\">What is agile?</a></li>\n  <li><a href=\"https://itnext.io/why-you-should-not-neglect-your-developers-kubernetes-clusters-a658c8ca0e78\">Why You Should Not Neglect Your Developer’s Kubernetes Clusters</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/devops-measurement-tools\">13 tools to measure DevOps success</a></li>\n  <li><a href=\"https://thenewstack.io/serverless-for-teams/\">Serverless for Teams</a></li>\n  <li><a href=\"https://www.ansible.com/blog/make-your-ansible-playbooks-flexible-maintainable-and-scalable\">Make your ansible playbooks flexible, maintainable, and scalable</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-208/",
+            "url": "https://jakartadev.org//daily-digest-208/",
             "summary": "",
             "date_published": "2018-10-10 00:00:00 +0700"
         }

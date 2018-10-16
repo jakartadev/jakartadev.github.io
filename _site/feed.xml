@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Oct 2018 11:18:44 +0700</pubDate>
-    <lastBuildDate>Tue, 16 Oct 2018 11:18:44 +0700</lastBuildDate>
+    <link>https://jakartadev.org//</link>
+    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 16 Oct 2018 11:34:23 +0700</pubDate>
+    <lastBuildDate>Tue, 16 Oct 2018 11:34:23 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -21,8 +21,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 16 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-212/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-212/</guid>
+        <link>https://jakartadev.org//daily-digest-212/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-212/</guid>
         
         <category>daily</category>
         
@@ -45,8 +45,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 15 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-211/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-211/</guid>
+        <link>https://jakartadev.org//daily-digest-211/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-211/</guid>
         
         <category>daily</category>
         
@@ -67,8 +67,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 12 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-210/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-210/</guid>
+        <link>https://jakartadev.org//daily-digest-210/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-210/</guid>
         
         <category>daily</category>
         
@@ -89,8 +89,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 11 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-209/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-209/</guid>
+        <link>https://jakartadev.org//daily-digest-209/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-209/</guid>
         
         <category>daily</category>
         
@@ -112,8 +112,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-208/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-208/</guid>
+        <link>https://jakartadev.org//daily-digest-208/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-208/</guid>
         
         <category>daily</category>
         
@@ -135,8 +135,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 09 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-207/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-207/</guid>
+        <link>https://jakartadev.org//daily-digest-207/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-207/</guid>
         
         <category>daily</category>
         
@@ -168,8 +168,8 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 09 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/baker-bake/</link>
-        <guid isPermaLink="true">http://localhost:4000/baker-bake/</guid>
+        <link>https://jakartadev.org//baker-bake/</link>
+        <guid isPermaLink="true">https://jakartadev.org//baker-bake/</guid>
         
         <category>baker</category>
         
@@ -190,8 +190,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 08 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-206/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-206/</guid>
+        <link>https://jakartadev.org//daily-digest-206/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-206/</guid>
         
         <category>daily</category>
         
@@ -215,8 +215,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 05 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-205/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-205/</guid>
+        <link>https://jakartadev.org//daily-digest-205/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-205/</guid>
         
         <category>daily</category>
         
@@ -241,8 +241,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 04 Oct 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-204/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-204/</guid>
+        <link>https://jakartadev.org//daily-digest-204/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-204/</guid>
         
         <category>daily</category>
         
