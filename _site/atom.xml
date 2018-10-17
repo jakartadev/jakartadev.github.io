@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-16T11:34:23+07:00</updated>
+ <updated>2018-10-17T12:03:47+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;213</title>
+   <link href="https://jakartadev.org//daily-digest-213/"/>
+   <updated>2018-10-17T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-213</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tls.ulfheim.net&quot;&gt;The Illustrated TLS Connection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4&quot;&gt;CPDD: Critical Path Driven Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/how-to-recruit-and-hire-when-you-need-to-move-fast-2d5f21fab5bc&quot;&gt;How to Recruit and Hire When You Need to Move Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/compassionate-coding/be-a-mentor-not-a-bully-80b0dc9ed1b2&quot;&gt;Be a Mentor, Not a Bully&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/10/why-agile-goes-awry-and-how-to-fix-it&quot;&gt;Why Agile Goes Awry — and How to Fix It&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf&quot;&gt;Plans for the Next Iteration of Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/&quot;&gt;Unicorn—Rheos Remediation Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;212</title>
