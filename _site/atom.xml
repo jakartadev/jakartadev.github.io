@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-17T12:03:47+07:00</updated>
+ <updated>2018-10-18T17:10:32+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;214</title>
+   <link href="https://jakartadev.org//daily-digest-214/"/>
+   <updated>2018-10-18T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-214</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-system&quot;&gt;Understanding Design Systems and Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd&quot;&gt;Experimenting with GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/&quot;&gt;Patterns for distributed transactions within a microservices architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/webassembly-on-cloudflare-workers/&quot;&gt;WebAssembly on Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/secrets-management-within-aws-ecs-1b6975819ccd&quot;&gt;Secrets Management within AWS ECS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;213</title>

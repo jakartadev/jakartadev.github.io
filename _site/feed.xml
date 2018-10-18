@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Oct 2018 12:03:47 +0700</pubDate>
-    <lastBuildDate>Wed, 17 Oct 2018 12:03:47 +0700</lastBuildDate>
+    <pubDate>Thu, 18 Oct 2018 17:10:32 +0700</pubDate>
+    <lastBuildDate>Thu, 18 Oct 2018 17:10:32 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;214</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-system&quot;&gt;Understanding Design Systems and Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd&quot;&gt;Experimenting with GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/&quot;&gt;Patterns for distributed transactions within a microservices architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/webassembly-on-cloudflare-workers/&quot;&gt;WebAssembly on Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/secrets-management-within-aws-ecs-1b6975819ccd&quot;&gt;Secrets Management within AWS ECS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-214/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-214/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;213</title>
@@ -215,31 +236,6 @@
         <pubDate>Mon, 08 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-206/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-206/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;205</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/hellofresh/janus-dashboard&quot;&gt;Janus Dashboard&lt;/a&gt; – a dashboard for &lt;a href=&quot;https://github.com/hellofresh/janus&quot;&gt;Janus Api Gateway&lt;/a&gt; from HelloFresh&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jetstack/cert-manager&quot;&gt;Cert Manager – Automatically provision and manage TLS certificates in Kubernetes&lt;/a&gt; – Kinda need this one&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/blog/2018/09/27/kubernetes-1.12-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets-vmss-move-to-general-availability/&quot;&gt;Kubernetes 1.12 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/roughtime/&quot;&gt;Roughtime: Securing Time with Digital Signatures&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linecorp.com/en/blog/detail/342&quot;&gt;Go GC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9&quot;&gt;Building a dynamic and responsive Pinterest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/real-time-linux-communications-2faabf31cf5e&quot;&gt;Real-time Linux communications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://eng.wealthfront.com/2018/09/20/our-adventures-in-scaling/&quot;&gt;Our Adventures in Scaling&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/dailyjs/comparison-of-state-management-solutions-for-react-2161a0b4af7b&quot;&gt;Comparison of state management solutions for React&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 05 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-205/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-205/</guid>
         
         <category>daily</category>
         

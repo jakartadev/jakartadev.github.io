@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-214",
+            "title": "Daily Digest #214",
+            "content_html": "<ul>\n  <li><a href=\"https://www.toptal.com/designers/ux/design-system\">Understanding Design Systems and Patterns</a></li>\n  <li><a href=\"https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd\">Experimenting with GraphQL</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/\">Patterns for distributed transactions within a microservices architecture</a></li>\n  <li><a href=\"https://blog.cloudflare.com/webassembly-on-cloudflare-workers/\">WebAssembly on Cloudflare Workers</a></li>\n  <li><a href=\"https://hackernoon.com/secrets-management-within-aws-ecs-1b6975819ccd\">Secrets Management within AWS ECS</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-214/",
+            "summary": "",
+            "date_published": "2018-10-18 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-213",
             "title": "Daily Digest #213",
             "content_html": "<ul>\n  <li><a href=\"https://tls.ulfheim.net\">The Illustrated TLS Connection</a></li>\n  <li><a href=\"https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4\">CPDD: Critical Path Driven Development</a></li>\n  <li><a href=\"https://medium.com/s/story/how-to-recruit-and-hire-when-you-need-to-move-fast-2d5f21fab5bc\">How to Recruit and Hire When You Need to Move Fast</a></li>\n  <li><a href=\"https://medium.com/compassionate-coding/be-a-mentor-not-a-bully-80b0dc9ed1b2\">Be a Mentor, Not a Bully</a></li>\n  <li><a href=\"https://hbr.org/2018/10/why-agile-goes-awry-and-how-to-fix-it\">Why Agile Goes Awry — and How to Fix It</a></li>\n  <li><a href=\"https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf\">Plans for the Next Iteration of Vue.js</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/\">Unicorn—Rheos Remediation Center</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-210/",
             "summary": "",
             "date_published": "2018-10-12 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-209",
-            "title": "Daily Digest #209",
-            "content_html": "<ul>\n  <li><a href=\"https://dbngin.com/\">Free All-in-One Database Version Management Tool</a></li>\n  <li><a href=\"https://www.templarbit.com/blog/2018/09/07/the-story-of-why-chrome-and-firefox-will-soon-block-sites-with-certain-ssl-certificates/\">The story of why Chrome and Firefox will soon block sites with certain SSL certificates</a></li>\n  <li><a href=\"https://vapid.com/\">Vapid – Content management system</a> – new kids on the block</li>\n  <li><a href=\"https://www.imaginarycloud.com/blog/ditching-ruby-on-rails-for-javascript-and-nodejs/\">Why we’re ditching ruby on rails for javascript &amp; node.js</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8\">Enhancing the Netflix UI Experience with HDR</a></li>\n  <li><a href=\"https://engineering.laterooms.com/making-search-work-for-us/\">Making Search Work For Us</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-209/",
-            "summary": "",
-            "date_published": "2018-10-11 00:00:00 +0700"
         }
 
     ]
