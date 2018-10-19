@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Oct 2018 17:10:32 +0700</pubDate>
-    <lastBuildDate>Thu, 18 Oct 2018 17:10:32 +0700</lastBuildDate>
+    <pubDate>Fri, 19 Oct 2018 14:07:39 +0700</pubDate>
+    <lastBuildDate>Fri, 19 Oct 2018 14:07:39 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;215</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/viatsko/awesome-vscode&quot;&gt;Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/csv11/csvreader&quot;&gt;csvreader library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Chocobozzz/PeerTube/tree/v1.0.0&quot;&gt;PeerTube – Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/me-io/memcached-util&quot;&gt;memcached-util – Memcached utility to backup and restore the cache&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gunnihinn/crashdb&quot;&gt;CrashDB – an ephemeral in-memory NoSQL database for the confident developer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://segment.com/blog/goodbye-microservices/&quot;&gt;Goodbye Microservices: From 100s of problem children to 1 superstar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/features/actions&quot;&gt;Github Actions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 19 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-215/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-215/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;214</title>
@@ -218,28 +241,6 @@
         <category>baker</category>
         
         <category>devops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;206</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/javascript-developers-more-choices-mean-hard-choices/?utm_source=jakartadev&quot;&gt;For javascript developers, more choices mean hard choices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3305340/tensorflow/tensorflowjs-puts-machine-learning-in-the-browser.html?utm_source=jakartadev&quot;&gt;TensorFlow.js puts machine learning in the browser&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/using-cloudflare-registrar/?utm_source=jakartadev&quot;&gt;Cloudflare Registrar: what happens when you register a domain?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15?utm_source=jakartadev&quot;&gt;Cache your React event listeners to improve performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.darkreading.com/application-security/overestimating-webassemblys-security-benefits-is-risky-for-developers-/v/d-id/1332697?utm_source=jakartadev&quot;&gt;Overestimating WebAssembly’s Security Benefits Is Risky for Developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/what-makes-a-good-front-end-developer/?utm_source=jakartadev&quot;&gt;What makes a good front-end developer?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-206/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-206/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
         
         
       </item>

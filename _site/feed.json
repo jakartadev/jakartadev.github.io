@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-215",
+            "title": "Daily Digest #215",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/viatsko/awesome-vscode\">Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources</a></li>\n  <li><a href=\"https://github.com/csv11/csvreader\">csvreader library</a></li>\n  <li><a href=\"https://github.com/Chocobozzz/PeerTube/tree/v1.0.0\">PeerTube – Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular</a></li>\n  <li><a href=\"https://github.com/me-io/memcached-util\">memcached-util – Memcached utility to backup and restore the cache</a></li>\n  <li><a href=\"https://github.com/gunnihinn/crashdb\">CrashDB – an ephemeral in-memory NoSQL database for the confident developer</a></li>\n  <li><a href=\"https://segment.com/blog/goodbye-microservices/\">Goodbye Microservices: From 100s of problem children to 1 superstar</a></li>\n  <li><a href=\"https://github.com/features/actions\">Github Actions</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-215/",
+            "summary": "",
+            "date_published": "2018-10-19 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-214",
             "title": "Daily Digest #214",
             "content_html": "<ul>\n  <li><a href=\"https://www.toptal.com/designers/ux/design-system\">Understanding Design Systems and Patterns</a></li>\n  <li><a href=\"https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd\">Experimenting with GraphQL</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/\">Patterns for distributed transactions within a microservices architecture</a></li>\n  <li><a href=\"https://blog.cloudflare.com/webassembly-on-cloudflare-workers/\">WebAssembly on Cloudflare Workers</a></li>\n  <li><a href=\"https://hackernoon.com/secrets-management-within-aws-ecs-1b6975819ccd\">Secrets Management within AWS ECS</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-211/",
             "summary": "",
             "date_published": "2018-10-15 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-210",
-            "title": "Daily Digest #210",
-            "content_html": "<ul>\n  <li><a href=\"https://gizmodo.com/how-to-get-more-out-of-your-chromebook-by-running-linux-1829058899\">Get More Out of Your Chromebook by Running Linux Apps</a></li>\n  <li><a href=\"https://github.com/slothking-online/graphql-editor\">GraphQL Visual Node Editor</a></li>\n  <li><a href=\"https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/\">How Etsy Localizes Addresses</a></li>\n  <li><a href=\"https://auth0.com/blog/how-we-store-data-in-the-cloud-at-auth0/\">How We Store Data in the Cloud at Auth0</a></li>\n  <li><a href=\"https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c\">Open Sourcing HASSH</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/\">Architecture of Nautilus, the new Dropbox search engine</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-210/",
-            "summary": "",
-            "date_published": "2018-10-12 00:00:00 +0700"
         }
 
     ]
