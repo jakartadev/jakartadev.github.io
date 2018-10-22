@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-216",
+            "title": "Daily Digest #216",
+            "content_html": "<ul>\n  <li><a href=\"https://bogdanvlviv.com/posts/ruby/rails/what-is-new-in-rails-6_0.html\">What is new in Rails 6.0</a></li>\n  <li><a href=\"https://penguindreams.org/blog/the-decline-of-openid/\">The Decline of OpenID</a></li>\n  <li><a href=\"http://danabrit.blogspot.com/2018/10/surfing-as-metaphor-for-software.html\">Surfing as a Metaphor for Software Development</a></li>\n  <li><a href=\"https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24\">Here is how UX Design Integrates with Agile and Scrum</a></li>\n  <li><a href=\"http://tech.marksblogg.com/top-htop-glances.html\">Systems Monitoring: top vs Htop vs Glances</a></li>\n  <li><a href=\"https://medium.com/neutralinojs/developing-cross-platform-apps-using-neutralinojs-latest-release-2cec09d34553\">Developing cross-platform apps using Neutralinojs latest release</a></li>\n  <li><a href=\"https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/\">Well Architected Monoliths are Okay</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-216/",
+            "summary": "",
+            "date_published": "2018-10-22 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-215",
             "title": "Daily Digest #215",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/viatsko/awesome-vscode\">Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources</a></li>\n  <li><a href=\"https://github.com/csv11/csvreader\">csvreader library</a></li>\n  <li><a href=\"https://github.com/Chocobozzz/PeerTube/tree/v1.0.0\">PeerTube – Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular</a></li>\n  <li><a href=\"https://github.com/me-io/memcached-util\">memcached-util – Memcached utility to backup and restore the cache</a></li>\n  <li><a href=\"https://github.com/gunnihinn/crashdb\">CrashDB – an ephemeral in-memory NoSQL database for the confident developer</a></li>\n  <li><a href=\"https://segment.com/blog/goodbye-microservices/\">Goodbye Microservices: From 100s of problem children to 1 superstar</a></li>\n  <li><a href=\"https://github.com/features/actions\">Github Actions</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-212/",
             "summary": "",
             "date_published": "2018-10-16 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-211",
-            "title": "Daily Digest #211",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/bench-engineering/breaking-good-55fed1d81aac\">Breaking Good — Having a blameless engineering culture</a></li>\n  <li><a href=\"https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/\">Etsy’s experiment with immutable documentation</a></li>\n  <li><a href=\"https://www.trek10.com/blog/business-case-for-serverless/\">The Business Case For Serverless</a></li>\n  <li><a href=\"https://hub.packtpub.com/chaos-conf-2018-recap-chaos-engineering-hits-maturity-as-community-moves-towards-controlled-experimentation/\">Chaos Conf 2018 Recap: Chaos engineering hits maturity as community moves towards controlled experimentation</a></li>\n  <li><a href=\"https://speakerdeck.com/jthomas/serverless-the-missing-manual\">Serverless: The Missing Manual</a></li>\n  <li><a href=\"https://read.acloud.guru/dear-aws-we-need-to-talk-about-service-naming-d33ea68027d8\">Dear AWS, we need to talk about your service names</a></li>\n  <li><a href=\"https://buttercms.com/blog/5-things-your-team-should-do-to-make-pull-requests-less-painful\">5 Things Your Team Should Do to Make Pull Requests Less Painful</a></li>\n  <li><a href=\"https://suva.sh/posts/well-documented-makefiles/\">Well documented Makefiles (available via <code class=\"highlighter-rouge\">make help</code>)</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-211/",
-            "summary": "",
-            "date_published": "2018-10-15 00:00:00 +0700"
         }
 
     ]
