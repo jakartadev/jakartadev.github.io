@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Oct 2018 12:25:09 +0700</pubDate>
-    <lastBuildDate>Mon, 22 Oct 2018 12:25:09 +0700</lastBuildDate>
+    <pubDate>Tue, 23 Oct 2018 11:59:57 +0700</pubDate>
+    <lastBuildDate>Tue, 23 Oct 2018 11:59:57 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;217</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46&quot;&gt;12 Factor CLI Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/jimsy/please-stop-using-ruby-4lf1&quot;&gt;Please stop using Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lukethomas14/the-employee-engagement-myth-3885526782d7&quot;&gt;The Employee Engagement Myth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook&quot;&gt;CSS Layout cookbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coaching-notes/everybodys-crazy-why-management-is-hard-and-what-to-do-about-it-f444c5263ffe&quot;&gt;Everybody’s Crazy: Why Management is Hard (And What to Do About It)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/people-not-resources&quot;&gt;People, not resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reinteractive.com/posts/366-to-microservice-or-monolith-that-is-the-question&quot;&gt;To Microservice or Monolith, that is the question…&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://seedsforchange.org.uk/tools.pdf&quot;&gt;Facilitation Tools for Meetings and Workshops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 23 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-217/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-217/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;216</title>
@@ -204,29 +228,6 @@
         <pubDate>Wed, 10 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-208/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-208/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;207</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/danmayer/coverband&quot;&gt;Rack middleware to help measure production code line of code usage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://justinjackson.ca/cost/&quot;&gt;The hidden cost of bootstrapping&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/is-agile-the-enemy-of-good-design-14a35806cde7&quot;&gt;Is Agile the Enemy (of Good Design)?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://benjiweber.co.uk/blog/2018/09/12/learning-from-pain/&quot;&gt;Learning from Pain&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/baking-compliance-in-your-ci-cd-pipeline/&quot;&gt;Baking Compliance in your CI/CD Pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/scaling-your-developer-community-plugins&quot;&gt;Scaling your developer community with plugins&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.itopstimes.com/contain/kubernetes-1-2-released-with-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets/&quot;&gt;Kubernetes 1.2 released with Kubelet TLS Bootstrap and Azure Virtual Machine Scale Sets&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 09 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-207/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-207/</guid>
         
         <category>daily</category>
         

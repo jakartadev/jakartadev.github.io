@@ -4,13 +4,31 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-22T12:25:09+07:00</updated>
+ <updated>2018-10-23T11:59:57+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;217</title>
+   <link href="https://jakartadev.org//daily-digest-217/"/>
+   <updated>2018-10-23T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-217</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46&quot;&gt;12 Factor CLI Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/jimsy/please-stop-using-ruby-4lf1&quot;&gt;Please stop using Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lukethomas14/the-employee-engagement-myth-3885526782d7&quot;&gt;The Employee Engagement Myth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook&quot;&gt;CSS Layout cookbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coaching-notes/everybodys-crazy-why-management-is-hard-and-what-to-do-about-it-f444c5263ffe&quot;&gt;Everybody’s Crazy: Why Management is Hard (And What to Do About It)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/people-not-resources&quot;&gt;People, not resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reinteractive.com/posts/366-to-microservice-or-monolith-that-is-the-question&quot;&gt;To Microservice or Monolith, that is the question…&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://seedsforchange.org.uk/tools.pdf&quot;&gt;Facilitation Tools for Meetings and Workshops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;216</title>

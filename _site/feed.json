@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-217",
+            "title": "Daily Digest #217",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46\">12 Factor CLI Apps</a></li>\n  <li><a href=\"https://dev.to/jimsy/please-stop-using-ruby-4lf1\">Please stop using Ruby</a></li>\n  <li><a href=\"https://medium.com/@lukethomas14/the-employee-engagement-myth-3885526782d7\">The Employee Engagement Myth</a></li>\n  <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook\">CSS Layout cookbook</a></li>\n  <li><a href=\"https://medium.com/coaching-notes/everybodys-crazy-why-management-is-hard-and-what-to-do-about-it-f444c5263ffe\">Everybody’s Crazy: Why Management is Hard (And What to Do About It)</a></li>\n  <li><a href=\"https://robots.thoughtbot.com/people-not-resources\">People, not resources</a></li>\n  <li><a href=\"https://reinteractive.com/posts/366-to-microservice-or-monolith-that-is-the-question\">To Microservice or Monolith, that is the question…</a></li>\n  <li><a href=\"https://seedsforchange.org.uk/tools.pdf\">Facilitation Tools for Meetings and Workshops</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-217/",
+            "summary": "",
+            "date_published": "2018-10-23 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-216",
             "title": "Daily Digest #216",
             "content_html": "<ul>\n  <li><a href=\"https://bogdanvlviv.com/posts/ruby/rails/what-is-new-in-rails-6_0.html\">What is new in Rails 6.0</a></li>\n  <li><a href=\"https://penguindreams.org/blog/the-decline-of-openid/\">The Decline of OpenID</a></li>\n  <li><a href=\"http://danabrit.blogspot.com/2018/10/surfing-as-metaphor-for-software.html\">Surfing as a Metaphor for Software Development</a></li>\n  <li><a href=\"https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24\">Here is how UX Design Integrates with Agile and Scrum</a></li>\n  <li><a href=\"http://tech.marksblogg.com/top-htop-glances.html\">Systems Monitoring: top vs Htop vs Glances</a></li>\n  <li><a href=\"https://medium.com/neutralinojs/developing-cross-platform-apps-using-neutralinojs-latest-release-2cec09d34553\">Developing cross-platform apps using Neutralinojs latest release</a></li>\n  <li><a href=\"https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/\">Well Architected Monoliths are Okay</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-213/",
             "summary": "",
             "date_published": "2018-10-17 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-212",
-            "title": "Daily Digest #212",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/sourcegraph/sourcegraph\">Sourcegraph</a></li>\n  <li><a href=\"https://github.com/awslabs/aws-service-operator\">AWS Service Operator</a></li>\n  <li><a href=\"https://github.com/zegl/kube-score\">Kube-score – Kubernetes object static code analysis</a></li>\n  <li><a href=\"https://github.com/oscarmorrison/md-page\">Markdown Page – build webpage with markdown</a></li>\n  <li><a href=\"https://blog.bejarano.io/hardening-macos.html\">Hardening macOS</a></li>\n  <li><a href=\"https://github.com/socketry/falcon\">Falcon – A modern high-performance web server for Ruby</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-212/",
-            "summary": "",
-            "date_published": "2018-10-16 00:00:00 +0700"
         }
 
     ]
