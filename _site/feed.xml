@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Oct 2018 11:59:57 +0700</pubDate>
-    <lastBuildDate>Tue, 23 Oct 2018 11:59:57 +0700</lastBuildDate>
+    <pubDate>Wed, 24 Oct 2018 11:54:23 +0700</pubDate>
+    <lastBuildDate>Wed, 24 Oct 2018 11:54:23 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;218</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ConfluxDigital/5-practical-operability-techniques-for-teams-matthew-skelton-addo-2018&quot;&gt;5 practical operability techniques for teams - Matthew Skelton&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.bigbasket.com/bigbaskets-experience-with-istio/&quot;&gt;Bigbasket’s Experience with Istio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e&quot;&gt;Testing Kubernetes RBAC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.remix.com/orm-we-approve-60f2a68f73fb&quot;&gt;ORM: We Approve&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gremlin.com/chaos-monkey/&quot;&gt;Chaos Monkey Guide for Engineers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leebriggs.co.uk/blog/2018/10/16/using-kubeless-for-kubernetes-events.html&quot;&gt;Using Kubeless for Kubernetes Events&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 24 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-218/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-218/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;217</title>
@@ -205,29 +227,6 @@
         <pubDate>Thu, 11 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-209/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-209/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;208</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/is-noops-the-future-of-cloud-networking/&quot;&gt;Is NoOps the Future of Cloud Networking?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.itopstimes.com/itops/beyond-blockchain-building-trustless-networks/&quot;&gt;Beyond blockchain: Building trustless networks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-agile&quot;&gt;What is agile?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-you-should-not-neglect-your-developers-kubernetes-clusters-a658c8ca0e78&quot;&gt;Why You Should Not Neglect Your Developer’s Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/devops-measurement-tools&quot;&gt;13 tools to measure DevOps success&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/serverless-for-teams/&quot;&gt;Serverless for Teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ansible.com/blog/make-your-ansible-playbooks-flexible-maintainable-and-scalable&quot;&gt;Make your ansible playbooks flexible, maintainable, and scalable&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-208/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-208/</guid>
         
         <category>daily</category>
         
