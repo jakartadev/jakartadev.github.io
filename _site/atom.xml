@@ -4,13 +4,31 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-24T11:54:23+07:00</updated>
+ <updated>2018-10-25T11:49:47+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;219</title>
+   <link href="https://jakartadev.org//daily-digest-219/"/>
+   <updated>2018-10-25T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-219</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/&quot;&gt;Write Better Python Functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/&quot;&gt;Oxidizing Python: Speeding up URL quoting by 10x using Rust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jonathansmart1/organisational-agility-give-people-a-voice-5d5e68449aa7&quot;&gt;Organisational Agility: Give People a VOICE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.change.org/p/sustainable-servers-by-2024&quot;&gt;Sustainable Servers by 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leebriggs.co.uk/blog/2018/09/20/using-pulumi-for-k8s-config-mgmt.html&quot;&gt;Using Pulumi for Kubernetes configuration management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c&quot;&gt;Rethinking Netflix’s Edge Load Balancing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.holidayextras.com/multi-dc-consul-on-kubernetes-9a6a7dcb89e3&quot;&gt;Multi-DC Consul on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@AaronKalair/devopsdays-london-2018-notes-38f1ae44c95&quot;&gt;DevOpsDays London 2018 Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;218</title>

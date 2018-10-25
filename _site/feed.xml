@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Oct 2018 11:54:23 +0700</pubDate>
-    <lastBuildDate>Wed, 24 Oct 2018 11:54:23 +0700</lastBuildDate>
+    <pubDate>Thu, 25 Oct 2018 11:49:47 +0700</pubDate>
+    <lastBuildDate>Thu, 25 Oct 2018 11:49:47 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;219</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/&quot;&gt;Write Better Python Functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/&quot;&gt;Oxidizing Python: Speeding up URL quoting by 10x using Rust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jonathansmart1/organisational-agility-give-people-a-voice-5d5e68449aa7&quot;&gt;Organisational Agility: Give People a VOICE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.change.org/p/sustainable-servers-by-2024&quot;&gt;Sustainable Servers by 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leebriggs.co.uk/blog/2018/09/20/using-pulumi-for-k8s-config-mgmt.html&quot;&gt;Using Pulumi for Kubernetes configuration management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c&quot;&gt;Rethinking Netflix’s Edge Load Balancing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.holidayextras.com/multi-dc-consul-on-kubernetes-9a6a7dcb89e3&quot;&gt;Multi-DC Consul on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@AaronKalair/devopsdays-london-2018-notes-38f1ae44c95&quot;&gt;DevOpsDays London 2018 Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 25 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-219/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-219/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;218</title>
@@ -205,28 +229,6 @@
         <pubDate>Fri, 12 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-210/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-210/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;209</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dbngin.com/&quot;&gt;Free All-in-One Database Version Management Tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.templarbit.com/blog/2018/09/07/the-story-of-why-chrome-and-firefox-will-soon-block-sites-with-certain-ssl-certificates/&quot;&gt;The story of why Chrome and Firefox will soon block sites with certain SSL certificates&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vapid.com/&quot;&gt;Vapid – Content management system&lt;/a&gt; – new kids on the block&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.imaginarycloud.com/blog/ditching-ruby-on-rails-for-javascript-and-nodejs/&quot;&gt;Why we’re ditching ruby on rails for javascript &amp;amp; node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8&quot;&gt;Enhancing the Netflix UI Experience with HDR&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.laterooms.com/making-search-work-for-us/&quot;&gt;Making Search Work For Us&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 11 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-209/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-209/</guid>
         
         <category>daily</category>
         
