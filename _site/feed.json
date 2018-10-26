@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-220",
+            "title": "Daily Digest #220",
+            "content_html": "<ul>\n  <li><a href=\"https://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/\">The Case of the Broken Lambda</a></li>\n  <li><a href=\"http://www.anniehedgie.com/azure-managed-images\">Packer and Azure Managed Images</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/pivotal-cloud-foundry-architecture/\">Pivotal Cloud Foundry architecture</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/pivotal-cloud-foundry-metrics/\">Key metrics for monitoring Pivotal Cloud Foundry</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/collecting-pcf-logs/\">Collecting Pivotal Cloud Foundry logs and metrics</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/nice-things\">We already have nice things, and other reasons not to write in-house ops tools</a></li>\n  <li><a href=\"https://gitlab.com/msvechla/kubehiera/blob/master/README.md\">Kubehiera – Lightweight tool to render go template</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-220/",
+            "summary": "",
+            "date_published": "2018-10-26 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-219",
             "title": "Daily Digest #219",
             "content_html": "<ul>\n  <li><a href=\"https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/\">Write Better Python Functions</a></li>\n  <li><a href=\"https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/\">Oxidizing Python: Speeding up URL quoting by 10x using Rust</a></li>\n  <li><a href=\"https://medium.com/@jonathansmart1/organisational-agility-give-people-a-voice-5d5e68449aa7\">Organisational Agility: Give People a VOICE</a></li>\n  <li><a href=\"https://www.change.org/p/sustainable-servers-by-2024\">Sustainable Servers by 2024</a></li>\n  <li><a href=\"https://leebriggs.co.uk/blog/2018/09/20/using-pulumi-for-k8s-config-mgmt.html\">Using Pulumi for Kubernetes configuration management</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c\">Rethinking Netflix’s Edge Load Balancing</a></li>\n  <li><a href=\"https://tech.holidayextras.com/multi-dc-consul-on-kubernetes-9a6a7dcb89e3\">Multi-DC Consul on Kubernetes</a></li>\n  <li><a href=\"https://medium.com/@AaronKalair/devopsdays-london-2018-notes-38f1ae44c95\">DevOpsDays London 2018 Notes</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-216/",
             "summary": "",
             "date_published": "2018-10-22 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-215",
-            "title": "Daily Digest #215",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/viatsko/awesome-vscode\">Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources</a></li>\n  <li><a href=\"https://github.com/csv11/csvreader\">csvreader library</a></li>\n  <li><a href=\"https://github.com/Chocobozzz/PeerTube/tree/v1.0.0\">PeerTube – Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular</a></li>\n  <li><a href=\"https://github.com/me-io/memcached-util\">memcached-util – Memcached utility to backup and restore the cache</a></li>\n  <li><a href=\"https://github.com/gunnihinn/crashdb\">CrashDB – an ephemeral in-memory NoSQL database for the confident developer</a></li>\n  <li><a href=\"https://segment.com/blog/goodbye-microservices/\">Goodbye Microservices: From 100s of problem children to 1 superstar</a></li>\n  <li><a href=\"https://github.com/features/actions\">Github Actions</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-215/",
-            "summary": "",
-            "date_published": "2018-10-19 00:00:00 +0700"
         }
 
     ]
