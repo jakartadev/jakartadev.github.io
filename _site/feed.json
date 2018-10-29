@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-221",
+            "title": "Daily Digest #221",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/inspec/terraform-provisioner-inspec\">Terraform InSpec Provisioner Plugin</a></li>\n  <li><a href=\"https://theagileadmin.com/2018/10/02/sre-the-biggest-lie-since-kanban/\">SRE: The Biggest Lie Since Kanban</a></li>\n  <li><a href=\"https://docs.google.com/presentation/d/1GsOYK5UGjQEgl2rNjSI7TAapkfYsNje87NBr37K36gE/edit#slide=id.g3a081004a6_0_0\">SLO Burn</a></li>\n  <li><a href=\"https://tjaddison.com/2018/09/23/Saving-and-reporting-on-Pester-Infrastructure-test-results-in-Log-Analytics\">Saving and reporting on Pester Infrastructure test results in Log Analytics</a></li>\n  <li><a href=\"https://www.hpe.com/us/en/insights/articles/how-to-secure-your-server-room-1809.html\">How to secure your server room</a></li>\n  <li><a href=\"https://tech.showmax.com/2018/10/sinkholing-1/\">This is the first in a three part series on sinkholing, targeted attacks, and how to defend your platform</a></li>\n  <li><a href=\"https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/\">Why Are Enterprises So Slow?</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-221/",
+            "summary": "",
+            "date_published": "2018-10-29 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-220",
             "title": "Daily Digest #220",
             "content_html": "<ul>\n  <li><a href=\"https://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/\">The Case of the Broken Lambda</a></li>\n  <li><a href=\"http://www.anniehedgie.com/azure-managed-images\">Packer and Azure Managed Images</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/pivotal-cloud-foundry-architecture/\">Pivotal Cloud Foundry architecture</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/pivotal-cloud-foundry-metrics/\">Key metrics for monitoring Pivotal Cloud Foundry</a></li>\n  <li><a href=\"https://www.datadoghq.com/blog/collecting-pcf-logs/\">Collecting Pivotal Cloud Foundry logs and metrics</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/nice-things\">We already have nice things, and other reasons not to write in-house ops tools</a></li>\n  <li><a href=\"https://gitlab.com/msvechla/kubehiera/blob/master/README.md\">Kubehiera – Lightweight tool to render go template</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-217/",
             "summary": "",
             "date_published": "2018-10-23 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-216",
-            "title": "Daily Digest #216",
-            "content_html": "<ul>\n  <li><a href=\"https://bogdanvlviv.com/posts/ruby/rails/what-is-new-in-rails-6_0.html\">What is new in Rails 6.0</a></li>\n  <li><a href=\"https://penguindreams.org/blog/the-decline-of-openid/\">The Decline of OpenID</a></li>\n  <li><a href=\"http://danabrit.blogspot.com/2018/10/surfing-as-metaphor-for-software.html\">Surfing as a Metaphor for Software Development</a></li>\n  <li><a href=\"https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24\">Here is how UX Design Integrates with Agile and Scrum</a></li>\n  <li><a href=\"http://tech.marksblogg.com/top-htop-glances.html\">Systems Monitoring: top vs Htop vs Glances</a></li>\n  <li><a href=\"https://medium.com/neutralinojs/developing-cross-platform-apps-using-neutralinojs-latest-release-2cec09d34553\">Developing cross-platform apps using Neutralinojs latest release</a></li>\n  <li><a href=\"https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/\">Well Architected Monoliths are Okay</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-216/",
-            "summary": "",
-            "date_published": "2018-10-22 00:00:00 +0700"
         }
 
     ]

@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-26T11:11:16+07:00</updated>
+ <updated>2018-10-29T16:03:01+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;221</title>
+   <link href="https://jakartadev.org//daily-digest-221/"/>
+   <updated>2018-10-29T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-221</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/inspec/terraform-provisioner-inspec&quot;&gt;Terraform InSpec Provisioner Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theagileadmin.com/2018/10/02/sre-the-biggest-lie-since-kanban/&quot;&gt;SRE: The Biggest Lie Since Kanban&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1GsOYK5UGjQEgl2rNjSI7TAapkfYsNje87NBr37K36gE/edit#slide=id.g3a081004a6_0_0&quot;&gt;SLO Burn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tjaddison.com/2018/09/23/Saving-and-reporting-on-Pester-Infrastructure-test-results-in-Log-Analytics&quot;&gt;Saving and reporting on Pester Infrastructure test results in Log Analytics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hpe.com/us/en/insights/articles/how-to-secure-your-server-room-1809.html&quot;&gt;How to secure your server room&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/10/sinkholing-1/&quot;&gt;This is the first in a three part series on sinkholing, targeted attacks, and how to defend your platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/&quot;&gt;Why Are Enterprises So Slow?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;220</title>
