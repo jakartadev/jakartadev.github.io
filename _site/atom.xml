@@ -4,13 +4,34 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-29T16:03:01+07:00</updated>
+ <updated>2018-10-30T10:54:33+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;222</title>
+   <link href="https://jakartadev.org//daily-digest-222/"/>
+   <updated>2018-10-30T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-222</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sethvargo.com/secrets-in-serverless/&quot;&gt;Secrets in Serverless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/ansible-operators-kubernetes&quot;&gt;An introduction to Ansible Operators in Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/adobe-looks-to-drive-devops-adoption-via-the-cloud/&quot;&gt;Adobe Looks to Drive DevOps Adoption via the Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/towards-better-devops-kpis-a-codeless-change-maturity-model/&quot;&gt;Towards Better DevOps KPIs: A Codeless Change Maturity Model&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nmckinnonblog/microservices-42b09caeb73d&quot;&gt;Microservices – A journey through microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/use-kubernetes-to-speed-machine-learning-development/&quot;&gt;Use Kubernetes to Speed Machine Learning Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/devopslinks/devops-without-devops-tools-3f1deb451b1c&quot;&gt;DevOps without DevOps tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/phase-approach-IT-systems&quot;&gt;4-phase approach for taking over large, messy IT systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@balibone/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3&quot;&gt;Using Docker Compose to Run Your Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-site-reliability-engineer&quot;&gt;What is a site reliability engineer and why you should consider this career path&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/devopslinks/why-kubernetes-and-terraform-are-the-pillars-of-modern-it-infrastructure-feb420d28a76&quot;&gt;Why Kubernetes and Terraform are the pillars of modern IT infrastructure&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;221</title>
