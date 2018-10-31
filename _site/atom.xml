@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-30T10:54:33+07:00</updated>
+ <updated>2018-10-31T11:37:07+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;223</title>
+   <link href="https://jakartadev.org//daily-digest-223/"/>
+   <updated>2018-10-31T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-223</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314&quot;&gt;Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process&quot;&gt;How Hearst built its DevOps organization: A 4-step process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators&quot;&gt;5 tips for facilitators of agile meetings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2018/10/27/envoy-basics/&quot;&gt;Some Envoy basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/blockchain-data-security-resource-guide-it-ops-teams&quot;&gt;Blockchain for data security: A resource guide for IT Ops teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/&quot;&gt;Parsing logs 230x faster with Rust&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;222</title>

@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Oct 2018 10:54:33 +0700</pubDate>
-    <lastBuildDate>Tue, 30 Oct 2018 10:54:33 +0700</lastBuildDate>
+    <pubDate>Wed, 31 Oct 2018 11:37:07 +0700</pubDate>
+    <lastBuildDate>Wed, 31 Oct 2018 11:37:07 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;223</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314&quot;&gt;Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process&quot;&gt;How Hearst built its DevOps organization: A 4-step process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators&quot;&gt;5 tips for facilitators of agile meetings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2018/10/27/envoy-basics/&quot;&gt;Some Envoy basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/blockchain-data-security-resource-guide-it-ops-teams&quot;&gt;Blockchain for data security: A resource guide for IT Ops teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/&quot;&gt;Parsing logs 230x faster with Rust&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 31 Oct 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-223/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-223/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;222</title>
@@ -211,29 +233,6 @@
         <pubDate>Thu, 18 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-214/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-214/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;213</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tls.ulfheim.net&quot;&gt;The Illustrated TLS Connection&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4&quot;&gt;CPDD: Critical Path Driven Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/how-to-recruit-and-hire-when-you-need-to-move-fast-2d5f21fab5bc&quot;&gt;How to Recruit and Hire When You Need to Move Fast&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/compassionate-coding/be-a-mentor-not-a-bully-80b0dc9ed1b2&quot;&gt;Be a Mentor, Not a Bully&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/10/why-agile-goes-awry-and-how-to-fix-it&quot;&gt;Why Agile Goes Awry — and How to Fix It&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf&quot;&gt;Plans for the Next Iteration of Vue.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/&quot;&gt;Unicorn—Rheos Remediation Center&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 17 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-213/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-213/</guid>
         
         <category>daily</category>
         

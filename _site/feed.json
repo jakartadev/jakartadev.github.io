@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-223",
+            "title": "Daily Digest #223",
+            "content_html": "<ul>\n  <li><a href=\"https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314\">Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL</a></li>\n  <li><a href=\"https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process\">How Hearst built its DevOps organization: A 4-step process</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators\">5 tips for facilitators of agile meetings</a></li>\n  <li><a href=\"https://jvns.ca/blog/2018/10/27/envoy-basics/\">Some Envoy basics</a></li>\n  <li><a href=\"https://techbeacon.com/blockchain-data-security-resource-guide-it-ops-teams\">Blockchain for data security: A resource guide for IT Ops teams</a></li>\n  <li><a href=\"https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/\">Parsing logs 230x faster with Rust</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-223/",
+            "summary": "",
+            "date_published": "2018-10-31 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-222",
             "title": "Daily Digest #222",
             "content_html": "<ul>\n  <li><a href=\"https://www.sethvargo.com/secrets-in-serverless/\">Secrets in Serverless</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/ansible-operators-kubernetes\">An introduction to Ansible Operators in Kubernetes</a></li>\n  <li><a href=\"https://devops.com/adobe-looks-to-drive-devops-adoption-via-the-cloud/\">Adobe Looks to Drive DevOps Adoption via the Cloud</a></li>\n  <li><a href=\"https://thenewstack.io/towards-better-devops-kpis-a-codeless-change-maturity-model/\">Towards Better DevOps KPIs: A Codeless Change Maturity Model</a></li>\n  <li><a href=\"https://medium.com/@nmckinnonblog/microservices-42b09caeb73d\">Microservices – A journey through microservices</a></li>\n  <li><a href=\"https://thenewstack.io/use-kubernetes-to-speed-machine-learning-development/\">Use Kubernetes to Speed Machine Learning Development</a></li>\n  <li><a href=\"https://medium.com/devopslinks/devops-without-devops-tools-3f1deb451b1c\">DevOps without DevOps tools</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/phase-approach-IT-systems\">4-phase approach for taking over large, messy IT systems</a></li>\n  <li><a href=\"https://medium.com/@balibone/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3\">Using Docker Compose to Run Your Applications</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/what-site-reliability-engineer\">What is a site reliability engineer and why you should consider this career path</a></li>\n  <li><a href=\"https://medium.com/devopslinks/why-kubernetes-and-terraform-are-the-pillars-of-modern-it-infrastructure-feb420d28a76\">Why Kubernetes and Terraform are the pillars of modern IT infrastructure</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-219/",
             "summary": "",
             "date_published": "2018-10-25 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-218",
-            "title": "Daily Digest #218",
-            "content_html": "<ul>\n  <li><a href=\"https://www.slideshare.net/ConfluxDigital/5-practical-operability-techniques-for-teams-matthew-skelton-addo-2018\">5 practical operability techniques for teams - Matthew Skelton</a></li>\n  <li><a href=\"https://tech.bigbasket.com/bigbaskets-experience-with-istio/\">Bigbasket’s Experience with Istio</a></li>\n  <li><a href=\"https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e\">Testing Kubernetes RBAC</a></li>\n  <li><a href=\"https://blog.remix.com/orm-we-approve-60f2a68f73fb\">ORM: We Approve</a></li>\n  <li><a href=\"https://www.gremlin.com/chaos-monkey/\">Chaos Monkey Guide for Engineers</a></li>\n  <li><a href=\"https://leebriggs.co.uk/blog/2018/10/16/using-kubeless-for-kubernetes-events.html\">Using Kubeless for Kubernetes Events</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-218/",
-            "summary": "",
-            "date_published": "2018-10-24 00:00:00 +0700"
         }
 
     ]
