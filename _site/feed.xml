@@ -5,8 +5,8 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Nov 2018 14:34:25 +0700</pubDate>
-    <lastBuildDate>Fri, 02 Nov 2018 14:34:25 +0700</lastBuildDate>
+    <pubDate>Fri, 02 Nov 2018 14:43:08 +0700</pubDate>
+    <lastBuildDate>Fri, 02 Nov 2018 14:43:08 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -27,6 +27,88 @@
         <category>daily</category>
         
         <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ansible dasar</title>
+        <description>&lt;p&gt;Belajar menggunakan &lt;a href=&quot;https://ansible.com/&quot;&gt;Ansible&lt;/a&gt; untuk mengatur mesin remote atau untuk provisioning.&lt;/p&gt;
+
+&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
+&lt;p&gt;Untuk macOS, bisa langsung pakai homebrew untuk instalasi&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew install ansible
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Jika sukses di-instal, kita test dengan perintah&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ansible &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
+ansible 2.7.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!--more--&gt;
+&lt;h3 id=&quot;konfigurasi&quot;&gt;Konfigurasi&lt;/h3&gt;
+&lt;p&gt;Untuk contoh sederhana ini, kita buat dengan menuliskan konfigurasi file yang berisi &lt;em&gt;host&lt;/em&gt; target yang akan kita &lt;em&gt;provisioning&lt;/em&gt;, di dalam folder project kita,&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;touch hosts
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Kemudian &lt;code class=&quot;highlighter-rouge&quot;&gt;vi hosts&lt;/code&gt; dan masukkan daftar &lt;em&gt;host&lt;/em&gt; yang akan digunakan, di sini menggunakan host yang telah saya buat sebelumnya di &lt;a href=&quot;https://m.do.co/c/714b3c32b2e7&quot;&gt;digitalocean&lt;/a&gt;, menggunakan Terraform (!TODO nulis), contoh.&lt;/p&gt;
+
+&lt;div class=&quot;language-ini highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;[webserver]&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;123.123.123.123&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Kemudian tiba dihal yang penting, membuat ansible playbook, playbook memiliki format &lt;code class=&quot;highlighter-rouge&quot;&gt;.yml&lt;/code&gt; yang mana lebih mudah dimengerti daripada &lt;code class=&quot;highlighter-rouge&quot;&gt;json&lt;/code&gt; atau format lainnya, &lt;code class=&quot;highlighter-rouge&quot;&gt;xml&lt;/code&gt; misalkan.&lt;/p&gt;
+
+&lt;h4 id=&quot;siteyml&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;site.yml&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Kita buat file tersebut&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;vim site.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Untuk isinya, saya coba tulis yang sederhana terlebih dahulu.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-YAML&quot;&gt;---
+- name: Install web server
+  hosts: all
+  remote_user: root
+
+  tasks:
+    - name: Install mariadb server
+      apt:
+        name: mariadb-server
+      register: mariadbinstall
+    - name: Uninstall mariadb server
+      apt:
+        name: mariadb-server
+        state: absent
+       register: mariadbuninstall
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Save file, kemudian jalankan perintah&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ansible-playbook &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; hosts site.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dan seharusnya akan keluar &lt;code class=&quot;highlighter-rouge&quot;&gt;stdout&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PLAY &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Install web server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;
+
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Gathering Facts] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;install mysql-server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;uninstall mysql-server 1.0] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+
+PLAY RECAP &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;128.199.76.43              : &lt;span class=&quot;nv&quot;&gt;ok&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;3    &lt;span class=&quot;nv&quot;&gt;changed&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0    &lt;span class=&quot;nv&quot;&gt;unreachable&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0    &lt;span class=&quot;nv&quot;&gt;failed&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dan kita sudah belajar melakukan provisioning dengan menggunakan Ansible!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//ansible-dasar/</link>
+        <guid isPermaLink="true">https://jakartadev.org//ansible-dasar/</guid>
+        
+        <category>development</category>
+        
+        <category>ansible</category>
+        
+        <category>devops</category>
         
         
       </item>
@@ -211,29 +293,6 @@
         <pubDate>Tue, 23 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-217/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-217/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;216</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bogdanvlviv.com/posts/ruby/rails/what-is-new-in-rails-6_0.html&quot;&gt;What is new in Rails 6.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://penguindreams.org/blog/the-decline-of-openid/&quot;&gt;The Decline of OpenID&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://danabrit.blogspot.com/2018/10/surfing-as-metaphor-for-software.html&quot;&gt;Surfing as a Metaphor for Software Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24&quot;&gt;Here is how UX Design Integrates with Agile and Scrum&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tech.marksblogg.com/top-htop-glances.html&quot;&gt;Systems Monitoring: top vs Htop vs Glances&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/neutralinojs/developing-cross-platform-apps-using-neutralinojs-latest-release-2cec09d34553&quot;&gt;Developing cross-platform apps using Neutralinojs latest release&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/&quot;&gt;Well Architected Monoliths are Okay&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 22 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-216/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-216/</guid>
         
         <category>daily</category>
         

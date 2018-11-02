@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-02T14:34:25+07:00</updated>
+ <updated>2018-11-02T14:43:08+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -25,6 +25,80 @@
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs4CJRBY5F1KrUr7z_2mur2QdAKXyh-k3&quot;&gt;PyCon Australia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ansible dasar</title>
+   <link href="https://jakartadev.org//ansible-dasar/"/>
+   <updated>2018-11-02T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//ansible-dasar</id>
+   <content type="html">&lt;p&gt;Belajar menggunakan &lt;a href=&quot;https://ansible.com/&quot;&gt;Ansible&lt;/a&gt; untuk mengatur mesin remote atau untuk provisioning.&lt;/p&gt;
+
+&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
+&lt;p&gt;Untuk macOS, bisa langsung pakai homebrew untuk instalasi&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew install ansible
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Jika sukses di-instal, kita test dengan perintah&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ansible &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
+ansible 2.7.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!--more--&gt;
+&lt;h3 id=&quot;konfigurasi&quot;&gt;Konfigurasi&lt;/h3&gt;
+&lt;p&gt;Untuk contoh sederhana ini, kita buat dengan menuliskan konfigurasi file yang berisi &lt;em&gt;host&lt;/em&gt; target yang akan kita &lt;em&gt;provisioning&lt;/em&gt;, di dalam folder project kita,&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;touch hosts
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Kemudian &lt;code class=&quot;highlighter-rouge&quot;&gt;vi hosts&lt;/code&gt; dan masukkan daftar &lt;em&gt;host&lt;/em&gt; yang akan digunakan, di sini menggunakan host yang telah saya buat sebelumnya di &lt;a href=&quot;https://m.do.co/c/714b3c32b2e7&quot;&gt;digitalocean&lt;/a&gt;, menggunakan Terraform (!TODO nulis), contoh.&lt;/p&gt;
+
+&lt;div class=&quot;language-ini highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;[webserver]&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;123.123.123.123&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Kemudian tiba dihal yang penting, membuat ansible playbook, playbook memiliki format &lt;code class=&quot;highlighter-rouge&quot;&gt;.yml&lt;/code&gt; yang mana lebih mudah dimengerti daripada &lt;code class=&quot;highlighter-rouge&quot;&gt;json&lt;/code&gt; atau format lainnya, &lt;code class=&quot;highlighter-rouge&quot;&gt;xml&lt;/code&gt; misalkan.&lt;/p&gt;
+
+&lt;h4 id=&quot;siteyml&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;site.yml&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Kita buat file tersebut&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;vim site.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Untuk isinya, saya coba tulis yang sederhana terlebih dahulu.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-YAML&quot;&gt;---
+- name: Install web server
+  hosts: all
+  remote_user: root
+
+  tasks:
+    - name: Install mariadb server
+      apt:
+        name: mariadb-server
+      register: mariadbinstall
+    - name: Uninstall mariadb server
+      apt:
+        name: mariadb-server
+        state: absent
+       register: mariadbuninstall
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Save file, kemudian jalankan perintah&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ansible-playbook &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; hosts site.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dan seharusnya akan keluar &lt;code class=&quot;highlighter-rouge&quot;&gt;stdout&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PLAY &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Install web server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;
+
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Gathering Facts] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;install mysql-server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;uninstall mysql-server 1.0] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+
+PLAY RECAP &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;128.199.76.43              : &lt;span class=&quot;nv&quot;&gt;ok&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;3    &lt;span class=&quot;nv&quot;&gt;changed&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0    &lt;span class=&quot;nv&quot;&gt;unreachable&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0    &lt;span class=&quot;nv&quot;&gt;failed&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dan kita sudah belajar melakukan provisioning dengan menggunakan Ansible!&lt;/p&gt;
 </content>
  </entry>
  
