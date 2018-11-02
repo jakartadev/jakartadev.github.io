@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-224",
+            "title": "Daily Digest #224",
+            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/learning-at-the-speed-of-modern-infrastructure/\">Learning at the Speed of Modern Infrastructure</a></li>\n  <li><a href=\"https://ecomfe.github.io/echarts-doc/public/en/index.html\">echarts</a></li>\n  <li><a href=\"https://ops.tips/blog/using-network-namespaces-and-bridge-to-isolate-servers/\">Using network namespaces and a virtual switch to isolate servers</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/what-mmorpgs-can-teach-us\">What MMORPGs can teach us about leveling up a heroic developer team</a></li>\n  <li><a href=\"https://itnext.io/the-abc-of-kubernetes-access-control-e7d280af5c88\">The ABC of Kubernetes access control</a></li>\n  <li><a href=\"https://techbeacon.com/devseccon-container-serverless-growth-haunts-devops-security\">DevSecCon: Container, serverless growth haunts DevOps security</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/instagram-scaled-infrastructure\">How Instagram is scaling its infrastructure across the ocean</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-224/",
+            "summary": "",
+            "date_published": "2018-11-01 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-223",
             "title": "Daily Digest #223",
             "content_html": "<ul>\n  <li><a href=\"https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314\">Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL</a></li>\n  <li><a href=\"https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process\">How Hearst built its DevOps organization: A 4-step process</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators\">5 tips for facilitators of agile meetings</a></li>\n  <li><a href=\"https://jvns.ca/blog/2018/10/27/envoy-basics/\">Some Envoy basics</a></li>\n  <li><a href=\"https://techbeacon.com/blockchain-data-security-resource-guide-it-ops-teams\">Blockchain for data security: A resource guide for IT Ops teams</a></li>\n  <li><a href=\"https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/\">Parsing logs 230x faster with Rust</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-220/",
             "summary": "",
             "date_published": "2018-10-26 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-219",
-            "title": "Daily Digest #219",
-            "content_html": "<ul>\n  <li><a href=\"https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/\">Write Better Python Functions</a></li>\n  <li><a href=\"https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/\">Oxidizing Python: Speeding up URL quoting by 10x using Rust</a></li>\n  <li><a href=\"https://medium.com/@jonathansmart1/organisational-agility-give-people-a-voice-5d5e68449aa7\">Organisational Agility: Give People a VOICE</a></li>\n  <li><a href=\"https://www.change.org/p/sustainable-servers-by-2024\">Sustainable Servers by 2024</a></li>\n  <li><a href=\"https://leebriggs.co.uk/blog/2018/09/20/using-pulumi-for-k8s-config-mgmt.html\">Using Pulumi for Kubernetes configuration management</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c\">Rethinking Netflix’s Edge Load Balancing</a></li>\n  <li><a href=\"https://tech.holidayextras.com/multi-dc-consul-on-kubernetes-9a6a7dcb89e3\">Multi-DC Consul on Kubernetes</a></li>\n  <li><a href=\"https://medium.com/@AaronKalair/devopsdays-london-2018-notes-38f1ae44c95\">DevOpsDays London 2018 Notes</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-219/",
-            "summary": "",
-            "date_published": "2018-10-25 00:00:00 +0700"
         }
 
     ]

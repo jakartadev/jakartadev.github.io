@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-10-31T11:37:07+07:00</updated>
+ <updated>2018-11-02T13:39:22+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;224</title>
+   <link href="https://jakartadev.org//daily-digest-224/"/>
+   <updated>2018-11-01T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-224</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/learning-at-the-speed-of-modern-infrastructure/&quot;&gt;Learning at the Speed of Modern Infrastructure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ecomfe.github.io/echarts-doc/public/en/index.html&quot;&gt;echarts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ops.tips/blog/using-network-namespaces-and-bridge-to-isolate-servers/&quot;&gt;Using network namespaces and a virtual switch to isolate servers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-mmorpgs-can-teach-us&quot;&gt;What MMORPGs can teach us about leveling up a heroic developer team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/the-abc-of-kubernetes-access-control-e7d280af5c88&quot;&gt;The ABC of Kubernetes access control&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devseccon-container-serverless-growth-haunts-devops-security&quot;&gt;DevSecCon: Container, serverless growth haunts DevOps security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/instagram-scaled-infrastructure&quot;&gt;How Instagram is scaling its infrastructure across the ocean&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;223</title>
