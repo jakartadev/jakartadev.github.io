@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-02T13:39:22+07:00</updated>
+ <updated>2018-11-02T14:34:25+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;225</title>
+   <link href="https://jakartadev.org//daily-digest-225/"/>
+   <updated>2018-11-02T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-225</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://willcrichton.net/notes/systems-programming/&quot;&gt;What is Systems Programming, Really? &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pierrchen.blogspot.com/2018/08/understand-container-index.html?m=1&quot;&gt;Understand Container&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/elbstack/the-largest-benchmark-of-serverless-providers-ac19b55750f4&quot;&gt;The largest benchmark of Serverless providers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bravenewgeek.com/the-observability-pipeline/&quot;&gt;The Observability Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs4CJRBY5F1KrUr7z_2mur2QdAKXyh-k3&quot;&gt;PyCon Australia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;224</title>
