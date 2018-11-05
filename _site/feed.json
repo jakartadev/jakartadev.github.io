@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-226",
+            "title": "Daily Digest #226",
+            "content_html": "<ul>\n  <li><a href=\"https://css-tricks.com/demystifying-javascript-testing/\">Demystifying JavaScript Testing</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472\">How you can improve your workflow using the JavaScript console</a></li>\n  <li><a href=\"https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38\">Disappearing Frameworks</a></li>\n  <li><a href=\"https://nemethgergely.com/coding-as-an-engineering-manager/\">Coding as an Engineering Manager</a></li>\n  <li><a href=\"https://towardsdatascience.com/weapons-of-micro-destruction-how-our-likes-hijacked-democracy-c9ab6fcd3d02\">Weapons of Micro Destruction: How Our ‘Likes’ Hijacked Democracy</a></li>\n  <li><a href=\"https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6\">Three Popular Clustering Methods and When to Use Each</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-226/",
+            "summary": "",
+            "date_published": "2018-11-05 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-225",
             "title": "Daily Digest #225",
             "content_html": "<ul>\n  <li><a href=\"http://willcrichton.net/notes/systems-programming/\">What is Systems Programming, Really? </a></li>\n  <li><a href=\"https://pierrchen.blogspot.com/2018/08/understand-container-index.html?m=1\">Understand Container</a></li>\n  <li><a href=\"https://medium.com/elbstack/the-largest-benchmark-of-serverless-providers-ac19b55750f4\">The largest benchmark of Serverless providers</a></li>\n  <li><a href=\"https://bravenewgeek.com/the-observability-pipeline/\">The Observability Pipeline</a></li>\n  <li><a href=\"https://www.youtube.com/playlist?list=PLs4CJRBY5F1KrUr7z_2mur2QdAKXyh-k3\">PyCon Australia</a></li>\n  <li><a href=\"https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e\">Useful tricks you might not know about Git stash</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-223/",
             "summary": "",
             "date_published": "2018-10-31 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-222",
-            "title": "Daily Digest #222",
-            "content_html": "<ul>\n  <li><a href=\"https://www.sethvargo.com/secrets-in-serverless/\">Secrets in Serverless</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/ansible-operators-kubernetes\">An introduction to Ansible Operators in Kubernetes</a></li>\n  <li><a href=\"https://devops.com/adobe-looks-to-drive-devops-adoption-via-the-cloud/\">Adobe Looks to Drive DevOps Adoption via the Cloud</a></li>\n  <li><a href=\"https://thenewstack.io/towards-better-devops-kpis-a-codeless-change-maturity-model/\">Towards Better DevOps KPIs: A Codeless Change Maturity Model</a></li>\n  <li><a href=\"https://medium.com/@nmckinnonblog/microservices-42b09caeb73d\">Microservices – A journey through microservices</a></li>\n  <li><a href=\"https://thenewstack.io/use-kubernetes-to-speed-machine-learning-development/\">Use Kubernetes to Speed Machine Learning Development</a></li>\n  <li><a href=\"https://medium.com/devopslinks/devops-without-devops-tools-3f1deb451b1c\">DevOps without DevOps tools</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/phase-approach-IT-systems\">4-phase approach for taking over large, messy IT systems</a></li>\n  <li><a href=\"https://medium.com/@balibone/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3\">Using Docker Compose to Run Your Applications</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/what-site-reliability-engineer\">What is a site reliability engineer and why you should consider this career path</a></li>\n  <li><a href=\"https://medium.com/devopslinks/why-kubernetes-and-terraform-are-the-pillars-of-modern-it-infrastructure-feb420d28a76\">Why Kubernetes and Terraform are the pillars of modern IT infrastructure</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-222/",
-            "summary": "",
-            "date_published": "2018-10-30 00:00:00 +0700"
         }
 
     ]

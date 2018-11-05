@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-02T14:43:08+07:00</updated>
+ <updated>2018-11-05T15:56:53+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;226</title>
+   <link href="https://jakartadev.org//daily-digest-226/"/>
+   <updated>2018-11-05T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-226</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/demystifying-javascript-testing/&quot;&gt;Demystifying JavaScript Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472&quot;&gt;How you can improve your workflow using the JavaScript console&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38&quot;&gt;Disappearing Frameworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nemethgergely.com/coding-as-an-engineering-manager/&quot;&gt;Coding as an Engineering Manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/weapons-of-micro-destruction-how-our-likes-hijacked-democracy-c9ab6fcd3d02&quot;&gt;Weapons of Micro Destruction: How Our ‘Likes’ Hijacked Democracy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6&quot;&gt;Three Popular Clustering Methods and When to Use Each&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;225</title>
