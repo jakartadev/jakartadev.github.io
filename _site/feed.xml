@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Nov 2018 15:56:53 +0700</pubDate>
-    <lastBuildDate>Mon, 05 Nov 2018 15:56:53 +0700</lastBuildDate>
+    <pubDate>Tue, 06 Nov 2018 11:15:05 +0700</pubDate>
+    <lastBuildDate>Tue, 06 Nov 2018 11:15:05 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;227</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/&quot;&gt;The most dynamic static site you’ll ever see&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/docker-swarm-vs-kubernetes&quot;&gt;Docker Swarm or Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://goharbor.io/&quot;&gt;Harbor – Manage and serve container images in a secure environment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/mariadb-vs-mysql-vs-postgresql&quot;&gt;PostgreSQL vs MySQL vs MariaDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://winterwindsoftware.com/serverless-definitions/&quot;&gt;The differing definitions of “serverless”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 06 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-227/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-227/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;226</title>
@@ -269,28 +290,6 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
         <pubDate>Thu, 25 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-219/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-219/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;218</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ConfluxDigital/5-practical-operability-techniques-for-teams-matthew-skelton-addo-2018&quot;&gt;5 practical operability techniques for teams - Matthew Skelton&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.bigbasket.com/bigbaskets-experience-with-istio/&quot;&gt;Bigbasket’s Experience with Istio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e&quot;&gt;Testing Kubernetes RBAC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.remix.com/orm-we-approve-60f2a68f73fb&quot;&gt;ORM: We Approve&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gremlin.com/chaos-monkey/&quot;&gt;Chaos Monkey Guide for Engineers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leebriggs.co.uk/blog/2018/10/16/using-kubeless-for-kubernetes-events.html&quot;&gt;Using Kubeless for Kubernetes Events&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 24 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-218/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-218/</guid>
         
         <category>daily</category>
         

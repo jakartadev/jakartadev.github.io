@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-227",
+            "title": "Daily Digest #227",
+            "content_html": "<ul>\n  <li><a href=\"https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/\">The most dynamic static site you’ll ever see</a></li>\n  <li><a href=\"https://stackshare.io/stackups/docker-swarm-vs-kubernetes\">Docker Swarm or Kubernetes</a></li>\n  <li><a href=\"https://goharbor.io/\">Harbor – Manage and serve container images in a secure environment</a></li>\n  <li><a href=\"https://stackshare.io/stackups/mariadb-vs-mysql-vs-postgresql\">PostgreSQL vs MySQL vs MariaDB</a></li>\n  <li><a href=\"https://winterwindsoftware.com/serverless-definitions/\">The differing definitions of “serverless”</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-227/",
+            "summary": "",
+            "date_published": "2018-11-06 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-226",
             "title": "Daily Digest #226",
             "content_html": "<ul>\n  <li><a href=\"https://css-tricks.com/demystifying-javascript-testing/\">Demystifying JavaScript Testing</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472\">How you can improve your workflow using the JavaScript console</a></li>\n  <li><a href=\"https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38\">Disappearing Frameworks</a></li>\n  <li><a href=\"https://nemethgergely.com/coding-as-an-engineering-manager/\">Coding as an Engineering Manager</a></li>\n  <li><a href=\"https://towardsdatascience.com/weapons-of-micro-destruction-how-our-likes-hijacked-democracy-c9ab6fcd3d02\">Weapons of Micro Destruction: How Our ‘Likes’ Hijacked Democracy</a></li>\n  <li><a href=\"https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6\">Three Popular Clustering Methods and When to Use Each</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-224/",
             "summary": "",
             "date_published": "2018-11-01 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-223",
-            "title": "Daily Digest #223",
-            "content_html": "<ul>\n  <li><a href=\"https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314\">Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL</a></li>\n  <li><a href=\"https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process\">How Hearst built its DevOps organization: A 4-step process</a></li>\n  <li><a href=\"https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators\">5 tips for facilitators of agile meetings</a></li>\n  <li><a href=\"https://jvns.ca/blog/2018/10/27/envoy-basics/\">Some Envoy basics</a></li>\n  <li><a href=\"https://techbeacon.com/blockchain-data-security-resource-guide-it-ops-teams\">Blockchain for data security: A resource guide for IT Ops teams</a></li>\n  <li><a href=\"https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/\">Parsing logs 230x faster with Rust</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-223/",
-            "summary": "",
-            "date_published": "2018-10-31 00:00:00 +0700"
         }
 
     ]

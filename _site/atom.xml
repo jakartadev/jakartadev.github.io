@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-05T15:56:53+07:00</updated>
+ <updated>2018-11-06T11:15:05+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;227</title>
+   <link href="https://jakartadev.org//daily-digest-227/"/>
+   <updated>2018-11-06T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-227</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/&quot;&gt;The most dynamic static site you’ll ever see&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/docker-swarm-vs-kubernetes&quot;&gt;Docker Swarm or Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://goharbor.io/&quot;&gt;Harbor – Manage and serve container images in a secure environment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/mariadb-vs-mysql-vs-postgresql&quot;&gt;PostgreSQL vs MySQL vs MariaDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://winterwindsoftware.com/serverless-definitions/&quot;&gt;The differing definitions of “serverless”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;226</title>
