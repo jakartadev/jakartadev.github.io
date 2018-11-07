@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-06T11:15:05+07:00</updated>
+ <updated>2018-11-07T11:19:38+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;228</title>
+   <link href="https://jakartadev.org//daily-digest-228/"/>
+   <updated>2018-11-07T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-228</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b&quot;&gt;How to be Strategic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/introducing-github-actions/&quot;&gt;Introducing GitHub Actions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://davrodpin.github.io/mole/&quot;&gt;Mole – Easily create SSH tunnels&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evergreen.segment.com/&quot;&gt;Evergreen – A Design System for the Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/cache-invalidation-rails-5-2-dalli-store&quot;&gt;Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-avoid-security-fails-public-cloud&quot;&gt;How to avoid security fails in the public cloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;227</title>
