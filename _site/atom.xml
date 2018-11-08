@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-07T11:19:38+07:00</updated>
+ <updated>2018-11-08T12:24:01+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;229</title>
+   <link href="https://jakartadev.org//daily-digest-229/"/>
+   <updated>2018-11-08T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-229</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/workflows-for-the-new-developer-experience/&quot;&gt;Workflows for the New Developer Experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-coding-dojo-taught-me-about-agile&quot;&gt;What a Coding Dojo taught me about agile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/technology-strategy-patterns/9781492040866/&quot;&gt;Technology Strategy Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/podman-more-secure-way-run-containers&quot;&gt;Podman: A more secure way to run containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/containers/buildah&quot;&gt;Buildah – A tool that facilitates building OCI images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/thg-tech-blog/monitoring-multiple-kubernetes-clusters-88cf34442fa3&quot;&gt;Monitoring Multiple Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;228</title>
