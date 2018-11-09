@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Nov 2018 12:24:01 +0700</pubDate>
-    <lastBuildDate>Thu, 08 Nov 2018 12:24:01 +0700</lastBuildDate>
+    <pubDate>Fri, 09 Nov 2018 16:33:17 +0700</pubDate>
+    <lastBuildDate>Fri, 09 Nov 2018 16:33:17 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;230</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/puresec-founder-on-taking-control-of-serverless-security/&quot;&gt;PureSec Founder on Taking Control of Serverless Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/beamly/ci-cd-how-to-level-up-your-development-flow-221e9172f5f2&quot;&gt;CI/CD — How to level up your development flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-use-universal-package-manager-containerized-scheduled-jobs&quot;&gt;How to use a universal package manager for containerized, scheduled jobs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/kubernetes-resource-statistics&quot;&gt;KRS: A new tool for gathering Kubernetes resource statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gremlin.com/community/tutorials/how-to-establish-a-high-severity-incident-management-program/&quot;&gt;How To Establish a High Severity Incident Management Program&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/4/introduction-python-bytecode&quot;&gt;An introduction to Python bytecode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 09 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-230/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-230/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;229</title>
@@ -264,29 +286,6 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
         <pubDate>Tue, 30 Oct 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-222/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-222/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;221</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/inspec/terraform-provisioner-inspec&quot;&gt;Terraform InSpec Provisioner Plugin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://theagileadmin.com/2018/10/02/sre-the-biggest-lie-since-kanban/&quot;&gt;SRE: The Biggest Lie Since Kanban&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1GsOYK5UGjQEgl2rNjSI7TAapkfYsNje87NBr37K36gE/edit#slide=id.g3a081004a6_0_0&quot;&gt;SLO Burn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tjaddison.com/2018/09/23/Saving-and-reporting-on-Pester-Infrastructure-test-results-in-Log-Analytics&quot;&gt;Saving and reporting on Pester Infrastructure test results in Log Analytics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hpe.com/us/en/insights/articles/how-to-secure-your-server-room-1809.html&quot;&gt;How to secure your server room&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/10/sinkholing-1/&quot;&gt;This is the first in a three part series on sinkholing, targeted attacks, and how to defend your platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/&quot;&gt;Why Are Enterprises So Slow?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 29 Oct 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-221/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-221/</guid>
         
         <category>daily</category>
         

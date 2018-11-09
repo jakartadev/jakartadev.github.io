@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-08T12:24:01+07:00</updated>
+ <updated>2018-11-09T16:33:17+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;230</title>
+   <link href="https://jakartadev.org//daily-digest-230/"/>
+   <updated>2018-11-09T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-230</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/puresec-founder-on-taking-control-of-serverless-security/&quot;&gt;PureSec Founder on Taking Control of Serverless Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/beamly/ci-cd-how-to-level-up-your-development-flow-221e9172f5f2&quot;&gt;CI/CD — How to level up your development flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-use-universal-package-manager-containerized-scheduled-jobs&quot;&gt;How to use a universal package manager for containerized, scheduled jobs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/kubernetes-resource-statistics&quot;&gt;KRS: A new tool for gathering Kubernetes resource statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gremlin.com/community/tutorials/how-to-establish-a-high-severity-incident-management-program/&quot;&gt;How To Establish a High Severity Incident Management Program&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/4/introduction-python-bytecode&quot;&gt;An introduction to Python bytecode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;229</title>
