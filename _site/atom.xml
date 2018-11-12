@@ -4,13 +4,32 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-09T16:33:17+07:00</updated>
+ <updated>2018-11-12T11:07:45+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest 231</title>
+   <link href="https://jakartadev.org//daily-digest-231/"/>
+   <updated>2018-11-12T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-231</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://phoenixframework.org/blog/phoenix-1-4-0-released&quot;&gt;Phoenix 1.4.0 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://craigmod.com/essays/ipad_pro/&quot;&gt;Getting the iPad to Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/20-docker-security-tools/&quot;&gt;29 Docker security tools compared&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-comments-guide/&quot;&gt;Writing Comments in Python (Guide)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://narimiran.github.io/2018/05/10/python-numpy-nim.html&quot;&gt;Python vs NumPy vs Nim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/looking-for-a-house-build-a-web-scraper-to-help-you-5ab25badc83e&quot;&gt;I was looking for a house, so I built a web scraper in Python!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.divio.com/blog/documentation/&quot;&gt;What nobody tells you about documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://the-pastry-box-project.net/ed-finkler/2014-july-6&quot;&gt;The Developer’s Dystopian Future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python&quot;&gt;How to JSON schema validate 10x (or 100x) faster in Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;230</title>
