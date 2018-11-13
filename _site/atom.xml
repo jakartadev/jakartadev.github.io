@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-12T11:07:45+07:00</updated>
+ <updated>2018-11-13T11:23:50+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -13,7 +13,24 @@
 
  
  <entry>
-   <title>Daily Digest 231</title>
+   <title>Daily Digest &#35;232</title>
+   <link href="https://jakartadev.org//daily-digest-232/"/>
+   <updated>2018-11-13T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-232</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/poka-techblog/the-best-way-to-store-secrets-in-your-app-is-not-to-store-secrets-in-your-app-308a6807d3ed&quot;&gt;The best way to store secrets in your app is not to store secrets in your app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/&quot;&gt;How to safely store API keys in Rails apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.memsql.com/blog/announcing-memsql-free-tier/&quot;&gt;MemSQL: Now Free to Use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/gitbase&quot;&gt;Gitbase: Exploring Git repos with SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2017/03/27/every-service-is-an-island.html&quot;&gt;Every service is an island&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/&quot;&gt;An introduction to medieval cities and cloud security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/&quot;&gt;Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;231</title>
    <link href="https://jakartadev.org//daily-digest-231/"/>
    <updated>2018-11-12T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-231</id>
