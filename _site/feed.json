@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-233",
+            "title": "Daily Digest #233",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/cullum/dank-selfhosted\">Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD</a></li>\n  <li><a href=\"https://github.com/vifreefly/procsd\">Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd</a></li>\n  <li><a href=\"https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8\">Immutable Infrastructure Using Packer, Ansible, and Terraform</a></li>\n  <li><a href=\"https://itnext.io/architecture-no-one-needs-is-server-side-templating-78331391274\">Architecture no one needs is server side templating</a></li>\n  <li><a href=\"https://blog.github.com/2018-10-30-oct21-post-incident-analysis/\">October 21 post-incident analysis </a></li>\n  <li><a href=\"https://medium.com/the-set-list/ruby-on-rails-security-be16bd1a8b02\">Ruby on Rails Security</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-233/",
+            "summary": "",
+            "date_published": "2018-11-14 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-232",
             "title": "Daily Digest #232",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/poka-techblog/the-best-way-to-store-secrets-in-your-app-is-not-to-store-secrets-in-your-app-308a6807d3ed\">The best way to store secrets in your app is not to store secrets in your app</a></li>\n  <li><a href=\"https://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/\">How to safely store API keys in Rails apps</a></li>\n  <li><a href=\"https://www.memsql.com/blog/announcing-memsql-free-tier/\">MemSQL: Now Free to Use</a></li>\n  <li><a href=\"https://opensource.com/article/18/11/gitbase\">Gitbase: Exploring Git repos with SQL</a></li>\n  <li><a href=\"https://deliveroo.engineering/2017/03/27/every-service-is-an-island.html\">Every service is an island</a></li>\n  <li><a href=\"https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/\">An introduction to medieval cities and cloud security</a></li>\n  <li><a href=\"https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/\">Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-229/",
             "summary": "",
             "date_published": "2018-11-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-228",
-            "title": "Daily Digest #228",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b\">How to be Strategic</a></li>\n  <li><a href=\"https://css-tricks.com/introducing-github-actions/\">Introducing GitHub Actions</a></li>\n  <li><a href=\"https://davrodpin.github.io/mole/\">Mole – Easily create SSH tunnels</a></li>\n  <li><a href=\"https://evergreen.segment.com/\">Evergreen – A Design System for the Web</a></li>\n  <li><a href=\"https://blog.heroku.com/cache-invalidation-rails-5-2-dalli-store\">Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store</a></li>\n  <li><a href=\"https://techbeacon.com/how-avoid-security-fails-public-cloud\">How to avoid security fails in the public cloud</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-228/",
-            "summary": "",
-            "date_published": "2018-11-07 00:00:00 +0700"
         }
 
     ]

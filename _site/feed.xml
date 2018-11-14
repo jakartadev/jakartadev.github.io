@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Nov 2018 11:23:50 +0700</pubDate>
-    <lastBuildDate>Tue, 13 Nov 2018 11:23:50 +0700</lastBuildDate>
+    <pubDate>Wed, 14 Nov 2018 12:23:08 +0700</pubDate>
+    <lastBuildDate>Wed, 14 Nov 2018 12:23:08 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;233</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cullum/dank-selfhosted&quot;&gt;Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vifreefly/procsd&quot;&gt;Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8&quot;&gt;Immutable Infrastructure Using Packer, Ansible, and Terraform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/architecture-no-one-needs-is-server-side-templating-78331391274&quot;&gt;Architecture no one needs is server side templating&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-10-30-oct21-post-incident-analysis/&quot;&gt;October 21 post-incident analysis &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-set-list/ruby-on-rails-security-be16bd1a8b02&quot;&gt;Ruby on Rails Security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 14 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-233/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-233/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;232</title>
@@ -266,29 +288,6 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
         <category>ansible</category>
         
         <category>devops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;224</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/learning-at-the-speed-of-modern-infrastructure/&quot;&gt;Learning at the Speed of Modern Infrastructure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ecomfe.github.io/echarts-doc/public/en/index.html&quot;&gt;echarts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ops.tips/blog/using-network-namespaces-and-bridge-to-isolate-servers/&quot;&gt;Using network namespaces and a virtual switch to isolate servers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-mmorpgs-can-teach-us&quot;&gt;What MMORPGs can teach us about leveling up a heroic developer team&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/the-abc-of-kubernetes-access-control-e7d280af5c88&quot;&gt;The ABC of Kubernetes access control&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devseccon-container-serverless-growth-haunts-devops-security&quot;&gt;DevSecCon: Container, serverless growth haunts DevOps security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/instagram-scaled-infrastructure&quot;&gt;How Instagram is scaling its infrastructure across the ocean&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 01 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-224/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-224/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
         
         
       </item>

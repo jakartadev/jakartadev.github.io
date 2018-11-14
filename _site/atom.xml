@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-13T11:23:50+07:00</updated>
+ <updated>2018-11-14T12:23:08+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;233</title>
+   <link href="https://jakartadev.org//daily-digest-233/"/>
+   <updated>2018-11-14T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-233</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cullum/dank-selfhosted&quot;&gt;Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vifreefly/procsd&quot;&gt;Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8&quot;&gt;Immutable Infrastructure Using Packer, Ansible, and Terraform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/architecture-no-one-needs-is-server-side-templating-78331391274&quot;&gt;Architecture no one needs is server side templating&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-10-30-oct21-post-incident-analysis/&quot;&gt;October 21 post-incident analysis &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-set-list/ruby-on-rails-security-be16bd1a8b02&quot;&gt;Ruby on Rails Security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;232</title>
