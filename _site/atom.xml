@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-14T12:23:08+07:00</updated>
+ <updated>2018-11-15T11:51:47+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;234</title>
+   <link href="https://jakartadev.org//daily-digest-234/"/>
+   <updated>2018-11-15T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-234</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vuedarkmode.com/&quot;&gt;A minimalist dark design system for vue.js 🎨&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.tanelpoder.com/posts/visualizing-sql-plan-execution-time-with-flamegraphs/&quot;&gt;Visualizing SQL Plan Execution Time With FlameGraphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/paxos/how-to-build-a-great-engineering-team-af545a7fe0ee&quot;&gt;How to Build a Great Engineering Team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/10/testing-privacy-preserving-telemetry-with-prio/&quot;&gt;Testing Privacy-Preserving Telemetry with Prio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tinnedfruit.com/articles/create-your-own-dysfunctional-single-page-app.html&quot;&gt;Create your own dysfunctional single-page app in five easy steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html&quot;&gt;A Safer RuboCop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://public.digital/2018/10/12/internet-era-ways-of-working/&quot;&gt;Internet-era ways of working&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;233</title>
