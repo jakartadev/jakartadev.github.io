@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Nov 2018 11:51:47 +0700</pubDate>
-    <lastBuildDate>Thu, 15 Nov 2018 11:51:47 +0700</lastBuildDate>
+    <pubDate>Fri, 16 Nov 2018 14:10:22 +0700</pubDate>
+    <lastBuildDate>Fri, 16 Nov 2018 14:10:22 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;234</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961&quot;&gt;API Profiling at Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.bugsnag.com/the-monitoring-landscape/&quot;&gt;Getting started with monitoring for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af&quot;&gt;Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/palmerhq/the-platform&quot;&gt;The Platform – Web. Components.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fs.blog/2018/10/long-game/&quot;&gt;The Surprising Power of The Long Game&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zero-to-code/vuejs-cheat-sheet-part-1-b30f772ed72&quot;&gt;VueJS Cheat Sheet Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e&quot;&gt;A Guide to Mindful Communication in Code Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 16 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-235/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-235/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;234</title>
@@ -203,28 +226,6 @@
         <pubDate>Mon, 05 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-226/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-226/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;225</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://willcrichton.net/notes/systems-programming/&quot;&gt;What is Systems Programming, Really? &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pierrchen.blogspot.com/2018/08/understand-container-index.html?m=1&quot;&gt;Understand Container&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/elbstack/the-largest-benchmark-of-serverless-providers-ac19b55750f4&quot;&gt;The largest benchmark of Serverless providers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bravenewgeek.com/the-observability-pipeline/&quot;&gt;The Observability Pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs4CJRBY5F1KrUr7z_2mur2QdAKXyh-k3&quot;&gt;PyCon Australia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 02 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-225/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-225/</guid>
         
         <category>daily</category>
         

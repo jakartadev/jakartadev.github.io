@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-15T11:51:47+07:00</updated>
+ <updated>2018-11-16T14:10:22+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;234</title>
+   <link href="https://jakartadev.org//daily-digest-235/"/>
+   <updated>2018-11-16T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-235</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961&quot;&gt;API Profiling at Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.bugsnag.com/the-monitoring-landscape/&quot;&gt;Getting started with monitoring for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af&quot;&gt;Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/palmerhq/the-platform&quot;&gt;The Platform – Web. Components.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fs.blog/2018/10/long-game/&quot;&gt;The Surprising Power of The Long Game&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zero-to-code/vuejs-cheat-sheet-part-1-b30f772ed72&quot;&gt;VueJS Cheat Sheet Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e&quot;&gt;A Guide to Mindful Communication in Code Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;234</title>
