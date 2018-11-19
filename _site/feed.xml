@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Nov 2018 14:10:22 +0700</pubDate>
-    <lastBuildDate>Fri, 16 Nov 2018 14:10:22 +0700</lastBuildDate>
+    <pubDate>Mon, 19 Nov 2018 15:10:06 +0700</pubDate>
+    <lastBuildDate>Mon, 19 Nov 2018 15:10:06 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;234</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make&quot;&gt;Three Sales Mistakes Software Engineers Make&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.gitprime.com/drift-3-day-onboarding-process/&quot;&gt;How Drift Gets Engineers up to Speed by Day 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/launching-your-own-ruby-gem-build-it&quot;&gt;Launching Your Own Ruby Gem - Part 1: Build It&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c&quot;&gt;Why React’s new Hooks API is a game changer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/&quot;&gt;4 Anonymous Web Browsers That Are Completely Private&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;Dive – A tool for exploring each layer in a docker image&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11&quot;&gt;A Tour of The Top 10 Algorithms for Machine Learning Newbies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/cloudwatch-devil-i-must-use-it&quot;&gt;CloudWatch Is of the Devil, but I Must Use It&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-236/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-236/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;234</title>
@@ -204,28 +228,6 @@
         <pubDate>Tue, 06 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-227/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-227/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;226</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/demystifying-javascript-testing/&quot;&gt;Demystifying JavaScript Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472&quot;&gt;How you can improve your workflow using the JavaScript console&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38&quot;&gt;Disappearing Frameworks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nemethgergely.com/coding-as-an-engineering-manager/&quot;&gt;Coding as an Engineering Manager&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/weapons-of-micro-destruction-how-our-likes-hijacked-democracy-c9ab6fcd3d02&quot;&gt;Weapons of Micro Destruction: How Our ‘Likes’ Hijacked Democracy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6&quot;&gt;Three Popular Clustering Methods and When to Use Each&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 05 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-226/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-226/</guid>
         
         <category>daily</category>
         
