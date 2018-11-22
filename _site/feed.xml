@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Nov 2018 15:10:06 +0700</pubDate>
-    <lastBuildDate>Mon, 19 Nov 2018 15:10:06 +0700</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 11:35:54 +0700</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 11:35:54 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;235</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/daamien/postgresql_anonymizer&quot;&gt;postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html&quot;&gt;An Update on Bundler 2.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paulmillr.com/posts/using-dark-mode-in-css/&quot;&gt;Using dark mode in CSS with MacOS Mojave&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications&quot;&gt;Meet Yabeda: A Ruby instrumentation framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 20 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-237/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-237/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;234</title>
@@ -207,27 +227,6 @@
         <pubDate>Wed, 07 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-228/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-228/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;227</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/&quot;&gt;The most dynamic static site you’ll ever see&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/docker-swarm-vs-kubernetes&quot;&gt;Docker Swarm or Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://goharbor.io/&quot;&gt;Harbor – Manage and serve container images in a secure environment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/mariadb-vs-mysql-vs-postgresql&quot;&gt;PostgreSQL vs MySQL vs MariaDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://winterwindsoftware.com/serverless-definitions/&quot;&gt;The differing definitions of “serverless”&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 06 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-227/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-227/</guid>
         
         <category>daily</category>
         

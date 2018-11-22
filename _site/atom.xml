@@ -4,13 +4,27 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-19T15:10:06+07:00</updated>
+ <updated>2018-11-22T11:35:54+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;235</title>
+   <link href="https://jakartadev.org//daily-digest-237/"/>
+   <updated>2018-11-20T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-237</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/daamien/postgresql_anonymizer&quot;&gt;postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html&quot;&gt;An Update on Bundler 2.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paulmillr.com/posts/using-dark-mode-in-css/&quot;&gt;Using dark mode in CSS with MacOS Mojave&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications&quot;&gt;Meet Yabeda: A Ruby instrumentation framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;234</title>

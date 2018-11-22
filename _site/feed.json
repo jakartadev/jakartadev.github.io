@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-237",
+            "title": "Daily Digest #235",
+            "content_html": "<ul>\n  <li><a href=\"https://gitlab.com/daamien/postgresql_anonymizer\">postgresql_anonymizer – 🐘🕶️ Anonymization &amp; Data Masking for PostgreSQL</a></li>\n  <li><a href=\"https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html\">An Update on Bundler 2.0</a></li>\n  <li><a href=\"https://paulmillr.com/posts/using-dark-mode-in-css/\">Using dark mode in CSS with MacOS Mojave</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications\">Meet Yabeda: A Ruby instrumentation framework</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-237/",
+            "summary": "",
+            "date_published": "2018-11-20 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-236",
             "title": "Daily Digest #234",
             "content_html": "<ul>\n  <li><a href=\"https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make\">Three Sales Mistakes Software Engineers Make</a></li>\n  <li><a href=\"https://blog.gitprime.com/drift-3-day-onboarding-process/\">How Drift Gets Engineers up to Speed by Day 3</a></li>\n  <li><a href=\"https://buttercms.com/blog/launching-your-own-ruby-gem-build-it\">Launching Your Own Ruby Gem - Part 1: Build It</a></li>\n  <li><a href=\"https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c\">Why React’s new Hooks API is a game changer</a></li>\n  <li><a href=\"https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/\">4 Anonymous Web Browsers That Are Completely Private</a></li>\n  <li><a href=\"https://github.com/wagoodman/dive\">Dive – A tool for exploring each layer in a docker image</a></li>\n  <li><a href=\"https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11\">A Tour of The Top 10 Algorithms for Machine Learning Newbies</a></li>\n  <li><a href=\"https://www.linuxjournal.com/content/cloudwatch-devil-i-must-use-it\">CloudWatch Is of the Devil, but I Must Use It</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-233/",
             "summary": "",
             "date_published": "2018-11-14 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-232",
-            "title": "Daily Digest #232",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/poka-techblog/the-best-way-to-store-secrets-in-your-app-is-not-to-store-secrets-in-your-app-308a6807d3ed\">The best way to store secrets in your app is not to store secrets in your app</a></li>\n  <li><a href=\"https://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/\">How to safely store API keys in Rails apps</a></li>\n  <li><a href=\"https://www.memsql.com/blog/announcing-memsql-free-tier/\">MemSQL: Now Free to Use</a></li>\n  <li><a href=\"https://opensource.com/article/18/11/gitbase\">Gitbase: Exploring Git repos with SQL</a></li>\n  <li><a href=\"https://deliveroo.engineering/2017/03/27/every-service-is-an-island.html\">Every service is an island</a></li>\n  <li><a href=\"https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/\">An introduction to medieval cities and cloud security</a></li>\n  <li><a href=\"https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/\">Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-232/",
-            "summary": "",
-            "date_published": "2018-11-13 00:00:00 +0700"
         }
 
     ]
