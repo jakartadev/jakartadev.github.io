@@ -5,12 +5,53 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Nov 2018 11:35:54 +0700</pubDate>
-    <lastBuildDate>Thu, 22 Nov 2018 11:35:54 +0700</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 11:43:08 +0700</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 11:43:08 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;235</title>
+        <title>Daily Digest &amp;#35;239</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/&quot;&gt;One Fish, Two Fish, Blue Fish Sporting New Red Hat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/ruby-on-rails-guide-to-debugging-22fg&quot;&gt;Ruby on Rails Guide to Debugging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dominik.tornow/kubernetes-api-server-part-i-3fbaf2138a31&quot;&gt;Kubernetes API Server, Part I&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Canner/canner&quot;&gt;⚡️Agile CMS) for Firebase/Firestore, GraphQL and Restful APIs.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robinwieruch.de/the-road-to-graphql-book/&quot;&gt;The Road to GraphQL [Book]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-239/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-239/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;238</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@tamas.csaba/maintainable-software-why-would-i-care-and-once-i-do-how-do-i-know-i-see-one-91896ecff08f&quot;&gt;Maintainable software: why would I care and once I do, how do I know I see one?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leewaterman.com/dont-make-squirrel-burgers/&quot;&gt;Don’t Make Squirrel Burgers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/minimaxir/big-list-of-naughty-strings&quot;&gt;The Big List of Naughty Strings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/&quot;&gt;The State of the Octoverse: top programming languages of 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 21 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-238/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-238/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;237</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://gitlab.com/daamien/postgresql_anonymizer&quot;&gt;postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html&quot;&gt;An Update on Bundler 2.0&lt;/a&gt;&lt;/li&gt;
@@ -183,50 +224,6 @@
         <pubDate>Fri, 09 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-230/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-230/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;229</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/workflows-for-the-new-developer-experience/&quot;&gt;Workflows for the New Developer Experience&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-coding-dojo-taught-me-about-agile&quot;&gt;What a Coding Dojo taught me about agile&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/technology-strategy-patterns/9781492040866/&quot;&gt;Technology Strategy Patterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/podman-more-secure-way-run-containers&quot;&gt;Podman: A more secure way to run containers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/containers/buildah&quot;&gt;Buildah – A tool that facilitates building OCI images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/thg-tech-blog/monitoring-multiple-kubernetes-clusters-88cf34442fa3&quot;&gt;Monitoring Multiple Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 08 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-229/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-229/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;228</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b&quot;&gt;How to be Strategic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/introducing-github-actions/&quot;&gt;Introducing GitHub Actions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://davrodpin.github.io/mole/&quot;&gt;Mole – Easily create SSH tunnels&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evergreen.segment.com/&quot;&gt;Evergreen – A Design System for the Web&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/cache-invalidation-rails-5-2-dalli-store&quot;&gt;Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-avoid-security-fails-public-cloud&quot;&gt;How to avoid security fails in the public cloud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 07 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-228/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-228/</guid>
         
         <category>daily</category>
         

@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-22T11:35:54+07:00</updated>
+ <updated>2018-11-22T11:43:08+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -13,7 +13,36 @@
 
  
  <entry>
-   <title>Daily Digest &#35;235</title>
+   <title>Daily Digest &#35;239</title>
+   <link href="https://jakartadev.org//daily-digest-239/"/>
+   <updated>2018-11-22T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-239</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/&quot;&gt;One Fish, Two Fish, Blue Fish Sporting New Red Hat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/ruby-on-rails-guide-to-debugging-22fg&quot;&gt;Ruby on Rails Guide to Debugging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dominik.tornow/kubernetes-api-server-part-i-3fbaf2138a31&quot;&gt;Kubernetes API Server, Part I&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Canner/canner&quot;&gt;⚡️Agile CMS) for Firebase/Firestore, GraphQL and Restful APIs.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robinwieruch.de/the-road-to-graphql-book/&quot;&gt;The Road to GraphQL [Book]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;238</title>
+   <link href="https://jakartadev.org//daily-digest-238/"/>
+   <updated>2018-11-21T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-238</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@tamas.csaba/maintainable-software-why-would-i-care-and-once-i-do-how-do-i-know-i-see-one-91896ecff08f&quot;&gt;Maintainable software: why would I care and once I do, how do I know I see one?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leewaterman.com/dont-make-squirrel-burgers/&quot;&gt;Don’t Make Squirrel Burgers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/minimaxir/big-list-of-naughty-strings&quot;&gt;The Big List of Naughty Strings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/&quot;&gt;The State of the Octoverse: top programming languages of 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;237</title>
    <link href="https://jakartadev.org//daily-digest-237/"/>
    <updated>2018-11-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-237</id>
