@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-22T11:43:08+07:00</updated>
+ <updated>2018-11-23T15:51:16+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;239</title>
+   <link href="https://jakartadev.org//daily-digest-240/"/>
+   <updated>2018-11-23T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-240</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zammad/zammad&quot;&gt;Zammad – web based open source helpdesk/customer support system&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer/&quot;&gt;Writing GraphQL queries in native Ruby = Love ❤️&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/uohzxela/clean-code-ruby&quot;&gt;🛁 Clean Code concepts adapted for Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rebo_dood/the-benefits-of-materialized-views-and-how-to-use-them-in-your-ruby-on-rails-project-4ac1b5432881&quot;&gt;The Benefits of Materialized Views (and how to use them in your Ruby on Rails project)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rubyguides.com/2018/11/ruby-mjit/?tl_inbound=1&amp;amp;tl_target_all=1&amp;amp;tl_form_type=1&amp;amp;tl_period_type=1&quot;&gt;What Is MJIT in Ruby 2.6 &amp;amp; How Does It Work?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.epages.com/blog/coding/no-more-hassle-with-rails-secret-management/&quot;&gt;No more hassle with Rails secret management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;239</title>
