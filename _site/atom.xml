@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-23T15:51:16+07:00</updated>
+ <updated>2018-11-26T11:49:28+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;241</title>
+   <link href="https://jakartadev.org//daily-digest-241/"/>
+   <updated>2018-11-26T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-241</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/xlni/&quot;&gt;Facebook, NYU expand available languages for natural language understanding systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/code-documentation&quot;&gt;How to Write Code That Documents Itself&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52&quot;&gt;Lazy-loading components in React 16.6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql&quot;&gt;ATM Fraud Detection with Apache Kafka and KSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1&quot;&gt;Anomaly Detection in Zipkin Trace Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/&quot;&gt;Deep Learning for Classifying Hotel Aesthetics Photos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;239</title>
