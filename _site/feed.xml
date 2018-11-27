@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Nov 2018 11:49:28 +0700</pubDate>
-    <lastBuildDate>Mon, 26 Nov 2018 11:49:28 +0700</lastBuildDate>
+    <pubDate>Tue, 27 Nov 2018 13:30:31 +0700</pubDate>
+    <lastBuildDate>Tue, 27 Nov 2018 13:30:31 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;242</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/troxler/awesome-css-frameworks&quot;&gt;awesome-css-frameworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/how-to-solve-the-last-mile-logistics-conundrum-2ced70f5f7f3&quot;&gt;How to solve the last mile logistics conundrum?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/10/performance-server-timing/&quot;&gt;Measuring Performance With Server Timing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/10/30/s3_signed_urls/&quot;&gt;How S3 Signed URLs work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5&quot;&gt;Introducing the Apollo GraphQL Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.opsian.com/blog/understanding-production-what-can-you-measure/&quot;&gt;Understanding Production: What can you measure?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617&quot;&gt;Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 27 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-242/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-242/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;241</title>
@@ -198,29 +221,6 @@
         <pubDate>Wed, 14 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-233/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-233/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;232</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/poka-techblog/the-best-way-to-store-secrets-in-your-app-is-not-to-store-secrets-in-your-app-308a6807d3ed&quot;&gt;The best way to store secrets in your app is not to store secrets in your app&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/&quot;&gt;How to safely store API keys in Rails apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.memsql.com/blog/announcing-memsql-free-tier/&quot;&gt;MemSQL: Now Free to Use&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/gitbase&quot;&gt;Gitbase: Exploring Git repos with SQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2017/03/27/every-service-is-an-island.html&quot;&gt;Every service is an island&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/&quot;&gt;An introduction to medieval cities and cloud security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/&quot;&gt;Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 13 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-232/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-232/</guid>
         
         <category>daily</category>
         

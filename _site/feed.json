@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-242",
+            "title": "Daily Digest #242",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/troxler/awesome-css-frameworks\">awesome-css-frameworks</a></li>\n  <li><a href=\"https://towardsdatascience.com/how-to-solve-the-last-mile-logistics-conundrum-2ced70f5f7f3\">How to solve the last mile logistics conundrum?</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/10/performance-server-timing/\">Measuring Performance With Server Timing</a></li>\n  <li><a href=\"https://advancedweb.hu/2018/10/30/s3_signed_urls/\">How S3 Signed URLs work</a></li>\n  <li><a href=\"https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5\">Introducing the Apollo GraphQL Platform</a></li>\n  <li><a href=\"https://www.opsian.com/blog/understanding-production-what-can-you-measure/\">Understanding Production: What can you measure?</a></li>\n  <li><a href=\"https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617\">Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-242/",
+            "summary": "",
+            "date_published": "2018-11-27 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-241",
             "title": "Daily Digest #241",
             "content_html": "<ul>\n  <li><a href=\"https://code.fb.com/ai-research/xlni/\">Facebook, NYU expand available languages for natural language understanding systems</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/code-documentation\">How to Write Code That Documents Itself</a></li>\n  <li><a href=\"https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52\">Lazy-loading components in React 16.6</a></li>\n  <li><a href=\"https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql\">ATM Fraud Detection with Apache Kafka and KSQL</a></li>\n  <li><a href=\"https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1\">Anomaly Detection in Zipkin Trace Data</a></li>\n  <li><a href=\"https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/\">Deep Learning for Classifying Hotel Aesthetics Photos</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-238/",
             "summary": "",
             "date_published": "2018-11-21 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-237",
-            "title": "Daily Digest #237",
-            "content_html": "<ul>\n  <li><a href=\"https://gitlab.com/daamien/postgresql_anonymizer\">postgresql_anonymizer – 🐘🕶️ Anonymization &amp; Data Masking for PostgreSQL</a></li>\n  <li><a href=\"https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html\">An Update on Bundler 2.0</a></li>\n  <li><a href=\"https://paulmillr.com/posts/using-dark-mode-in-css/\">Using dark mode in CSS with MacOS Mojave</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications\">Meet Yabeda: A Ruby instrumentation framework</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-237/",
-            "summary": "",
-            "date_published": "2018-11-20 00:00:00 +0700"
         }
 
     ]
