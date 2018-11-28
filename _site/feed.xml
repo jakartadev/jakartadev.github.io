@@ -5,9 +5,34 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Nov 2018 13:30:31 +0700</pubDate>
-    <lastBuildDate>Tue, 27 Nov 2018 13:30:31 +0700</lastBuildDate>
+    <pubDate>Wed, 28 Nov 2018 10:18:22 +0700</pubDate>
+    <lastBuildDate>Wed, 28 Nov 2018 10:18:22 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;243</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pxlpnk/awesome-ruby-security&quot;&gt;awesome-ruby-security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/join-ordering-pt1/&quot;&gt;An Introduction to Join Ordering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/&quot;&gt;Building Ambitious Apps with MDX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8&quot;&gt;Immutable Infrastructure Using Packer, Ansible, and Terraform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mayerdan.com/ruby/2018/10/03/coverband-3&quot;&gt;Coverband 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/switching-to-a-remote-manager/&quot;&gt;Switching to a remote manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gower.st/blog/2018/how-we-pair-on-code/&quot;&gt;How we pair using AWS, tmux, vim and emacs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myheritage-engineering/reacts-render-props-in-practice-b3775fcbf3c3&quot;&gt;React’s Render Props in Practice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/cloud-based-file-transfer-at-scale-63d8e2dacb3a&quot;&gt;Cloud-based file transfer at scale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 28 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-243/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-243/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;242</title>
@@ -199,28 +224,6 @@
         <pubDate>Thu, 15 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-234/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-234/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;233</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/cullum/dank-selfhosted&quot;&gt;Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/vifreefly/procsd&quot;&gt;Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8&quot;&gt;Immutable Infrastructure Using Packer, Ansible, and Terraform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/architecture-no-one-needs-is-server-side-templating-78331391274&quot;&gt;Architecture no one needs is server side templating&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-10-30-oct21-post-incident-analysis/&quot;&gt;October 21 post-incident analysis &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-set-list/ruby-on-rails-security-be16bd1a8b02&quot;&gt;Ruby on Rails Security&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 14 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-233/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-233/</guid>
         
         <category>daily</category>
         
