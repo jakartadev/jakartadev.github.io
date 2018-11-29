@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Nov 2018 10:18:22 +0700</pubDate>
-    <lastBuildDate>Wed, 28 Nov 2018 10:18:22 +0700</lastBuildDate>
+    <pubDate>Thu, 29 Nov 2018 14:44:26 +0700</pubDate>
+    <lastBuildDate>Thu, 29 Nov 2018 14:44:26 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;244</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab&quot;&gt;Kubernetes 202 — Making It Fully Operational&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/who-is-in-charge-of-developing-a-devops-culture/&quot;&gt;Who Is in Charge of Developing a DevOps Culture?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/open-source-serverless-platforms&quot;&gt;7 open source platforms to get started with serverless computing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8&quot;&gt;The End Is Near for Mobile Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/best-practices-cicd&quot;&gt;3 best practices for continuous integration and deployment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/reflecting-on-building-real-time-apis-at-facebook-6089f4b7de56&quot;&gt;Reflecting on Building Real-time APIs at Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/add-it-up-china-uses-open-source-to-deliver-cloud-services/&quot;&gt;Add It Up: China Uses Open Source to Deliver Cloud Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 29 Nov 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-244/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-244/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;243</title>
@@ -201,29 +224,6 @@
         <pubDate>Fri, 16 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-235/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-235/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;234</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.vuedarkmode.com/&quot;&gt;A minimalist dark design system for vue.js 🎨&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.tanelpoder.com/posts/visualizing-sql-plan-execution-time-with-flamegraphs/&quot;&gt;Visualizing SQL Plan Execution Time With FlameGraphs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/paxos/how-to-build-a-great-engineering-team-af545a7fe0ee&quot;&gt;How to Build a Great Engineering Team&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/10/testing-privacy-preserving-telemetry-with-prio/&quot;&gt;Testing Privacy-Preserving Telemetry with Prio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tinnedfruit.com/articles/create-your-own-dysfunctional-single-page-app.html&quot;&gt;Create your own dysfunctional single-page app in five easy steps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html&quot;&gt;A Safer RuboCop&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://public.digital/2018/10/12/internet-era-ways-of-working/&quot;&gt;Internet-era ways of working&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 15 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-234/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-234/</guid>
         
         <category>daily</category>
         

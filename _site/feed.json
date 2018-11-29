@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-244",
+            "title": "Daily Digest #244",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab\">Kubernetes 202 — Making It Fully Operational</a></li>\n  <li><a href=\"https://thenewstack.io/who-is-in-charge-of-developing-a-devops-culture/\">Who Is in Charge of Developing a DevOps Culture?</a></li>\n  <li><a href=\"https://opensource.com/article/18/11/open-source-serverless-platforms\">7 open source platforms to get started with serverless computing</a></li>\n  <li><a href=\"https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8\">The End Is Near for Mobile Apps</a></li>\n  <li><a href=\"https://opensource.com/article/18/11/best-practices-cicd\">3 best practices for continuous integration and deployment</a></li>\n  <li><a href=\"https://hackernoon.com/reflecting-on-building-real-time-apis-at-facebook-6089f4b7de56\">Reflecting on Building Real-time APIs at Facebook</a></li>\n  <li><a href=\"https://thenewstack.io/add-it-up-china-uses-open-source-to-deliver-cloud-services/\">Add It Up: China Uses Open Source to Deliver Cloud Services</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-244/",
+            "summary": "",
+            "date_published": "2018-11-29 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-243",
             "title": "Daily Digest #243",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/pxlpnk/awesome-ruby-security\">awesome-ruby-security</a></li>\n  <li><a href=\"https://www.cockroachlabs.com/blog/join-ordering-pt1/\">An Introduction to Join Ordering</a></li>\n  <li><a href=\"https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/\">Building Ambitious Apps with MDX</a></li>\n  <li><a href=\"https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8\">Immutable Infrastructure Using Packer, Ansible, and Terraform</a></li>\n  <li><a href=\"https://www.mayerdan.com/ruby/2018/10/03/coverband-3\">Coverband 3</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/switching-to-a-remote-manager/\">Switching to a remote manager</a></li>\n  <li><a href=\"https://gower.st/blog/2018/how-we-pair-on-code/\">How we pair using AWS, tmux, vim and emacs</a></li>\n  <li><a href=\"https://medium.com/myheritage-engineering/reacts-render-props-in-practice-b3775fcbf3c3\">React’s Render Props in Practice</a></li>\n  <li><a href=\"https://hackernoon.com/cloud-based-file-transfer-at-scale-63d8e2dacb3a\">Cloud-based file transfer at scale</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-240/",
             "summary": "",
             "date_published": "2018-11-23 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-239",
-            "title": "Daily Digest #239",
-            "content_html": "<ul>\n  <li><a href=\"https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/\">One Fish, Two Fish, Blue Fish Sporting New Red Hat</a></li>\n  <li><a href=\"https://dev.to/neshaz/ruby-on-rails-guide-to-debugging-22fg\">Ruby on Rails Guide to Debugging</a></li>\n  <li><a href=\"https://medium.com/@dominik.tornow/kubernetes-api-server-part-i-3fbaf2138a31\">Kubernetes API Server, Part I</a></li>\n  <li><a href=\"https://github.com/Canner/canner\">⚡️Agile CMS) for Firebase/Firestore, GraphQL and Restful APIs.</a></li>\n  <li><a href=\"https://www.robinwieruch.de/the-road-to-graphql-book/\">The Road to GraphQL [Book]</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-239/",
-            "summary": "",
-            "date_published": "2018-11-22 00:00:00 +0700"
         }
 
     ]

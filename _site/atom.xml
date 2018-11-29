@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-28T10:18:22+07:00</updated>
+ <updated>2018-11-29T14:44:26+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;244</title>
+   <link href="https://jakartadev.org//daily-digest-244/"/>
+   <updated>2018-11-29T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-244</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab&quot;&gt;Kubernetes 202 — Making It Fully Operational&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/who-is-in-charge-of-developing-a-devops-culture/&quot;&gt;Who Is in Charge of Developing a DevOps Culture?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/open-source-serverless-platforms&quot;&gt;7 open source platforms to get started with serverless computing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8&quot;&gt;The End Is Near for Mobile Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/best-practices-cicd&quot;&gt;3 best practices for continuous integration and deployment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/reflecting-on-building-real-time-apis-at-facebook-6089f4b7de56&quot;&gt;Reflecting on Building Real-time APIs at Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/add-it-up-china-uses-open-source-to-deliver-cloud-services/&quot;&gt;Add It Up: China Uses Open Source to Deliver Cloud Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;243</title>
