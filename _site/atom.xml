@@ -4,13 +4,31 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-29T14:44:26+07:00</updated>
+ <updated>2018-11-30T11:09:27+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;245</title>
+   <link href="https://jakartadev.org//daily-digest-245/"/>
+   <updated>2018-11-30T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-245</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@yellow/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project-4985b2253778&quot;&gt;Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302&quot;&gt;Apache Kafka’s Distributed System Firefighter — The Controller Broker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/profiling-case-missing-milliseconds&quot;&gt;Profiling: The Case of the Missing Milliseconds &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/power-efficiency-for-performance-deficiency-a1ef79d1379b&quot;&gt;Power-efficiency for performance-deficiency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/avoid-architectural-change-disaster-with-app-performance-monitoring/&quot;&gt;Avoid Architectural Change Disaster with App Performance Monitoring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb&quot;&gt;Neural Networks For Music: A Journey Through Its History&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/role-of-devops-in-mobile-app-development/&quot;&gt;Role of DevOps in Mobile App Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/outsystems-engineering/a-container-for-your-app-my-dear-87118ca84739&quot;&gt;A Container For Your App, My Dear!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;244</title>

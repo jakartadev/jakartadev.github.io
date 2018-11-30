@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-245",
+            "title": "Daily Digest #245",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@yellow/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project-4985b2253778\">Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project</a></li>\n  <li><a href=\"https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302\">Apache Kafka’s Distributed System Firefighter — The Controller Broker</a></li>\n  <li><a href=\"https://engineering.riotgames.com/news/profiling-case-missing-milliseconds\">Profiling: The Case of the Missing Milliseconds </a></li>\n  <li><a href=\"https://itnext.io/power-efficiency-for-performance-deficiency-a1ef79d1379b\">Power-efficiency for performance-deficiency</a></li>\n  <li><a href=\"https://thenewstack.io/avoid-architectural-change-disaster-with-app-performance-monitoring/\">Avoid Architectural Change Disaster with App Performance Monitoring</a></li>\n  <li><a href=\"https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb\">Neural Networks For Music: A Journey Through Its History</a></li>\n  <li><a href=\"https://devops.com/role-of-devops-in-mobile-app-development/\">Role of DevOps in Mobile App Development</a></li>\n  <li><a href=\"https://medium.com/outsystems-engineering/a-container-for-your-app-my-dear-87118ca84739\">A Container For Your App, My Dear!</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-245/",
+            "summary": "",
+            "date_published": "2018-11-30 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-244",
             "title": "Daily Digest #244",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab\">Kubernetes 202 — Making It Fully Operational</a></li>\n  <li><a href=\"https://thenewstack.io/who-is-in-charge-of-developing-a-devops-culture/\">Who Is in Charge of Developing a DevOps Culture?</a></li>\n  <li><a href=\"https://opensource.com/article/18/11/open-source-serverless-platforms\">7 open source platforms to get started with serverless computing</a></li>\n  <li><a href=\"https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8\">The End Is Near for Mobile Apps</a></li>\n  <li><a href=\"https://opensource.com/article/18/11/best-practices-cicd\">3 best practices for continuous integration and deployment</a></li>\n  <li><a href=\"https://hackernoon.com/reflecting-on-building-real-time-apis-at-facebook-6089f4b7de56\">Reflecting on Building Real-time APIs at Facebook</a></li>\n  <li><a href=\"https://thenewstack.io/add-it-up-china-uses-open-source-to-deliver-cloud-services/\">Add It Up: China Uses Open Source to Deliver Cloud Services</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-241/",
             "summary": "",
             "date_published": "2018-11-26 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-240",
-            "title": "Daily Digest #239",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/zammad/zammad\">Zammad – web based open source helpdesk/customer support system</a></li>\n  <li><a href=\"https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer/\">Writing GraphQL queries in native Ruby = Love ❤️</a></li>\n  <li><a href=\"https://github.com/uohzxela/clean-code-ruby\">🛁 Clean Code concepts adapted for Ruby</a></li>\n  <li><a href=\"https://medium.com/@rebo_dood/the-benefits-of-materialized-views-and-how-to-use-them-in-your-ruby-on-rails-project-4ac1b5432881\">The Benefits of Materialized Views (and how to use them in your Ruby on Rails project)</a></li>\n  <li><a href=\"https://www.rubyguides.com/2018/11/ruby-mjit/?tl_inbound=1&amp;tl_target_all=1&amp;tl_form_type=1&amp;tl_period_type=1\">What Is MJIT in Ruby 2.6 &amp; How Does It Work?</a></li>\n  <li><a href=\"https://developer.epages.com/blog/coding/no-more-hassle-with-rails-secret-management/\">No more hassle with Rails secret management</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-240/",
-            "summary": "",
-            "date_published": "2018-11-23 00:00:00 +0700"
         }
 
     ]
