@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-246",
+            "title": "Daily Digest #246",
+            "content_html": "<ul>\n  <li><a href=\"https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/\">Introducing FuseBox, an alternative to Webpack</a></li>\n  <li><a href=\"https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/\">Advanced web security topics</a></li>\n  <li><a href=\"https://eng.uber.com/scaling-michelangelo/\">Scaling Machine Learning at Uber with Michelangelo</a></li>\n  <li><a href=\"https://github.com/kgretzky/evilginx2\">EvilGinx – Standalone man-in-the-middle attack framework </a></li>\n  <li><a href=\"https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5\">Why you should avoid ORMs (with examples in Node.js)</a></li>\n  <li><a href=\"https://blog.documentnode.io/learn-document-node-in-10-seconds\">Learn Document Node in 10 seconds from my business card</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-246/",
+            "summary": "",
+            "date_published": "2018-12-03 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-245",
             "title": "Daily Digest #245",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/@yellow/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project-4985b2253778\">Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project</a></li>\n  <li><a href=\"https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302\">Apache Kafka’s Distributed System Firefighter — The Controller Broker</a></li>\n  <li><a href=\"https://engineering.riotgames.com/news/profiling-case-missing-milliseconds\">Profiling: The Case of the Missing Milliseconds </a></li>\n  <li><a href=\"https://itnext.io/power-efficiency-for-performance-deficiency-a1ef79d1379b\">Power-efficiency for performance-deficiency</a></li>\n  <li><a href=\"https://thenewstack.io/avoid-architectural-change-disaster-with-app-performance-monitoring/\">Avoid Architectural Change Disaster with App Performance Monitoring</a></li>\n  <li><a href=\"https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb\">Neural Networks For Music: A Journey Through Its History</a></li>\n  <li><a href=\"https://devops.com/role-of-devops-in-mobile-app-development/\">Role of DevOps in Mobile App Development</a></li>\n  <li><a href=\"https://medium.com/outsystems-engineering/a-container-for-your-app-my-dear-87118ca84739\">A Container For Your App, My Dear!</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-242/",
             "summary": "",
             "date_published": "2018-11-27 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-241",
-            "title": "Daily Digest #241",
-            "content_html": "<ul>\n  <li><a href=\"https://code.fb.com/ai-research/xlni/\">Facebook, NYU expand available languages for natural language understanding systems</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/code-documentation\">How to Write Code That Documents Itself</a></li>\n  <li><a href=\"https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52\">Lazy-loading components in React 16.6</a></li>\n  <li><a href=\"https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql\">ATM Fraud Detection with Apache Kafka and KSQL</a></li>\n  <li><a href=\"https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1\">Anomaly Detection in Zipkin Trace Data</a></li>\n  <li><a href=\"https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/\">Deep Learning for Classifying Hotel Aesthetics Photos</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-241/",
-            "summary": "",
-            "date_published": "2018-11-26 00:00:00 +0700"
         }
 
     ]

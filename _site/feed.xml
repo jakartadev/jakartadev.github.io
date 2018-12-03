@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Nov 2018 11:09:27 +0700</pubDate>
-    <lastBuildDate>Fri, 30 Nov 2018 11:09:27 +0700</lastBuildDate>
+    <pubDate>Mon, 03 Dec 2018 22:35:47 +0700</pubDate>
+    <lastBuildDate>Mon, 03 Dec 2018 22:35:47 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;246</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/&quot;&gt;Introducing FuseBox, an alternative to Webpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/&quot;&gt;Advanced web security topics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/scaling-michelangelo/&quot;&gt;Scaling Machine Learning at Uber with Michelangelo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kgretzky/evilginx2&quot;&gt;EvilGinx – Standalone man-in-the-middle attack framework &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5&quot;&gt;Why you should avoid ORMs (with examples in Node.js)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.documentnode.io/learn-document-node-in-10-seconds&quot;&gt;Learn Document Node in 10 seconds from my business card&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 03 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-246/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-246/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;245</title>
@@ -201,30 +223,6 @@
         <pubDate>Tue, 20 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-237/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-237/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;234</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make&quot;&gt;Three Sales Mistakes Software Engineers Make&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.gitprime.com/drift-3-day-onboarding-process/&quot;&gt;How Drift Gets Engineers up to Speed by Day 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/launching-your-own-ruby-gem-build-it&quot;&gt;Launching Your Own Ruby Gem - Part 1: Build It&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c&quot;&gt;Why React’s new Hooks API is a game changer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/&quot;&gt;4 Anonymous Web Browsers That Are Completely Private&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;Dive – A tool for exploring each layer in a docker image&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11&quot;&gt;A Tour of The Top 10 Algorithms for Machine Learning Newbies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/cloudwatch-devil-i-must-use-it&quot;&gt;CloudWatch Is of the Devil, but I Must Use It&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 18 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-236/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-236/</guid>
         
         <category>daily</category>
         

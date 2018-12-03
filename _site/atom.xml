@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-11-30T11:09:27+07:00</updated>
+ <updated>2018-12-03T22:35:47+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;246</title>
+   <link href="https://jakartadev.org//daily-digest-246/"/>
+   <updated>2018-12-03T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-246</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/&quot;&gt;Introducing FuseBox, an alternative to Webpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/&quot;&gt;Advanced web security topics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/scaling-michelangelo/&quot;&gt;Scaling Machine Learning at Uber with Michelangelo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kgretzky/evilginx2&quot;&gt;EvilGinx – Standalone man-in-the-middle attack framework &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5&quot;&gt;Why you should avoid ORMs (with examples in Node.js)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.documentnode.io/learn-document-node-in-10-seconds&quot;&gt;Learn Document Node in 10 seconds from my business card&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;245</title>
