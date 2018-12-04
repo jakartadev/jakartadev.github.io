@@ -4,13 +4,31 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-12-03T22:35:47+07:00</updated>
+ <updated>2018-12-04T11:39:18+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;247</title>
+   <link href="https://jakartadev.org//daily-digest-247/"/>
+   <updated>2018-12-04T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-247</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GitSquared/edex-ui&quot;&gt;Edex-UI – A science fiction terminal emulator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jessfraz.com/post/you-might-not-need-k8s/&quot;&gt;You might not need Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slikts.github.io/concurrency-glossary/&quot;&gt;Concurrency glossary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/product-design/guide-to-onboarding-ux&quot;&gt;First Impressions - a Guide to Onboarding UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code&quot;&gt;Want To Recruit Better Engineers? Open Source Your Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jarun/nnn&quot;&gt;nnn – The fastest terminal file manager ever written&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/08/30/why-youre-having-trouble-hiring/&quot;&gt;Why you’re having trouble hiring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/java-troubleshooting-guide/&quot;&gt;A Java troubleshooting guide: network, memory leaks and threads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;246</title>

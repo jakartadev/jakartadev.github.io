@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-247",
+            "title": "Daily Digest #247",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/GitSquared/edex-ui\">Edex-UI – A science fiction terminal emulator</a></li>\n  <li><a href=\"https://blog.jessfraz.com/post/you-might-not-need-k8s/\">You might not need Kubernetes</a></li>\n  <li><a href=\"https://slikts.github.io/concurrency-glossary/\">Concurrency glossary</a></li>\n  <li><a href=\"https://www.toptal.com/designers/product-design/guide-to-onboarding-ux\">First Impressions - a Guide to Onboarding UX</a></li>\n  <li><a href=\"https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code\">Want To Recruit Better Engineers? Open Source Your Code</a></li>\n  <li><a href=\"https://github.com/jarun/nnn\">nnn – The fastest terminal file manager ever written</a></li>\n  <li><a href=\"http://blairreeves.me/2018/08/30/why-youre-having-trouble-hiring/\">Why you’re having trouble hiring</a></li>\n  <li><a href=\"https://sysdig.com/blog/java-troubleshooting-guide/\">A Java troubleshooting guide: network, memory leaks and threads</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-247/",
+            "summary": "",
+            "date_published": "2018-12-04 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-246",
             "title": "Daily Digest #246",
             "content_html": "<ul>\n  <li><a href=\"https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/\">Introducing FuseBox, an alternative to Webpack</a></li>\n  <li><a href=\"https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/\">Advanced web security topics</a></li>\n  <li><a href=\"https://eng.uber.com/scaling-michelangelo/\">Scaling Machine Learning at Uber with Michelangelo</a></li>\n  <li><a href=\"https://github.com/kgretzky/evilginx2\">EvilGinx – Standalone man-in-the-middle attack framework </a></li>\n  <li><a href=\"https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5\">Why you should avoid ORMs (with examples in Node.js)</a></li>\n  <li><a href=\"https://blog.documentnode.io/learn-document-node-in-10-seconds\">Learn Document Node in 10 seconds from my business card</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-243/",
             "summary": "",
             "date_published": "2018-11-28 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-242",
-            "title": "Daily Digest #242",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/troxler/awesome-css-frameworks\">awesome-css-frameworks</a></li>\n  <li><a href=\"https://towardsdatascience.com/how-to-solve-the-last-mile-logistics-conundrum-2ced70f5f7f3\">How to solve the last mile logistics conundrum?</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/10/performance-server-timing/\">Measuring Performance With Server Timing</a></li>\n  <li><a href=\"https://advancedweb.hu/2018/10/30/s3_signed_urls/\">How S3 Signed URLs work</a></li>\n  <li><a href=\"https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5\">Introducing the Apollo GraphQL Platform</a></li>\n  <li><a href=\"https://www.opsian.com/blog/understanding-production-what-can-you-measure/\">Understanding Production: What can you measure?</a></li>\n  <li><a href=\"https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617\">Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-242/",
-            "summary": "",
-            "date_published": "2018-11-27 00:00:00 +0700"
         }
 
     ]

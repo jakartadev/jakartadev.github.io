@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Dec 2018 22:35:47 +0700</pubDate>
-    <lastBuildDate>Mon, 03 Dec 2018 22:35:47 +0700</lastBuildDate>
+    <pubDate>Tue, 04 Dec 2018 11:39:18 +0700</pubDate>
+    <lastBuildDate>Tue, 04 Dec 2018 11:39:18 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;247</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GitSquared/edex-ui&quot;&gt;Edex-UI – A science fiction terminal emulator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jessfraz.com/post/you-might-not-need-k8s/&quot;&gt;You might not need Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slikts.github.io/concurrency-glossary/&quot;&gt;Concurrency glossary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/product-design/guide-to-onboarding-ux&quot;&gt;First Impressions - a Guide to Onboarding UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code&quot;&gt;Want To Recruit Better Engineers? Open Source Your Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jarun/nnn&quot;&gt;nnn – The fastest terminal file manager ever written&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/08/30/why-youre-having-trouble-hiring/&quot;&gt;Why you’re having trouble hiring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/java-troubleshooting-guide/&quot;&gt;A Java troubleshooting guide: network, memory leaks and threads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 04 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-247/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-247/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;246</title>
@@ -203,26 +227,6 @@
         <pubDate>Wed, 21 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-238/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-238/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;237</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/daamien/postgresql_anonymizer&quot;&gt;postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html&quot;&gt;An Update on Bundler 2.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://paulmillr.com/posts/using-dark-mode-in-css/&quot;&gt;Using dark mode in CSS with MacOS Mojave&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications&quot;&gt;Meet Yabeda: A Ruby instrumentation framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 20 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-237/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-237/</guid>
         
         <category>daily</category>
         
