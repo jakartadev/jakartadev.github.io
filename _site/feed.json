@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-248",
+            "title": "Daily Digest #248",
+            "content_html": "<ul>\n  <li><a href=\"https://code.fb.com/ml-applications/horizon/\">Horizon: The first open source reinforcement learning platform for large-scale products and services</a></li>\n  <li><a href=\"https://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html\">The Decentralized Web</a></li>\n  <li><a href=\"https://www.scylladb.com/2018/11/01/more-efficient-range-scan-paging-with-scylla-3-0/\">More Efficient Range Scan Paging with Scylla 3.0</a></li>\n  <li><a href=\"https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0\">I hate manager READMEs</a></li>\n  <li><a href=\"https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST\">Post-REST</a></li>\n  <li><a href=\"http://blairreeves.me/2018/11/09/dont-work-remotely/?resubmit=hn\">Don’t work “remotely”</a></li>\n  <li><a href=\"https://github.com/aurelg/ipfs-wormhole\">ipfs-wormhole</a></li>\n  <li><a href=\"https://qz.com/work/1470164/what-is-psychological-safety/\">What psychological safety is not</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-248/",
+            "summary": "",
+            "date_published": "2018-12-05 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-247",
             "title": "Daily Digest #247",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/GitSquared/edex-ui\">Edex-UI – A science fiction terminal emulator</a></li>\n  <li><a href=\"https://blog.jessfraz.com/post/you-might-not-need-k8s/\">You might not need Kubernetes</a></li>\n  <li><a href=\"https://slikts.github.io/concurrency-glossary/\">Concurrency glossary</a></li>\n  <li><a href=\"https://www.toptal.com/designers/product-design/guide-to-onboarding-ux\">First Impressions - a Guide to Onboarding UX</a></li>\n  <li><a href=\"https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code\">Want To Recruit Better Engineers? Open Source Your Code</a></li>\n  <li><a href=\"https://github.com/jarun/nnn\">nnn – The fastest terminal file manager ever written</a></li>\n  <li><a href=\"http://blairreeves.me/2018/08/30/why-youre-having-trouble-hiring/\">Why you’re having trouble hiring</a></li>\n  <li><a href=\"https://sysdig.com/blog/java-troubleshooting-guide/\">A Java troubleshooting guide: network, memory leaks and threads</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-244/",
             "summary": "",
             "date_published": "2018-11-29 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-243",
-            "title": "Daily Digest #243",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/pxlpnk/awesome-ruby-security\">awesome-ruby-security</a></li>\n  <li><a href=\"https://www.cockroachlabs.com/blog/join-ordering-pt1/\">An Introduction to Join Ordering</a></li>\n  <li><a href=\"https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/\">Building Ambitious Apps with MDX</a></li>\n  <li><a href=\"https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8\">Immutable Infrastructure Using Packer, Ansible, and Terraform</a></li>\n  <li><a href=\"https://www.mayerdan.com/ruby/2018/10/03/coverband-3\">Coverband 3</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/switching-to-a-remote-manager/\">Switching to a remote manager</a></li>\n  <li><a href=\"https://gower.st/blog/2018/how-we-pair-on-code/\">How we pair using AWS, tmux, vim and emacs</a></li>\n  <li><a href=\"https://medium.com/myheritage-engineering/reacts-render-props-in-practice-b3775fcbf3c3\">React’s Render Props in Practice</a></li>\n  <li><a href=\"https://hackernoon.com/cloud-based-file-transfer-at-scale-63d8e2dacb3a\">Cloud-based file transfer at scale</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-243/",
-            "summary": "",
-            "date_published": "2018-11-28 00:00:00 +0700"
         }
 
     ]

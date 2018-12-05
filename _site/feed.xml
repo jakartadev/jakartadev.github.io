@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Dec 2018 11:39:18 +0700</pubDate>
-    <lastBuildDate>Tue, 04 Dec 2018 11:39:18 +0700</lastBuildDate>
+    <pubDate>Wed, 05 Dec 2018 13:03:40 +0700</pubDate>
+    <lastBuildDate>Wed, 05 Dec 2018 13:03:40 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;248</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ml-applications/horizon/&quot;&gt;Horizon: The first open source reinforcement learning platform for large-scale products and services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html&quot;&gt;The Decentralized Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/11/01/more-efficient-range-scan-paging-with-scylla-3-0/&quot;&gt;More Efficient Range Scan Paging with Scylla 3.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0&quot;&gt;I hate manager READMEs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST&quot;&gt;Post-REST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/11/09/dont-work-remotely/?resubmit=hn&quot;&gt;Don’t work “remotely”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aurelg/ipfs-wormhole&quot;&gt;ipfs-wormhole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qz.com/work/1470164/what-is-psychological-safety/&quot;&gt;What psychological safety is not&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 05 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-248/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-248/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;247</title>
@@ -207,26 +231,6 @@
         <pubDate>Thu, 22 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-239/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-239/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;238</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@tamas.csaba/maintainable-software-why-would-i-care-and-once-i-do-how-do-i-know-i-see-one-91896ecff08f&quot;&gt;Maintainable software: why would I care and once I do, how do I know I see one?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leewaterman.com/dont-make-squirrel-burgers/&quot;&gt;Don’t Make Squirrel Burgers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/minimaxir/big-list-of-naughty-strings&quot;&gt;The Big List of Naughty Strings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/&quot;&gt;The State of the Octoverse: top programming languages of 2018&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 21 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-238/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-238/</guid>
         
         <category>daily</category>
         

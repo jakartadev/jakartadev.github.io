@@ -4,13 +4,31 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-12-04T11:39:18+07:00</updated>
+ <updated>2018-12-05T13:03:40+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;248</title>
+   <link href="https://jakartadev.org//daily-digest-248/"/>
+   <updated>2018-12-05T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-248</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ml-applications/horizon/&quot;&gt;Horizon: The first open source reinforcement learning platform for large-scale products and services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html&quot;&gt;The Decentralized Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/11/01/more-efficient-range-scan-paging-with-scylla-3-0/&quot;&gt;More Efficient Range Scan Paging with Scylla 3.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0&quot;&gt;I hate manager READMEs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST&quot;&gt;Post-REST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/11/09/dont-work-remotely/?resubmit=hn&quot;&gt;Don’t work “remotely”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aurelg/ipfs-wormhole&quot;&gt;ipfs-wormhole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qz.com/work/1470164/what-is-psychological-safety/&quot;&gt;What psychological safety is not&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;247</title>
