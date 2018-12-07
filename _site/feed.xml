@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Dec 2018 13:03:40 +0700</pubDate>
-    <lastBuildDate>Wed, 05 Dec 2018 13:03:40 +0700</lastBuildDate>
+    <pubDate>Fri, 07 Dec 2018 11:48:00 +0700</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 11:48:00 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;249</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jaycoon/9-emerging-operations-gaps-that-will-accelerate-cloud-adoption-part-1-58cef12f34d2&quot;&gt;9 Emerging Operational Gaps That Will Accelerate Cloud Adoption — Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/why-sharing-important-devops-culture&quot;&gt;Why giving back is important to the DevOps culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/threat-modeling-devops-3-lessons-front-lines&quot;&gt;Threat modeling and DevOps: 3 lessons from the front lines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@vaibhavgoel_20415/agile-methodology-at-zomato-b5b4659b57ae&quot;&gt;Agile Methodology at Zomato&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/google-integrates-istio-service-mesh-into-kubernetes-service/&quot;&gt;Google Integrates Istio Service Mesh into Kubernetes Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@slightlytyler/https-medium-com-slightlytyler-containerizing-modern-front-end-applications-part-1-c6aa6cb458a6&quot;&gt;Containerizing modern front-end applications: Part 1 — Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 07 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-249/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-249/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;248</title>
@@ -210,27 +232,6 @@
         <pubDate>Fri, 23 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-240/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-240/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;239</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/&quot;&gt;One Fish, Two Fish, Blue Fish Sporting New Red Hat&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/ruby-on-rails-guide-to-debugging-22fg&quot;&gt;Ruby on Rails Guide to Debugging&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dominik.tornow/kubernetes-api-server-part-i-3fbaf2138a31&quot;&gt;Kubernetes API Server, Part I&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Canner/canner&quot;&gt;⚡️Agile CMS) for Firebase/Firestore, GraphQL and Restful APIs.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.robinwieruch.de/the-road-to-graphql-book/&quot;&gt;The Road to GraphQL [Book]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 22 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-239/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-239/</guid>
         
         <category>daily</category>
         
