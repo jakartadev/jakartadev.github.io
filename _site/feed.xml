@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Dec 2018 11:48:00 +0700</pubDate>
-    <lastBuildDate>Fri, 07 Dec 2018 11:48:00 +0700</lastBuildDate>
+    <pubDate>Mon, 10 Dec 2018 11:53:35 +0700</pubDate>
+    <lastBuildDate>Mon, 10 Dec 2018 11:53:35 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;250</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/will-kubernetes-sink-the-hadoop-ship/&quot;&gt;Will Kubernetes Sink the Hadoop Ship?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/static-void-academy/easy-peasy-ci-cd-w-circleci-282bc85ddcf5&quot;&gt;Easy-Peasy CI/CD w/ CircleCI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-containerization-brings-ai-your-devops-pipeline&quot;&gt;How containerization brings AI to your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/the-devops-role-not-a-one-person-job/&quot;&gt;The DevOps Role: Not a One-Person Job&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.skybettingandgaming.com/2018/11/02/optimising-microservices-part-1/&quot;&gt;Optimising an AWS microservice - Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 10 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-250/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-250/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;249</title>
@@ -210,28 +231,6 @@
         <pubDate>Mon, 26 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-241/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-241/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;239</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zammad/zammad&quot;&gt;Zammad – web based open source helpdesk/customer support system&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer/&quot;&gt;Writing GraphQL queries in native Ruby = Love ❤️&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/uohzxela/clean-code-ruby&quot;&gt;🛁 Clean Code concepts adapted for Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rebo_dood/the-benefits-of-materialized-views-and-how-to-use-them-in-your-ruby-on-rails-project-4ac1b5432881&quot;&gt;The Benefits of Materialized Views (and how to use them in your Ruby on Rails project)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rubyguides.com/2018/11/ruby-mjit/?tl_inbound=1&amp;amp;tl_target_all=1&amp;amp;tl_form_type=1&amp;amp;tl_period_type=1&quot;&gt;What Is MJIT in Ruby 2.6 &amp;amp; How Does It Work?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.epages.com/blog/coding/no-more-hassle-with-rails-secret-management/&quot;&gt;No more hassle with Rails secret management&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 23 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-240/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-240/</guid>
         
         <category>daily</category>
         

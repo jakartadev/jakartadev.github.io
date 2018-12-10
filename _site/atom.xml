@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-12-07T11:48:00+07:00</updated>
+ <updated>2018-12-10T11:53:35+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;250</title>
+   <link href="https://jakartadev.org//daily-digest-250/"/>
+   <updated>2018-12-10T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-250</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/will-kubernetes-sink-the-hadoop-ship/&quot;&gt;Will Kubernetes Sink the Hadoop Ship?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/static-void-academy/easy-peasy-ci-cd-w-circleci-282bc85ddcf5&quot;&gt;Easy-Peasy CI/CD w/ CircleCI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-containerization-brings-ai-your-devops-pipeline&quot;&gt;How containerization brings AI to your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/the-devops-role-not-a-one-person-job/&quot;&gt;The DevOps Role: Not a One-Person Job&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.skybettingandgaming.com/2018/11/02/optimising-microservices-part-1/&quot;&gt;Optimising an AWS microservice - Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;249</title>
