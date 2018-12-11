@@ -4,13 +4,43 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-12-10T11:53:35+07:00</updated>
+ <updated>2018-12-11T14:19:35+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest 251</title>
+   <link href="https://jakartadev.org//daily-digest-251/"/>
+   <updated>2018-12-11T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-251</id>
+   <content type="html">&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: “Daily Digest #251”
+type: digest
+tags: 
+    - daily
+    - development&lt;/p&gt;
+
+&lt;p&gt;description: “”
+publish: true
+–&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines&quot;&gt;Modernizing your build pipelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43&quot;&gt;Blockchains vs. Hashgraphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/asynchronous-methods-task&quot;&gt;I’ll Get Back to You: Task, Await, and Asynchronous Methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe&quot;&gt;Writing a Frontend Web Framework with WebAssembly And Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/create-your-own-dysfunctional-single-page-app-in-five-easy-steps-7bfcba9df6df&quot;&gt;Create your own dysfunctional single-page app in five easy steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://obdurodon.silvrback.com/never-ssh-into-production&quot;&gt; Never ‘ssh’ Into Production? &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sdd-manifesto.org/&quot;&gt;The Software Defined Delivery Manifesto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.florence.chat/tutorial-how-to-host-your-own-file-transfer-service-on-your-pc-22698c9d6362&quot;&gt;Tutorial: How to host your own distributed file sharing service on your pc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;250</title>

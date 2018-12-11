@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-251",
+            "title": "Daily Digest 251",
+            "content_html": "<hr />\n<p>layout: post\ntitle: “Daily Digest #251”\ntype: digest\ntags: \n    - daily\n    - development</p>\n\n<p>description: “”\npublish: true\n–</p>\n\n<ul>\n  <li><a href=\"https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines\">Modernizing your build pipelines</a></li>\n  <li><a href=\"https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43\">Blockchains vs. Hashgraphs</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/asynchronous-methods-task\">I’ll Get Back to You: Task, Await, and Asynchronous Methods</a></li>\n  <li><a href=\"https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe\">Writing a Frontend Web Framework with WebAssembly And Go</a></li>\n  <li><a href=\"https://hackernoon.com/create-your-own-dysfunctional-single-page-app-in-five-easy-steps-7bfcba9df6df\">Create your own dysfunctional single-page app in five easy steps</a></li>\n  <li><a href=\"https://obdurodon.silvrback.com/never-ssh-into-production\"> Never ‘ssh’ Into Production? </a></li>\n  <li><a href=\"https://sdd-manifesto.org/\">The Software Defined Delivery Manifesto</a></li>\n  <li><a href=\"https://blog.florence.chat/tutorial-how-to-host-your-own-file-transfer-service-on-your-pc-22698c9d6362\">Tutorial: How to host your own distributed file sharing service on your pc</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-251/",
+            "summary": "",
+            "date_published": "2018-12-11 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-250",
             "title": "Daily Digest #250",
             "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/will-kubernetes-sink-the-hadoop-ship/\">Will Kubernetes Sink the Hadoop Ship?</a></li>\n  <li><a href=\"https://medium.com/static-void-academy/easy-peasy-ci-cd-w-circleci-282bc85ddcf5\">Easy-Peasy CI/CD w/ CircleCI</a></li>\n  <li><a href=\"https://techbeacon.com/how-containerization-brings-ai-your-devops-pipeline\">How containerization brings AI to your DevOps pipeline</a></li>\n  <li><a href=\"https://devops.com/the-devops-role-not-a-one-person-job/\">The DevOps Role: Not a One-Person Job</a></li>\n  <li><a href=\"https://engineering.skybettingandgaming.com/2018/11/02/optimising-microservices-part-1/\">Optimising an AWS microservice - Part 1</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-247/",
             "summary": "",
             "date_published": "2018-12-04 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-246",
-            "title": "Daily Digest #246",
-            "content_html": "<ul>\n  <li><a href=\"https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/\">Introducing FuseBox, an alternative to Webpack</a></li>\n  <li><a href=\"https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/\">Advanced web security topics</a></li>\n  <li><a href=\"https://eng.uber.com/scaling-michelangelo/\">Scaling Machine Learning at Uber with Michelangelo</a></li>\n  <li><a href=\"https://github.com/kgretzky/evilginx2\">EvilGinx – Standalone man-in-the-middle attack framework </a></li>\n  <li><a href=\"https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5\">Why you should avoid ORMs (with examples in Node.js)</a></li>\n  <li><a href=\"https://blog.documentnode.io/learn-document-node-in-10-seconds\">Learn Document Node in 10 seconds from my business card</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-246/",
-            "summary": "",
-            "date_published": "2018-12-03 00:00:00 +0700"
         }
 
     ]

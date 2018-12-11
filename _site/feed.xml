@@ -5,9 +5,41 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Dec 2018 11:53:35 +0700</pubDate>
-    <lastBuildDate>Mon, 10 Dec 2018 11:53:35 +0700</lastBuildDate>
+    <pubDate>Tue, 11 Dec 2018 14:19:35 +0700</pubDate>
+    <lastBuildDate>Tue, 11 Dec 2018 14:19:35 +0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Daily Digest 251</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: “Daily Digest #251”
+type: digest
+tags: 
+    - daily
+    - development&lt;/p&gt;
+
+&lt;p&gt;description: “”
+publish: true
+–&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines&quot;&gt;Modernizing your build pipelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43&quot;&gt;Blockchains vs. Hashgraphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/asynchronous-methods-task&quot;&gt;I’ll Get Back to You: Task, Await, and Asynchronous Methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe&quot;&gt;Writing a Frontend Web Framework with WebAssembly And Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/create-your-own-dysfunctional-single-page-app-in-five-easy-steps-7bfcba9df6df&quot;&gt;Create your own dysfunctional single-page app in five easy steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://obdurodon.silvrback.com/never-ssh-into-production&quot;&gt; Never ‘ssh’ Into Production? &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sdd-manifesto.org/&quot;&gt;The Software Defined Delivery Manifesto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.florence.chat/tutorial-how-to-host-your-own-file-transfer-service-on-your-pc-22698c9d6362&quot;&gt;Tutorial: How to host your own distributed file sharing service on your pc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 11 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-251/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-251/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;250</title>
@@ -209,28 +241,6 @@
         <pubDate>Tue, 27 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-242/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-242/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;241</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/xlni/&quot;&gt;Facebook, NYU expand available languages for natural language understanding systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/code-documentation&quot;&gt;How to Write Code That Documents Itself&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52&quot;&gt;Lazy-loading components in React 16.6&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql&quot;&gt;ATM Fraud Detection with Apache Kafka and KSQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1&quot;&gt;Anomaly Detection in Zipkin Trace Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/&quot;&gt;Deep Learning for Classifying Hotel Aesthetics Photos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 26 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-241/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-241/</guid>
         
         <category>daily</category>
         
