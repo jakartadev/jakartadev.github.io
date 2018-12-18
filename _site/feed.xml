@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Dec 2018 15:00:58 +0700</pubDate>
-    <lastBuildDate>Tue, 11 Dec 2018 15:00:58 +0700</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Tue, 18 Dec 2018 15:29:50 +0700</pubDate>
+    <lastBuildDate>Tue, 18 Dec 2018 15:29:50 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;252</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.papertrailapp.com/best-practices-for-logging-in-nodejs/&quot;&gt;Best Practices for Logging in Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/collaborating-with-marketing-on-launches/&quot;&gt;The Engineering Manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9&quot;&gt;A Netflix Web Performance Case Study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://verve.co/engineering/graphql-a-retrospective/&quot;&gt;GraphQL: A Retrospective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0&quot;&gt;The Greatest Sales Deck I’ve Ever Seen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pcottle/learnGitBranching&quot;&gt;learn Git Branching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-252/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-252/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;251</title>
@@ -210,29 +232,6 @@
         <pubDate>Wed, 28 Nov 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-243/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-243/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;242</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/troxler/awesome-css-frameworks&quot;&gt;awesome-css-frameworks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/how-to-solve-the-last-mile-logistics-conundrum-2ced70f5f7f3&quot;&gt;How to solve the last mile logistics conundrum?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/10/performance-server-timing/&quot;&gt;Measuring Performance With Server Timing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/10/30/s3_signed_urls/&quot;&gt;How S3 Signed URLs work&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5&quot;&gt;Introducing the Apollo GraphQL Platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.opsian.com/blog/understanding-production-what-can-you-measure/&quot;&gt;Understanding Production: What can you measure?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617&quot;&gt;Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 27 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-242/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-242/</guid>
         
         <category>daily</category>
         
