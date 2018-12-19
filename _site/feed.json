@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-253",
+            "title": "Daily Digest #253",
+            "content_html": "<ul>\n  <li><a href=\"https://techbeacon.com/how-symlinks-pwned-kubernetes-how-we-fixed-it\">How symlinks pwned Kubernetes (and how we fixed it)</a></li>\n  <li><a href=\"https://github.com/knadh/git-bars\">git-bars – A utility for visualising git commit activity as bars on the terminal</a></li>\n  <li><a href=\"https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0\">The Greatest Sales Deck I’ve Ever Seen</a></li>\n  <li><a href=\"http://plantuml.com/\">PlantUML</a></li>\n  <li><a href=\"https://engineering.udacity.com/three-simple-rules-for-putting-secrets-into-git-d47b207852b9\">Three Simple Rules for Putting Secrets into Git</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union\">Five years of PostCSS: State of the Union</a></li>\n  <li><a href=\"https://hackernoon.com/how-docker-changed-software-engineering-b87982f0029f\">How Docker Changed Software Engineering</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-253/",
+            "summary": "",
+            "date_published": "2018-12-19 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-252",
             "title": "Daily Digest #252",
             "content_html": "<ul>\n  <li><a href=\"https://blog.papertrailapp.com/best-practices-for-logging-in-nodejs/\">Best Practices for Logging in Node.js</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/collaborating-with-marketing-on-launches/\">The Engineering Manager</a></li>\n  <li><a href=\"https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9\">A Netflix Web Performance Case Study</a></li>\n  <li><a href=\"https://verve.co/engineering/graphql-a-retrospective/\">GraphQL: A Retrospective</a></li>\n  <li><a href=\"https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0\">The Greatest Sales Deck I’ve Ever Seen</a></li>\n  <li><a href=\"https://github.com/pcottle/learnGitBranching\">learn Git Branching</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-249/",
             "summary": "",
             "date_published": "2018-12-07 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-248",
-            "title": "Daily Digest #248",
-            "content_html": "<ul>\n  <li><a href=\"https://code.fb.com/ml-applications/horizon/\">Horizon: The first open source reinforcement learning platform for large-scale products and services</a></li>\n  <li><a href=\"https://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html\">The Decentralized Web</a></li>\n  <li><a href=\"https://www.scylladb.com/2018/11/01/more-efficient-range-scan-paging-with-scylla-3-0/\">More Efficient Range Scan Paging with Scylla 3.0</a></li>\n  <li><a href=\"https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0\">I hate manager READMEs</a></li>\n  <li><a href=\"https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST\">Post-REST</a></li>\n  <li><a href=\"http://blairreeves.me/2018/11/09/dont-work-remotely/?resubmit=hn\">Don’t work “remotely”</a></li>\n  <li><a href=\"https://github.com/aurelg/ipfs-wormhole\">ipfs-wormhole</a></li>\n  <li><a href=\"https://qz.com/work/1470164/what-is-psychological-safety/\">What psychological safety is not</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-248/",
-            "summary": "",
-            "date_published": "2018-12-05 00:00:00 +0700"
         }
 
     ]
