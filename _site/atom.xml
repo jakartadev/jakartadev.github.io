@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-12-19T10:52:02+07:00</updated>
+ <updated>2018-12-20T16:28:48+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;254</title>
+   <link href="https://jakartadev.org//daily-digest-254/"/>
+   <updated>2018-12-20T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-254</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/crash-reporting-in-desktop-python-applications/&quot;&gt;Crash reporting in desktop Python applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/linear-regression-in-real-life/&quot;&gt;Linear Regression in Real Life&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/how-agile-done-wrong-can-hurt-your-company-7c0d26bd84f7&quot;&gt;How Agile done wrong can hurt your company&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/devops/terraform-aws-cloud-iac&quot;&gt;Terraform AWS Cloud: Sane Infrastructure Management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-your-role-changes-when-devops-goes-cloud-native/&quot;&gt;How Your Role Changes When DevOps Goes Cloud Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/12/deep-learning-inference&quot;&gt;How to build deep learning inference through Knative serverless framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;253</title>
