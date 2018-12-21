@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Dec 2018 16:28:48 +0700</pubDate>
-    <lastBuildDate>Thu, 20 Dec 2018 16:28:48 +0700</lastBuildDate>
+    <pubDate>Fri, 21 Dec 2018 12:17:23 +0700</pubDate>
+    <lastBuildDate>Fri, 21 Dec 2018 12:17:23 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;255</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/google-cloud/developing-with-containers-done-right-831a4bae1d28&quot;&gt;Developing With Containers Done Right&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/zero-shot-learning/&quot;&gt;Zero-shot learning: Using text to more accurately identify images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d&quot;&gt;Building Services at Airbnb, Part 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/12/introduction-kubeflow&quot;&gt;An introduction to Kubeflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://13brane.net/rants/de-facto-closed-source/&quot;&gt;De-facto closed source: the case for understandable software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f&quot;&gt;Applying Deep Learning To Airbnb Search&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-255/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-255/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;254</title>
@@ -205,30 +227,6 @@
         <pubDate>Mon, 03 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-246/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-246/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;245</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@yellow/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project-4985b2253778&quot;&gt;Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302&quot;&gt;Apache Kafka’s Distributed System Firefighter — The Controller Broker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/profiling-case-missing-milliseconds&quot;&gt;Profiling: The Case of the Missing Milliseconds &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/power-efficiency-for-performance-deficiency-a1ef79d1379b&quot;&gt;Power-efficiency for performance-deficiency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/avoid-architectural-change-disaster-with-app-performance-monitoring/&quot;&gt;Avoid Architectural Change Disaster with App Performance Monitoring&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb&quot;&gt;Neural Networks For Music: A Journey Through Its History&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/role-of-devops-in-mobile-app-development/&quot;&gt;Role of DevOps in Mobile App Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/outsystems-engineering/a-container-for-your-app-my-dear-87118ca84739&quot;&gt;A Container For Your App, My Dear!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 30 Nov 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-245/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-245/</guid>
         
         <category>daily</category>
         
