@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-257",
+            "title": "Daily Digest #257",
+            "content_html": "<ul>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/11/rebuilding-the-groups-experience-on-linkedin\">Rebuilding the Groups Experience on LinkedIn</a></li>\n  <li><a href=\"https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/\">What’s in a Docker image?</a></li>\n  <li><a href=\"https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7\">The how and why on React’s usage of linked list in Fiber to walk the component’s tree</a></li>\n  <li><a href=\"https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/\">Getafix: How Facebook tools learn to fix bugs automatically</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/rethinking-quality-engineers/\">Rethinking quality and the engineers who protect it</a></li>\n  <li><a href=\"https://firecracker-microvm.github.io/\">Secure and fast microVMs for serverless computing</a></li>\n  <li><a href=\"https://engineering.bitnami.com/articles/announcing-the-bitnami-kubernetes-production-runtime-bkpr.html\">Announcing the Bitnami Kubernetes Production Runtime (BKPR)</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-257/",
+            "summary": "",
+            "date_published": "2018-12-26 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-256",
             "title": "Daily Digest #256",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/jettech/a-short-introduction-to-windows-containers-db5adc0db536\">A short introduction to Windows Containers</a></li>\n  <li><a href=\"https://github.com/alertlogic/erllambda\">Erllambda – Enable AWS Lambda functions to be written in Erlang</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/enabling-modern-javascript-in-rails-with-webpack-er-fd4a1b8dd0c6\">Enabling Modern JavaScript in Rails with Webpack(er)</a></li>\n  <li><a href=\"https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e\">How to Grow as an Engineer (Working Remotely)</a></li>\n  <li><a href=\"https://blog.codeship.com/what-is-the-difference-between-implicit-vs-explicit-programming/\">What’s the Difference Between Implicit vs. Explicit Programming?</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-253/",
             "summary": "",
             "date_published": "2018-12-19 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-252",
-            "title": "Daily Digest #252",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.papertrailapp.com/best-practices-for-logging-in-nodejs/\">Best Practices for Logging in Node.js</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/collaborating-with-marketing-on-launches/\">The Engineering Manager</a></li>\n  <li><a href=\"https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9\">A Netflix Web Performance Case Study</a></li>\n  <li><a href=\"https://verve.co/engineering/graphql-a-retrospective/\">GraphQL: A Retrospective</a></li>\n  <li><a href=\"https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0\">The Greatest Sales Deck I’ve Ever Seen</a></li>\n  <li><a href=\"https://github.com/pcottle/learnGitBranching\">learn Git Branching</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-252/",
-            "summary": "",
-            "date_published": "2018-12-18 00:00:00 +0700"
         }
 
     ]

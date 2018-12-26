@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Dec 2018 12:15:27 +0700</pubDate>
-    <lastBuildDate>Wed, 26 Dec 2018 12:15:27 +0700</lastBuildDate>
+    <pubDate>Wed, 26 Dec 2018 12:16:29 +0700</pubDate>
+    <lastBuildDate>Wed, 26 Dec 2018 12:16:29 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;257</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/rebuilding-the-groups-experience-on-linkedin&quot;&gt;Rebuilding the Groups Experience on LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/&quot;&gt;What’s in a Docker image?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7&quot;&gt;The how and why on React’s usage of linked list in Fiber to walk the component’s tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/&quot;&gt;Getafix: How Facebook tools learn to fix bugs automatically&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/rethinking-quality-engineers/&quot;&gt;Rethinking quality and the engineers who protect it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://firecracker-microvm.github.io/&quot;&gt;Secure and fast microVMs for serverless computing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.bitnami.com/articles/announcing-the-bitnami-kubernetes-production-runtime-bkpr.html&quot;&gt;Announcing the Bitnami Kubernetes Production Runtime (BKPR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-257/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-257/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;256</title>
@@ -202,30 +225,6 @@
         <pubDate>Wed, 05 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-248/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-248/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;247</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/GitSquared/edex-ui&quot;&gt;Edex-UI – A science fiction terminal emulator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.jessfraz.com/post/you-might-not-need-k8s/&quot;&gt;You might not need Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slikts.github.io/concurrency-glossary/&quot;&gt;Concurrency glossary&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/product-design/guide-to-onboarding-ux&quot;&gt;First Impressions - a Guide to Onboarding UX&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code&quot;&gt;Want To Recruit Better Engineers? Open Source Your Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jarun/nnn&quot;&gt;nnn – The fastest terminal file manager ever written&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/08/30/why-youre-having-trouble-hiring/&quot;&gt;Why you’re having trouble hiring&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/java-troubleshooting-guide/&quot;&gt;A Java troubleshooting guide: network, memory leaks and threads&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 04 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-247/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-247/</guid>
         
         <category>daily</category>
         
