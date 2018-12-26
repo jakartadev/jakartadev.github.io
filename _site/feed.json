@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-256",
+            "title": "Daily Digest #256",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/jettech/a-short-introduction-to-windows-containers-db5adc0db536\">A short introduction to Windows Containers</a></li>\n  <li><a href=\"https://github.com/alertlogic/erllambda\">Erllambda – Enable AWS Lambda functions to be written in Erlang</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/enabling-modern-javascript-in-rails-with-webpack-er-fd4a1b8dd0c6\">Enabling Modern JavaScript in Rails with Webpack(er)</a></li>\n  <li><a href=\"https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e\">How to Grow as an Engineer (Working Remotely)</a></li>\n  <li><a href=\"https://blog.codeship.com/what-is-the-difference-between-implicit-vs-explicit-programming/\">What’s the Difference Between Implicit vs. Explicit Programming?</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-256/",
+            "summary": "",
+            "date_published": "2018-12-24 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-255",
             "title": "Daily Digest #255",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/google-cloud/developing-with-containers-done-right-831a4bae1d28\">Developing With Containers Done Right</a></li>\n  <li><a href=\"https://code.fb.com/ai-research/zero-shot-learning/\">Zero-shot learning: Using text to more accurately identify images</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d\">Building Services at Airbnb, Part 3</a></li>\n  <li><a href=\"https://opensource.com/article/18/12/introduction-kubeflow\">An introduction to Kubeflow</a></li>\n  <li><a href=\"https://13brane.net/rants/de-facto-closed-source/\">De-facto closed source: the case for understandable software</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f\">Applying Deep Learning To Airbnb Search</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-252/",
             "summary": "",
             "date_published": "2018-12-18 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-251",
-            "title": "Daily Digest #251",
-            "content_html": "<ul>\n  <li><a href=\"https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines\">Modernizing your build pipelines</a></li>\n  <li><a href=\"https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43\">Blockchains vs. Hashgraphs</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/asynchronous-methods-task\">I’ll Get Back to You: Task, Await, and Asynchronous Methods</a></li>\n  <li><a href=\"https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe\">Writing a Frontend Web Framework with WebAssembly And Go</a></li>\n  <li><a href=\"https://hackernoon.com/create-your-own-dysfunctional-single-page-app-in-five-easy-steps-7bfcba9df6df\">Create your own dysfunctional single-page app in five easy steps</a></li>\n  <li><a href=\"https://obdurodon.silvrback.com/never-ssh-into-production\"> Never ‘ssh’ Into Production? </a></li>\n  <li><a href=\"https://sdd-manifesto.org/\">The Software Defined Delivery Manifesto</a></li>\n  <li><a href=\"https://blog.florence.chat/tutorial-how-to-host-your-own-file-transfer-service-on-your-pc-22698c9d6362\">Tutorial: How to host your own distributed file sharing service on your pc</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-251/",
-            "summary": "",
-            "date_published": "2018-12-11 00:00:00 +0700"
         }
 
     ]

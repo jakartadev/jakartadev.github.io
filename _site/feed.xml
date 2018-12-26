@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Dec 2018 12:17:23 +0700</pubDate>
-    <lastBuildDate>Fri, 21 Dec 2018 12:17:23 +0700</lastBuildDate>
+    <pubDate>Wed, 26 Dec 2018 12:15:27 +0700</pubDate>
+    <lastBuildDate>Wed, 26 Dec 2018 12:15:27 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;256</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/jettech/a-short-introduction-to-windows-containers-db5adc0db536&quot;&gt;A short introduction to Windows Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alertlogic/erllambda&quot;&gt;Erllambda – Enable AWS Lambda functions to be written in Erlang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/enabling-modern-javascript-in-rails-with-webpack-er-fd4a1b8dd0c6&quot;&gt;Enabling Modern JavaScript in Rails with Webpack(er)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e&quot;&gt;How to Grow as an Engineer (Working Remotely)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/what-is-the-difference-between-implicit-vs-explicit-programming/&quot;&gt;What’s the Difference Between Implicit vs. Explicit Programming?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 24 Dec 2018 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-256/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-256/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;255</title>
@@ -205,28 +226,6 @@
         <pubDate>Tue, 04 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-247/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-247/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;246</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/&quot;&gt;Introducing FuseBox, an alternative to Webpack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/&quot;&gt;Advanced web security topics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/scaling-michelangelo/&quot;&gt;Scaling Machine Learning at Uber with Michelangelo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kgretzky/evilginx2&quot;&gt;EvilGinx – Standalone man-in-the-middle attack framework &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5&quot;&gt;Why you should avoid ORMs (with examples in Node.js)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.documentnode.io/learn-document-node-in-10-seconds&quot;&gt;Learn Document Node in 10 seconds from my business card&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 03 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-246/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-246/</guid>
         
         <category>daily</category>
         
