@@ -4,13 +4,48 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-12-27T12:38:31+07:00</updated>
+ <updated>2018-12-28T12:38:18+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;259</title>
+   <link href="https://jakartadev.org//daily-digest-259/"/>
+   <updated>2018-12-28T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-259</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/analyzing-experiment-outcomes/&quot;&gt;Analyzing Experiment Outcomes: Beyond Average Treatment Effects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/i-am-a-developer-why-should-i-use-docker/&quot;&gt;I am a Developer: why should I use Docker?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cotten.io/a-very-sleepy-mysql-attack-bff80975fda7&quot;&gt;A Very SLEEPy MySQL Attack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586&quot;&gt;Scaling Time Series Data Storage — Part II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/front-end-development-is-not-a-problem-to-be-solved/&quot;&gt;Front-end development is not a problem to be solved&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/11/07/double-bucketing-in-ab-testing/&quot;&gt;Double-bucketing in A/B Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/virtual-reality-model-real-time-cross-device-preview/&quot;&gt;How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/running-apache-kafka-on-kubernetes-at-shopify&quot;&gt;Running Apache Kafka on Kubernetes at Shopify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/refactoring-2nd-ed.html&quot;&gt;The Second Edition of “Refactoring”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;258</title>
+   <link href="https://jakartadev.org//daily-digest-258/"/>
+   <updated>2018-12-27T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-258</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres&quot;&gt;Bye bye Mongo, Hello Postgres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.macrumors.com/2018/12/18/facebook-ad-tracking-ip-address/&quot;&gt;Facebook Uses IP Address and Other Info to Deliver Location-Based Ads Even When Location Options are Disabled&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/sharding-cash-10280fa3ef3b&quot;&gt;Sharding Cash&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6&quot;&gt;Empowering personalized marketing with machine learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.brunomiranda.com/building-a-distributed-engineering-team-85d281b9b1c&quot;&gt;Building Distributed Engineering Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.awsgeek.com/&quot;&gt;AWSGeek – Diagrams of all AWS services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;257</title>
