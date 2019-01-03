@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Dec 2018 12:38:18 +0700</pubDate>
-    <lastBuildDate>Fri, 28 Dec 2018 12:38:18 +0700</lastBuildDate>
+    <pubDate>Thu, 03 Jan 2019 16:38:39 +0700</pubDate>
+    <lastBuildDate>Thu, 03 Jan 2019 16:38:39 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;260</title>
+        <description>&lt;h3 id=&quot;selamat-tahun-baru&quot;&gt;Selamat tahun baru!&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.skybettingandgaming.com/2018/11/09/optimising-microservices-part-2/&quot;&gt;Optimising an AWS microservice - Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2&quot;&gt;How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.appfolio.com/appfolio-engineering/2018/11/28/how-fast-is-ruby-260preview3-for-discourse&quot;&gt;How Fast is Ruby 2.6.0preview3 for Discourse?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/ruby-memoization-and-alternatives&quot;&gt;Ruby Memoization and Alternatives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tfnldxWlOhM&quot;&gt;Hillel Wayne - Everything about distributed systems is terrible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-260/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-260/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;259</title>
@@ -205,27 +228,6 @@
         <pubDate>Tue, 11 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-251/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-251/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;250</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/will-kubernetes-sink-the-hadoop-ship/&quot;&gt;Will Kubernetes Sink the Hadoop Ship?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/static-void-academy/easy-peasy-ci-cd-w-circleci-282bc85ddcf5&quot;&gt;Easy-Peasy CI/CD w/ CircleCI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-containerization-brings-ai-your-devops-pipeline&quot;&gt;How containerization brings AI to your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/the-devops-role-not-a-one-person-job/&quot;&gt;The DevOps Role: Not a One-Person Job&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.skybettingandgaming.com/2018/11/02/optimising-microservices-part-1/&quot;&gt;Optimising an AWS microservice - Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 10 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-250/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-250/</guid>
         
         <category>daily</category>
         

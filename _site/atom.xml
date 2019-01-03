@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2018-12-28T12:38:18+07:00</updated>
+ <updated>2019-01-03T16:38:39+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;260</title>
+   <link href="https://jakartadev.org//daily-digest-260/"/>
+   <updated>2019-01-03T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-260</id>
+   <content type="html">&lt;h3 id=&quot;selamat-tahun-baru&quot;&gt;Selamat tahun baru!&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.skybettingandgaming.com/2018/11/09/optimising-microservices-part-2/&quot;&gt;Optimising an AWS microservice - Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2&quot;&gt;How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.appfolio.com/appfolio-engineering/2018/11/28/how-fast-is-ruby-260preview3-for-discourse&quot;&gt;How Fast is Ruby 2.6.0preview3 for Discourse?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/ruby-memoization-and-alternatives&quot;&gt;Ruby Memoization and Alternatives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tfnldxWlOhM&quot;&gt;Hillel Wayne - Everything about distributed systems is terrible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;259</title>
