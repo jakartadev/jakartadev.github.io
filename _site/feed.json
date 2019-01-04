@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-261",
+            "title": "Daily Digest #261",
+            "content_html": "<ul>\n  <li><a href=\"http://lucteo.ro/2018/11/18/look-ma-no-locks/\">Look ma, no locks</a></li>\n  <li><a href=\"https://isc.sans.edu/diary/rss/24388\">A Dive into malicious Docker Containers</a></li>\n  <li><a href=\"https://henrikwarne.com/2018/12/03/developer-on-call/\">Developer On Call</a></li>\n  <li><a href=\"https://robertheaton.com/2018/11/28/https-in-the-real-world/\">HTTPS in the real world</a></li>\n  <li><a href=\"https://www.percona.com/blog/2018/12/05/nondeterministic-functions-in-mysql-i-e-rand-can-surprise-you/\">Nondeterministic Functions in MySQL (i.e. rand) Can Surprise You</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-261/",
+            "summary": "",
+            "date_published": "2019-01-04 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-260",
             "title": "Daily Digest #260",
             "content_html": "<h3 id=\"selamat-tahun-baru\">Selamat tahun baru!</h3>\n\n<ul>\n  <li><a href=\"https://engineering.skybettingandgaming.com/2018/11/09/optimising-microservices-part-2/\">Optimising an AWS microservice - Part 2</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2\">How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo</a></li>\n  <li><a href=\"https://engineering.appfolio.com/appfolio-engineering/2018/11/28/how-fast-is-ruby-260preview3-for-discourse\">How Fast is Ruby 2.6.0preview3 for Discourse?</a></li>\n  <li><a href=\"https://robots.thoughtbot.com/ruby-memoization-and-alternatives\">Ruby Memoization and Alternatives</a></li>\n  <li><a href=\"https://www.youtube.com/watch?v=tfnldxWlOhM\">Hillel Wayne - Everything about distributed systems is terrible</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-257/",
             "summary": "",
             "date_published": "2018-12-26 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-256",
-            "title": "Daily Digest #256",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/jettech/a-short-introduction-to-windows-containers-db5adc0db536\">A short introduction to Windows Containers</a></li>\n  <li><a href=\"https://github.com/alertlogic/erllambda\">Erllambda – Enable AWS Lambda functions to be written in Erlang</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/enabling-modern-javascript-in-rails-with-webpack-er-fd4a1b8dd0c6\">Enabling Modern JavaScript in Rails with Webpack(er)</a></li>\n  <li><a href=\"https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e\">How to Grow as an Engineer (Working Remotely)</a></li>\n  <li><a href=\"https://blog.codeship.com/what-is-the-difference-between-implicit-vs-explicit-programming/\">What’s the Difference Between Implicit vs. Explicit Programming?</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-256/",
-            "summary": "",
-            "date_published": "2018-12-24 00:00:00 +0700"
         }
 
     ]
