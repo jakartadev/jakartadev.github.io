@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-262",
+            "title": "Daily Digest #262",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/\">Reasons to Scale Horizontally</a></li>\n  <li><a href=\"https://github.com/wagoodman/dive\">Dive – A tool for exploring each layer in a docker image</a></li>\n  <li><a href=\"https://serverless.com/blog/api-ruby-serverless-framework/\">Building an API with Ruby and the Serverless Framework</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179\">Netflix Information Security: Preventing Credential Compromise in AWS</a></li>\n  <li><a href=\"https://hackernoon.com/eli5-plasma-cash-ff242c55e8de\">ELI5: Plasma Cash — Scaling Ethereum</a></li>\n  <li><a href=\"https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/\">How We Built a Cost-Based SQL Optimizer</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-262/",
+            "summary": "",
+            "date_published": "2019-01-07 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-261",
             "title": "Daily Digest #261",
             "content_html": "<ul>\n  <li><a href=\"http://lucteo.ro/2018/11/18/look-ma-no-locks/\">Look ma, no locks</a></li>\n  <li><a href=\"https://isc.sans.edu/diary/rss/24388\">A Dive into malicious Docker Containers</a></li>\n  <li><a href=\"https://henrikwarne.com/2018/12/03/developer-on-call/\">Developer On Call</a></li>\n  <li><a href=\"https://robertheaton.com/2018/11/28/https-in-the-real-world/\">HTTPS in the real world</a></li>\n  <li><a href=\"https://www.percona.com/blog/2018/12/05/nondeterministic-functions-in-mysql-i-e-rand-can-surprise-you/\">Nondeterministic Functions in MySQL (i.e. rand) Can Surprise You</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-258/",
             "summary": "",
             "date_published": "2018-12-27 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-257",
-            "title": "Daily Digest #257",
-            "content_html": "<ul>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/11/rebuilding-the-groups-experience-on-linkedin\">Rebuilding the Groups Experience on LinkedIn</a></li>\n  <li><a href=\"https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/\">What’s in a Docker image?</a></li>\n  <li><a href=\"https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7\">The how and why on React’s usage of linked list in Fiber to walk the component’s tree</a></li>\n  <li><a href=\"https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/\">Getafix: How Facebook tools learn to fix bugs automatically</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/rethinking-quality-engineers/\">Rethinking quality and the engineers who protect it</a></li>\n  <li><a href=\"https://firecracker-microvm.github.io/\">Secure and fast microVMs for serverless computing</a></li>\n  <li><a href=\"https://engineering.bitnami.com/articles/announcing-the-bitnami-kubernetes-production-runtime-bkpr.html\">Announcing the Bitnami Kubernetes Production Runtime (BKPR)</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-257/",
-            "summary": "",
-            "date_published": "2018-12-26 00:00:00 +0700"
         }
 
     ]
