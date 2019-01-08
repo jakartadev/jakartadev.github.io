@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jan 2019 13:02:35 +0700</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 13:02:35 +0700</lastBuildDate>
+    <pubDate>Tue, 08 Jan 2019 11:37:08 +0700</pubDate>
+    <lastBuildDate>Tue, 08 Jan 2019 11:37:08 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;263</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/front-end-micro-services/&quot;&gt;Front-End Micro Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/&quot;&gt;Software Sprawl, The Golden Path, and Scaling Teams With Agency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mctaylorpants/a-weird-and-wonderful-trip-through-rubys-standard-library-762ddcf7a908&quot;&gt;A Weird and Wonderful Trip through Ruby’s Standard Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.awsadvent.com/2018/12/04/unlearning-for-dynamodb/&quot;&gt;Unlearning for DynamoDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophiebits.com/2018/12/03/yak-shaving-fixing.html&quot;&gt;Yak shaving and fixing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 08 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-263/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-263/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;262</title>
@@ -202,29 +223,6 @@
         <pubDate>Thu, 20 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-254/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-254/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;253</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-symlinks-pwned-kubernetes-how-we-fixed-it&quot;&gt;How symlinks pwned Kubernetes (and how we fixed it)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/knadh/git-bars&quot;&gt;git-bars – A utility for visualising git commit activity as bars on the terminal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0&quot;&gt;The Greatest Sales Deck I’ve Ever Seen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://plantuml.com/&quot;&gt;PlantUML&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.udacity.com/three-simple-rules-for-putting-secrets-into-git-d47b207852b9&quot;&gt;Three Simple Rules for Putting Secrets into Git&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union&quot;&gt;Five years of PostCSS: State of the Union&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-docker-changed-software-engineering-b87982f0029f&quot;&gt;How Docker Changed Software Engineering&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 19 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-253/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-253/</guid>
         
         <category>daily</category>
         

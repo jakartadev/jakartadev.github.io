@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-263",
+            "title": "Daily Digest #263",
+            "content_html": "<ul>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/front-end-micro-services/\">Front-End Micro Services</a></li>\n  <li><a href=\"https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/\">Software Sprawl, The Golden Path, and Scaling Teams With Agency</a></li>\n  <li><a href=\"https://medium.com/@mctaylorpants/a-weird-and-wonderful-trip-through-rubys-standard-library-762ddcf7a908\">A Weird and Wonderful Trip through Ruby’s Standard Library</a></li>\n  <li><a href=\"https://www.awsadvent.com/2018/12/04/unlearning-for-dynamodb/\">Unlearning for DynamoDB</a></li>\n  <li><a href=\"https://sophiebits.com/2018/12/03/yak-shaving-fixing.html\">Yak shaving and fixing</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-263/",
+            "summary": "",
+            "date_published": "2019-01-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-262",
             "title": "Daily Digest #262",
             "content_html": "<ul>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/\">Reasons to Scale Horizontally</a></li>\n  <li><a href=\"https://github.com/wagoodman/dive\">Dive – A tool for exploring each layer in a docker image</a></li>\n  <li><a href=\"https://serverless.com/blog/api-ruby-serverless-framework/\">Building an API with Ruby and the Serverless Framework</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179\">Netflix Information Security: Preventing Credential Compromise in AWS</a></li>\n  <li><a href=\"https://hackernoon.com/eli5-plasma-cash-ff242c55e8de\">ELI5: Plasma Cash — Scaling Ethereum</a></li>\n  <li><a href=\"https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/\">How We Built a Cost-Based SQL Optimizer</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-259/",
             "summary": "",
             "date_published": "2018-12-28 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-258",
-            "title": "Daily Digest #258",
-            "content_html": "<ul>\n  <li><a href=\"https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres\">Bye bye Mongo, Hello Postgres</a></li>\n  <li><a href=\"https://www.macrumors.com/2018/12/18/facebook-ad-tracking-ip-address/\">Facebook Uses IP Address and Other Info to Deliver Location-Based Ads Even When Location Options are Disabled</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/sharding-cash-10280fa3ef3b\">Sharding Cash</a></li>\n  <li><a href=\"https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6\">Empowering personalized marketing with machine learning</a></li>\n  <li><a href=\"https://blog.brunomiranda.com/building-a-distributed-engineering-team-85d281b9b1c\">Building Distributed Engineering Teams</a></li>\n  <li><a href=\"https://www.awsgeek.com/\">AWSGeek – Diagrams of all AWS services</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-258/",
-            "summary": "",
-            "date_published": "2018-12-27 00:00:00 +0700"
         }
 
     ]

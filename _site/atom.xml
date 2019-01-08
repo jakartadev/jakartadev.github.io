@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-07T13:02:35+07:00</updated>
+ <updated>2019-01-08T11:37:08+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;263</title>
+   <link href="https://jakartadev.org//daily-digest-263/"/>
+   <updated>2019-01-08T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-263</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/front-end-micro-services/&quot;&gt;Front-End Micro Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/&quot;&gt;Software Sprawl, The Golden Path, and Scaling Teams With Agency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mctaylorpants/a-weird-and-wonderful-trip-through-rubys-standard-library-762ddcf7a908&quot;&gt;A Weird and Wonderful Trip through Ruby’s Standard Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.awsadvent.com/2018/12/04/unlearning-for-dynamodb/&quot;&gt;Unlearning for DynamoDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophiebits.com/2018/12/03/yak-shaving-fixing.html&quot;&gt;Yak shaving and fixing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;262</title>
