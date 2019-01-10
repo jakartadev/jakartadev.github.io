@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-09T12:11:17+07:00</updated>
+ <updated>2019-01-10T12:49:54+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;265</title>
+   <link href="https://jakartadev.org//daily-digest-265/"/>
+   <updated>2019-01-10T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-265</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/&quot;&gt;Basic Accessibility for Web Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/&quot;&gt;Your Client Engagement Program Isn’t Doing What You Think It Is&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development&quot;&gt;Optimizing Cluster Resources for Kubernetes Team Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4&quot;&gt;Using PureScript to create a domain-specific language for building forms with validation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/cloud-computing-without-containers/&quot;&gt;Cloud Computing without Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;264</title>

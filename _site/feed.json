@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-265",
+            "title": "Daily Digest #265",
+            "content_html": "<ul>\n  <li><a href=\"https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/\">Basic Accessibility for Web Applications</a></li>\n  <li><a href=\"https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/\">Your Client Engagement Program Isn’t Doing What You Think It Is</a></li>\n  <li><a href=\"https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development\">Optimizing Cluster Resources for Kubernetes Team Development</a></li>\n  <li><a href=\"https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4\">Using PureScript to create a domain-specific language for building forms with validation</a></li>\n  <li><a href=\"https://blog.cloudflare.com/cloud-computing-without-containers/\">Cloud Computing without Containers</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-265/",
+            "summary": "",
+            "date_published": "2019-01-10 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-264",
             "title": "Daily Digest #264",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/netflix-techblog/netflix-mediadatabase-media-timeline-data-model-4e657e6ffe93\">Netflix Media Database — the Media Timeline Data Model</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/sre-case-study-mysterious-traffic-imbalance/\">SRE Case Study: Mysterious Traffic Imbalance</a></li>\n  <li><a href=\"https://medium.com/zendesk-engineering/how-we-use-aws-batch-at-zendesk-to-build-all-the-machine-learning-models-a41d93eabd45\">How we use AWS Batch at Zendesk to Build All The Machine Learning Models</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/11/into-the-depths-the-technical-details-behind-av1/\">Into the Depths: The Technical Details Behind AV1</a></li>\n  <li><a href=\"https://arcentry.com/blog/postgres-might-just-be-the-most-advanced-database-ever\">At 22 years old, Postgres might just be the most advanced database yet</a></li>\n  <li><a href=\"https://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/\">Proactive Data Pipeline Alerting with Pulse</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-261/",
             "summary": "",
             "date_published": "2019-01-04 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-260",
-            "title": "Daily Digest #260",
-            "content_html": "<h3 id=\"selamat-tahun-baru\">Selamat tahun baru!</h3>\n\n<ul>\n  <li><a href=\"https://engineering.skybettingandgaming.com/2018/11/09/optimising-microservices-part-2/\">Optimising an AWS microservice - Part 2</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2\">How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo</a></li>\n  <li><a href=\"https://engineering.appfolio.com/appfolio-engineering/2018/11/28/how-fast-is-ruby-260preview3-for-discourse\">How Fast is Ruby 2.6.0preview3 for Discourse?</a></li>\n  <li><a href=\"https://robots.thoughtbot.com/ruby-memoization-and-alternatives\">Ruby Memoization and Alternatives</a></li>\n  <li><a href=\"https://www.youtube.com/watch?v=tfnldxWlOhM\">Hillel Wayne - Everything about distributed systems is terrible</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-260/",
-            "summary": "",
-            "date_published": "2019-01-03 00:00:00 +0700"
         }
 
     ]

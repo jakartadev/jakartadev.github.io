@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jan 2019 12:11:17 +0700</pubDate>
-    <lastBuildDate>Wed, 09 Jan 2019 12:11:17 +0700</lastBuildDate>
+    <pubDate>Thu, 10 Jan 2019 12:49:54 +0700</pubDate>
+    <lastBuildDate>Thu, 10 Jan 2019 12:49:54 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;265</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/&quot;&gt;Basic Accessibility for Web Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/&quot;&gt;Your Client Engagement Program Isn’t Doing What You Think It Is&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development&quot;&gt;Optimizing Cluster Resources for Kubernetes Team Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4&quot;&gt;Using PureScript to create a domain-specific language for building forms with validation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/cloud-computing-without-containers/&quot;&gt;Cloud Computing without Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 10 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-265/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-265/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;264</title>
@@ -201,28 +222,6 @@
         <pubDate>Mon, 24 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-256/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-256/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;255</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/google-cloud/developing-with-containers-done-right-831a4bae1d28&quot;&gt;Developing With Containers Done Right&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/zero-shot-learning/&quot;&gt;Zero-shot learning: Using text to more accurately identify images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d&quot;&gt;Building Services at Airbnb, Part 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/12/introduction-kubeflow&quot;&gt;An introduction to Kubeflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://13brane.net/rants/de-facto-closed-source/&quot;&gt;De-facto closed source: the case for understandable software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f&quot;&gt;Applying Deep Learning To Airbnb Search&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 21 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-255/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-255/</guid>
         
         <category>daily</category>
         
