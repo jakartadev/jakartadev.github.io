@@ -4,13 +4,48 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-10T12:49:54+07:00</updated>
+ <updated>2019-01-11T13:58:37+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest 266</title>
+   <link href="https://jakartadev.org//daily-digest-266/"/>
+   <updated>2019-01-11T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-266</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/visual-hierarchy&quot;&gt;Boost Your UX with Clear Visual Hierarchy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-ribs-architecture/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=driver-app-ribs-architecture&quot;&gt;Architecting Uber’s New Driver App in RIBs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/challenges-realtime-chat-service-pusher&quot;&gt;Challenges of Building a Reliable Realtime Chat Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/blazor-web-assembly&quot;&gt;Blazor: C# Running in the Browser via WebAssembly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ferdychristant.com/the-state-of-web-browsers-f5a83a41c1cb&quot;&gt;The State of Web Browsers 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2019/01/05/how-trulia-began-paying-down-its-technical-debt/&quot;&gt;How Trulia began paying down its technical debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html&quot;&gt;Introduction to contract testing - pt.1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c&quot;&gt;How Druid enables analytics at Airbnb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/firefox-sync-privacy/&quot;&gt;Private by Design: How we built Firefox Sync&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/11/sinkholing-2/&quot;&gt;Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wei.surya/demystify-the-multi-threading-in-node-js-4ff07eae9abe&quot;&gt;Demystify The Multi-threading in Node.JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html&quot;&gt;Federated learning: distributed machine learning with data locality and privacy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/progressive-service-architecture-at-auth0/&quot;&gt;Progressive Service Architecture At Auth0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/nodejs-microservices-scaling-case-study/&quot;&gt;Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/the-power-of-web-components/&quot;&gt;The Power of Web Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/&quot;&gt;Working on the Engines While the Plane is Flying&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/&quot;&gt;Cross shard transactions at 10 million requests per second&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b&quot;&gt;ActiveRecord on MySQL— Iterating over large tables with conditions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs&quot;&gt;Transport: Towards Logical Independence Using Translatable Portable UDFs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world&quot;&gt;Handling Addresses from All Around the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-rise-of-multivector-amplifications/&quot;&gt;The rise of multivector DDoS attacks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/10/23/automating-terraform-abstracting-terraform-behind-a-web-service.html&quot;&gt;Automating Terraform: Infrastructure as Code as a Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2&quot;&gt;Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/&quot;&gt;How we spent two weeks hunting an NFS bug in the Linux kernel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;265</title>
