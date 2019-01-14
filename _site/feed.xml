@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Jan 2019 17:53:10 +0700</pubDate>
-    <lastBuildDate>Fri, 11 Jan 2019 17:53:10 +0700</lastBuildDate>
+    <pubDate>Mon, 14 Jan 2019 13:03:55 +0700</pubDate>
+    <lastBuildDate>Mon, 14 Jan 2019 13:03:55 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;267</title>
+        <description>&lt;h3 id=&quot;happy-monday&quot;&gt;Happy Monday!&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c&quot;&gt;How Druid enables analytics at Airbnb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/firefox-sync-privacy/&quot;&gt;Private by Design: How we built Firefox Sync&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/11/sinkholing-2/&quot;&gt;Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wei.surya/demystify-the-multi-threading-in-node-js-4ff07eae9abe&quot;&gt;Demystify The Multi-threading in Node.JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html&quot;&gt;Federated learning: distributed machine learning with data locality and privacy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/progressive-service-architecture-at-auth0/&quot;&gt;Progressive Service Architecture At Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 14 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-267/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-267/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;266</title>
@@ -201,29 +225,6 @@
         <pubDate>Thu, 27 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-258/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-258/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;257</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/rebuilding-the-groups-experience-on-linkedin&quot;&gt;Rebuilding the Groups Experience on LinkedIn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/&quot;&gt;What’s in a Docker image?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7&quot;&gt;The how and why on React’s usage of linked list in Fiber to walk the component’s tree&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/&quot;&gt;Getafix: How Facebook tools learn to fix bugs automatically&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/rethinking-quality-engineers/&quot;&gt;Rethinking quality and the engineers who protect it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://firecracker-microvm.github.io/&quot;&gt;Secure and fast microVMs for serverless computing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.bitnami.com/articles/announcing-the-bitnami-kubernetes-production-runtime-bkpr.html&quot;&gt;Announcing the Bitnami Kubernetes Production Runtime (BKPR)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 26 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-257/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-257/</guid>
         
         <category>daily</category>
         
