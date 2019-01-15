@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-268",
+            "title": "Daily Digest #268",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.risingstack.com/nodejs-microservices-scaling-case-study/\">Serving Millions of Users in Real-Time with Node.js &amp; Microservices [Case Study]</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/11/the-power-of-web-components/\">The Power of Web Components</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/\">Working on the Engines While the Plane is Flying</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/\">Cross shard transactions at 10 million requests per second</a></li>\n  <li><a href=\"https://hackernoon.com/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b\">ActiveRecord on MySQL— Iterating over large tables with conditions</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs\">Transport: Towards Logical Independence Using Translatable Portable UDFs</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-268/",
+            "summary": "",
+            "date_published": "2019-01-15 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-267",
             "title": "Daily Digest #267",
             "content_html": "<h3 id=\"happy-monday\">Happy Monday!</h3>\n\n<ul>\n  <li><a href=\"https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c\">How Druid enables analytics at Airbnb</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/11/firefox-sync-privacy/\">Private by Design: How we built Firefox Sync</a></li>\n  <li><a href=\"https://tech.showmax.com/2018/11/sinkholing-2/\">Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation</a></li>\n  <li><a href=\"https://medium.com/@wei.surya/demystify-the-multi-threading-in-node-js-4ff07eae9abe\">Demystify The Multi-threading in Node.JS</a></li>\n  <li><a href=\"https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html\">Federated learning: distributed machine learning with data locality and privacy</a></li>\n  <li><a href=\"https://auth0.com/blog/progressive-service-architecture-at-auth0/\">Progressive Service Architecture At Auth0</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-264/",
             "summary": "",
             "date_published": "2019-01-09 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-263",
-            "title": "Daily Digest #263",
-            "content_html": "<ul>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/front-end-micro-services/\">Front-End Micro Services</a></li>\n  <li><a href=\"https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/\">Software Sprawl, The Golden Path, and Scaling Teams With Agency</a></li>\n  <li><a href=\"https://medium.com/@mctaylorpants/a-weird-and-wonderful-trip-through-rubys-standard-library-762ddcf7a908\">A Weird and Wonderful Trip through Ruby’s Standard Library</a></li>\n  <li><a href=\"https://www.awsadvent.com/2018/12/04/unlearning-for-dynamodb/\">Unlearning for DynamoDB</a></li>\n  <li><a href=\"https://sophiebits.com/2018/12/03/yak-shaving-fixing.html\">Yak shaving and fixing</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-263/",
-            "summary": "",
-            "date_published": "2019-01-08 00:00:00 +0700"
         }
 
     ]

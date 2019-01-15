@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Jan 2019 13:03:55 +0700</pubDate>
-    <lastBuildDate>Mon, 14 Jan 2019 13:03:55 +0700</lastBuildDate>
+    <pubDate>Tue, 15 Jan 2019 11:44:14 +0700</pubDate>
+    <lastBuildDate>Tue, 15 Jan 2019 11:44:14 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;268</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/nodejs-microservices-scaling-case-study/&quot;&gt;Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/the-power-of-web-components/&quot;&gt;The Power of Web Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/&quot;&gt;Working on the Engines While the Plane is Flying&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/&quot;&gt;Cross shard transactions at 10 million requests per second&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b&quot;&gt;ActiveRecord on MySQL— Iterating over large tables with conditions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs&quot;&gt;Transport: Towards Logical Independence Using Translatable Portable UDFs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 15 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-268/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-268/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;267</title>
@@ -203,28 +225,6 @@
         <pubDate>Fri, 28 Dec 2018 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-259/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-259/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;258</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres&quot;&gt;Bye bye Mongo, Hello Postgres&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.macrumors.com/2018/12/18/facebook-ad-tracking-ip-address/&quot;&gt;Facebook Uses IP Address and Other Info to Deliver Location-Based Ads Even When Location Options are Disabled&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/sharding-cash-10280fa3ef3b&quot;&gt;Sharding Cash&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6&quot;&gt;Empowering personalized marketing with machine learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.brunomiranda.com/building-a-distributed-engineering-team-85d281b9b1c&quot;&gt;Building Distributed Engineering Teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.awsgeek.com/&quot;&gt;AWSGeek – Diagrams of all AWS services&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 27 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-258/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-258/</guid>
         
         <category>daily</category>
         
