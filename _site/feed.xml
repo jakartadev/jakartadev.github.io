@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Jan 2019 11:44:14 +0700</pubDate>
-    <lastBuildDate>Tue, 15 Jan 2019 11:44:14 +0700</lastBuildDate>
+    <pubDate>Wed, 16 Jan 2019 12:08:52 +0700</pubDate>
+    <lastBuildDate>Wed, 16 Jan 2019 12:08:52 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;269</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world&quot;&gt;Handling Addresses from All Around the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-rise-of-multivector-amplifications/&quot;&gt;The rise of multivector DDoS attacks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/10/23/automating-terraform-abstracting-terraform-behind-a-web-service.html&quot;&gt;Automating Terraform: Infrastructure as Code as a Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2&quot;&gt;Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/&quot;&gt;How we spent two weeks hunting an NFS bug in the Linux kernel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 16 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-269/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-269/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;268</title>
@@ -200,31 +221,6 @@
         <pubDate>Thu, 03 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-260/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-260/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;259</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/analyzing-experiment-outcomes/&quot;&gt;Analyzing Experiment Outcomes: Beyond Average Treatment Effects&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/i-am-a-developer-why-should-i-use-docker/&quot;&gt;I am a Developer: why should I use Docker?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cotten.io/a-very-sleepy-mysql-attack-bff80975fda7&quot;&gt;A Very SLEEPy MySQL Attack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586&quot;&gt;Scaling Time Series Data Storage — Part II&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/front-end-development-is-not-a-problem-to-be-solved/&quot;&gt;Front-end development is not a problem to be solved&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/11/07/double-bucketing-in-ab-testing/&quot;&gt;Double-bucketing in A/B Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/virtual-reality-model-real-time-cross-device-preview/&quot;&gt;How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/running-apache-kafka-on-kubernetes-at-shopify&quot;&gt;Running Apache Kafka on Kubernetes at Shopify&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/refactoring-2nd-ed.html&quot;&gt;The Second Edition of “Refactoring”&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 28 Dec 2018 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-259/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-259/</guid>
         
         <category>daily</category>
         

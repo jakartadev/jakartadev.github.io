@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-15T11:44:14+07:00</updated>
+ <updated>2019-01-16T12:08:52+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;269</title>
+   <link href="https://jakartadev.org//daily-digest-269/"/>
+   <updated>2019-01-16T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-269</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world&quot;&gt;Handling Addresses from All Around the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-rise-of-multivector-amplifications/&quot;&gt;The rise of multivector DDoS attacks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/10/23/automating-terraform-abstracting-terraform-behind-a-web-service.html&quot;&gt;Automating Terraform: Infrastructure as Code as a Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2&quot;&gt;Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/&quot;&gt;How we spent two weeks hunting an NFS bug in the Linux kernel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;268</title>
