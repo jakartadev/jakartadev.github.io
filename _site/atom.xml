@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-16T12:08:52+07:00</updated>
+ <updated>2019-01-17T18:23:15+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;269</title>
+   <link href="https://jakartadev.org//daily-digest-270/"/>
+   <updated>2019-01-17T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-270</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/principles-of-good-large-scale-agile/&quot;&gt;Principles of Good Large-Scale Agile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/automating-deployment-strategies-ansible&quot;&gt;Automating deployment strategies with Ansible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/microservices-and-nosql-a-great-match/&quot;&gt;Microservices and NoSQL: A Great Match&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/aiops-and-the-myth-of-efficient-multitasking/&quot;&gt;AIOps and the Myth of Efficient Multitasking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;269</title>

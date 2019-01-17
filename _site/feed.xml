@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Jan 2019 12:08:52 +0700</pubDate>
-    <lastBuildDate>Wed, 16 Jan 2019 12:08:52 +0700</lastBuildDate>
+    <pubDate>Thu, 17 Jan 2019 18:23:15 +0700</pubDate>
+    <lastBuildDate>Thu, 17 Jan 2019 18:23:15 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;269</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/principles-of-good-large-scale-agile/&quot;&gt;Principles of Good Large-Scale Agile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/automating-deployment-strategies-ansible&quot;&gt;Automating deployment strategies with Ansible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/microservices-and-nosql-a-great-match/&quot;&gt;Microservices and NoSQL: A Great Match&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/aiops-and-the-myth-of-efficient-multitasking/&quot;&gt;AIOps and the Myth of Efficient Multitasking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 17 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-270/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-270/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;269</title>
@@ -198,29 +219,6 @@
         <pubDate>Fri, 04 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-261/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-261/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;260</title>
-        <description>&lt;h3 id=&quot;selamat-tahun-baru&quot;&gt;Selamat tahun baru!&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.skybettingandgaming.com/2018/11/09/optimising-microservices-part-2/&quot;&gt;Optimising an AWS microservice - Part 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2&quot;&gt;How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.appfolio.com/appfolio-engineering/2018/11/28/how-fast-is-ruby-260preview3-for-discourse&quot;&gt;How Fast is Ruby 2.6.0preview3 for Discourse?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/ruby-memoization-and-alternatives&quot;&gt;Ruby Memoization and Alternatives&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tfnldxWlOhM&quot;&gt;Hillel Wayne - Everything about distributed systems is terrible&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-260/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-260/</guid>
         
         <category>daily</category>
         
