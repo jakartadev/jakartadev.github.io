@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-17T18:23:15+07:00</updated>
+ <updated>2019-01-18T08:33:58+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -13,7 +13,23 @@
 
  
  <entry>
-   <title>Daily Digest &#35;269</title>
+   <title>Daily Digest &#35;271</title>
+   <link href="https://jakartadev.org//daily-digest-271/"/>
+   <updated>2019-01-18T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-271</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103&quot;&gt;Microservices Architecture: The New Business Enablers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/the-4-top-service-orchestration-challenges/&quot;&gt;The 4 Top Service Orchestration Challenges &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/&quot;&gt;Engineering Management: The Pendulum Or The Ladder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@gavinlewis/3-top-tips-for-your-next-serverless-project-2ea87bc833e7&quot;&gt;3 top tips for your next serverless project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b&quot;&gt;Learn Enough Docker to be Useful&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/why-data-scientists-love-kubernetes&quot;&gt;Why data scientists love Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;270</title>
    <link href="https://jakartadev.org//daily-digest-270/"/>
    <updated>2019-01-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-270</id>

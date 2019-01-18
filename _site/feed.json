@@ -12,8 +12,17 @@
     "items": [
       {
         {
+            "id": "/daily-digest-271",
+            "title": "Daily Digest #271",
+            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103\">Microservices Architecture: The New Business Enablers</a></li>\n  <li><a href=\"https://mesosphere.com/blog/the-4-top-service-orchestration-challenges/\">The 4 Top Service Orchestration Challenges </a></li>\n  <li><a href=\"https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/\">Engineering Management: The Pendulum Or The Ladder</a></li>\n  <li><a href=\"https://medium.com/@gavinlewis/3-top-tips-for-your-next-serverless-project-2ea87bc833e7\">3 top tips for your next serverless project</a></li>\n  <li><a href=\"https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b\">Learn Enough Docker to be Useful</a></li>\n  <li><a href=\"https://opensource.com/article/19/1/why-data-scientists-love-kubernetes\">Why data scientists love Kubernetes</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-271/",
+            "summary": "",
+            "date_published": "2019-01-18 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-270",
-            "title": "Daily Digest #269",
+            "title": "Daily Digest #270",
             "content_html": "<ul>\n  <li><a href=\"https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d\">Dash: A Beginner’s Guide</a></li>\n  <li><a href=\"https://thenewstack.io/principles-of-good-large-scale-agile/\">Principles of Good Large-Scale Agile</a></li>\n  <li><a href=\"https://opensource.com/article/19/1/automating-deployment-strategies-ansible\">Automating deployment strategies with Ansible</a></li>\n  <li><a href=\"https://thenewstack.io/microservices-and-nosql-a-great-match/\">Microservices and NoSQL: A Great Match</a></li>\n  <li><a href=\"https://thenewstack.io/aiops-and-the-myth-of-efficient-multitasking/\">AIOps and the Myth of Efficient Multitasking</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-270/",
             "summary": "",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-267/",
             "summary": "",
             "date_published": "2019-01-14 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-266",
-            "title": "Daily Digest #266",
-            "content_html": "<ul>\n  <li><a href=\"https://www.toptal.com/designers/ux/visual-hierarchy\">Boost Your UX with Clear Visual Hierarchy</a></li>\n  <li><a href=\"https://eng.uber.com/driver-app-ribs-architecture/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-app-ribs-architecture\">Architecting Uber’s New Driver App in RIBs</a></li>\n  <li><a href=\"https://www.infoq.com/articles/challenges-realtime-chat-service-pusher\">Challenges of Building a Reliable Realtime Chat Service</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/blazor-web-assembly\">Blazor: C# Running in the Browser via WebAssembly</a></li>\n  <li><a href=\"https://ferdychristant.com/the-state-of-web-browsers-f5a83a41c1cb\">The State of Web Browsers 2018</a></li>\n  <li><a href=\"https://techcrunch.com/2019/01/05/how-trulia-began-paying-down-its-technical-debt/\">How Trulia began paying down its technical debt</a></li>\n  <li><a href=\"https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html\">Introduction to contract testing - pt.1</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-266/",
-            "summary": "",
-            "date_published": "2019-01-11 00:00:00 +0700"
         }
 
     ]

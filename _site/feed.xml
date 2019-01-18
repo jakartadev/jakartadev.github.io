@@ -5,12 +5,34 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Jan 2019 18:23:15 +0700</pubDate>
-    <lastBuildDate>Thu, 17 Jan 2019 18:23:15 +0700</lastBuildDate>
+    <pubDate>Fri, 18 Jan 2019 08:33:58 +0700</pubDate>
+    <lastBuildDate>Fri, 18 Jan 2019 08:33:58 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;269</title>
+        <title>Daily Digest &amp;#35;271</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103&quot;&gt;Microservices Architecture: The New Business Enablers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/the-4-top-service-orchestration-challenges/&quot;&gt;The 4 Top Service Orchestration Challenges &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/&quot;&gt;Engineering Management: The Pendulum Or The Ladder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@gavinlewis/3-top-tips-for-your-next-serverless-project-2ea87bc833e7&quot;&gt;3 top tips for your next serverless project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b&quot;&gt;Learn Enough Docker to be Useful&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/why-data-scientists-love-kubernetes&quot;&gt;Why data scientists love Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 18 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-271/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-271/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;270</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/principles-of-good-large-scale-agile/&quot;&gt;Principles of Good Large-Scale Agile&lt;/a&gt;&lt;/li&gt;
@@ -198,27 +220,6 @@
         <pubDate>Mon, 07 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-262/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-262/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;261</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lucteo.ro/2018/11/18/look-ma-no-locks/&quot;&gt;Look ma, no locks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://isc.sans.edu/diary/rss/24388&quot;&gt;A Dive into malicious Docker Containers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://henrikwarne.com/2018/12/03/developer-on-call/&quot;&gt;Developer On Call&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robertheaton.com/2018/11/28/https-in-the-real-world/&quot;&gt;HTTPS in the real world&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/12/05/nondeterministic-functions-in-mysql-i-e-rand-can-surprise-you/&quot;&gt;Nondeterministic Functions in MySQL (i.e. rand) Can Surprise You&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 04 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-261/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-261/</guid>
         
         <category>daily</category>
         
