@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-272",
+            "title": "Daily Digest #272",
+            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/\">Get Legit with Git (and GitHub): The Art of the Commit Message</a></li>\n  <li><a href=\"https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/\">Loki: Prometheus-inspired, open source logging for cloud natives</a></li>\n  <li><a href=\"https://thenewstack.io/ballerina-an-api-first-programming-language/\">Ballerina: An API-First Programming Language</a></li>\n  <li><a href=\"https://github.com/zalando/skipper\">Skipper – An HTTP router and reverse proxy for service composition</a></li>\n  <li><a href=\"https://thenewstack.io/what-we-learned-about-kotlins-growth-this-year/\">What We Learned About Kotlin’s Growth This Year</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-272/",
+            "summary": "",
+            "date_published": "2019-01-21 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-271",
             "title": "Daily Digest #271",
             "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103\">Microservices Architecture: The New Business Enablers</a></li>\n  <li><a href=\"https://mesosphere.com/blog/the-4-top-service-orchestration-challenges/\">The 4 Top Service Orchestration Challenges </a></li>\n  <li><a href=\"https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/\">Engineering Management: The Pendulum Or The Ladder</a></li>\n  <li><a href=\"https://medium.com/@gavinlewis/3-top-tips-for-your-next-serverless-project-2ea87bc833e7\">3 top tips for your next serverless project</a></li>\n  <li><a href=\"https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b\">Learn Enough Docker to be Useful</a></li>\n  <li><a href=\"https://opensource.com/article/19/1/why-data-scientists-love-kubernetes\">Why data scientists love Kubernetes</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-268/",
             "summary": "",
             "date_published": "2019-01-15 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-267",
-            "title": "Daily Digest #267",
-            "content_html": "<h3 id=\"happy-monday\">Happy Monday!</h3>\n\n<ul>\n  <li><a href=\"https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c\">How Druid enables analytics at Airbnb</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/11/firefox-sync-privacy/\">Private by Design: How we built Firefox Sync</a></li>\n  <li><a href=\"https://tech.showmax.com/2018/11/sinkholing-2/\">Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation</a></li>\n  <li><a href=\"https://medium.com/@wei.surya/demystify-the-multi-threading-in-node-js-4ff07eae9abe\">Demystify The Multi-threading in Node.JS</a></li>\n  <li><a href=\"https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html\">Federated learning: distributed machine learning with data locality and privacy</a></li>\n  <li><a href=\"https://auth0.com/blog/progressive-service-architecture-at-auth0/\">Progressive Service Architecture At Auth0</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-267/",
-            "summary": "",
-            "date_published": "2019-01-14 00:00:00 +0700"
         }
 
     ]

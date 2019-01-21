@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-18T08:33:58+07:00</updated>
+ <updated>2019-01-21T10:59:52+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;272</title>
+   <link href="https://jakartadev.org//daily-digest-272/"/>
+   <updated>2019-01-21T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-272</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/&quot;&gt;Get Legit with Git (and GitHub): The Art of the Commit Message&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/&quot;&gt;Loki: Prometheus-inspired, open source logging for cloud natives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/ballerina-an-api-first-programming-language/&quot;&gt;Ballerina: An API-First Programming Language&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/skipper&quot;&gt;Skipper – An HTTP router and reverse proxy for service composition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-we-learned-about-kotlins-growth-this-year/&quot;&gt;What We Learned About Kotlin’s Growth This Year&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;271</title>

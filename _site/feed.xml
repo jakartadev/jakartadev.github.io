@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Jan 2019 08:33:58 +0700</pubDate>
-    <lastBuildDate>Fri, 18 Jan 2019 08:33:58 +0700</lastBuildDate>
+    <pubDate>Mon, 21 Jan 2019 10:59:52 +0700</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 10:59:52 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;272</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/&quot;&gt;Get Legit with Git (and GitHub): The Art of the Commit Message&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/&quot;&gt;Loki: Prometheus-inspired, open source logging for cloud natives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/ballerina-an-api-first-programming-language/&quot;&gt;Ballerina: An API-First Programming Language&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/skipper&quot;&gt;Skipper – An HTTP router and reverse proxy for service composition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-we-learned-about-kotlins-growth-this-year/&quot;&gt;What We Learned About Kotlin’s Growth This Year&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 21 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-272/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-272/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;271</title>
@@ -198,28 +219,6 @@
         <pubDate>Tue, 08 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-263/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-263/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;262</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/&quot;&gt;Reasons to Scale Horizontally&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;Dive – A tool for exploring each layer in a docker image&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://serverless.com/blog/api-ruby-serverless-framework/&quot;&gt;Building an API with Ruby and the Serverless Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179&quot;&gt;Netflix Information Security: Preventing Credential Compromise in AWS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/eli5-plasma-cash-ff242c55e8de&quot;&gt;ELI5: Plasma Cash — Scaling Ethereum&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/&quot;&gt;How We Built a Cost-Based SQL Optimizer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 07 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-262/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-262/</guid>
         
         <category>daily</category>
         
