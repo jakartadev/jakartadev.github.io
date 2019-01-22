@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-273",
+            "title": "Daily Digest #272",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d\">Bonny: Extending Kubernetes with Elixir — Part 1</a></li>\n  <li><a href=\"https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-2-efdf8e422085\">Bonny: Extending Kubernetes with Elixir — Part 2</a></li>\n  <li><a href=\"https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-3-fdfc8b8cc843\">Bonny: Extending Kubernetes with Elixir — Part 3</a>- <a href=\"https://m.subbu.org/contemporary-views-on-serverless-and-implications-1c5907c611d8\">Contemporary Views on Serverless and Implications</a></li>\n  <li><a href=\"https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70\">Monorepo: please do!</a></li>\n  <li><a href=\"https://thenewstack.io/wso2-ceo-tyler-jewell-ballerina-and-the-end-of-middleware/\">WSO2 CEO Tyler Jewell: Ballerina and the End of Middleware</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-273/",
+            "summary": "",
+            "date_published": "2019-01-22 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-272",
             "title": "Daily Digest #272",
             "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/\">Get Legit with Git (and GitHub): The Art of the Commit Message</a></li>\n  <li><a href=\"https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/\">Loki: Prometheus-inspired, open source logging for cloud natives</a></li>\n  <li><a href=\"https://thenewstack.io/ballerina-an-api-first-programming-language/\">Ballerina: An API-First Programming Language</a></li>\n  <li><a href=\"https://github.com/zalando/skipper\">Skipper – An HTTP router and reverse proxy for service composition</a></li>\n  <li><a href=\"https://thenewstack.io/what-we-learned-about-kotlins-growth-this-year/\">What We Learned About Kotlin’s Growth This Year</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-269/",
             "summary": "",
             "date_published": "2019-01-16 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-268",
-            "title": "Daily Digest #268",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.risingstack.com/nodejs-microservices-scaling-case-study/\">Serving Millions of Users in Real-Time with Node.js &amp; Microservices [Case Study]</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/11/the-power-of-web-components/\">The Power of Web Components</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/\">Working on the Engines While the Plane is Flying</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/\">Cross shard transactions at 10 million requests per second</a></li>\n  <li><a href=\"https://hackernoon.com/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b\">ActiveRecord on MySQL— Iterating over large tables with conditions</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs\">Transport: Towards Logical Independence Using Translatable Portable UDFs</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-268/",
-            "summary": "",
-            "date_published": "2019-01-15 00:00:00 +0700"
         }
 
     ]

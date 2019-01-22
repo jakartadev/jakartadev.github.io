@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Jan 2019 10:59:52 +0700</pubDate>
-    <lastBuildDate>Mon, 21 Jan 2019 10:59:52 +0700</lastBuildDate>
+    <pubDate>Tue, 22 Jan 2019 12:28:47 +0700</pubDate>
+    <lastBuildDate>Tue, 22 Jan 2019 12:28:47 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;272</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-2-efdf8e422085&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-3-fdfc8b8cc843&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 3&lt;/a&gt;- &lt;a href=&quot;https://m.subbu.org/contemporary-views-on-serverless-and-implications-1c5907c611d8&quot;&gt;Contemporary Views on Serverless and Implications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70&quot;&gt;Monorepo: please do!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/wso2-ceo-tyler-jewell-ballerina-and-the-end-of-middleware/&quot;&gt;WSO2 CEO Tyler Jewell: Ballerina and the End of Middleware&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 22 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-273/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-273/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;272</title>
@@ -198,27 +219,6 @@
         <pubDate>Wed, 09 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-264/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-264/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;263</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/front-end-micro-services/&quot;&gt;Front-End Micro Services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/&quot;&gt;Software Sprawl, The Golden Path, and Scaling Teams With Agency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mctaylorpants/a-weird-and-wonderful-trip-through-rubys-standard-library-762ddcf7a908&quot;&gt;A Weird and Wonderful Trip through Ruby’s Standard Library&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.awsadvent.com/2018/12/04/unlearning-for-dynamodb/&quot;&gt;Unlearning for DynamoDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sophiebits.com/2018/12/03/yak-shaving-fixing.html&quot;&gt;Yak shaving and fixing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 08 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-263/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-263/</guid>
         
         <category>daily</category>
         

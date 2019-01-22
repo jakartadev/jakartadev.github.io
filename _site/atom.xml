@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-21T10:59:52+07:00</updated>
+ <updated>2019-01-22T12:28:47+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;272</title>
+   <link href="https://jakartadev.org//daily-digest-273/"/>
+   <updated>2019-01-22T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-273</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-2-efdf8e422085&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-3-fdfc8b8cc843&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 3&lt;/a&gt;- &lt;a href=&quot;https://m.subbu.org/contemporary-views-on-serverless-and-implications-1c5907c611d8&quot;&gt;Contemporary Views on Serverless and Implications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70&quot;&gt;Monorepo: please do!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/wso2-ceo-tyler-jewell-ballerina-and-the-end-of-middleware/&quot;&gt;WSO2 CEO Tyler Jewell: Ballerina and the End of Middleware&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;272</title>
