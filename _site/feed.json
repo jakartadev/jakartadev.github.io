@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/dail-digest-275",
+            "title": "Daily Digest #275",
+            "content_html": "<ul>\n  <li><a href=\"https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/\">Microcontainers for Unit Testing</a></li>\n  <li><a href=\"https://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html\">Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models</a></li>\n  <li><a href=\"https://medium.com/@maarten.goet/securing-kubernetes-on-microsoft-azure-are-your-container-doors-wide-open-bb6e879cec5d\">Securing Kubernetes on Microsoft Azure: are your container doors wide open?</a></li>\n  <li><a href=\"https://medium.com/earnest-engineering/continuous-improvement-delivering-jenkins-through-jenkins-pt-1-4dd3e5af8cb0\">Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1</a></li>\n  <li><a href=\"https://medium.com/earnest-engineering/continuous-delivery-of-jenkins-by-jenkins-26b649a94fac\">Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//dail-digest-275/",
+            "summary": "",
+            "date_published": "2019-01-24 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-274",
             "title": "Daily Digest #274",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55\">High-Availability VPN on AWS with Strongswan</a></li>\n  <li><a href=\"https://www.theregister.co.uk/2019/01/16/devops_salary_report/\">The DevOps Salary Report is in, and is great news for American men</a></li>\n  <li><a href=\"https://medium.com/capital-one-tech/4-lessons-learned-from-scaling-ios-ci-cd-60c2f0cd7c94\">4 Lessons From Scaling iOS CI/CD</a></li>\n  <li><a href=\"https://thenewstack.io/why-you-cant-afford-to-ignore-distributed-tracing-for-observability/\">Why You Can’t Afford to Ignore Distributed Tracing for Observability</a></li>\n  <li><a href=\"https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897\">Building Scalable Web Services in Golang</a></li>\n  <li><a href=\"https://techbeacon.com/4-agile-best-practices-every-enterprise-architect-should-follow\">4 agile best practices every enterprise architect should follow</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-271/",
             "summary": "",
             "date_published": "2019-01-18 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-270",
-            "title": "Daily Digest #270",
-            "content_html": "<ul>\n  <li><a href=\"https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d\">Dash: A Beginner’s Guide</a></li>\n  <li><a href=\"https://thenewstack.io/principles-of-good-large-scale-agile/\">Principles of Good Large-Scale Agile</a></li>\n  <li><a href=\"https://opensource.com/article/19/1/automating-deployment-strategies-ansible\">Automating deployment strategies with Ansible</a></li>\n  <li><a href=\"https://thenewstack.io/microservices-and-nosql-a-great-match/\">Microservices and NoSQL: A Great Match</a></li>\n  <li><a href=\"https://thenewstack.io/aiops-and-the-myth-of-efficient-multitasking/\">AIOps and the Myth of Efficient Multitasking</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-270/",
-            "summary": "",
-            "date_published": "2019-01-17 00:00:00 +0700"
         }
 
     ]

@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-23T11:29:33+07:00</updated>
+ <updated>2019-01-24T13:39:45+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;275</title>
+   <link href="https://jakartadev.org//dail-digest-275/"/>
+   <updated>2019-01-24T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//dail-digest-275</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/&quot;&gt;Microcontainers for Unit Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html&quot;&gt;Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@maarten.goet/securing-kubernetes-on-microsoft-azure-are-your-container-doors-wide-open-bb6e879cec5d&quot;&gt;Securing Kubernetes on Microsoft Azure: are your container doors wide open?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-improvement-delivering-jenkins-through-jenkins-pt-1-4dd3e5af8cb0&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-delivery-of-jenkins-by-jenkins-26b649a94fac&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;274</title>

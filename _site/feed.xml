@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Jan 2019 11:29:33 +0700</pubDate>
-    <lastBuildDate>Wed, 23 Jan 2019 11:29:33 +0700</lastBuildDate>
+    <pubDate>Thu, 24 Jan 2019 13:39:45 +0700</pubDate>
+    <lastBuildDate>Thu, 24 Jan 2019 13:39:45 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;275</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/&quot;&gt;Microcontainers for Unit Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html&quot;&gt;Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@maarten.goet/securing-kubernetes-on-microsoft-azure-are-your-container-doors-wide-open-bb6e879cec5d&quot;&gt;Securing Kubernetes on Microsoft Azure: are your container doors wide open?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-improvement-delivering-jenkins-through-jenkins-pt-1-4dd3e5af8cb0&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-delivery-of-jenkins-by-jenkins-26b649a94fac&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//dail-digest-275/</link>
+        <guid isPermaLink="true">https://jakartadev.org//dail-digest-275/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;274</title>
@@ -198,27 +219,6 @@
         <pubDate>Fri, 11 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-266/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-266/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;265</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/&quot;&gt;Basic Accessibility for Web Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/&quot;&gt;Your Client Engagement Program Isn’t Doing What You Think It Is&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development&quot;&gt;Optimizing Cluster Resources for Kubernetes Team Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4&quot;&gt;Using PureScript to create a domain-specific language for building forms with validation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/cloud-computing-without-containers/&quot;&gt;Cloud Computing without Containers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 10 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-265/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-265/</guid>
         
         <category>daily</category>
         
