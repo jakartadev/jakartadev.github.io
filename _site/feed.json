@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-276",
+            "title": "Daily Digest #276",
+            "content_html": "<ul>\n  <li><a href=\"https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd\">Measuring What Makes Readers Subscribe to The New York Times</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/\">Building An Interactive Infographic With Vue.js</a></li>\n  <li><a href=\"https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a\">Can SNMP (Still) Be Used to Detect DDoS Attacks?</a></li>\n  <li><a href=\"https://bytes.grubhub.com/how-we-build-services-fast-a-look-at-the-grubhub-service-framework-181ae2091391\">How we build services fast: A look at the Grubhub service framework</a></li>\n  <li><a href=\"https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress\">3 prioritization techniques to beat software deadline stress</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-276/",
+            "summary": "",
+            "date_published": "2019-01-25 00:00:00 +0700"
+        },
+{
+        {
             "id": "/dail-digest-275",
             "title": "Daily Digest #275",
             "content_html": "<ul>\n  <li><a href=\"https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/\">Microcontainers for Unit Testing</a></li>\n  <li><a href=\"https://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html\">Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models</a></li>\n  <li><a href=\"https://medium.com/@maarten.goet/securing-kubernetes-on-microsoft-azure-are-your-container-doors-wide-open-bb6e879cec5d\">Securing Kubernetes on Microsoft Azure: are your container doors wide open?</a></li>\n  <li><a href=\"https://medium.com/earnest-engineering/continuous-improvement-delivering-jenkins-through-jenkins-pt-1-4dd3e5af8cb0\">Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1</a></li>\n  <li><a href=\"https://medium.com/earnest-engineering/continuous-delivery-of-jenkins-by-jenkins-26b649a94fac\">Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-272/",
             "summary": "",
             "date_published": "2019-01-21 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-271",
-            "title": "Daily Digest #271",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103\">Microservices Architecture: The New Business Enablers</a></li>\n  <li><a href=\"https://mesosphere.com/blog/the-4-top-service-orchestration-challenges/\">The 4 Top Service Orchestration Challenges </a></li>\n  <li><a href=\"https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/\">Engineering Management: The Pendulum Or The Ladder</a></li>\n  <li><a href=\"https://medium.com/@gavinlewis/3-top-tips-for-your-next-serverless-project-2ea87bc833e7\">3 top tips for your next serverless project</a></li>\n  <li><a href=\"https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b\">Learn Enough Docker to be Useful</a></li>\n  <li><a href=\"https://opensource.com/article/19/1/why-data-scientists-love-kubernetes\">Why data scientists love Kubernetes</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-271/",
-            "summary": "",
-            "date_published": "2019-01-18 00:00:00 +0700"
         }
 
     ]

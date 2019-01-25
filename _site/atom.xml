@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-24T13:39:45+07:00</updated>
+ <updated>2019-01-25T14:28:30+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;276</title>
+   <link href="https://jakartadev.org//daily-digest-276/"/>
+   <updated>2019-01-25T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-276</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd&quot;&gt;Measuring What Makes Readers Subscribe to The New York Times&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/&quot;&gt;Building An Interactive Infographic With Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a&quot;&gt;Can SNMP (Still) Be Used to Detect DDoS Attacks?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bytes.grubhub.com/how-we-build-services-fast-a-look-at-the-grubhub-service-framework-181ae2091391&quot;&gt;How we build services fast: A look at the Grubhub service framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress&quot;&gt;3 prioritization techniques to beat software deadline stress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;275</title>
