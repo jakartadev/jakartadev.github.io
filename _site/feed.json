@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/daily-digest-278",
+            "title": "Daily Digest #278",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;gi=35c8dc60af02\">What’s the big deal about Decentralized Consensus?</a></li>\n  <li><a href=\"https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e\">Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke\">Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/\">Offensive testing to make Dropbox (and the world) a safer place</a></li>\n  <li><a href=\"https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/\">Storing files in a distributed file system using blockchain technology</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-278/",
+            "summary": "",
+            "date_published": "2019-01-29 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-277",
+            "title": "Daily Digest #277",
+            "content_html": "<ul>\n  <li><a href=\"https://opensource.com/article/19/1/what-small-scale-scrum\">What is Small Scale Scrum?</a></li>\n  <li><a href=\"https://thenewstack.io/devops-demands-netops/\">DevOps Demands NetOps</a></li>\n  <li><a href=\"https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107\">Real-time context based smart type-ahead suggestions</a></li>\n  <li><a href=\"https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f\">Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/uber-big-data-dl-ml\">Big Data and Deep Learning: A Tale of Two Systems</a></li>\n  <li><a href=\"https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/\">MySQL High Availability On-Premises: A Geographically Distributed Scenario</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-277/",
+            "summary": "",
+            "date_published": "2019-01-29 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-276",
             "title": "Daily Digest #276",
             "content_html": "<ul>\n  <li><a href=\"https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd\">Measuring What Makes Readers Subscribe to The New York Times</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/\">Building An Interactive Infographic With Vue.js</a></li>\n  <li><a href=\"https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a\">Can SNMP (Still) Be Used to Detect DDoS Attacks?</a></li>\n  <li><a href=\"https://bytes.grubhub.com/how-we-build-services-fast-a-look-at-the-grubhub-service-framework-181ae2091391\">How we build services fast: A look at the Grubhub service framework</a></li>\n  <li><a href=\"https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress\">3 prioritization techniques to beat software deadline stress</a></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-274/",
             "summary": "",
             "date_published": "2019-01-23 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-273",
-            "title": "Daily Digest #273",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d\">Bonny: Extending Kubernetes with Elixir — Part 1</a></li>\n  <li><a href=\"https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-2-efdf8e422085\">Bonny: Extending Kubernetes with Elixir — Part 2</a></li>\n  <li><a href=\"https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-3-fdfc8b8cc843\">Bonny: Extending Kubernetes with Elixir — Part 3</a>- <a href=\"https://m.subbu.org/contemporary-views-on-serverless-and-implications-1c5907c611d8\">Contemporary Views on Serverless and Implications</a></li>\n  <li><a href=\"https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70\">Monorepo: please do!</a></li>\n  <li><a href=\"https://thenewstack.io/wso2-ceo-tyler-jewell-ballerina-and-the-end-of-middleware/\">WSO2 CEO Tyler Jewell: Ballerina and the End of Middleware</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-273/",
-            "summary": "",
-            "date_published": "2019-01-22 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-272",
-            "title": "Daily Digest #272",
-            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/\">Get Legit with Git (and GitHub): The Art of the Commit Message</a></li>\n  <li><a href=\"https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/\">Loki: Prometheus-inspired, open source logging for cloud natives</a></li>\n  <li><a href=\"https://thenewstack.io/ballerina-an-api-first-programming-language/\">Ballerina: An API-First Programming Language</a></li>\n  <li><a href=\"https://github.com/zalando/skipper\">Skipper – An HTTP router and reverse proxy for service composition</a></li>\n  <li><a href=\"https://thenewstack.io/what-we-learned-about-kotlins-growth-this-year/\">What We Learned About Kotlin’s Growth This Year</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-272/",
-            "summary": "",
-            "date_published": "2019-01-21 00:00:00 +0700"
         }
 
     ]

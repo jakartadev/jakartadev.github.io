@@ -4,13 +4,44 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-28T19:22:23+07:00</updated>
+ <updated>2019-01-29T15:21:44+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;278</title>
+   <link href="https://jakartadev.org//daily-digest-278/"/>
+   <updated>2019-01-29T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-278</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;amp;gi=35c8dc60af02&quot;&gt;What’s the big deal about Decentralized Consensus?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e&quot;&gt;Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke&quot;&gt;Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/&quot;&gt;Offensive testing to make Dropbox (and the world) a safer place&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/&quot;&gt;Storing files in a distributed file system using blockchain technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;277</title>
+   <link href="https://jakartadev.org//daily-digest-277/"/>
+   <updated>2019-01-29T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-277</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/what-small-scale-scrum&quot;&gt;What is Small Scale Scrum?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/devops-demands-netops/&quot;&gt;DevOps Demands NetOps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107&quot;&gt;Real-time context based smart type-ahead suggestions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f&quot;&gt;Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/uber-big-data-dl-ml&quot;&gt;Big Data and Deep Learning: A Tale of Two Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/&quot;&gt;MySQL High Availability On-Premises: A Geographically Distributed Scenario&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;276</title>

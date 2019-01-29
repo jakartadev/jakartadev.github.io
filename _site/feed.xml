@@ -5,9 +5,52 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Jan 2019 19:22:23 +0700</pubDate>
-    <lastBuildDate>Mon, 28 Jan 2019 19:22:23 +0700</lastBuildDate>
+    <pubDate>Tue, 29 Jan 2019 15:21:44 +0700</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 15:21:44 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;278</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;amp;gi=35c8dc60af02&quot;&gt;What’s the big deal about Decentralized Consensus?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e&quot;&gt;Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke&quot;&gt;Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/&quot;&gt;Offensive testing to make Dropbox (and the world) a safer place&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/&quot;&gt;Storing files in a distributed file system using blockchain technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 29 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-278/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-278/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;277</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/what-small-scale-scrum&quot;&gt;What is Small Scale Scrum?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/devops-demands-netops/&quot;&gt;DevOps Demands NetOps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107&quot;&gt;Real-time context based smart type-ahead suggestions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f&quot;&gt;Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/uber-big-data-dl-ml&quot;&gt;Big Data and Deep Learning: A Tale of Two Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/&quot;&gt;MySQL High Availability On-Premises: A Geographically Distributed Scenario&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 29 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-277/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-277/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;276</title>
@@ -171,52 +214,6 @@
         <pubDate>Wed, 16 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-269/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-269/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;268</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/nodejs-microservices-scaling-case-study/&quot;&gt;Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/the-power-of-web-components/&quot;&gt;The Power of Web Components&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/&quot;&gt;Working on the Engines While the Plane is Flying&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/&quot;&gt;Cross shard transactions at 10 million requests per second&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b&quot;&gt;ActiveRecord on MySQL— Iterating over large tables with conditions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs&quot;&gt;Transport: Towards Logical Independence Using Translatable Portable UDFs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 15 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-268/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-268/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;267</title>
-        <description>&lt;h3 id=&quot;happy-monday&quot;&gt;Happy Monday!&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c&quot;&gt;How Druid enables analytics at Airbnb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/firefox-sync-privacy/&quot;&gt;Private by Design: How we built Firefox Sync&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/11/sinkholing-2/&quot;&gt;Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wei.surya/demystify-the-multi-threading-in-node-js-4ff07eae9abe&quot;&gt;Demystify The Multi-threading in Node.JS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html&quot;&gt;Federated learning: distributed machine learning with data locality and privacy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/progressive-service-architecture-at-auth0/&quot;&gt;Progressive Service Architecture At Auth0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 14 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-267/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-267/</guid>
         
         <category>daily</category>
         
