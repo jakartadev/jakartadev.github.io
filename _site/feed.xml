@@ -5,8 +5,8 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Jan 2019 15:21:44 +0700</pubDate>
-    <lastBuildDate>Tue, 29 Jan 2019 15:21:44 +0700</lastBuildDate>
+    <pubDate>Tue, 29 Jan 2019 15:24:02 +0700</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 15:24:02 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -41,7 +41,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/&quot;&gt;MySQL High Availability On-Premises: A Geographically Distributed Scenario&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 29 Jan 2019 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 28 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-277/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-277/</guid>
         
