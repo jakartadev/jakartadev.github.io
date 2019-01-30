@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-279",
+            "title": "Daily Digest #279",
+            "content_html": "<ul>\n  <li><a href=\"https://engineering.blogfoster.com/snapshot-testing-going-beyond-ui/\">Snapshot Testing Going Beyond UI</a></li>\n  <li><a href=\"https://open.nytimes.com/experiments-with-link-previews-to-help-guide-readers-79dbe843ad29\">Experiments with Link Previews to Help Guide Readers</a></li>\n  <li><a href=\"https://blog.sourced.tech/post/pga_history/\">The Public Git Archive Story</a></li>\n  <li><a href=\"https://eng.uber.com/observability-at-scale/\">Observability at Scale: Building Uber’s Alerting Ecosystem</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/implications-blocks-blobs/\">Implications Of Thinking In Blocks Instead Of Blobs</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d\">Scaling Spark Streaming for Logging Event Ingestion</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-279/",
+            "summary": "",
+            "date_published": "2019-01-30 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-278",
             "title": "Daily Digest #278",
             "content_html": "<ul>\n  <li><a href=\"https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;gi=35c8dc60af02\">What’s the big deal about Decentralized Consensus?</a></li>\n  <li><a href=\"https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e\">Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke\">Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/\">Offensive testing to make Dropbox (and the world) a safer place</a></li>\n  <li><a href=\"https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/\">Storing files in a distributed file system using blockchain technology</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//dail-digest-275/",
             "summary": "",
             "date_published": "2019-01-24 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-274",
-            "title": "Daily Digest #274",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55\">High-Availability VPN on AWS with Strongswan</a></li>\n  <li><a href=\"https://www.theregister.co.uk/2019/01/16/devops_salary_report/\">The DevOps Salary Report is in, and is great news for American men</a></li>\n  <li><a href=\"https://medium.com/capital-one-tech/4-lessons-learned-from-scaling-ios-ci-cd-60c2f0cd7c94\">4 Lessons From Scaling iOS CI/CD</a></li>\n  <li><a href=\"https://thenewstack.io/why-you-cant-afford-to-ignore-distributed-tracing-for-observability/\">Why You Can’t Afford to Ignore Distributed Tracing for Observability</a></li>\n  <li><a href=\"https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897\">Building Scalable Web Services in Golang</a></li>\n  <li><a href=\"https://techbeacon.com/4-agile-best-practices-every-enterprise-architect-should-follow\">4 agile best practices every enterprise architect should follow</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-274/",
-            "summary": "",
-            "date_published": "2019-01-23 00:00:00 +0700"
         }
 
     ]
