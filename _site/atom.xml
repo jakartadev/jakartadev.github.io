@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-01-30T13:55:11+07:00</updated>
+ <updated>2019-01-31T11:54:29+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;280</title>
+   <link href="https://jakartadev.org//daily-digest-280/"/>
+   <updated>2019-01-31T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-280</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/&quot;&gt;Decentralizing Social Interactions with ActivityPub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drivy.engineering/airflow-architecture/&quot;&gt;Airflow Architecture at Drivy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/&quot;&gt;Fast Google Fonts with Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/5-ways-to-hack-an-api-and-how-to-defend/&quot;&gt;5 Ways To Hack An API (And How To Defend)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/&quot;&gt;Zero Config JavaScript App Prototyping with Webpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning&quot;&gt;Using Apache Kafka to Drive Cutting-Edge Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;279</title>

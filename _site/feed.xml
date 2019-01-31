@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Jan 2019 13:55:11 +0700</pubDate>
-    <lastBuildDate>Wed, 30 Jan 2019 13:55:11 +0700</lastBuildDate>
+    <pubDate>Thu, 31 Jan 2019 11:54:29 +0700</pubDate>
+    <lastBuildDate>Thu, 31 Jan 2019 11:54:29 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;280</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/&quot;&gt;Decentralizing Social Interactions with ActivityPub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drivy.engineering/airflow-architecture/&quot;&gt;Airflow Architecture at Drivy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/&quot;&gt;Fast Google Fonts with Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/5-ways-to-hack-an-api-and-how-to-defend/&quot;&gt;5 Ways To Hack An API (And How To Defend)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/&quot;&gt;Zero Config JavaScript App Prototyping with Webpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning&quot;&gt;Using Apache Kafka to Drive Cutting-Edge Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 31 Jan 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-280/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-280/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;279</title>
@@ -194,27 +216,6 @@
         <pubDate>Fri, 18 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-271/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-271/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;270</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/principles-of-good-large-scale-agile/&quot;&gt;Principles of Good Large-Scale Agile&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/automating-deployment-strategies-ansible&quot;&gt;Automating deployment strategies with Ansible&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/microservices-and-nosql-a-great-match/&quot;&gt;Microservices and NoSQL: A Great Match&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/aiops-and-the-myth-of-efficient-multitasking/&quot;&gt;AIOps and the Myth of Efficient Multitasking&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 17 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-270/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-270/</guid>
         
         <category>daily</category>
         
