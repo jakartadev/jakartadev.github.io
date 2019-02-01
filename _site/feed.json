@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-281",
+            "title": "Daily Digest #281",
+            "content_html": "<ul>\n  <li><a href=\"https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html\">TTL as a Service: Automatic Revocation of Stale Privileges</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/fundamental-problem-search/\">The Fundamental Problem of Search</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb\">These are the features in ES6 that you should know</a></li>\n  <li><a href=\"https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html\">Dynamic configuration at Twitter</a></li>\n  <li><a href=\"https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5\">Dissecting Front-end Job Titles</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-281/",
+            "summary": "",
+            "date_published": "2019-02-01 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-280",
             "title": "Daily Digest #280",
             "content_html": "<ul>\n  <li><a href=\"https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/\">Decentralizing Social Interactions with ActivityPub</a></li>\n  <li><a href=\"https://drivy.engineering/airflow-architecture/\">Airflow Architecture at Drivy</a></li>\n  <li><a href=\"https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/\">Fast Google Fonts with Cloudflare Workers</a></li>\n  <li><a href=\"https://nordicapis.com/5-ways-to-hack-an-api-and-how-to-defend/\">5 Ways To Hack An API (And How To Defend)</a></li>\n  <li><a href=\"https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/\">Zero Config JavaScript App Prototyping with Webpack</a></li>\n  <li><a href=\"https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning\">Using Apache Kafka to Drive Cutting-Edge Machine Learning</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-277/",
             "summary": "",
             "date_published": "2019-01-28 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-276",
-            "title": "Daily Digest #276",
-            "content_html": "<ul>\n  <li><a href=\"https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd\">Measuring What Makes Readers Subscribe to The New York Times</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/\">Building An Interactive Infographic With Vue.js</a></li>\n  <li><a href=\"https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a\">Can SNMP (Still) Be Used to Detect DDoS Attacks?</a></li>\n  <li><a href=\"https://bytes.grubhub.com/how-we-build-services-fast-a-look-at-the-grubhub-service-framework-181ae2091391\">How we build services fast: A look at the Grubhub service framework</a></li>\n  <li><a href=\"https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress\">3 prioritization techniques to beat software deadline stress</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-276/",
-            "summary": "",
-            "date_published": "2019-01-25 00:00:00 +0700"
         }
 
     ]

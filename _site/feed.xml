@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Jan 2019 11:54:29 +0700</pubDate>
-    <lastBuildDate>Thu, 31 Jan 2019 11:54:29 +0700</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 11:12:57 +0700</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 11:12:57 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;281</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html&quot;&gt;TTL as a Service: Automatic Revocation of Stale Privileges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/fundamental-problem-search/&quot;&gt;The Fundamental Problem of Search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb&quot;&gt;These are the features in ES6 that you should know&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html&quot;&gt;Dynamic configuration at Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5&quot;&gt;Dissecting Front-end Job Titles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-281/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-281/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;280</title>
@@ -194,28 +215,6 @@
         <pubDate>Mon, 21 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-272/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-272/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;271</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103&quot;&gt;Microservices Architecture: The New Business Enablers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/the-4-top-service-orchestration-challenges/&quot;&gt;The 4 Top Service Orchestration Challenges &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/&quot;&gt;Engineering Management: The Pendulum Or The Ladder&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@gavinlewis/3-top-tips-for-your-next-serverless-project-2ea87bc833e7&quot;&gt;3 top tips for your next serverless project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b&quot;&gt;Learn Enough Docker to be Useful&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/why-data-scientists-love-kubernetes&quot;&gt;Why data scientists love Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 18 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-271/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-271/</guid>
         
         <category>daily</category>
         
