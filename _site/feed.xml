@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 11:12:57 +0700</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 11:12:57 +0700</lastBuildDate>
+    <pubDate>Mon, 04 Feb 2019 15:48:57 +0700</pubDate>
+    <lastBuildDate>Mon, 04 Feb 2019 15:48:57 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;282</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/&quot;&gt;Avoiding The Pitfalls Of Automatically Inlined Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance&quot;&gt;Errors in Go: From denial to acceptance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/web-standards-guide/&quot;&gt;Web Standards: The What, The Why, And The How&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b&quot;&gt;Interesting Web Technologies to follow in 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/&quot;&gt;The developer’s guide to native web animation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/gradually-then-suddenly&quot;&gt;Gradually, then suddenly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb&quot;&gt;Protect Application Assets: How to Secure Your Secrets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347&quot;&gt;The Impostor Effect vs Dunning-Kruger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-282/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-282/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;281</title>
@@ -194,27 +218,6 @@
         <pubDate>Tue, 22 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-273/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-273/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;272</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/&quot;&gt;Get Legit with Git (and GitHub): The Art of the Commit Message&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/&quot;&gt;Loki: Prometheus-inspired, open source logging for cloud natives&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/ballerina-an-api-first-programming-language/&quot;&gt;Ballerina: An API-First Programming Language&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/skipper&quot;&gt;Skipper – An HTTP router and reverse proxy for service composition&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-we-learned-about-kotlins-growth-this-year/&quot;&gt;What We Learned About Kotlin’s Growth This Year&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 21 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-272/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-272/</guid>
         
         <category>daily</category>
         

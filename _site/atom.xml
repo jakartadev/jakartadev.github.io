@@ -4,13 +4,31 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-01T11:12:57+07:00</updated>
+ <updated>2019-02-04T15:48:57+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;282</title>
+   <link href="https://jakartadev.org//daily-digest-282/"/>
+   <updated>2019-02-04T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-282</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/&quot;&gt;Avoiding The Pitfalls Of Automatically Inlined Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance&quot;&gt;Errors in Go: From denial to acceptance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/web-standards-guide/&quot;&gt;Web Standards: The What, The Why, And The How&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b&quot;&gt;Interesting Web Technologies to follow in 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/&quot;&gt;The developer’s guide to native web animation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/gradually-then-suddenly&quot;&gt;Gradually, then suddenly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb&quot;&gt;Protect Application Assets: How to Secure Your Secrets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347&quot;&gt;The Impostor Effect vs Dunning-Kruger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;281</title>

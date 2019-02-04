@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-282",
+            "title": "Daily Digest #282",
+            "content_html": "<ul>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/\">Avoiding The Pitfalls Of Automatically Inlined Code</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance\">Errors in Go: From denial to acceptance</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/web-standards-guide/\">Web Standards: The What, The Why, And The How</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b\">Interesting Web Technologies to follow in 2019</a></li>\n  <li><a href=\"https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/\">The developer’s guide to native web animation</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/gradually-then-suddenly\">Gradually, then suddenly</a></li>\n  <li><a href=\"https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb\">Protect Application Assets: How to Secure Your Secrets</a></li>\n  <li><a href=\"https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347\">The Impostor Effect vs Dunning-Kruger</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-282/",
+            "summary": "",
+            "date_published": "2019-02-04 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-281",
             "title": "Daily Digest #281",
             "content_html": "<ul>\n  <li><a href=\"https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html\">TTL as a Service: Automatic Revocation of Stale Privileges</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/fundamental-problem-search/\">The Fundamental Problem of Search</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb\">These are the features in ES6 that you should know</a></li>\n  <li><a href=\"https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html\">Dynamic configuration at Twitter</a></li>\n  <li><a href=\"https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5\">Dissecting Front-end Job Titles</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-278/",
             "summary": "",
             "date_published": "2019-01-29 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-277",
-            "title": "Daily Digest #277",
-            "content_html": "<ul>\n  <li><a href=\"https://opensource.com/article/19/1/what-small-scale-scrum\">What is Small Scale Scrum?</a></li>\n  <li><a href=\"https://thenewstack.io/devops-demands-netops/\">DevOps Demands NetOps</a></li>\n  <li><a href=\"https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107\">Real-time context based smart type-ahead suggestions</a></li>\n  <li><a href=\"https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f\">Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/uber-big-data-dl-ml\">Big Data and Deep Learning: A Tale of Two Systems</a></li>\n  <li><a href=\"https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/\">MySQL High Availability On-Premises: A Geographically Distributed Scenario</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-277/",
-            "summary": "",
-            "date_published": "2019-01-28 00:00:00 +0700"
         }
 
     ]
