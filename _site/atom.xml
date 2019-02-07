@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-04T15:48:57+07:00</updated>
+ <updated>2019-02-07T15:55:46+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;283</title>
+   <link href="https://jakartadev.org//daily-digest-283/"/>
+   <updated>2019-02-07T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-283</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://richardmavis.info/a-complete-program&quot;&gt;A Complete Program&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/RustPython/RustPython&quot;&gt;A Python Interpreter written in Rust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-development-visual-studio-code/&quot;&gt;Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/google-chrome-kill-url-first-steps/&quot;&gt;Google Takes Its First Steps Toward Killing the URL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;282</title>

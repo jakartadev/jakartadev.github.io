@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Feb 2019 15:48:57 +0700</pubDate>
-    <lastBuildDate>Mon, 04 Feb 2019 15:48:57 +0700</lastBuildDate>
+    <pubDate>Thu, 07 Feb 2019 15:55:46 +0700</pubDate>
+    <lastBuildDate>Thu, 07 Feb 2019 15:55:46 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;283</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://richardmavis.info/a-complete-program&quot;&gt;A Complete Program&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/RustPython/RustPython&quot;&gt;A Python Interpreter written in Rust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-development-visual-studio-code/&quot;&gt;Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/google-chrome-kill-url-first-steps/&quot;&gt;Google Takes Its First Steps Toward Killing the URL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-283/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-283/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;282</title>
@@ -197,27 +218,6 @@
         <pubDate>Wed, 23 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-274/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-274/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;273</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-2-efdf8e422085&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-3-fdfc8b8cc843&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 3&lt;/a&gt;- &lt;a href=&quot;https://m.subbu.org/contemporary-views-on-serverless-and-implications-1c5907c611d8&quot;&gt;Contemporary Views on Serverless and Implications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70&quot;&gt;Monorepo: please do!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/wso2-ceo-tyler-jewell-ballerina-and-the-end-of-middleware/&quot;&gt;WSO2 CEO Tyler Jewell: Ballerina and the End of Middleware&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 22 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-273/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-273/</guid>
         
         <category>daily</category>
         

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-283",
+            "title": "Daily Digest #283",
+            "content_html": "<ul>\n  <li><a href=\"http://richardmavis.info/a-complete-program\">A Complete Program</a></li>\n  <li><a href=\"https://github.com/RustPython/RustPython\">A Python Interpreter written in Rust</a></li>\n  <li><a href=\"https://realpython.com/python-development-visual-studio-code/\">Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3</a></li>\n  <li><a href=\"https://www.wired.com/story/google-chrome-kill-url-first-steps/\">Google Takes Its First Steps Toward Killing the URL</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/02/css-browser-support/\">A Guide To CSS Support In Browsers</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-283/",
+            "summary": "",
+            "date_published": "2019-02-07 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-282",
             "title": "Daily Digest #282",
             "content_html": "<ul>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/\">Avoiding The Pitfalls Of Automatically Inlined Code</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance\">Errors in Go: From denial to acceptance</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/web-standards-guide/\">Web Standards: The What, The Why, And The How</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b\">Interesting Web Technologies to follow in 2019</a></li>\n  <li><a href=\"https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/\">The developer’s guide to native web animation</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/gradually-then-suddenly\">Gradually, then suddenly</a></li>\n  <li><a href=\"https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb\">Protect Application Assets: How to Secure Your Secrets</a></li>\n  <li><a href=\"https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347\">The Impostor Effect vs Dunning-Kruger</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-279/",
             "summary": "",
             "date_published": "2019-01-30 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-278",
-            "title": "Daily Digest #278",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;gi=35c8dc60af02\">What’s the big deal about Decentralized Consensus?</a></li>\n  <li><a href=\"https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e\">Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke\">Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/\">Offensive testing to make Dropbox (and the world) a safer place</a></li>\n  <li><a href=\"https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/\">Storing files in a distributed file system using blockchain technology</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-278/",
-            "summary": "",
-            "date_published": "2019-01-29 00:00:00 +0700"
         }
 
     ]
