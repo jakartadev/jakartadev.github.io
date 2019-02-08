@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Feb 2019 15:55:46 +0700</pubDate>
-    <lastBuildDate>Thu, 07 Feb 2019 15:55:46 +0700</lastBuildDate>
+    <pubDate>Fri, 08 Feb 2019 16:06:36 +0700</pubDate>
+    <lastBuildDate>Fri, 08 Feb 2019 16:06:36 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;284</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca&quot;&gt;How Developers and Designers Can Collaborate Using Flutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28&quot;&gt;How We Moved From Wordpress to React and Raised $80 Million&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/manifold/&quot;&gt;Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/artificial-intelligence-and-machine-learning-adoption-in-european-enterprise&quot;&gt;Artificial intelligence and machine learning adoption in European enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9&quot;&gt;The cold start problem: how to build your machine learning portfolio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-284/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-284/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;283</title>
@@ -196,28 +217,6 @@
         <pubDate>Thu, 24 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//dail-digest-275/</link>
         <guid isPermaLink="true">https://jakartadev.org//dail-digest-275/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;274</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55&quot;&gt;High-Availability VPN on AWS with Strongswan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theregister.co.uk/2019/01/16/devops_salary_report/&quot;&gt;The DevOps Salary Report is in, and is great news for American men&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/capital-one-tech/4-lessons-learned-from-scaling-ios-ci-cd-60c2f0cd7c94&quot;&gt;4 Lessons From Scaling iOS CI/CD&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/why-you-cant-afford-to-ignore-distributed-tracing-for-observability/&quot;&gt;Why You Can’t Afford to Ignore Distributed Tracing for Observability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897&quot;&gt;Building Scalable Web Services in Golang&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/4-agile-best-practices-every-enterprise-architect-should-follow&quot;&gt;4 agile best practices every enterprise architect should follow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 23 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-274/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-274/</guid>
         
         <category>daily</category>
         
