@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Feb 2019 16:06:36 +0700</pubDate>
-    <lastBuildDate>Fri, 08 Feb 2019 16:06:36 +0700</lastBuildDate>
+    <pubDate>Wed, 13 Feb 2019 16:12:26 +0800</pubDate>
+    <lastBuildDate>Wed, 13 Feb 2019 16:12:26 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;285</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability&quot;&gt;The trinity of errors in financial models: An introductory analysis using TensorFlow Probability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[Using machine learning and analytics to attract and retain empl&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ankane/blazer&quot;&gt;Blazer – Business intelligence made simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f&quot;&gt;How Facebook Scales Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 +0800</pubDate>
+        <link>https://jakartadev.org//daily-digest-284/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-284/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;284</title>
@@ -19,7 +39,7 @@
   &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9&quot;&gt;The cold start problem: how to build your machine learning portfolio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 08 Feb 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-284/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-284/</guid>
         
@@ -40,7 +60,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
+        <pubDate>Thu, 07 Feb 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-283/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-283/</guid>
         
@@ -64,7 +84,7 @@
   &lt;li&gt;&lt;a href=&quot;https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347&quot;&gt;The Impostor Effect vs Dunning-Kruger&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 04 Feb 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-282/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-282/</guid>
         
@@ -85,7 +105,7 @@
   &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5&quot;&gt;Dissecting Front-end Job Titles&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-281/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-281/</guid>
         
@@ -107,7 +127,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning&quot;&gt;Using Apache Kafka to Drive Cutting-Edge Machine Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 31 Jan 2019 00:00:00 +0700</pubDate>
+        <pubDate>Thu, 31 Jan 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-280/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-280/</guid>
         
@@ -129,7 +149,7 @@
   &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d&quot;&gt;Scaling Spark Streaming for Logging Event Ingestion&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 30 Jan 2019 00:00:00 +0700</pubDate>
+        <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-279/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-279/</guid>
         
@@ -150,7 +170,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/&quot;&gt;Storing files in a distributed file system using blockchain technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 29 Jan 2019 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-278/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-278/</guid>
         
@@ -172,7 +192,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/&quot;&gt;MySQL High Availability On-Premises: A Geographically Distributed Scenario&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 28 Jan 2019 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 28 Jan 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-277/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-277/</guid>
         
@@ -193,30 +213,9 @@
   &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress&quot;&gt;3 prioritization techniques to beat software deadline stress&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 25 Jan 2019 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-276/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-276/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;275</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/&quot;&gt;Microcontainers for Unit Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html&quot;&gt;Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@maarten.goet/securing-kubernetes-on-microsoft-azure-are-your-container-doors-wide-open-bb6e879cec5d&quot;&gt;Securing Kubernetes on Microsoft Azure: are your container doors wide open?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-improvement-delivering-jenkins-through-jenkins-pt-1-4dd3e5af8cb0&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-delivery-of-jenkins-by-jenkins-26b649a94fac&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 24 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//dail-digest-275/</link>
-        <guid isPermaLink="true">https://jakartadev.org//dail-digest-275/</guid>
         
         <category>daily</category>
         
