@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Feb 2019 16:19:54 +0800</pubDate>
-    <lastBuildDate>Wed, 13 Feb 2019 16:19:54 +0800</lastBuildDate>
+    <pubDate>Thu, 14 Feb 2019 15:53:08 +0800</pubDate>
+    <lastBuildDate>Thu, 14 Feb 2019 15:53:08 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;286</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://smallstep.com/blog/everything-pki.html&quot;&gt;Everything you should know about certificates and PKI but are too afraid to ask&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d&quot;&gt;The Ultimate Guide To Starting Your First IoT Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-optimistic-mode/&quot;&gt;How Uber’s New Driver App Overcomes Network Lag&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/reimagining-the-morning-briefing-655100304624&quot;&gt;Reimagining the Morning Briefing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/11/28/artsy-auth/&quot;&gt;Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
+        <link>https://jakartadev.org//daily-digest-286/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-286/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;285</title>
@@ -19,8 +40,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Feb 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-284/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-284/</guid>
+        <link>https://jakartadev.org//daily-digest-285/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-285/</guid>
         
         <category>daily</category>
         
@@ -195,27 +216,6 @@
         <pubDate>Mon, 28 Jan 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-277/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-277/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;276</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd&quot;&gt;Measuring What Makes Readers Subscribe to The New York Times&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/&quot;&gt;Building An Interactive Infographic With Vue.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a&quot;&gt;Can SNMP (Still) Be Used to Detect DDoS Attacks?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bytes.grubhub.com/how-we-build-services-fast-a-look-at-the-grubhub-service-framework-181ae2091391&quot;&gt;How we build services fast: A look at the Grubhub service framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress&quot;&gt;3 prioritization techniques to beat software deadline stress&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-276/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-276/</guid>
         
         <category>daily</category>
         

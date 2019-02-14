@@ -12,10 +12,19 @@
     "items": [
       {
         {
-            "id": "/daily-digest-284",
+            "id": "/daily-digest-286",
+            "title": "Daily Digest #286",
+            "content_html": "<ul>\n  <li><a href=\"https://smallstep.com/blog/everything-pki.html\">Everything you should know about certificates and PKI but are too afraid to ask</a></li>\n  <li><a href=\"https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d\">The Ultimate Guide To Starting Your First IoT Project</a></li>\n  <li><a href=\"https://eng.uber.com/driver-app-optimistic-mode/\">How Uber’s New Driver App Overcomes Network Lag</a></li>\n  <li><a href=\"https://open.nytimes.com/reimagining-the-morning-briefing-655100304624\">Reimagining the Morning Briefing</a></li>\n  <li><a href=\"https://artsy.github.io/blog/2018/11/28/artsy-auth/\">Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-286/",
+            "summary": "",
+            "date_published": "2019-02-14 00:00:00 +0800"
+        },
+{
+        {
+            "id": "/daily-digest-285",
             "title": "Daily Digest #285",
             "content_html": "<ul>\n  <li><a href=\"https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability\">The trinity of errors in financial models: An introductory analysis using TensorFlow Probability</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/using-machine-learning-and-analytics-to-attract-and-retain-employees\">Using machine learning and analytics to attract and retain employees</a></li>\n  <li><a href=\"https://github.com/ankane/blazer\">Blazer – Business intelligence made simple</a></li>\n  <li><a href=\"https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f\">How Facebook Scales Machine Learning</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-284/",
+            "url": "https://jakartadev.org//daily-digest-285/",
             "summary": "",
             "date_published": "2019-02-13 00:00:00 +0800"
         },
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-282/",
             "summary": "",
             "date_published": "2019-02-04 00:00:00 +0800"
-        },
-{
-        {
-            "id": "/daily-digest-281",
-            "title": "Daily Digest #281",
-            "content_html": "<ul>\n  <li><a href=\"https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html\">TTL as a Service: Automatic Revocation of Stale Privileges</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/fundamental-problem-search/\">The Fundamental Problem of Search</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb\">These are the features in ES6 that you should know</a></li>\n  <li><a href=\"https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html\">Dynamic configuration at Twitter</a></li>\n  <li><a href=\"https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5\">Dissecting Front-end Job Titles</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-281/",
-            "summary": "",
-            "date_published": "2019-02-01 00:00:00 +0800"
         }
 
     ]
