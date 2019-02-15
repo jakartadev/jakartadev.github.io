@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-14T15:53:08+08:00</updated>
+ <updated>2019-02-15T10:59:41+08:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;286</title>
+   <link href="https://jakartadev.org//daily-digest-287/"/>
+   <updated>2019-02-15T00:00:00+08:00</updated>
+   <id>https://jakartadev.org//daily-digest-287</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness&quot;&gt;Tim Bray – Serverlessness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/&quot;&gt;Git Webhooks with AWS services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/intika/Librefox&quot;&gt;Librefox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/how-to-run-docker-and-get-more-sleep-than-i-did/&quot;&gt;How to run Docker and get more sleep than I did&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sicpers.info/2018/12/more-speed-lower-velocity/&quot;&gt;More speed, lower velocity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;286</title>

@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Feb 2019 15:53:08 +0800</pubDate>
-    <lastBuildDate>Thu, 14 Feb 2019 15:53:08 +0800</lastBuildDate>
+    <pubDate>Fri, 15 Feb 2019 10:59:41 +0800</pubDate>
+    <lastBuildDate>Fri, 15 Feb 2019 10:59:41 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;286</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness&quot;&gt;Tim Bray – Serverlessness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/&quot;&gt;Git Webhooks with AWS services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/intika/Librefox&quot;&gt;Librefox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/how-to-run-docker-and-get-more-sleep-than-i-did/&quot;&gt;How to run Docker and get more sleep than I did&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sicpers.info/2018/12/more-speed-lower-velocity/&quot;&gt;More speed, lower velocity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0800</pubDate>
+        <link>https://jakartadev.org//daily-digest-287/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-287/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;286</title>
@@ -194,28 +215,6 @@
         <pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate>
         <link>https://jakartadev.org//daily-digest-278/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-278/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;277</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/what-small-scale-scrum&quot;&gt;What is Small Scale Scrum?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/devops-demands-netops/&quot;&gt;DevOps Demands NetOps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107&quot;&gt;Real-time context based smart type-ahead suggestions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f&quot;&gt;Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/uber-big-data-dl-ml&quot;&gt;Big Data and Deep Learning: A Tale of Two Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/&quot;&gt;MySQL High Availability On-Premises: A Geographically Distributed Scenario&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 28 Jan 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-277/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-277/</guid>
         
         <category>daily</category>
         

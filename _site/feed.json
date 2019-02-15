@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-287",
+            "title": "Daily Digest #286",
+            "content_html": "<ul>\n  <li><a href=\"https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness\">Tim Bray – Serverlessness</a></li>\n  <li><a href=\"https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/\">Git Webhooks with AWS services</a></li>\n  <li><a href=\"https://github.com/intika/Librefox\">Librefox</a></li>\n  <li><a href=\"https://engineering.gusto.com/how-to-run-docker-and-get-more-sleep-than-i-did/\">How to run Docker and get more sleep than I did</a></li>\n  <li><a href=\"https://www.sicpers.info/2018/12/more-speed-lower-velocity/\">More speed, lower velocity</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-287/",
+            "summary": "",
+            "date_published": "2019-02-15 00:00:00 +0800"
+        },
+{
+        {
             "id": "/daily-digest-286",
             "title": "Daily Digest #286",
             "content_html": "<ul>\n  <li><a href=\"https://smallstep.com/blog/everything-pki.html\">Everything you should know about certificates and PKI but are too afraid to ask</a></li>\n  <li><a href=\"https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d\">The Ultimate Guide To Starting Your First IoT Project</a></li>\n  <li><a href=\"https://eng.uber.com/driver-app-optimistic-mode/\">How Uber’s New Driver App Overcomes Network Lag</a></li>\n  <li><a href=\"https://open.nytimes.com/reimagining-the-morning-briefing-655100304624\">Reimagining the Morning Briefing</a></li>\n  <li><a href=\"https://artsy.github.io/blog/2018/11/28/artsy-auth/\">Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-283/",
             "summary": "",
             "date_published": "2019-02-07 00:00:00 +0800"
-        },
-{
-        {
-            "id": "/daily-digest-282",
-            "title": "Daily Digest #282",
-            "content_html": "<ul>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/\">Avoiding The Pitfalls Of Automatically Inlined Code</a></li>\n  <li><a href=\"https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance\">Errors in Go: From denial to acceptance</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/web-standards-guide/\">Web Standards: The What, The Why, And The How</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b\">Interesting Web Technologies to follow in 2019</a></li>\n  <li><a href=\"https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/\">The developer’s guide to native web animation</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/gradually-then-suddenly\">Gradually, then suddenly</a></li>\n  <li><a href=\"https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb\">Protect Application Assets: How to Secure Your Secrets</a></li>\n  <li><a href=\"https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347\">The Impostor Effect vs Dunning-Kruger</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-282/",
-            "summary": "",
-            "date_published": "2019-02-04 00:00:00 +0800"
         }
 
     ]
