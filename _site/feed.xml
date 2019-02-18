@@ -5,12 +5,34 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Feb 2019 10:59:41 +0800</pubDate>
-    <lastBuildDate>Fri, 15 Feb 2019 10:59:41 +0800</lastBuildDate>
+    <pubDate>Mon, 18 Feb 2019 16:55:56 +0700</pubDate>
+    <lastBuildDate>Mon, 18 Feb 2019 16:55:56 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;286</title>
+        <title>Daily Digest &amp;#35;288</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be&quot;&gt;How Pinterest runs Kafka at scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://circleci.com/blog/tools-for-effective-pairing/&quot;&gt;Tools for effective pairing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/advanced-search-experience-for-e-commerce/&quot;&gt;Beyond the search bar: advanced e-commerce search experiences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/&quot;&gt;Solving the challenges of debugging microservices on a container platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732&quot;&gt;Reliable Webhooks Using Serverless Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/&quot;&gt;An Extensive Guide To Progressive Web Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 18 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-288/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-288/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;287</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness&quot;&gt;Tim Bray – Serverlessness&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/&quot;&gt;Git Webhooks with AWS services&lt;/a&gt;&lt;/li&gt;
@@ -19,7 +41,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.sicpers.info/2018/12/more-speed-lower-velocity/&quot;&gt;More speed, lower velocity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 15 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-287/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-287/</guid>
         
@@ -40,7 +62,7 @@
   &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/11/28/artsy-auth/&quot;&gt;Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 14 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-286/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-286/</guid>
         
@@ -60,7 +82,7 @@
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f&quot;&gt;How Facebook Scales Machine Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-285/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-285/</guid>
         
@@ -81,7 +103,7 @@
   &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9&quot;&gt;The cold start problem: how to build your machine learning portfolio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 08 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-284/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-284/</guid>
         
@@ -102,7 +124,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-283/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-283/</guid>
         
@@ -126,7 +148,7 @@
   &lt;li&gt;&lt;a href=&quot;https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347&quot;&gt;The Impostor Effect vs Dunning-Kruger&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 04 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-282/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-282/</guid>
         
@@ -147,7 +169,7 @@
   &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5&quot;&gt;Dissecting Front-end Job Titles&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-281/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-281/</guid>
         
@@ -169,7 +191,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning&quot;&gt;Using Apache Kafka to Drive Cutting-Edge Machine Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 31 Jan 2019 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 31 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-280/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-280/</guid>
         
@@ -191,30 +213,9 @@
   &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d&quot;&gt;Scaling Spark Streaming for Logging Event Ingestion&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 30 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-279/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-279/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;278</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;amp;gi=35c8dc60af02&quot;&gt;What’s the big deal about Decentralized Consensus?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e&quot;&gt;Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke&quot;&gt;Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/&quot;&gt;Offensive testing to make Dropbox (and the world) a safer place&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/&quot;&gt;Storing files in a distributed file system using blockchain technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-278/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-278/</guid>
         
         <category>daily</category>
         

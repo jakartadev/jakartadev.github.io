@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-15T10:59:41+08:00</updated>
+ <updated>2019-02-18T16:55:56+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -13,9 +13,25 @@
 
  
  <entry>
-   <title>Daily Digest &#35;286</title>
+   <title>Daily Digest &#35;288</title>
+   <link href="https://jakartadev.org//daily-digest-288/"/>
+   <updated>2019-02-18T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-288</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be&quot;&gt;How Pinterest runs Kafka at scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://circleci.com/blog/tools-for-effective-pairing/&quot;&gt;Tools for effective pairing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/advanced-search-experience-for-e-commerce/&quot;&gt;Beyond the search bar: advanced e-commerce search experiences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/&quot;&gt;Solving the challenges of debugging microservices on a container platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732&quot;&gt;Reliable Webhooks Using Serverless Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/&quot;&gt;An Extensive Guide To Progressive Web Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;287</title>
    <link href="https://jakartadev.org//daily-digest-287/"/>
-   <updated>2019-02-15T00:00:00+08:00</updated>
+   <updated>2019-02-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-287</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness&quot;&gt;Tim Bray – Serverlessness&lt;/a&gt;&lt;/li&gt;
@@ -30,7 +46,7 @@
  <entry>
    <title>Daily Digest &#35;286</title>
    <link href="https://jakartadev.org//daily-digest-286/"/>
-   <updated>2019-02-14T00:00:00+08:00</updated>
+   <updated>2019-02-14T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-286</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://smallstep.com/blog/everything-pki.html&quot;&gt;Everything you should know about certificates and PKI but are too afraid to ask&lt;/a&gt;&lt;/li&gt;
@@ -45,7 +61,7 @@
  <entry>
    <title>Daily Digest &#35;285</title>
    <link href="https://jakartadev.org//daily-digest-285/"/>
-   <updated>2019-02-13T00:00:00+08:00</updated>
+   <updated>2019-02-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-285</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability&quot;&gt;The trinity of errors in financial models: An introductory analysis using TensorFlow Probability&lt;/a&gt;&lt;/li&gt;
@@ -59,7 +75,7 @@
  <entry>
    <title>Daily Digest &#35;284</title>
    <link href="https://jakartadev.org//daily-digest-284/"/>
-   <updated>2019-02-08T00:00:00+08:00</updated>
+   <updated>2019-02-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-284</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca&quot;&gt;How Developers and Designers Can Collaborate Using Flutter&lt;/a&gt;&lt;/li&gt;
@@ -74,7 +90,7 @@
  <entry>
    <title>Daily Digest &#35;283</title>
    <link href="https://jakartadev.org//daily-digest-283/"/>
-   <updated>2019-02-07T00:00:00+08:00</updated>
+   <updated>2019-02-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-283</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://richardmavis.info/a-complete-program&quot;&gt;A Complete Program&lt;/a&gt;&lt;/li&gt;
@@ -89,7 +105,7 @@
  <entry>
    <title>Daily Digest &#35;282</title>
    <link href="https://jakartadev.org//daily-digest-282/"/>
-   <updated>2019-02-04T00:00:00+08:00</updated>
+   <updated>2019-02-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-282</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/&quot;&gt;Avoiding The Pitfalls Of Automatically Inlined Code&lt;/a&gt;&lt;/li&gt;
@@ -107,7 +123,7 @@
  <entry>
    <title>Daily Digest &#35;281</title>
    <link href="https://jakartadev.org//daily-digest-281/"/>
-   <updated>2019-02-01T00:00:00+08:00</updated>
+   <updated>2019-02-01T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-281</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html&quot;&gt;TTL as a Service: Automatic Revocation of Stale Privileges&lt;/a&gt;&lt;/li&gt;
@@ -122,7 +138,7 @@
  <entry>
    <title>Daily Digest &#35;280</title>
    <link href="https://jakartadev.org//daily-digest-280/"/>
-   <updated>2019-01-31T00:00:00+08:00</updated>
+   <updated>2019-01-31T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-280</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/&quot;&gt;Decentralizing Social Interactions with ActivityPub&lt;/a&gt;&lt;/li&gt;
@@ -138,7 +154,7 @@
  <entry>
    <title>Daily Digest &#35;279</title>
    <link href="https://jakartadev.org//daily-digest-279/"/>
-   <updated>2019-01-30T00:00:00+08:00</updated>
+   <updated>2019-01-30T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-279</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.blogfoster.com/snapshot-testing-going-beyond-ui/&quot;&gt;Snapshot Testing Going Beyond UI&lt;/a&gt;&lt;/li&gt;
@@ -154,7 +170,7 @@
  <entry>
    <title>Daily Digest &#35;278</title>
    <link href="https://jakartadev.org//daily-digest-278/"/>
-   <updated>2019-01-29T00:00:00+08:00</updated>
+   <updated>2019-01-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-278</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;amp;gi=35c8dc60af02&quot;&gt;What’s the big deal about Decentralized Consensus?&lt;/a&gt;&lt;/li&gt;
@@ -169,7 +185,7 @@
  <entry>
    <title>Daily Digest &#35;277</title>
    <link href="https://jakartadev.org//daily-digest-277/"/>
-   <updated>2019-01-28T00:00:00+08:00</updated>
+   <updated>2019-01-28T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-277</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/what-small-scale-scrum&quot;&gt;What is Small Scale Scrum?&lt;/a&gt;&lt;/li&gt;
@@ -185,7 +201,7 @@
  <entry>
    <title>Daily Digest &#35;276</title>
    <link href="https://jakartadev.org//daily-digest-276/"/>
-   <updated>2019-01-25T00:00:00+08:00</updated>
+   <updated>2019-01-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-276</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd&quot;&gt;Measuring What Makes Readers Subscribe to The New York Times&lt;/a&gt;&lt;/li&gt;
@@ -200,7 +216,7 @@
  <entry>
    <title>Daily Digest &#35;275</title>
    <link href="https://jakartadev.org//dail-digest-275/"/>
-   <updated>2019-01-24T00:00:00+08:00</updated>
+   <updated>2019-01-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//dail-digest-275</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/&quot;&gt;Microcontainers for Unit Testing&lt;/a&gt;&lt;/li&gt;
@@ -215,7 +231,7 @@
  <entry>
    <title>Daily Digest &#35;274</title>
    <link href="https://jakartadev.org//daily-digest-274/"/>
-   <updated>2019-01-23T00:00:00+08:00</updated>
+   <updated>2019-01-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-274</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55&quot;&gt;High-Availability VPN on AWS with Strongswan&lt;/a&gt;&lt;/li&gt;
@@ -231,7 +247,7 @@
  <entry>
    <title>Daily Digest &#35;273</title>
    <link href="https://jakartadev.org//daily-digest-273/"/>
-   <updated>2019-01-22T00:00:00+08:00</updated>
+   <updated>2019-01-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-273</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 1&lt;/a&gt;&lt;/li&gt;
@@ -246,7 +262,7 @@
  <entry>
    <title>Daily Digest &#35;272</title>
    <link href="https://jakartadev.org//daily-digest-272/"/>
-   <updated>2019-01-21T00:00:00+08:00</updated>
+   <updated>2019-01-21T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-272</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/&quot;&gt;Get Legit with Git (and GitHub): The Art of the Commit Message&lt;/a&gt;&lt;/li&gt;
@@ -261,7 +277,7 @@
  <entry>
    <title>Daily Digest &#35;271</title>
    <link href="https://jakartadev.org//daily-digest-271/"/>
-   <updated>2019-01-18T00:00:00+08:00</updated>
+   <updated>2019-01-18T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-271</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103&quot;&gt;Microservices Architecture: The New Business Enablers&lt;/a&gt;&lt;/li&gt;
@@ -277,7 +293,7 @@
  <entry>
    <title>Daily Digest &#35;270</title>
    <link href="https://jakartadev.org//daily-digest-270/"/>
-   <updated>2019-01-17T00:00:00+08:00</updated>
+   <updated>2019-01-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-270</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
@@ -292,7 +308,7 @@
  <entry>
    <title>Daily Digest &#35;269</title>
    <link href="https://jakartadev.org//daily-digest-269/"/>
-   <updated>2019-01-16T00:00:00+08:00</updated>
+   <updated>2019-01-16T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-269</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world&quot;&gt;Handling Addresses from All Around the World&lt;/a&gt;&lt;/li&gt;
@@ -307,7 +323,7 @@
  <entry>
    <title>Daily Digest &#35;268</title>
    <link href="https://jakartadev.org//daily-digest-268/"/>
-   <updated>2019-01-15T00:00:00+08:00</updated>
+   <updated>2019-01-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-268</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/nodejs-microservices-scaling-case-study/&quot;&gt;Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study]&lt;/a&gt;&lt;/li&gt;
@@ -323,7 +339,7 @@
  <entry>
    <title>Daily Digest &#35;267</title>
    <link href="https://jakartadev.org//daily-digest-267/"/>
-   <updated>2019-01-14T00:00:00+08:00</updated>
+   <updated>2019-01-14T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-267</id>
    <content type="html">&lt;h3 id=&quot;happy-monday&quot;&gt;Happy Monday!&lt;/h3&gt;
 
@@ -341,7 +357,7 @@
  <entry>
    <title>Daily Digest &#35;266</title>
    <link href="https://jakartadev.org//daily-digest-266/"/>
-   <updated>2019-01-11T00:00:00+08:00</updated>
+   <updated>2019-01-11T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-266</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/visual-hierarchy&quot;&gt;Boost Your UX with Clear Visual Hierarchy&lt;/a&gt;&lt;/li&gt;
@@ -358,7 +374,7 @@
  <entry>
    <title>Daily Digest &#35;265</title>
    <link href="https://jakartadev.org//daily-digest-265/"/>
-   <updated>2019-01-10T00:00:00+08:00</updated>
+   <updated>2019-01-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-265</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/&quot;&gt;Basic Accessibility for Web Applications&lt;/a&gt;&lt;/li&gt;
@@ -373,7 +389,7 @@
  <entry>
    <title>Daily Digest &#35;264</title>
    <link href="https://jakartadev.org//daily-digest-264/"/>
-   <updated>2019-01-09T00:00:00+08:00</updated>
+   <updated>2019-01-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-264</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-mediadatabase-media-timeline-data-model-4e657e6ffe93&quot;&gt;Netflix Media Database — the Media Timeline Data Model&lt;/a&gt;&lt;/li&gt;
@@ -389,7 +405,7 @@
  <entry>
    <title>Daily Digest &#35;263</title>
    <link href="https://jakartadev.org//daily-digest-263/"/>
-   <updated>2019-01-08T00:00:00+08:00</updated>
+   <updated>2019-01-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-263</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/front-end-micro-services/&quot;&gt;Front-End Micro Services&lt;/a&gt;&lt;/li&gt;
@@ -404,7 +420,7 @@
  <entry>
    <title>Daily Digest &#35;262</title>
    <link href="https://jakartadev.org//daily-digest-262/"/>
-   <updated>2019-01-07T00:00:00+08:00</updated>
+   <updated>2019-01-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-262</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/&quot;&gt;Reasons to Scale Horizontally&lt;/a&gt;&lt;/li&gt;
@@ -420,7 +436,7 @@
  <entry>
    <title>Daily Digest &#35;261</title>
    <link href="https://jakartadev.org//daily-digest-261/"/>
-   <updated>2019-01-04T00:00:00+08:00</updated>
+   <updated>2019-01-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-261</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://lucteo.ro/2018/11/18/look-ma-no-locks/&quot;&gt;Look ma, no locks&lt;/a&gt;&lt;/li&gt;
@@ -435,7 +451,7 @@
  <entry>
    <title>Daily Digest &#35;260</title>
    <link href="https://jakartadev.org//daily-digest-260/"/>
-   <updated>2019-01-03T00:00:00+08:00</updated>
+   <updated>2019-01-03T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-260</id>
    <content type="html">&lt;h3 id=&quot;selamat-tahun-baru&quot;&gt;Selamat tahun baru!&lt;/h3&gt;
 
@@ -452,7 +468,7 @@
  <entry>
    <title>Daily Digest &#35;259</title>
    <link href="https://jakartadev.org//daily-digest-259/"/>
-   <updated>2018-12-28T00:00:00+08:00</updated>
+   <updated>2018-12-28T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-259</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/analyzing-experiment-outcomes/&quot;&gt;Analyzing Experiment Outcomes: Beyond Average Treatment Effects&lt;/a&gt;&lt;/li&gt;
@@ -471,7 +487,7 @@
  <entry>
    <title>Daily Digest &#35;258</title>
    <link href="https://jakartadev.org//daily-digest-258/"/>
-   <updated>2018-12-27T00:00:00+08:00</updated>
+   <updated>2018-12-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-258</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres&quot;&gt;Bye bye Mongo, Hello Postgres&lt;/a&gt;&lt;/li&gt;
@@ -487,7 +503,7 @@
  <entry>
    <title>Daily Digest &#35;257</title>
    <link href="https://jakartadev.org//daily-digest-257/"/>
-   <updated>2018-12-26T00:00:00+08:00</updated>
+   <updated>2018-12-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-257</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/rebuilding-the-groups-experience-on-linkedin&quot;&gt;Rebuilding the Groups Experience on LinkedIn&lt;/a&gt;&lt;/li&gt;
@@ -504,7 +520,7 @@
  <entry>
    <title>Daily Digest &#35;256</title>
    <link href="https://jakartadev.org//daily-digest-256/"/>
-   <updated>2018-12-24T00:00:00+08:00</updated>
+   <updated>2018-12-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-256</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/jettech/a-short-introduction-to-windows-containers-db5adc0db536&quot;&gt;A short introduction to Windows Containers&lt;/a&gt;&lt;/li&gt;
@@ -519,7 +535,7 @@
  <entry>
    <title>Daily Digest &#35;255</title>
    <link href="https://jakartadev.org//daily-digest-255/"/>
-   <updated>2018-12-21T00:00:00+08:00</updated>
+   <updated>2018-12-21T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-255</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/google-cloud/developing-with-containers-done-right-831a4bae1d28&quot;&gt;Developing With Containers Done Right&lt;/a&gt;&lt;/li&gt;
@@ -535,7 +551,7 @@
  <entry>
    <title>Daily Digest &#35;254</title>
    <link href="https://jakartadev.org//daily-digest-254/"/>
-   <updated>2018-12-20T00:00:00+08:00</updated>
+   <updated>2018-12-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-254</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/crash-reporting-in-desktop-python-applications/&quot;&gt;Crash reporting in desktop Python applications&lt;/a&gt;&lt;/li&gt;
@@ -551,7 +567,7 @@
  <entry>
    <title>Daily Digest &#35;253</title>
    <link href="https://jakartadev.org//daily-digest-253/"/>
-   <updated>2018-12-19T00:00:00+08:00</updated>
+   <updated>2018-12-19T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-253</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-symlinks-pwned-kubernetes-how-we-fixed-it&quot;&gt;How symlinks pwned Kubernetes (and how we fixed it)&lt;/a&gt;&lt;/li&gt;
@@ -568,7 +584,7 @@
  <entry>
    <title>Daily Digest &#35;252</title>
    <link href="https://jakartadev.org//daily-digest-252/"/>
-   <updated>2018-12-18T00:00:00+08:00</updated>
+   <updated>2018-12-18T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-252</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.papertrailapp.com/best-practices-for-logging-in-nodejs/&quot;&gt;Best Practices for Logging in Node.js&lt;/a&gt;&lt;/li&gt;
@@ -584,7 +600,7 @@
  <entry>
    <title>Daily Digest &#35;251</title>
    <link href="https://jakartadev.org//daily-digest-251/"/>
-   <updated>2018-12-11T00:00:00+08:00</updated>
+   <updated>2018-12-11T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-251</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines&quot;&gt;Modernizing your build pipelines&lt;/a&gt;&lt;/li&gt;
@@ -602,7 +618,7 @@
  <entry>
    <title>Daily Digest &#35;250</title>
    <link href="https://jakartadev.org//daily-digest-250/"/>
-   <updated>2018-12-10T00:00:00+08:00</updated>
+   <updated>2018-12-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-250</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/will-kubernetes-sink-the-hadoop-ship/&quot;&gt;Will Kubernetes Sink the Hadoop Ship?&lt;/a&gt;&lt;/li&gt;
@@ -617,7 +633,7 @@
  <entry>
    <title>Daily Digest &#35;249</title>
    <link href="https://jakartadev.org//daily-digest-249/"/>
-   <updated>2018-12-07T00:00:00+08:00</updated>
+   <updated>2018-12-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-249</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@jaycoon/9-emerging-operations-gaps-that-will-accelerate-cloud-adoption-part-1-58cef12f34d2&quot;&gt;9 Emerging Operational Gaps That Will Accelerate Cloud Adoption — Part 1&lt;/a&gt;&lt;/li&gt;
@@ -633,7 +649,7 @@
  <entry>
    <title>Daily Digest &#35;248</title>
    <link href="https://jakartadev.org//daily-digest-248/"/>
-   <updated>2018-12-05T00:00:00+08:00</updated>
+   <updated>2018-12-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-248</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ml-applications/horizon/&quot;&gt;Horizon: The first open source reinforcement learning platform for large-scale products and services&lt;/a&gt;&lt;/li&gt;
@@ -651,7 +667,7 @@
  <entry>
    <title>Daily Digest &#35;247</title>
    <link href="https://jakartadev.org//daily-digest-247/"/>
-   <updated>2018-12-04T00:00:00+08:00</updated>
+   <updated>2018-12-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-247</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/GitSquared/edex-ui&quot;&gt;Edex-UI – A science fiction terminal emulator&lt;/a&gt;&lt;/li&gt;
@@ -669,7 +685,7 @@
  <entry>
    <title>Daily Digest &#35;246</title>
    <link href="https://jakartadev.org//daily-digest-246/"/>
-   <updated>2018-12-03T00:00:00+08:00</updated>
+   <updated>2018-12-03T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-246</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/&quot;&gt;Introducing FuseBox, an alternative to Webpack&lt;/a&gt;&lt;/li&gt;
@@ -685,7 +701,7 @@
  <entry>
    <title>Daily Digest &#35;245</title>
    <link href="https://jakartadev.org//daily-digest-245/"/>
-   <updated>2018-11-30T00:00:00+08:00</updated>
+   <updated>2018-11-30T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-245</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@yellow/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project-4985b2253778&quot;&gt;Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project&lt;/a&gt;&lt;/li&gt;
@@ -703,7 +719,7 @@
  <entry>
    <title>Daily Digest &#35;244</title>
    <link href="https://jakartadev.org//daily-digest-244/"/>
-   <updated>2018-11-29T00:00:00+08:00</updated>
+   <updated>2018-11-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-244</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab&quot;&gt;Kubernetes 202 — Making It Fully Operational&lt;/a&gt;&lt;/li&gt;
@@ -720,7 +736,7 @@
  <entry>
    <title>Daily Digest &#35;243</title>
    <link href="https://jakartadev.org//daily-digest-243/"/>
-   <updated>2018-11-28T00:00:00+08:00</updated>
+   <updated>2018-11-28T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-243</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pxlpnk/awesome-ruby-security&quot;&gt;awesome-ruby-security&lt;/a&gt;&lt;/li&gt;
@@ -739,7 +755,7 @@
  <entry>
    <title>Daily Digest &#35;242</title>
    <link href="https://jakartadev.org//daily-digest-242/"/>
-   <updated>2018-11-27T00:00:00+08:00</updated>
+   <updated>2018-11-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-242</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/troxler/awesome-css-frameworks&quot;&gt;awesome-css-frameworks&lt;/a&gt;&lt;/li&gt;
@@ -756,7 +772,7 @@
  <entry>
    <title>Daily Digest &#35;241</title>
    <link href="https://jakartadev.org//daily-digest-241/"/>
-   <updated>2018-11-26T00:00:00+08:00</updated>
+   <updated>2018-11-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-241</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/xlni/&quot;&gt;Facebook, NYU expand available languages for natural language understanding systems&lt;/a&gt;&lt;/li&gt;
@@ -772,7 +788,7 @@
  <entry>
    <title>Daily Digest &#35;239</title>
    <link href="https://jakartadev.org//daily-digest-240/"/>
-   <updated>2018-11-23T00:00:00+08:00</updated>
+   <updated>2018-11-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-240</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/zammad/zammad&quot;&gt;Zammad – web based open source helpdesk/customer support system&lt;/a&gt;&lt;/li&gt;
@@ -788,7 +804,7 @@
  <entry>
    <title>Daily Digest &#35;239</title>
    <link href="https://jakartadev.org//daily-digest-239/"/>
-   <updated>2018-11-22T00:00:00+08:00</updated>
+   <updated>2018-11-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-239</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/&quot;&gt;One Fish, Two Fish, Blue Fish Sporting New Red Hat&lt;/a&gt;&lt;/li&gt;
@@ -803,7 +819,7 @@
  <entry>
    <title>Daily Digest &#35;238</title>
    <link href="https://jakartadev.org//daily-digest-238/"/>
-   <updated>2018-11-21T00:00:00+08:00</updated>
+   <updated>2018-11-21T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-238</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@tamas.csaba/maintainable-software-why-would-i-care-and-once-i-do-how-do-i-know-i-see-one-91896ecff08f&quot;&gt;Maintainable software: why would I care and once I do, how do I know I see one?&lt;/a&gt;&lt;/li&gt;
@@ -817,7 +833,7 @@
  <entry>
    <title>Daily Digest &#35;237</title>
    <link href="https://jakartadev.org//daily-digest-237/"/>
-   <updated>2018-11-20T00:00:00+08:00</updated>
+   <updated>2018-11-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-237</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://gitlab.com/daamien/postgresql_anonymizer&quot;&gt;postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL&lt;/a&gt;&lt;/li&gt;
@@ -831,7 +847,7 @@
  <entry>
    <title>Daily Digest &#35;234</title>
    <link href="https://jakartadev.org//daily-digest-236/"/>
-   <updated>2018-11-18T00:00:00+08:00</updated>
+   <updated>2018-11-18T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-236</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make&quot;&gt;Three Sales Mistakes Software Engineers Make&lt;/a&gt;&lt;/li&gt;
@@ -849,7 +865,7 @@
  <entry>
    <title>Daily Digest &#35;234</title>
    <link href="https://jakartadev.org//daily-digest-235/"/>
-   <updated>2018-11-16T00:00:00+08:00</updated>
+   <updated>2018-11-16T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-235</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961&quot;&gt;API Profiling at Pinterest&lt;/a&gt;&lt;/li&gt;
@@ -866,7 +882,7 @@
  <entry>
    <title>Daily Digest &#35;234</title>
    <link href="https://jakartadev.org//daily-digest-234/"/>
-   <updated>2018-11-15T00:00:00+08:00</updated>
+   <updated>2018-11-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-234</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.vuedarkmode.com/&quot;&gt;A minimalist dark design system for vue.js 🎨&lt;/a&gt;&lt;/li&gt;
@@ -883,7 +899,7 @@
  <entry>
    <title>Daily Digest &#35;233</title>
    <link href="https://jakartadev.org//daily-digest-233/"/>
-   <updated>2018-11-14T00:00:00+08:00</updated>
+   <updated>2018-11-14T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-233</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/cullum/dank-selfhosted&quot;&gt;Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD&lt;/a&gt;&lt;/li&gt;
@@ -899,7 +915,7 @@
  <entry>
    <title>Daily Digest &#35;232</title>
    <link href="https://jakartadev.org//daily-digest-232/"/>
-   <updated>2018-11-13T00:00:00+08:00</updated>
+   <updated>2018-11-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-232</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/poka-techblog/the-best-way-to-store-secrets-in-your-app-is-not-to-store-secrets-in-your-app-308a6807d3ed&quot;&gt;The best way to store secrets in your app is not to store secrets in your app&lt;/a&gt;&lt;/li&gt;
@@ -916,7 +932,7 @@
  <entry>
    <title>Daily Digest &#35;231</title>
    <link href="https://jakartadev.org//daily-digest-231/"/>
-   <updated>2018-11-12T00:00:00+08:00</updated>
+   <updated>2018-11-12T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-231</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://phoenixframework.org/blog/phoenix-1-4-0-released&quot;&gt;Phoenix 1.4.0 released&lt;/a&gt;&lt;/li&gt;
@@ -935,7 +951,7 @@
  <entry>
    <title>Daily Digest &#35;230</title>
    <link href="https://jakartadev.org//daily-digest-230/"/>
-   <updated>2018-11-09T00:00:00+08:00</updated>
+   <updated>2018-11-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-230</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/puresec-founder-on-taking-control-of-serverless-security/&quot;&gt;PureSec Founder on Taking Control of Serverless Security&lt;/a&gt;&lt;/li&gt;
@@ -951,7 +967,7 @@
  <entry>
    <title>Daily Digest &#35;229</title>
    <link href="https://jakartadev.org//daily-digest-229/"/>
-   <updated>2018-11-08T00:00:00+08:00</updated>
+   <updated>2018-11-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-229</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/workflows-for-the-new-developer-experience/&quot;&gt;Workflows for the New Developer Experience&lt;/a&gt;&lt;/li&gt;
@@ -967,7 +983,7 @@
  <entry>
    <title>Daily Digest &#35;228</title>
    <link href="https://jakartadev.org//daily-digest-228/"/>
-   <updated>2018-11-07T00:00:00+08:00</updated>
+   <updated>2018-11-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-228</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b&quot;&gt;How to be Strategic&lt;/a&gt;&lt;/li&gt;
@@ -983,7 +999,7 @@
  <entry>
    <title>Daily Digest &#35;227</title>
    <link href="https://jakartadev.org//daily-digest-227/"/>
-   <updated>2018-11-06T00:00:00+08:00</updated>
+   <updated>2018-11-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-227</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/&quot;&gt;The most dynamic static site you’ll ever see&lt;/a&gt;&lt;/li&gt;
@@ -998,7 +1014,7 @@
  <entry>
    <title>Daily Digest &#35;226</title>
    <link href="https://jakartadev.org//daily-digest-226/"/>
-   <updated>2018-11-05T00:00:00+08:00</updated>
+   <updated>2018-11-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-226</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/demystifying-javascript-testing/&quot;&gt;Demystifying JavaScript Testing&lt;/a&gt;&lt;/li&gt;
@@ -1014,7 +1030,7 @@
  <entry>
    <title>Daily Digest &#35;225</title>
    <link href="https://jakartadev.org//daily-digest-225/"/>
-   <updated>2018-11-02T00:00:00+08:00</updated>
+   <updated>2018-11-02T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-225</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://willcrichton.net/notes/systems-programming/&quot;&gt;What is Systems Programming, Really? &lt;/a&gt;&lt;/li&gt;
@@ -1030,7 +1046,7 @@
  <entry>
    <title>Ansible dasar</title>
    <link href="https://jakartadev.org//ansible-dasar/"/>
-   <updated>2018-11-02T00:00:00+08:00</updated>
+   <updated>2018-11-02T00:00:00+07:00</updated>
    <id>https://jakartadev.org//ansible-dasar</id>
    <content type="html">&lt;p&gt;Belajar menggunakan &lt;a href=&quot;https://ansible.com/&quot;&gt;Ansible&lt;/a&gt; untuk mengatur mesin remote atau untuk provisioning.&lt;/p&gt;
 
@@ -1104,7 +1120,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;224</title>
    <link href="https://jakartadev.org//daily-digest-224/"/>
-   <updated>2018-11-01T00:00:00+08:00</updated>
+   <updated>2018-11-01T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-224</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/learning-at-the-speed-of-modern-infrastructure/&quot;&gt;Learning at the Speed of Modern Infrastructure&lt;/a&gt;&lt;/li&gt;
@@ -1121,7 +1137,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;223</title>
    <link href="https://jakartadev.org//daily-digest-223/"/>
-   <updated>2018-10-31T00:00:00+08:00</updated>
+   <updated>2018-10-31T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-223</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314&quot;&gt;Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL&lt;/a&gt;&lt;/li&gt;
@@ -1137,7 +1153,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;222</title>
    <link href="https://jakartadev.org//daily-digest-222/"/>
-   <updated>2018-10-30T00:00:00+08:00</updated>
+   <updated>2018-10-30T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-222</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.sethvargo.com/secrets-in-serverless/&quot;&gt;Secrets in Serverless&lt;/a&gt;&lt;/li&gt;
@@ -1158,7 +1174,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;221</title>
    <link href="https://jakartadev.org//daily-digest-221/"/>
-   <updated>2018-10-29T00:00:00+08:00</updated>
+   <updated>2018-10-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-221</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/inspec/terraform-provisioner-inspec&quot;&gt;Terraform InSpec Provisioner Plugin&lt;/a&gt;&lt;/li&gt;
@@ -1175,7 +1191,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;220</title>
    <link href="https://jakartadev.org//daily-digest-220/"/>
-   <updated>2018-10-26T00:00:00+08:00</updated>
+   <updated>2018-10-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-220</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/&quot;&gt;The Case of the Broken Lambda&lt;/a&gt;&lt;/li&gt;
@@ -1192,7 +1208,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;219</title>
    <link href="https://jakartadev.org//daily-digest-219/"/>
-   <updated>2018-10-25T00:00:00+08:00</updated>
+   <updated>2018-10-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-219</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/&quot;&gt;Write Better Python Functions&lt;/a&gt;&lt;/li&gt;
@@ -1210,7 +1226,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;218</title>
    <link href="https://jakartadev.org//daily-digest-218/"/>
-   <updated>2018-10-24T00:00:00+08:00</updated>
+   <updated>2018-10-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-218</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ConfluxDigital/5-practical-operability-techniques-for-teams-matthew-skelton-addo-2018&quot;&gt;5 practical operability techniques for teams - Matthew Skelton&lt;/a&gt;&lt;/li&gt;
@@ -1226,7 +1242,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;217</title>
    <link href="https://jakartadev.org//daily-digest-217/"/>
-   <updated>2018-10-23T00:00:00+08:00</updated>
+   <updated>2018-10-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-217</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46&quot;&gt;12 Factor CLI Apps&lt;/a&gt;&lt;/li&gt;
@@ -1244,7 +1260,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;216</title>
    <link href="https://jakartadev.org//daily-digest-216/"/>
-   <updated>2018-10-22T00:00:00+08:00</updated>
+   <updated>2018-10-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-216</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://bogdanvlviv.com/posts/ruby/rails/what-is-new-in-rails-6_0.html&quot;&gt;What is new in Rails 6.0&lt;/a&gt;&lt;/li&gt;
@@ -1261,7 +1277,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;215</title>
    <link href="https://jakartadev.org//daily-digest-215/"/>
-   <updated>2018-10-19T00:00:00+08:00</updated>
+   <updated>2018-10-19T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-215</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/viatsko/awesome-vscode&quot;&gt;Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources&lt;/a&gt;&lt;/li&gt;
@@ -1278,7 +1294,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;214</title>
    <link href="https://jakartadev.org//daily-digest-214/"/>
-   <updated>2018-10-18T00:00:00+08:00</updated>
+   <updated>2018-10-18T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-214</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-system&quot;&gt;Understanding Design Systems and Patterns&lt;/a&gt;&lt;/li&gt;
@@ -1293,7 +1309,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;213</title>
    <link href="https://jakartadev.org//daily-digest-213/"/>
-   <updated>2018-10-17T00:00:00+08:00</updated>
+   <updated>2018-10-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-213</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tls.ulfheim.net&quot;&gt;The Illustrated TLS Connection&lt;/a&gt;&lt;/li&gt;
@@ -1310,7 +1326,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;212</title>
    <link href="https://jakartadev.org//daily-digest-212/"/>
-   <updated>2018-10-16T00:00:00+08:00</updated>
+   <updated>2018-10-16T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-212</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/sourcegraph/sourcegraph&quot;&gt;Sourcegraph&lt;/a&gt;&lt;/li&gt;
@@ -1326,7 +1342,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;211</title>
    <link href="https://jakartadev.org//daily-digest-211/"/>
-   <updated>2018-10-15T00:00:00+08:00</updated>
+   <updated>2018-10-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-211</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/bench-engineering/breaking-good-55fed1d81aac&quot;&gt;Breaking Good — Having a blameless engineering culture&lt;/a&gt;&lt;/li&gt;
@@ -1344,7 +1360,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;210</title>
    <link href="https://jakartadev.org//daily-digest-210/"/>
-   <updated>2018-10-12T00:00:00+08:00</updated>
+   <updated>2018-10-12T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-210</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://gizmodo.com/how-to-get-more-out-of-your-chromebook-by-running-linux-1829058899&quot;&gt;Get More Out of Your Chromebook by Running Linux Apps&lt;/a&gt;&lt;/li&gt;
@@ -1360,7 +1376,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;209</title>
    <link href="https://jakartadev.org//daily-digest-209/"/>
-   <updated>2018-10-11T00:00:00+08:00</updated>
+   <updated>2018-10-11T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-209</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://dbngin.com/&quot;&gt;Free All-in-One Database Version Management Tool&lt;/a&gt;&lt;/li&gt;
@@ -1376,7 +1392,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;208</title>
    <link href="https://jakartadev.org//daily-digest-208/"/>
-   <updated>2018-10-10T00:00:00+08:00</updated>
+   <updated>2018-10-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-208</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://devops.com/is-noops-the-future-of-cloud-networking/&quot;&gt;Is NoOps the Future of Cloud Networking?&lt;/a&gt;&lt;/li&gt;
@@ -1393,7 +1409,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;207</title>
    <link href="https://jakartadev.org//daily-digest-207/"/>
-   <updated>2018-10-09T00:00:00+08:00</updated>
+   <updated>2018-10-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-207</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/danmayer/coverband&quot;&gt;Rack middleware to help measure production code line of code usage&lt;/a&gt;&lt;/li&gt;
@@ -1410,7 +1426,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Baker bake</title>
    <link href="https://jakartadev.org//baker-bake/"/>
-   <updated>2018-10-09T00:00:00+08:00</updated>
+   <updated>2018-10-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//baker-bake</id>
    <content type="html">&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;brew install ottomatica/ottomatica/baker --devel&lt;/code&gt;&lt;/p&gt;
@@ -1437,7 +1453,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;206</title>
    <link href="https://jakartadev.org//daily-digest-206/"/>
-   <updated>2018-10-08T00:00:00+08:00</updated>
+   <updated>2018-10-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-206</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/javascript-developers-more-choices-mean-hard-choices/?utm_source=jakartadev&quot;&gt;For javascript developers, more choices mean hard choices&lt;/a&gt;&lt;/li&gt;
@@ -1453,7 +1469,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;205</title>
    <link href="https://jakartadev.org//daily-digest-205/"/>
-   <updated>2018-10-05T00:00:00+08:00</updated>
+   <updated>2018-10-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-205</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/hellofresh/janus-dashboard&quot;&gt;Janus Dashboard&lt;/a&gt; – a dashboard for &lt;a href=&quot;https://github.com/hellofresh/janus&quot;&gt;Janus Api Gateway&lt;/a&gt; from HelloFresh&lt;/li&gt;
@@ -1472,7 +1488,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;204</title>
    <link href="https://jakartadev.org//daily-digest-204/"/>
-   <updated>2018-10-04T00:00:00+08:00</updated>
+   <updated>2018-10-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-204</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://resources.codeship.com/ebooks/webrtc-debugging&quot;&gt;How to Debug WebRTC Issues&lt;/a&gt;&lt;/li&gt;
@@ -1492,7 +1508,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;203</title>
    <link href="https://jakartadev.org//daily-digest-203/"/>
-   <updated>2018-10-03T00:00:00+08:00</updated>
+   <updated>2018-10-03T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-203</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security/&quot;&gt;Temper Kubernetes and Container FOMO Through Security&lt;/a&gt;&lt;/li&gt;
@@ -1509,7 +1525,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;202</title>
    <link href="https://jakartadev.org//daily-digest-202/"/>
-   <updated>2018-10-02T00:00:00+08:00</updated>
+   <updated>2018-10-02T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-202</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660?utm_source=jakartadev&quot;&gt;Why should Chaos be part of your Distributed Systems Engineering?&lt;/a&gt;&lt;/li&gt;
@@ -1525,7 +1541,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Daily Digest &#35;201</title>
    <link href="https://jakartadev.org//daily-digest-201/"/>
-   <updated>2018-10-01T00:00:00+08:00</updated>
+   <updated>2018-10-01T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-201</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://itnext.io/containers-as-i-didnt-know-them-67cd4eaf3739&quot;&gt;Containers as I didn’t know them&lt;/a&gt;&lt;/li&gt;
@@ -1542,7 +1558,7 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
  <entry>
    <title>Membangun cluster Kubernetes di Vagrant + CentOS</title>
    <link href="https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos/"/>
-   <updated>2018-09-26T00:00:00+08:00</updated>
+   <updated>2018-09-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//deploy-kubernetes-cluster-vagrant-centos</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://kubernetes.io/&quot;&gt;Kubernetes&lt;/a&gt;, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes.&lt;/p&gt;
 
@@ -1826,7 +1842,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
  <entry>
    <title>Daily Digest &#35;200</title>
    <link href="https://jakartadev.org//daily-digest-200/"/>
-   <updated>2018-09-26T00:00:00+08:00</updated>
+   <updated>2018-09-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-200</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/agile-2018&quot;&gt;Martin Fowler – Agile in 2018&lt;/a&gt;&lt;/li&gt;
@@ -1844,7 +1860,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
  <entry>
    <title>Daily Digest &#35;109</title>
    <link href="https://jakartadev.org//daily-digest-109/"/>
-   <updated>2018-09-25T00:00:00+08:00</updated>
+   <updated>2018-09-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-109</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/engineering-housing/running-production-elasticsearch-cluster-on-spot-instances-80bf03655092&quot;&gt;Running elasticsearch cluster on spot instances&lt;/a&gt;&lt;/li&gt;
@@ -1860,7 +1876,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
  <entry>
    <title>Daily Digest &#35;108</title>
    <link href="https://jakartadev.org//daily-digest-108/"/>
-   <updated>2018-09-24T00:00:00+08:00</updated>
+   <updated>2018-09-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-108</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Physiix/topsi-project-manager&quot;&gt;Topsi – A Desktop Kanban board app&lt;/a&gt;&lt;/li&gt;
@@ -1876,7 +1892,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
  <entry>
    <title>Daily Digest &#35;107</title>
    <link href="https://jakartadev.org//daily-digest-107/"/>
-   <updated>2018-09-21T00:00:00+08:00</updated>
+   <updated>2018-09-21T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-107</id>
    <content type="html">&lt;p&gt;3 hari ini waktu dibuat untuk menyiapkan materi untuk &lt;a href=&quot;http://agileimpact.id/&quot;&gt;Agile Impact&lt;/a&gt;, akan dibuatkan artikel khusus tentang ini.&lt;/p&gt;
 
@@ -1893,7 +1909,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
  <entry>
    <title>Daily Digest &#35;106</title>
    <link href="https://jakartadev.org//daily-digest-106/"/>
-   <updated>2018-09-17T00:00:00+08:00</updated>
+   <updated>2018-09-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-106</id>
    <content type="html">&lt;p&gt;Senin, iya, sudah senin lagi, dan selamat bekerja!&lt;/p&gt;
 
@@ -1912,7 +1928,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
  <entry>
    <title>Daily Digest &#35;105</title>
    <link href="https://jakartadev.org//daily-digest-105/"/>
-   <updated>2018-09-14T00:00:00+08:00</updated>
+   <updated>2018-09-14T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-105</id>
    <content type="html">&lt;p&gt;Happy friday, here are some links for your weekend!&lt;/p&gt;
 
@@ -1932,7 +1948,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
  <entry>
    <title>Daily Digest &#35;104</title>
    <link href="https://jakartadev.org//daily-digest-104/"/>
-   <updated>2018-09-13T00:00:00+08:00</updated>
+   <updated>2018-09-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-104</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://crate.io/a/on-writing-beautiful-tests/&quot;&gt;On Writing Beautiful Tests&lt;/a&gt; – should be writing about this&lt;/li&gt;
@@ -1949,7 +1965,7 @@ yeah, i learn the hard way.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;103</title>
    <link href="https://jakartadev.org//daily-digest-103/"/>
-   <updated>2018-09-12T00:00:00+08:00</updated>
+   <updated>2018-09-12T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-103</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/&quot;&gt;I Wanna Go Fast - Load Balancing Dynamic Steering&lt;/a&gt;&lt;/li&gt;
@@ -1966,7 +1982,7 @@ yeah, i learn the hard way.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;102</title>
    <link href="https://jakartadev.org//daily-digest-102/"/>
-   <updated>2018-09-10T00:00:00+08:00</updated>
+   <updated>2018-09-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-102</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackexchange.com/performance&quot;&gt;stackexchange performance report&lt;/a&gt;&lt;/li&gt;
@@ -1982,7 +1998,7 @@ yeah, i learn the hard way.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;101</title>
    <link href="https://jakartadev.org//daily-digest-101/"/>
-   <updated>2018-09-07T00:00:00+08:00</updated>
+   <updated>2018-09-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-101</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://research.fb.com/building-switch-software-at-facebook-scale/&quot;&gt;Building Switch Software at Facebook Scale&lt;/a&gt;&lt;/li&gt;
@@ -1999,7 +2015,7 @@ yeah, i learn the hard way.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;100</title>
    <link href="https://jakartadev.org//daily-digest-100/"/>
-   <updated>2018-09-06T00:00:00+08:00</updated>
+   <updated>2018-09-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-100</id>
    <content type="html">&lt;p&gt;Edisi ke-100 dari Daily Digest, kategori ini diawali dari sharing apa yang dibaca pada hari ini yang menarik, biasanya dari teknologi, development.&lt;/p&gt;
 
@@ -2020,7 +2036,7 @@ yeah, i learn the hard way.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;99</title>
    <link href="https://jakartadev.org//daily-digest-99/"/>
-   <updated>2018-09-05T00:00:00+08:00</updated>
+   <updated>2018-09-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-99</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/old-write/&quot;&gt;Zero Downtime Table Migrations using a Double Write Methodology&lt;/a&gt;&lt;/li&gt;
@@ -2035,7 +2051,7 @@ yeah, i learn the hard way.&lt;/li&gt;
  <entry>
    <title>Tmuxinator</title>
    <link href="https://jakartadev.org//tmuxinator/"/>
-   <updated>2018-09-04T00:00:00+08:00</updated>
+   <updated>2018-09-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//tmuxinator</id>
    <content type="html">&lt;p&gt;Originally published at &lt;a href=&quot;https://jenius.tech/2018/09/03/tmuxinator/&quot;&gt;Jenius.tech&lt;/a&gt;&lt;/p&gt;
 
@@ -2140,7 +2156,7 @@ windows:
  <entry>
    <title>Daily Digest &#35;98</title>
    <link href="https://jakartadev.org//daily-digest-98/"/>
-   <updated>2018-09-04T00:00:00+08:00</updated>
+   <updated>2018-09-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-98</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202&quot;&gt;Scaling at Instacart: Distributing Data Across Multiple Postgres Databases with Rails&lt;/a&gt;  &lt;br /&gt;
@@ -2158,7 +2174,7 @@ How to run native code in the browser, why would you do that, and what does it a
  <entry>
    <title>Daily Digest &#35;97</title>
    <link href="https://jakartadev.org//daily-digest-97/"/>
-   <updated>2018-09-03T00:00:00+08:00</updated>
+   <updated>2018-09-03T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-97</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/&quot;&gt;Kubernetes for the Kubernewbie - The Journey&lt;/a&gt;&lt;/li&gt;
@@ -2174,7 +2190,7 @@ How to run native code in the browser, why would you do that, and what does it a
  <entry>
    <title>Daily Digest &#35;96</title>
    <link href="https://jakartadev.org//daily-digest-96/"/>
-   <updated>2018-08-31T00:00:00+08:00</updated>
+   <updated>2018-08-31T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-96</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/you-have-to-choose-between-software-delivered-on-time-and-good-software-44f4af1249b1&quot;&gt;You have to choose between Software Delivered on Time and Good Software&lt;/a&gt;&lt;/li&gt;
@@ -2190,7 +2206,7 @@ How to run native code in the browser, why would you do that, and what does it a
  <entry>
    <title>Daily Digest &#35;95</title>
    <link href="https://jakartadev.org//daily-digest-95/"/>
-   <updated>2018-08-30T00:00:00+08:00</updated>
+   <updated>2018-08-30T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-95</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://bessey.io/blog/2018/08/04/rails-webpacker-react-ssr/&quot;&gt;Rails + React Server Side Rendering, with Webpacker + Hypernova&lt;/a&gt;&lt;/li&gt;
@@ -2206,7 +2222,7 @@ How to run native code in the browser, why would you do that, and what does it a
  <entry>
    <title>Publish web Jekyll + Netlify</title>
    <link href="https://jakartadev.org//publish-website-dengan-netlify/"/>
-   <updated>2018-08-29T00:00:00+08:00</updated>
+   <updated>2018-08-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//publish-website-dengan-netlify</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; adalah salah satu penyedia service untuk &lt;em&gt;deploy&lt;/em&gt; aplikasi atau halaman web yang mendukung web statis atau dinamis melalui dukungan &lt;em&gt;serverless&lt;/em&gt; web. Dengan menggunakan menggunakan Netlify, pengguna dapat membangun web tanpa harus memiliki atau berlangganan service ke penyedia server seperti AWS atau Digital Ocean.
 Untuk kasus saya, saya menggunakan Neetlify karena selain gratis untuk publish web ini, ada juga opsi berbayar dengan banyak dukungan fitur pendukung lainnya, di sini akan mencontohkan men-&lt;em&gt;deploy&lt;/em&gt; dengan menggunakan gabungan antara Github sebagai SCM &lt;em&gt;web static&lt;/em&gt; yang saya gunakan, yaitu Jekyll, Dan membuat &lt;em&gt;pipeline&lt;/em&gt; dari Github ke Netlify melalui panel Netlify.&lt;/p&gt;
@@ -2234,7 +2250,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;94</title>
    <link href="https://jakartadev.org//daily-digest-94/"/>
-   <updated>2018-08-29T00:00:00+08:00</updated>
+   <updated>2018-08-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-94</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/open-guides/og-aws&quot;&gt;📙 Amazon Web Services — a practical guide&lt;/a&gt;&lt;/li&gt;
@@ -2249,7 +2265,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;93</title>
    <link href="https://jakartadev.org//daily-digest-93/"/>
-   <updated>2018-08-28T00:00:00+08:00</updated>
+   <updated>2018-08-28T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-93</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@cwilliams1290/developing-great-leaders-is-more-important-than-training-bad-managers-7ae6c9e0441a&quot;&gt;Developing Great Leaders is More Important than Training Bad Managers&lt;/a&gt;&lt;/li&gt;
@@ -2264,7 +2280,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;92</title>
    <link href="https://jakartadev.org//daily-digest-92/"/>
-   <updated>2018-08-27T00:00:00+08:00</updated>
+   <updated>2018-08-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-92</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
@@ -2279,7 +2295,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;91</title>
    <link href="https://jakartadev.org//daily-digest-91/"/>
-   <updated>2018-08-24T00:00:00+08:00</updated>
+   <updated>2018-08-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-91</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/chaos-engineering-resilience&quot;&gt;Using Chaos to Build Resilient Systems&lt;/a&gt;&lt;/li&gt;
@@ -2294,7 +2310,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;90</title>
    <link href="https://jakartadev.org//daily-digest-90/"/>
-   <updated>2018-08-23T00:00:00+08:00</updated>
+   <updated>2018-08-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-90</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
@@ -2309,7 +2325,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;89</title>
    <link href="https://jakartadev.org//daily-digest-89/"/>
-   <updated>2018-08-22T00:00:00+08:00</updated>
+   <updated>2018-08-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-89</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/&quot;&gt;Securing New Products at Clever&lt;/a&gt;&lt;/li&gt;
@@ -2324,7 +2340,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;88</title>
    <link href="https://jakartadev.org//daily-digest-88/"/>
-   <updated>2018-08-21T00:00:00+08:00</updated>
+   <updated>2018-08-21T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-88</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast&quot;&gt;Why the New V8 is so Damn Fast&lt;/a&gt;&lt;/li&gt;
@@ -2339,7 +2355,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;87</title>
    <link href="https://jakartadev.org//daily-digest-87/"/>
-   <updated>2018-08-20T00:00:00+08:00</updated>
+   <updated>2018-08-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-87</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/five-ways-to-gain-serverless-observability-406e5cab51af&quot;&gt;5 ways to gain serverless observability&lt;/a&gt;&lt;/li&gt;
@@ -2354,7 +2370,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;86</title>
    <link href="https://jakartadev.org//daily-digest-86/"/>
-   <updated>2018-08-17T00:00:00+08:00</updated>
+   <updated>2018-08-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-86</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/resources/designing-distributed-systems/&quot;&gt;Designing Distributed Systems&lt;/a&gt;&lt;/li&gt;
@@ -2369,7 +2385,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;85</title>
    <link href="https://jakartadev.org//daily-digest-85/"/>
-   <updated>2018-08-16T00:00:00+08:00</updated>
+   <updated>2018-08-16T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-85</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/what-you-should-know-about-penetration-testing/&quot;&gt;What You Should Know About Penetration Testing&lt;/a&gt;&lt;/li&gt;
@@ -2383,7 +2399,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;84</title>
    <link href="https://jakartadev.org//daily-digest-84/"/>
-   <updated>2018-08-15T00:00:00+08:00</updated>
+   <updated>2018-08-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-84</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-talk-about-when-i-talk-about-logging-36237fad7336&quot;&gt;What I Talk About When I Talk About Logging&lt;/a&gt;&lt;/li&gt;
@@ -2398,7 +2414,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;83</title>
    <link href="https://jakartadev.org//daily-digest-83/"/>
-   <updated>2018-08-14T00:00:00+08:00</updated>
+   <updated>2018-08-14T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-83</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c&quot;&gt;How to write a good software design doc&lt;/a&gt;&lt;/li&gt;
@@ -2413,7 +2429,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;82</title>
    <link href="https://jakartadev.org//daily-digest-82/"/>
-   <updated>2018-08-13T00:00:00+08:00</updated>
+   <updated>2018-08-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-82</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c&quot;&gt;Apache Kafka is not for Event Sourcing&lt;/a&gt;&lt;/li&gt;
@@ -2428,7 +2444,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;81</title>
    <link href="https://jakartadev.org//daily-digest-81/"/>
-   <updated>2018-08-11T00:00:00+08:00</updated>
+   <updated>2018-08-11T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-81</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab&quot;&gt;How JavaScript works: WebRTC and the mechanics of peer to peer networking&lt;/a&gt;&lt;/li&gt;
@@ -2443,7 +2459,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;80</title>
    <link href="https://jakartadev.org//daily-digest-80/"/>
-   <updated>2018-08-10T00:00:00+08:00</updated>
+   <updated>2018-08-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-80</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/joshwcomeau/guppy&quot;&gt;Guppy – 🐠A friendly application manager and task runner for React.js&lt;/a&gt;&lt;/li&gt;
@@ -2458,7 +2474,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;79</title>
    <link href="https://jakartadev.org//daily-digest-79/"/>
-   <updated>2018-08-09T00:00:00+08:00</updated>
+   <updated>2018-08-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-79</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/07/event-sourcing-kafka-streams?utm_source=jakartadev&quot;&gt;Experiences from Building an Event-Sourced System with Kafka Streams&lt;/a&gt;&lt;/li&gt;
@@ -2473,7 +2489,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;78</title>
    <link href="https://jakartadev.org//daily-digest-78/"/>
-   <updated>2018-08-08T00:00:00+08:00</updated>
+   <updated>2018-08-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-78</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab&quot;&gt;How I gained commit access to Homebrew in 30 minutes&lt;/a&gt;&lt;/li&gt;
@@ -2488,7 +2504,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;77</title>
    <link href="https://jakartadev.org//daily-digest-77/"/>
-   <updated>2018-08-07T00:00:00+08:00</updated>
+   <updated>2018-08-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-77</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/about-firefox-pioneer&quot;&gt;Firefox Pioneer&lt;/a&gt;&lt;/li&gt;
@@ -2503,7 +2519,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;76</title>
    <link href="https://jakartadev.org//daily-digest-76/"/>
-   <updated>2018-08-06T00:00:00+08:00</updated>
+   <updated>2018-08-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-76</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/milestoner&quot;&gt;Milestoner – A command line interface for releasing Git repository milestones&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
@@ -2518,7 +2534,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;75</title>
    <link href="https://jakartadev.org//daily-digest-75/"/>
-   <updated>2018-08-01T00:00:00+08:00</updated>
+   <updated>2018-08-01T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-75</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/&quot;&gt;AWS Kinesis with Lambdas: Lessons Learned&lt;/a&gt;&lt;/li&gt;
@@ -2533,7 +2549,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;74</title>
    <link href="https://jakartadev.org//daily-digest-74/"/>
-   <updated>2018-07-25T00:00:00+08:00</updated>
+   <updated>2018-07-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-74</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pmusolino/Wormholy&quot;&gt;Wormholy – iOS network debugging, like a wizard 🧙‍♂️&lt;/a&gt;&lt;/li&gt;
@@ -2548,7 +2564,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;73</title>
    <link href="https://jakartadev.org//daily-digest-73/"/>
-   <updated>2018-07-24T00:00:00+08:00</updated>
+   <updated>2018-07-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-73</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/manage-systemd-logs-using-journalctl/&quot;&gt;Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]&lt;/a&gt;&lt;/li&gt;
@@ -2564,7 +2580,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;72</title>
    <link href="https://jakartadev.org//daily-digest-72/"/>
-   <updated>2018-07-23T00:00:00+08:00</updated>
+   <updated>2018-07-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-72</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cate.blog/2018/05/08/creating-success-together/&quot;&gt;Creating success, together&lt;/a&gt;&lt;/li&gt;
@@ -2579,7 +2595,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;71</title>
    <link href="https://jakartadev.org//daily-digest-71/"/>
-   <updated>2018-07-19T00:00:00+08:00</updated>
+   <updated>2018-07-19T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-71</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b&quot;&gt;The State of Cryptocurrency Mining&lt;/a&gt;&lt;/li&gt;
@@ -2594,7 +2610,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;70</title>
    <link href="https://jakartadev.org//daily-digest-70/"/>
-   <updated>2018-07-16T00:00:00+08:00</updated>
+   <updated>2018-07-16T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-70</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/taxonomy-tech-debt&quot;&gt;A Taxonomy of tech debt&lt;/a&gt;&lt;/li&gt;
@@ -2610,7 +2626,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;69</title>
    <link href="https://jakartadev.org//daily-digest-69/"/>
-   <updated>2018-07-10T00:00:00+08:00</updated>
+   <updated>2018-07-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-69</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Fewbytes/rubber-docker&quot;&gt;Rebuild Docker from Scratch&lt;/a&gt;&lt;/li&gt;
@@ -2626,7 +2642,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;68</title>
    <link href="https://jakartadev.org//daily-digest-68/"/>
-   <updated>2018-07-09T00:00:00+08:00</updated>
+   <updated>2018-07-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-68</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/scale-part-i-task-queues/&quot;&gt;@Scale – Part I (Task Queues)&lt;/a&gt;&lt;/li&gt;
@@ -2641,7 +2657,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;67</title>
    <link href="https://jakartadev.org//daily-digest-67/"/>
-   <updated>2018-07-05T00:00:00+08:00</updated>
+   <updated>2018-07-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-67</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hanselminutes.com/600/which-javascript-stack-should-i-learn-with-tracy-lee?utm_source=jakartadev.org&quot;&gt;Which JavaScript Stack should I learn?&lt;/a&gt;&lt;/li&gt;
@@ -2657,7 +2673,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;66</title>
    <link href="https://jakartadev.org//daily-digest-66/"/>
-   <updated>2018-07-04T00:00:00+08:00</updated>
+   <updated>2018-07-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-66</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/&quot;&gt;JavaScript to Rust and Back Again: A wasm-bindgen Tale&lt;/a&gt;&lt;/li&gt;
@@ -2673,7 +2689,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;65</title>
    <link href="https://jakartadev.org//daily-digest-65/"/>
-   <updated>2018-07-03T00:00:00+08:00</updated>
+   <updated>2018-07-03T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-65</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Off&lt;/em&gt; selama hampir sebulan.&lt;/p&gt;
 
@@ -2691,7 +2707,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;64</title>
    <link href="https://jakartadev.org//daily-digest-64/"/>
-   <updated>2018-06-17T00:00:00+08:00</updated>
+   <updated>2018-06-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-64</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/performing-zero-downtime-releases/?utm_source=jakartadev.org&quot;&gt;Performing Zero Downtime Releases&lt;/a&gt;&lt;/li&gt;
@@ -2707,7 +2723,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;63</title>
    <link href="https://jakartadev.org//daily-digest-63/"/>
-   <updated>2018-06-16T00:00:00+08:00</updated>
+   <updated>2018-06-16T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-63</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.getambassador.io/rate-limiting-for-api-gateways-892310a2da02?source=jakartadev.org&quot;&gt;Part 2: Rate Limiting for API gateways&lt;/a&gt;&lt;/li&gt;
@@ -2723,7 +2739,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;62</title>
    <link href="https://jakartadev.org//daily-digest-62/"/>
-   <updated>2018-06-15T00:00:00+08:00</updated>
+   <updated>2018-06-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-62</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://engineering.khanacademy.org/posts/slicker.htm?source=jakartadev.org&quot;&gt;Slicker: A Tool for Moving Things in Python&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
@@ -2739,7 +2755,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;61</title>
    <link href="https://jakartadev.org//daily-digest-61/"/>
-   <updated>2018-06-14T00:00:00+08:00</updated>
+   <updated>2018-06-14T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-61</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md?source=jakartadev.org&quot;&gt;Safe ways to do things in bash&lt;/a&gt; – we all did it, aren’t we?&lt;/li&gt;
@@ -2755,7 +2771,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;60</title>
    <link href="https://jakartadev.org//daily-digest-60/"/>
-   <updated>2018-06-13T00:00:00+08:00</updated>
+   <updated>2018-06-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-60</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954&quot;&gt;Improving HBase backup efficiency at Pinterest&lt;/a&gt;&lt;/li&gt;
@@ -2770,7 +2786,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;59</title>
    <link href="https://jakartadev.org//daily-digest-59/"/>
-   <updated>2018-06-12T00:00:00+08:00</updated>
+   <updated>2018-06-12T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-59</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker?utm_source=jakartadev.org&quot;&gt;6 creative ways to solve problems with Linux containers and Docker&lt;/a&gt;&lt;/li&gt;
@@ -2786,7 +2802,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;58</title>
    <link href="https://jakartadev.org//daily-digest-58/"/>
-   <updated>2018-06-11T00:00:00+08:00</updated>
+   <updated>2018-06-11T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-58</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2&quot;&gt;Using web workers for safe, concurrent JavaScript&lt;/a&gt;&lt;/li&gt;
@@ -2801,7 +2817,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;57</title>
    <link href="https://jakartadev.org//daily-digest-57/"/>
-   <updated>2018-06-10T00:00:00+08:00</updated>
+   <updated>2018-06-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-57</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.atdot.net/~ko1/activities/2018_RubyElixirConfTaiwan.pdf&quot;&gt;Progress report of “Ruby 3 Concurrency”&lt;/a&gt;&lt;/li&gt;
@@ -2815,7 +2831,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;56</title>
    <link href="https://jakartadev.org//daily-digest-56/"/>
-   <updated>2018-06-09T00:00:00+08:00</updated>
+   <updated>2018-06-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-56</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/is-graphql-moving-toward-ubiquity/&quot;&gt;Is GraphQL Moving Toward Ubiquity?&lt;/a&gt;&lt;/li&gt;
@@ -2830,7 +2846,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;55</title>
    <link href="https://jakartadev.org//daily-digest-55/"/>
-   <updated>2018-06-08T00:00:00+08:00</updated>
+   <updated>2018-06-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-55</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/openfootball/world-cup.json&quot;&gt;World cup 2018 Opendata&lt;/a&gt;&lt;/li&gt;
@@ -2844,7 +2860,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;54</title>
    <link href="https://jakartadev.org//daily-digest-54/"/>
-   <updated>2018-06-07T00:00:00+08:00</updated>
+   <updated>2018-06-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-54</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://marsbased.com/blog/2018/05/28/shot-stars-landed-mars-lessons-learnt-fourth-year/&quot;&gt;Lesson learnt fourth year running a Ruby consultancy&lt;/a&gt;&lt;/li&gt;
@@ -2858,7 +2874,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;53</title>
    <link href="https://jakartadev.org//daily-digest-53/"/>
-   <updated>2018-06-06T00:00:00+08:00</updated>
+   <updated>2018-06-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-53</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/catid/Zpng?utm_source=jakartadev&quot;&gt;Zpng – PNG lossless compression&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
@@ -2880,7 +2896,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;52</title>
    <link href="https://jakartadev.org//daily-digest-52/"/>
-   <updated>2018-05-08T00:00:00+08:00</updated>
+   <updated>2018-05-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-52</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://read.iopipe.com/streaming-open-source-work-one-hour-one-day-at-a-time-live-on-twitch-f510f2d46f4e&quot;&gt;Streaming Open Source Work: One Hour, One Day at a Time, Live on Twitch&lt;/a&gt;&lt;/li&gt;
@@ -2897,7 +2913,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;51</title>
    <link href="https://jakartadev.org//daily-digest-51/"/>
-   <updated>2018-05-07T00:00:00+08:00</updated>
+   <updated>2018-05-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-51</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3&quot;&gt;How To Power Your App Using a Realtime Data CDN&lt;/a&gt;&lt;/li&gt;
@@ -2914,7 +2930,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;50</title>
    <link href="https://jakartadev.org//daily-digest-50/"/>
-   <updated>2018-05-04T00:00:00+08:00</updated>
+   <updated>2018-05-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-50</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/&quot;&gt;Visualizing Pandas’ Pivoting and Reshaping Functions&lt;/a&gt;&lt;/li&gt;
@@ -2931,7 +2947,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;49</title>
    <link href="https://jakartadev.org//daily-digest-49/"/>
-   <updated>2018-04-26T00:00:00+08:00</updated>
+   <updated>2018-04-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-49</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/the-mission/how-to-become-an-expert-in-anything-6b0a5e6ab27f&quot;&gt;How To Become An Expert In Anything&lt;/a&gt;&lt;/li&gt;
@@ -2948,7 +2964,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;48</title>
    <link href="https://jakartadev.org//daily-digest-48/"/>
-   <updated>2018-04-25T00:00:00+08:00</updated>
+   <updated>2018-04-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-48</id>
    <content type="html">&lt;p&gt;Saatnya menulis kembali, &lt;em&gt;selamat hari rabu!&lt;/em&gt;&lt;/p&gt;
 
@@ -2966,7 +2982,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;47</title>
    <link href="https://jakartadev.org//daily-digest-47/"/>
-   <updated>2018-03-30T00:00:00+08:00</updated>
+   <updated>2018-03-30T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-47</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/oldnewthing/20180326-00/?p=98335&quot;&gt;What are the odds that two pull requests get completed at the exact same time?&lt;/a&gt;&lt;/li&gt;
@@ -2982,7 +2998,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;46</title>
    <link href="https://jakartadev.org//daily-digest-46/"/>
-   <updated>2018-03-29T00:00:00+08:00</updated>
+   <updated>2018-03-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-46</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/&quot;&gt;A Deep Dive into Database Attacks (Part III): Why Scarlett Johansson’s Picture Got My Postgres Database to Start Mining Monero&lt;/a&gt;&lt;/li&gt;
@@ -2999,7 +3015,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;45</title>
    <link href="https://jakartadev.org//daily-digest-45/"/>
-   <updated>2018-03-28T00:00:00+08:00</updated>
+   <updated>2018-03-28T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-45</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.techradar.com/news/ruby-is-alive-and-well-and-thinking-about-the-next-25-years&quot;&gt;Ruby is alive and well and thinking about the next 25 years&lt;/a&gt;&lt;/li&gt;
@@ -3016,7 +3032,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Issue &#35;21</title>
    <link href="https://jakartadev.org//newsletter-issue-21/"/>
-   <updated>2018-03-27T00:00:00+08:00</updated>
+   <updated>2018-03-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-21</id>
    <content type="html">&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
 &lt;ul&gt;
@@ -3053,7 +3069,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;44</title>
    <link href="https://jakartadev.org//daily-digest-44/"/>
-   <updated>2018-03-27T00:00:00+08:00</updated>
+   <updated>2018-03-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-44</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/&quot;&gt;GIT log – The good parts&lt;/a&gt;&lt;/li&gt;
@@ -3068,7 +3084,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;43</title>
    <link href="https://jakartadev.org//daily-digest-43/"/>
-   <updated>2018-03-26T00:00:00+08:00</updated>
+   <updated>2018-03-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-43</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/3/20/17130056/telltale-games-developer-layoffs-toxic-video-game-industry&quot;&gt;Toxic Management cost and award-winning game studio its best developers&lt;/a&gt;&lt;/li&gt;
@@ -3085,7 +3101,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;42</title>
    <link href="https://jakartadev.org//daily-digest-42/"/>
-   <updated>2018-03-25T00:00:00+08:00</updated>
+   <updated>2018-03-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-42</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/history-of-node-js/&quot;&gt;History of Node.js on a Timeline&lt;/a&gt;&lt;/li&gt;
@@ -3102,7 +3118,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;41</title>
    <link href="https://jakartadev.org//daily-digest-41/"/>
-   <updated>2018-03-24T00:00:00+08:00</updated>
+   <updated>2018-03-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-41</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.findmypast.com/technical-debt/&quot;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
@@ -3119,7 +3135,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;40</title>
    <link href="https://jakartadev.org//daily-digest-40/"/>
-   <updated>2018-03-23T00:00:00+08:00</updated>
+   <updated>2018-03-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-40</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.gluster.org/announcing-gluster-4-0/&quot;&gt;Gluster 4.0&lt;/a&gt;&lt;/li&gt;
@@ -3136,7 +3152,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;39</title>
    <link href="https://jakartadev.org//daily-digest-39/"/>
-   <updated>2018-03-22T00:00:00+08:00</updated>
+   <updated>2018-03-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-39</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://fossa.io/&quot;&gt;Fossa&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
@@ -3153,7 +3169,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;38</title>
    <link href="https://jakartadev.org//daily-digest-38/"/>
-   <updated>2018-03-21T00:00:00+08:00</updated>
+   <updated>2018-03-21T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-38</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/&quot;&gt;The evolution of Docker&lt;/a&gt;&lt;/li&gt;
@@ -3170,7 +3186,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Issue &#35;20</title>
    <link href="https://jakartadev.org//newsletter-issue-20/"/>
-   <updated>2018-03-20T00:00:00+08:00</updated>
+   <updated>2018-03-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-20</id>
    <content type="html">&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
 &lt;ul&gt;
@@ -3215,7 +3231,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;37</title>
    <link href="https://jakartadev.org//daily-digest-37/"/>
-   <updated>2018-03-20T00:00:00+08:00</updated>
+   <updated>2018-03-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-37</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://olivierlacan.com/posts/why-wont-bundle-update/?utm_source=jakartadev&quot;&gt;Why Won’t Bundle Update?&lt;/a&gt;&lt;/li&gt;
@@ -3232,7 +3248,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;36</title>
    <link href="https://jakartadev.org//dialy-digest-36/"/>
-   <updated>2018-03-19T00:00:00+08:00</updated>
+   <updated>2018-03-19T00:00:00+07:00</updated>
    <id>https://jakartadev.org//dialy-digest-36</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs&quot;&gt;Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js&lt;/a&gt;&lt;/li&gt;
@@ -3249,7 +3265,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;35</title>
    <link href="https://jakartadev.org//dialy-digest-35/"/>
-   <updated>2018-03-18T00:00:00+08:00</updated>
+   <updated>2018-03-18T00:00:00+07:00</updated>
    <id>https://jakartadev.org//dialy-digest-35</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev&quot;&gt;How to Release a Buggy App (And Live to Tell the Tale)&lt;/a&gt;&lt;/li&gt;
@@ -3266,7 +3282,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;34</title>
    <link href="https://jakartadev.org//dialy-digest-34/"/>
-   <updated>2018-03-17T00:00:00+08:00</updated>
+   <updated>2018-03-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//dialy-digest-34</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html?utm_source=jakartadev&quot;&gt;Caching Internal Service Calls at Yelp&lt;/a&gt;&lt;/li&gt;
@@ -3283,7 +3299,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;33</title>
    <link href="https://jakartadev.org//dialy-digest-33/"/>
-   <updated>2018-03-16T00:00:00+08:00</updated>
+   <updated>2018-03-16T00:00:00+07:00</updated>
    <id>https://jakartadev.org//dialy-digest-33</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.codenewbie.org/podcast&quot;&gt;CodeNewbie Podcast&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;podcast&lt;/span&gt; – new found podcast, listened to latest episode sith Anil Dash, great episode.&lt;/li&gt;
@@ -3299,7 +3315,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;32</title>
    <link href="https://jakartadev.org//daily-digest-32/"/>
-   <updated>2018-03-15T00:00:00+08:00</updated>
+   <updated>2018-03-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-32</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://stackabuse.com/creating-and-deleting-directories-with-python/&quot;&gt;Creating and Deleting Directories with Python&lt;/a&gt;&lt;/li&gt;
@@ -3316,7 +3332,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Daily Digest &#35;31</title>
    <link href="https://jakartadev.org//daily-digest-31/"/>
-   <updated>2018-03-14T00:00:00+08:00</updated>
+   <updated>2018-03-14T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-31</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
@@ -3333,7 +3349,7 @@ dns4.p01.nsone.net
  <entry>
    <title>Issue &#35;19</title>
    <link href="https://jakartadev.org//newsletter-issue-19/"/>
-   <updated>2018-03-13T00:00:00+08:00</updated>
+   <updated>2018-03-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-19</id>
    <content type="html">&lt;p&gt;Hello! JakartaDev newsletter edisi 19, berikut adalah &lt;em&gt;list&lt;/em&gt; yang dikurasi dan baca sepanjang pekan sekarang dan pekan lalu.
 Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mungkin hanya mendengarkan music, browsing? dan juga bahasa pemograman yang sedang naik daun, &lt;em&gt;Rust&lt;/em&gt;.&lt;/p&gt;
@@ -3379,7 +3395,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;30</title>
    <link href="https://jakartadev.org//daily-digest-30/"/>
-   <updated>2018-03-13T00:00:00+08:00</updated>
+   <updated>2018-03-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-30</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/&quot;&gt;Lessons from my first year of live coding on Twitch&lt;/a&gt;&lt;/li&gt;
@@ -3396,7 +3412,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;29</title>
    <link href="https://jakartadev.org//daily-digest-29/"/>
-   <updated>2018-03-12T00:00:00+08:00</updated>
+   <updated>2018-03-12T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-29</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale?utm_source=jakartadev.org&quot;&gt;A Pods Architecture To Allow Shopify To Scale&lt;/a&gt;&lt;/li&gt;
@@ -3413,7 +3429,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;28</title>
    <link href="https://jakartadev.org//daily-digest-28/"/>
-   <updated>2018-03-11T00:00:00+08:00</updated>
+   <updated>2018-03-11T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-28</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;code&lt;/span&gt; – much more simpler to administrate Kong.&lt;/li&gt;
@@ -3430,7 +3446,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;27</title>
    <link href="https://jakartadev.org//daily-digest-27/"/>
-   <updated>2018-03-10T00:00:00+08:00</updated>
+   <updated>2018-03-10T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-27</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://segment.com/blog/secure-access-to-100-aws-accounts/&quot;&gt;Secure Access to 100 AWS Accounts&lt;/a&gt;&lt;/li&gt;
@@ -3447,7 +3463,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;26</title>
    <link href="https://jakartadev.org//daily-digest-26/"/>
-   <updated>2018-03-09T00:00:00+08:00</updated>
+   <updated>2018-03-09T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-26</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www2.wwt.com/all-blog/the-tale-of-two-kubernetes/&quot;&gt;The tale of two Kubernetes&lt;/a&gt;&lt;/li&gt;
@@ -3465,7 +3481,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;25</title>
    <link href="https://jakartadev.org//daily-digest-25/"/>
-   <updated>2018-03-08T00:00:00+08:00</updated>
+   <updated>2018-03-08T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-25</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0&quot;&gt;Optional Chaining may be coming to JavaScript&lt;/a&gt;&lt;/li&gt;
@@ -3482,7 +3498,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;24</title>
    <link href="https://jakartadev.org//daily-digest-24/"/>
-   <updated>2018-03-07T00:00:00+08:00</updated>
+   <updated>2018-03-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-24</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php&quot;&gt;3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file !&lt;/a&gt; – Full of awesomeness, can’t believe Excel can do this.&lt;/li&gt;
@@ -3499,7 +3515,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Issue &#35;18</title>
    <link href="https://jakartadev.org//newsletter-issue-18/"/>
-   <updated>2018-03-06T00:00:00+08:00</updated>
+   <updated>2018-03-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-18</id>
    <content type="html">&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -3538,7 +3554,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;23</title>
    <link href="https://jakartadev.org//daily-digest-23/"/>
-   <updated>2018-03-06T00:00:00+08:00</updated>
+   <updated>2018-03-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-23</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/&quot;&gt;OpenAPI–An eBay Perspective&lt;/a&gt;&lt;/li&gt;
@@ -3555,7 +3571,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;22</title>
    <link href="https://jakartadev.org//daily-digest-22/"/>
-   <updated>2018-03-05T00:00:00+08:00</updated>
+   <updated>2018-03-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-22</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=jakartadev_org&quot;&gt;HotSwap: Bringing hot code reloading to Buck&lt;/a&gt;&lt;/li&gt;
@@ -3572,7 +3588,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;21</title>
    <link href="https://jakartadev.org//daily-digest-21/"/>
-   <updated>2018-03-04T00:00:00+08:00</updated>
+   <updated>2018-03-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-21</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jakartadev_org&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
@@ -3589,7 +3605,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;20</title>
    <link href="https://jakartadev.org//daily-digest-20/"/>
-   <updated>2018-03-03T00:00:00+08:00</updated>
+   <updated>2018-03-03T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-20</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/dev-tools-roundup-3&quot;&gt;Stackshare Dev Tools Roundup #3: February 2018&lt;/a&gt;&lt;/li&gt;
@@ -3606,7 +3622,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;19</title>
    <link href="https://jakartadev.org//daily-digest-19/"/>
-   <updated>2018-03-02T00:00:00+08:00</updated>
+   <updated>2018-03-02T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-19</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cacm.acm.org/blogs/blog-cacm/225574-why-code-comments-still-matter/fulltext&quot;&gt;Why Code Comments Still Matter&lt;/a&gt;&lt;/li&gt;
@@ -3624,7 +3640,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;18</title>
    <link href="https://jakartadev.org//daily-digest-18/"/>
-   <updated>2018-03-01T00:00:00+08:00</updated>
+   <updated>2018-03-01T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-18</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2018/02/28/magazine/what-is-the-perfect-color-worth.html&quot;&gt;Why I Quit Google to Work for Myself&lt;/a&gt;&lt;/li&gt;
@@ -3639,7 +3655,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;17</title>
    <link href="https://jakartadev.org//daily-digest-17/"/>
-   <updated>2018-02-28T00:00:00+08:00</updated>
+   <updated>2018-02-28T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-17</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kamranahmedse/developer-roadmap&quot;&gt;Web developer roadmap for 2018&lt;/a&gt; – cool map&lt;/li&gt;
@@ -3652,7 +3668,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Issue &#35;17</title>
    <link href="https://jakartadev.org//newsletter-issue-17/"/>
-   <updated>2018-02-27T00:00:00+08:00</updated>
+   <updated>2018-02-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-17</id>
    <content type="html">&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -3698,7 +3714,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;16</title>
    <link href="https://jakartadev.org//daily-digest-16/"/>
-   <updated>2018-02-27T00:00:00+08:00</updated>
+   <updated>2018-02-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-16</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/02/21/application-deployment.html?utm_source=jeniustech&quot;&gt;Application Deployment at Deliveroo&lt;/a&gt;&lt;/li&gt;
@@ -3736,7 +3752,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Issue &#35;16</title>
    <link href="https://jakartadev.org//newsletter-issue-16/"/>
-   <updated>2018-02-20T00:00:00+08:00</updated>
+   <updated>2018-02-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-16</id>
    <content type="html">&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -3776,7 +3792,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Daily Digest &#35;15</title>
    <link href="https://jakartadev.org//daily-digest-15/"/>
-   <updated>2018-02-20T00:00:00+08:00</updated>
+   <updated>2018-02-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-15</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2018/2/17/this-week-in-rails-rails-5-1-5-parallel-testing-and-more/&quot;&gt;Rails 5.1.5, parallel testing and more!&lt;/a&gt;&lt;/li&gt;
@@ -3809,7 +3825,7 @@ Pernah menggunakan Linux untuk kebutuhan sehari-hari? untuk developement atau mu
  <entry>
    <title>Pengenalan tmux</title>
    <link href="https://jakartadev.org//pengenalan-tmux/"/>
-   <updated>2018-02-19T00:00:00+08:00</updated>
+   <updated>2018-02-19T00:00:00+07:00</updated>
    <id>https://jakartadev.org//pengenalan-tmux</id>
    <content type="html">&lt;p&gt;Sering menggunakan banyak window atau tab? misalkan membuka &lt;code class=&quot;highlighter-rouge&quot;&gt;vim&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh&lt;/code&gt; ke server, koneksi ke database server, &lt;code class=&quot;highlighter-rouge&quot;&gt;docker&lt;/code&gt; di tab yang lain, dan akhirnya akan banyak tab atau &lt;em&gt;window&lt;/em&gt; yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.&lt;/p&gt;
 
@@ -3889,7 +3905,7 @@ set -g base-index 1
  <entry>
    <title>Issue &#35;15</title>
    <link href="https://jakartadev.org//newsletter-issue-15/"/>
-   <updated>2018-02-13T00:00:00+08:00</updated>
+   <updated>2018-02-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-15</id>
    <content type="html">&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -3932,7 +3948,7 @@ set -g base-index 1
  <entry>
    <title>Daily Digest &#35;14</title>
    <link href="https://jakartadev.org//daily-digest-14/"/>
-   <updated>2018-02-13T00:00:00+08:00</updated>
+   <updated>2018-02-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-14</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/top-developer-tools-2017&quot;&gt;Stackshare Top 50 Developer tools of 2017&lt;/a&gt;&lt;/li&gt;
@@ -3968,7 +3984,7 @@ set -g base-index 1
  <entry>
    <title>Issue &#35;14</title>
    <link href="https://jakartadev.org//newsletter-issue-14/"/>
-   <updated>2018-02-06T00:00:00+08:00</updated>
+   <updated>2018-02-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-14</id>
    <content type="html">&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -4014,7 +4030,7 @@ set -g base-index 1
  <entry>
    <title>Daily Digest &#35;13</title>
    <link href="https://jakartadev.org//daily-digest-13/"/>
-   <updated>2018-02-06T00:00:00+08:00</updated>
+   <updated>2018-02-06T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-13</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Rails 5.2: Active Storage and beyond&lt;/a&gt;&lt;/li&gt;
@@ -4053,7 +4069,7 @@ set -g base-index 1
  <entry>
    <title>Issue &#35;13</title>
    <link href="https://jakartadev.org//newsletter-issue-13/"/>
-   <updated>2018-01-30T00:00:00+08:00</updated>
+   <updated>2018-01-30T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-13</id>
    <content type="html">&lt;h4 id=&quot;artikel&quot;&gt;Artikel&lt;/h4&gt;
 &lt;ul&gt;
@@ -4095,7 +4111,7 @@ set -g base-index 1
  <entry>
    <title>Daily Digest &#35;12</title>
    <link href="https://jakartadev.org//daily-digest-12/"/>
-   <updated>2018-01-30T00:00:00+08:00</updated>
+   <updated>2018-01-30T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-12</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://ordepdev.me/posts/code-coverage&quot;&gt;Don’t be fooled by 100% code coverage.&lt;/a&gt;&lt;/li&gt;
@@ -4130,7 +4146,7 @@ set -g base-index 1
  <entry>
    <title>Issue &#35;12</title>
    <link href="https://jakartadev.org//newsletter-issue-12/"/>
-   <updated>2018-01-24T00:00:00+08:00</updated>
+   <updated>2018-01-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-12</id>
    <content type="html">&lt;p&gt;Happy wednesday!&lt;/p&gt;
 
@@ -4173,7 +4189,7 @@ set -g base-index 1
  <entry>
    <title>Daily Digest &#35;11</title>
    <link href="https://jakartadev.org//daily-digest-11/"/>
-   <updated>2018-01-24T00:00:00+08:00</updated>
+   <updated>2018-01-24T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-11</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users&quot;&gt;Stream &amp;amp; Go: News Feeds for Over 300 Million End Users&lt;/a&gt;&lt;/li&gt;
@@ -4207,7 +4223,7 @@ set -g base-index 1
  <entry>
    <title>Issue &#35;11</title>
    <link href="https://jakartadev.org//newsletter-issue-11/"/>
-   <updated>2018-01-02T00:00:00+08:00</updated>
+   <updated>2018-01-02T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-11</id>
    <content type="html">&lt;p&gt;Happy new year! mudah-mudahan 2018 ini bisa lebih fokus &lt;em&gt;publish&lt;/em&gt; newsletter.&lt;/p&gt;
 
@@ -4242,7 +4258,7 @@ set -g base-index 1
  <entry>
    <title>Daily Digest &#35;10</title>
    <link href="https://jakartadev.org//daily-digest-10/"/>
-   <updated>2018-01-02T00:00:00+08:00</updated>
+   <updated>2018-01-02T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-10</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f&quot;&gt;Effective Engineer&lt;/a&gt; 
@@ -4273,7 +4289,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
  <entry>
    <title>Issue &#35;10</title>
    <link href="https://jakartadev.org//newsletter-issue-10/"/>
-   <updated>2017-11-20T00:00:00+08:00</updated>
+   <updated>2017-11-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-10</id>
    <content type="html">&lt;h3 id=&quot;artikel&quot;&gt;Artikel&lt;/h3&gt;
 &lt;ul&gt;
@@ -4345,7 +4361,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;9</title>
    <link href="https://jakartadev.org//daily-digest-9/"/>
-   <updated>2017-11-20T00:00:00+08:00</updated>
+   <updated>2017-11-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-9</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/introduction-to-docker-secrets&quot;&gt;Introduction to Docker Secrets&lt;/a&gt;&lt;/li&gt;
@@ -4380,7 +4396,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
  <entry>
    <title>Jakartadev update</title>
    <link href="https://jakartadev.org//update-jakartadev/"/>
-   <updated>2017-11-17T00:00:00+08:00</updated>
+   <updated>2017-11-17T00:00:00+07:00</updated>
    <id>https://jakartadev.org//update-jakartadev</id>
    <content type="html">&lt;p&gt;Jakartadev saat ini menjadi &lt;em&gt;pet project&lt;/em&gt; saya untuk menginformasikan dunia development, dan juga menginformasikan &lt;em&gt;tools&lt;/em&gt; atau berita yang ada di dunia development yang saya kurasi sendiri, dan juga diambil inti dari artikelnya.&lt;/p&gt;
 
@@ -4395,7 +4411,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
  <entry>
    <title>Issue &#35;9</title>
    <link href="https://jakartadev.org//newsletter-issue-9/"/>
-   <updated>2017-11-13T00:00:00+08:00</updated>
+   <updated>2017-11-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-9</id>
    <content type="html">&lt;p&gt;Lama tidak meng-&lt;i&gt;update&lt;/i&gt;&lt;/p&gt;
 
@@ -4465,7 +4481,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;8</title>
    <link href="https://jakartadev.org//daily-digest-8/"/>
-   <updated>2017-11-13T00:00:00+08:00</updated>
+   <updated>2017-11-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-8</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-habits-made-me-a-better-software-engineer-47e7d54b8fa&quot;&gt;What habits made me a better Software Engineer?&lt;/a&gt;&lt;/li&gt;
@@ -4495,7 +4511,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
  <entry>
    <title>Issue &#35;8</title>
    <link href="https://jakartadev.org//newsletter-issue-8/"/>
-   <updated>2016-09-05T00:00:00+08:00</updated>
+   <updated>2016-09-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-8</id>
    <content type="html">&lt;h3 id=&quot;artikel&quot;&gt;Artikel&lt;/h3&gt;
 &lt;ul&gt;
@@ -4560,7 +4576,7 @@ an opinion how to be an effective engineer.&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;7</title>
    <link href="https://jakartadev.org//daily-digest-7/"/>
-   <updated>2016-09-05T00:00:00+08:00</updated>
+   <updated>2016-09-05T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-7</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.y1b0uzjky&quot;&gt;exclusive inside look at how artificial intelligence and machine learning work at Apple&lt;/a&gt;&lt;/li&gt;
@@ -4590,7 +4606,7 @@ panduan yang mudah dibaca mengenai struktur data di javascript&lt;/li&gt;
  <entry>
    <title>Issue &#35;6</title>
    <link href="https://jakartadev.org//newsletter-issue-6/"/>
-   <updated>2016-08-23T00:00:00+08:00</updated>
+   <updated>2016-08-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-6</id>
    <content type="html">&lt;h3 id=&quot;berita&quot;&gt;Berita&lt;/h3&gt;
 &lt;ul&gt;
@@ -4659,7 +4675,7 @@ panduan yang mudah dibaca mengenai struktur data di javascript&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;6</title>
    <link href="https://jakartadev.org//daily-digest-6/"/>
-   <updated>2016-08-23T00:00:00+08:00</updated>
+   <updated>2016-08-23T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-6</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://php.net/index.php#id2016-08-18-3&quot;&gt;Rilis PHP 7.1.0&lt;/a&gt;&lt;/li&gt;
@@ -4705,7 +4721,7 @@ Javascript framework untuk rich text editor&lt;/li&gt;
  <entry>
    <title>Issue &#35;7</title>
    <link href="https://jakartadev.org//newsletter-issue-7/"/>
-   <updated>2016-08-20T00:00:00+08:00</updated>
+   <updated>2016-08-20T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-7</id>
    <content type="html">
 </content>
@@ -4714,7 +4730,7 @@ Javascript framework untuk rich text editor&lt;/li&gt;
  <entry>
    <title>Issue &#35;5</title>
    <link href="https://jakartadev.org//newsletter-issue-5/"/>
-   <updated>2016-08-15T00:00:00+08:00</updated>
+   <updated>2016-08-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-5</id>
    <content type="html">&lt;p&gt;hiatus beberapa waktu, issue #5.&lt;/p&gt;
 
@@ -4746,7 +4762,7 @@ Javascript framework untuk rich text editor&lt;/li&gt;
  <entry>
    <title>Daily Digest &#35;5</title>
    <link href="https://jakartadev.org//daily-digest-5/"/>
-   <updated>2016-08-15T00:00:00+08:00</updated>
+   <updated>2016-08-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-5</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/mysql-migration/&quot;&gt;Why uber engineering switched from postgres to mysql&lt;/a&gt; &lt;br /&gt;
@@ -4766,7 +4782,7 @@ Static site generator at scale, deskripsi dan implementasi bagaimana static site
  <entry>
    <title>Optimasi Gambar</title>
    <link href="https://jakartadev.org//optimasi-gambar/"/>
-   <updated>2016-03-07T00:00:00+08:00</updated>
+   <updated>2016-03-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//optimasi-gambar</id>
    <content type="html">&lt;p&gt;Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.&lt;/p&gt;
 
@@ -4802,7 +4818,7 @@ Output: &lt;br /&gt;
  <entry>
    <title>Issue &#35;4</title>
    <link href="https://jakartadev.org//newsletter-issue-4/"/>
-   <updated>2016-03-07T00:00:00+08:00</updated>
+   <updated>2016-03-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-4</id>
    <content type="html">&lt;h5 id=&quot;news&quot;&gt;News&lt;/h5&gt;
 &lt;ul&gt;
@@ -4908,7 +4924,7 @@ Output: &lt;br /&gt;
  <entry>
    <title>Daily Digest &#35;4</title>
    <link href="https://jakartadev.org//daily-digest-4/"/>
-   <updated>2016-03-07T00:00:00+08:00</updated>
+   <updated>2016-03-07T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-4</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://thehackernews.com/2016/03/drown-attack-openssl-vulnerability.html&quot;&gt;DROWN Attack&lt;/a&gt;&lt;/li&gt;
@@ -4947,7 +4963,7 @@ Output: &lt;br /&gt;
  <entry>
    <title>Issue &#35;3</title>
    <link href="https://jakartadev.org//newsletter-issue-3/"/>
-   <updated>2016-02-29T00:00:00+08:00</updated>
+   <updated>2016-02-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-3</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 &lt;ul&gt;
@@ -5052,7 +5068,7 @@ Baru setahunan ini saya mengadopsi Devops, dan memang dirasakan semua berjalan l
  <entry>
    <title>Daily Digest &#35;3</title>
    <link href="https://jakartadev.org//daily-digest-3/"/>
-   <updated>2016-02-29T00:00:00+08:00</updated>
+   <updated>2016-02-29T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-3</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.codeship.com/the-state-of-microservices-today/&quot;&gt;The State of Microservices Today&lt;/a&gt;
@@ -5100,7 +5116,7 @@ Satu sisi lain melihat CI dan Devops untuk product manager&lt;/li&gt;
  <entry>
    <title>Manajemen API dengan Kong part 1</title>
    <link href="https://jakartadev.org//manajemen-api-dengan-kong-part-1/"/>
-   <updated>2016-02-25T00:00:00+08:00</updated>
+   <updated>2016-02-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//manajemen-api-dengan-kong-part-1</id>
    <content type="html">&lt;p&gt;Anda sudah mempublish API anda untuk digunakan oleh Developer lain? saatnya untuk mengatur API yang telah anda buat.
 Seperti yang biasanya terjadi, untuk mengakses resource API ini sudah pasti diperlukan beberapa penambahan baik dari sisi &lt;em&gt;security&lt;/em&gt; ataupun dari scalability.
@@ -5172,7 +5188,7 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  <entry>
    <title>Issue &#35;2</title>
    <link href="https://jakartadev.org//newsletter-issue-2/"/>
-   <updated>2016-02-22T00:00:00+08:00</updated>
+   <updated>2016-02-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-2</id>
    <content type="html">&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
 &lt;ul&gt;
@@ -5264,7 +5280,7 @@ jika sudah ada di box list, clone repo kong&lt;/p&gt;
  <entry>
    <title>Daily Digest &#35;2</title>
    <link href="https://jakartadev.org//daily-digest-2/"/>
-   <updated>2016-02-22T00:00:00+08:00</updated>
+   <updated>2016-02-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-2</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.cio.com/article/3035556/that-linux-flaw-may-be-fixed-but-what-about-your-containers.html&quot;&gt;Linux flaw may be fixed, what about linux container?&lt;/a&gt;
@@ -5311,7 +5327,7 @@ Online Editor yang dibangun dengan inspirasi dari &lt;a href=&quot;https://mediu
  <entry>
    <title>Issue &#35;1</title>
    <link href="https://jakartadev.org//newsletter-issue-1/"/>
-   <updated>2016-02-15T00:00:00+08:00</updated>
+   <updated>2016-02-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//newsletter-issue-1</id>
    <content type="html">&lt;p&gt;Issue perdana Jakarta dev.&lt;/p&gt;
 
@@ -5408,7 +5424,7 @@ Online Editor yang dibangun dengan inspirasi dari &lt;a href=&quot;https://mediu
  <entry>
    <title>Daily Digest &#35;1</title>
    <link href="https://jakartadev.org//daily-digest-1/"/>
-   <updated>2016-02-15T00:00:00+08:00</updated>
+   <updated>2016-02-15T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-1</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://mariadb.org/mariadb-5-5-48-and-connectorj-1-3-5-now-available/&quot;&gt;MariaDB 5.5.48 dan MariaDB Connector/J 1.3.5 dirilis&lt;/a&gt;&lt;/li&gt;
@@ -5452,7 +5468,7 @@ The most advanced open source UX framework for enterprise applications.&lt;/li&g
  <entry>
    <title>Introducing JakartaDEV</title>
    <link href="https://jakartadev.org//introducing-jakartadev/"/>
-   <updated>2016-02-02T00:00:00+08:00</updated>
+   <updated>2016-02-02T00:00:00+07:00</updated>
    <id>https://jakartadev.org//introducing-jakartadev</id>
    <content type="html">&lt;p&gt;JakartaDEV adalah &lt;em&gt;newsletter&lt;/em&gt; yang dikirim &lt;em&gt;hampir-mingguan&lt;/em&gt;, dikirim setiap senin, tentang berita development dan teknologi yang melingkupinya.&lt;/p&gt;
 

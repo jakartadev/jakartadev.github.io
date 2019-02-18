@@ -12,12 +12,21 @@
     "items": [
       {
         {
+            "id": "/daily-digest-288",
+            "title": "Daily Digest #288",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be\">How Pinterest runs Kafka at scale</a></li>\n  <li><a href=\"https://circleci.com/blog/tools-for-effective-pairing/\">Tools for effective pairing</a></li>\n  <li><a href=\"https://blog.algolia.com/advanced-search-experience-for-e-commerce/\">Beyond the search bar: advanced e-commerce search experiences</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/\">Solving the challenges of debugging microservices on a container platform</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732\">Reliable Webhooks Using Serverless Architecture</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/\">An Extensive Guide To Progressive Web Applications</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-288/",
+            "summary": "",
+            "date_published": "2019-02-18 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-287",
-            "title": "Daily Digest #286",
+            "title": "Daily Digest #287",
             "content_html": "<ul>\n  <li><a href=\"https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness\">Tim Bray – Serverlessness</a></li>\n  <li><a href=\"https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/\">Git Webhooks with AWS services</a></li>\n  <li><a href=\"https://github.com/intika/Librefox\">Librefox</a></li>\n  <li><a href=\"https://engineering.gusto.com/how-to-run-docker-and-get-more-sleep-than-i-did/\">How to run Docker and get more sleep than I did</a></li>\n  <li><a href=\"https://www.sicpers.info/2018/12/more-speed-lower-velocity/\">More speed, lower velocity</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-287/",
             "summary": "",
-            "date_published": "2019-02-15 00:00:00 +0800"
+            "date_published": "2019-02-15 00:00:00 +0700"
         },
 {
         {
@@ -26,7 +35,7 @@
             "content_html": "<ul>\n  <li><a href=\"https://smallstep.com/blog/everything-pki.html\">Everything you should know about certificates and PKI but are too afraid to ask</a></li>\n  <li><a href=\"https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d\">The Ultimate Guide To Starting Your First IoT Project</a></li>\n  <li><a href=\"https://eng.uber.com/driver-app-optimistic-mode/\">How Uber’s New Driver App Overcomes Network Lag</a></li>\n  <li><a href=\"https://open.nytimes.com/reimagining-the-morning-briefing-655100304624\">Reimagining the Morning Briefing</a></li>\n  <li><a href=\"https://artsy.github.io/blog/2018/11/28/artsy-auth/\">Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-286/",
             "summary": "",
-            "date_published": "2019-02-14 00:00:00 +0800"
+            "date_published": "2019-02-14 00:00:00 +0700"
         },
 {
         {
@@ -35,7 +44,7 @@
             "content_html": "<ul>\n  <li><a href=\"https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability\">The trinity of errors in financial models: An introductory analysis using TensorFlow Probability</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/using-machine-learning-and-analytics-to-attract-and-retain-employees\">Using machine learning and analytics to attract and retain employees</a></li>\n  <li><a href=\"https://github.com/ankane/blazer\">Blazer – Business intelligence made simple</a></li>\n  <li><a href=\"https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f\">How Facebook Scales Machine Learning</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-285/",
             "summary": "",
-            "date_published": "2019-02-13 00:00:00 +0800"
+            "date_published": "2019-02-13 00:00:00 +0700"
         },
 {
         {
@@ -44,16 +53,7 @@
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca\">How Developers and Designers Can Collaborate Using Flutter</a></li>\n  <li><a href=\"https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28\">How We Moved From Wordpress to React and Raised $80 Million</a></li>\n  <li><a href=\"https://eng.uber.com/manifold/\">Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/artificial-intelligence-and-machine-learning-adoption-in-european-enterprise\">Artificial intelligence and machine learning adoption in European enterprise</a></li>\n  <li><a href=\"https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9\">The cold start problem: how to build your machine learning portfolio</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-284/",
             "summary": "",
-            "date_published": "2019-02-08 00:00:00 +0800"
-        },
-{
-        {
-            "id": "/daily-digest-283",
-            "title": "Daily Digest #283",
-            "content_html": "<ul>\n  <li><a href=\"http://richardmavis.info/a-complete-program\">A Complete Program</a></li>\n  <li><a href=\"https://github.com/RustPython/RustPython\">A Python Interpreter written in Rust</a></li>\n  <li><a href=\"https://realpython.com/python-development-visual-studio-code/\">Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3</a></li>\n  <li><a href=\"https://www.wired.com/story/google-chrome-kill-url-first-steps/\">Google Takes Its First Steps Toward Killing the URL</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/02/css-browser-support/\">A Guide To CSS Support In Browsers</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-283/",
-            "summary": "",
-            "date_published": "2019-02-07 00:00:00 +0800"
+            "date_published": "2019-02-08 00:00:00 +0700"
         }
 
     ]
