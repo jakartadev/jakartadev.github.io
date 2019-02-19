@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Feb 2019 16:55:56 +0700</pubDate>
-    <lastBuildDate>Mon, 18 Feb 2019 16:55:56 +0700</lastBuildDate>
+    <pubDate>Tue, 19 Feb 2019 13:03:55 +0700</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 13:03:55 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;289</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/xworks-my-machine-and-also-everywhere-else-local-build-and-testing-environments-code&quot;&gt;Works on my machine… and also everywhere else: local build and testing environments as code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/debugging-node-services-in-kubernetes-with-linkerd-2-0-f878382fb380&quot;&gt;Debugging Node Services in Kubernetes With Linkerd 2.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-thinking-process&quot;&gt;Breaking Down the Design Thinking Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179&quot;&gt;Netflix Information Security: Preventing Credential Compromise in AWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/structured-content-done-right/&quot;&gt;Strategies For Headless Projects With Structured Content Management Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/&quot;&gt;Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-289/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-289/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;288</title>
@@ -194,28 +216,6 @@
         <pubDate>Thu, 31 Jan 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-280/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-280/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;279</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.blogfoster.com/snapshot-testing-going-beyond-ui/&quot;&gt;Snapshot Testing Going Beyond UI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/experiments-with-link-previews-to-help-guide-readers-79dbe843ad29&quot;&gt;Experiments with Link Previews to Help Guide Readers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sourced.tech/post/pga_history/&quot;&gt;The Public Git Archive Story&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/observability-at-scale/&quot;&gt;Observability at Scale: Building Uber’s Alerting Ecosystem&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/implications-blocks-blobs/&quot;&gt;Implications Of Thinking In Blocks Instead Of Blobs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d&quot;&gt;Scaling Spark Streaming for Logging Event Ingestion&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 30 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-279/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-279/</guid>
         
         <category>daily</category>
         

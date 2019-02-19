@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-18T16:55:56+07:00</updated>
+ <updated>2019-02-19T13:03:55+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;289</title>
+   <link href="https://jakartadev.org//daily-digest-289/"/>
+   <updated>2019-02-19T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-289</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/xworks-my-machine-and-also-everywhere-else-local-build-and-testing-environments-code&quot;&gt;Works on my machine… and also everywhere else: local build and testing environments as code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/debugging-node-services-in-kubernetes-with-linkerd-2-0-f878382fb380&quot;&gt;Debugging Node Services in Kubernetes With Linkerd 2.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-thinking-process&quot;&gt;Breaking Down the Design Thinking Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179&quot;&gt;Netflix Information Security: Preventing Credential Compromise in AWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/structured-content-done-right/&quot;&gt;Strategies For Headless Projects With Structured Content Management Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/&quot;&gt;Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;288</title>
