@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-290",
+            "title": "Daily Digest #290",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/square-corner-blog/abstracting-sharding-with-vitess-and-distributed-deadlocks-3128d7c8ffd1\">Abstracting Sharding with Vitess and Distributed Deadlocks</a></li>\n  <li><a href=\"http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course\">Managing Remote Teams - A Crash Course</a></li>\n  <li><a href=\"https://www.infoq.com/news/2018/11/instagram-across-continents\">Splitting Stateful Services across Continents at Instagram</a></li>\n  <li><a href=\"https://engineering.riotgames.com/news/globalizing-player-accounts\">Globalizing Player Accounts</a></li>\n  <li><a href=\"https://eng.uber.com/mh-gan/\">How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN</a></li>\n  <li><a href=\"https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/\">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a></li>\n  <li><a href=\"https://hackernoon.com/certainty-theater-43f18c278cf9\">Certainty Theater</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-290/",
+            "summary": "",
+            "date_published": "2019-02-20 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-289",
             "title": "Daily Digest #289",
             "content_html": "<ul>\n  <li><a href=\"https://www.thoughtworks.com/insights/blog/xworks-my-machine-and-also-everywhere-else-local-build-and-testing-environments-code\">Works on my machine… and also everywhere else: local build and testing environments as code</a></li>\n  <li><a href=\"https://hackernoon.com/debugging-node-services-in-kubernetes-with-linkerd-2-0-f878382fb380\">Debugging Node Services in Kubernetes With Linkerd 2.0</a></li>\n  <li><a href=\"https://www.toptal.com/designers/ux/design-thinking-process\">Breaking Down the Design Thinking Process</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179\">Netflix Information Security: Preventing Credential Compromise in AWS</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/structured-content-done-right/\">Strategies For Headless Projects With Structured Content Management Systems</a></li>\n  <li><a href=\"https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/\">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-286/",
             "summary": "",
             "date_published": "2019-02-14 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-285",
-            "title": "Daily Digest #285",
-            "content_html": "<ul>\n  <li><a href=\"https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability\">The trinity of errors in financial models: An introductory analysis using TensorFlow Probability</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/using-machine-learning-and-analytics-to-attract-and-retain-employees\">Using machine learning and analytics to attract and retain employees</a></li>\n  <li><a href=\"https://github.com/ankane/blazer\">Blazer – Business intelligence made simple</a></li>\n  <li><a href=\"https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f\">How Facebook Scales Machine Learning</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-285/",
-            "summary": "",
-            "date_published": "2019-02-13 00:00:00 +0700"
         }
 
     ]

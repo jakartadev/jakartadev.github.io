@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-19T13:03:55+07:00</updated>
+ <updated>2019-02-20T14:25:24+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;290</title>
+   <link href="https://jakartadev.org//daily-digest-290/"/>
+   <updated>2019-02-20T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-290</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/abstracting-sharding-with-vitess-and-distributed-deadlocks-3128d7c8ffd1&quot;&gt;Abstracting Sharding with Vitess and Distributed Deadlocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course&quot;&gt;Managing Remote Teams - A Crash Course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/11/instagram-across-continents&quot;&gt;Splitting Stateful Services across Continents at Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/globalizing-player-accounts&quot;&gt;Globalizing Player Accounts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/mh-gan/&quot;&gt;How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/&quot;&gt;Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/certainty-theater-43f18c278cf9&quot;&gt;Certainty Theater&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;289</title>

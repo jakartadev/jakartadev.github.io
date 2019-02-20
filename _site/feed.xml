@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Feb 2019 13:03:55 +0700</pubDate>
-    <lastBuildDate>Tue, 19 Feb 2019 13:03:55 +0700</lastBuildDate>
+    <pubDate>Wed, 20 Feb 2019 14:25:24 +0700</pubDate>
+    <lastBuildDate>Wed, 20 Feb 2019 14:25:24 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;290</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/abstracting-sharding-with-vitess-and-distributed-deadlocks-3128d7c8ffd1&quot;&gt;Abstracting Sharding with Vitess and Distributed Deadlocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course&quot;&gt;Managing Remote Teams - A Crash Course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/11/instagram-across-continents&quot;&gt;Splitting Stateful Services across Continents at Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/globalizing-player-accounts&quot;&gt;Globalizing Player Accounts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/mh-gan/&quot;&gt;How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/&quot;&gt;Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/certainty-theater-43f18c278cf9&quot;&gt;Certainty Theater&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 20 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-290/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-290/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;289</title>
@@ -194,28 +217,6 @@
         <pubDate>Fri, 01 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-281/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-281/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;280</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/&quot;&gt;Decentralizing Social Interactions with ActivityPub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drivy.engineering/airflow-architecture/&quot;&gt;Airflow Architecture at Drivy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/&quot;&gt;Fast Google Fonts with Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/5-ways-to-hack-an-api-and-how-to-defend/&quot;&gt;5 Ways To Hack An API (And How To Defend)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/&quot;&gt;Zero Config JavaScript App Prototyping with Webpack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning&quot;&gt;Using Apache Kafka to Drive Cutting-Edge Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 31 Jan 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-280/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-280/</guid>
         
         <category>daily</category>
         
