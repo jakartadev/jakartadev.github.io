@@ -5,9 +5,34 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Feb 2019 14:25:24 +0700</pubDate>
-    <lastBuildDate>Wed, 20 Feb 2019 14:25:24 +0700</lastBuildDate>
+    <pubDate>Thu, 21 Feb 2019 12:25:27 +0700</pubDate>
+    <lastBuildDate>Thu, 21 Feb 2019 12:25:27 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;291</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tailwindcss.com/&quot;&gt;Tailwind CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/command-sourcing-why-i-am-considering-it/&quot;&gt;Command sourcing - why I am considering it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/12/12/tests-are-not-enough/&quot;&gt;Tests won’t make your software correct&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/tips-for-visual-search-at-scale/&quot;&gt;Seven Tips for Visual Search at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//model-document-share/&quot;&gt;Model, document and share&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/hackers-love-docker-container-catastrophe-3-2-1&quot;&gt;Hackers love Docker: Container catastrophe in 3, 2, 1…&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-serverless-platforms-could-power-an-event-driven-ai-pipeline/&quot;&gt;How Serverless Platforms Could Power an Event-Driven AI Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/devops-disillusionment-4-behaviors-to-get-your-team-to-the-other-side/&quot;&gt;DevOps Disillusionment? 4 Behaviors to Get Your Team to the Other Side&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed&quot;&gt;How to set up continuous deployment in your home project the easy way&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 21 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-291/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-291/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;290</title>
@@ -196,27 +221,6 @@
         <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-282/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-282/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;281</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html&quot;&gt;TTL as a Service: Automatic Revocation of Stale Privileges&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/fundamental-problem-search/&quot;&gt;The Fundamental Problem of Search&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb&quot;&gt;These are the features in ES6 that you should know&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html&quot;&gt;Dynamic configuration at Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5&quot;&gt;Dissecting Front-end Job Titles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-281/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-281/</guid>
         
         <category>daily</category>
         

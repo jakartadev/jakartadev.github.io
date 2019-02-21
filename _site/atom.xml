@@ -4,13 +4,32 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-20T14:25:24+07:00</updated>
+ <updated>2019-02-21T12:25:27+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;291</title>
+   <link href="https://jakartadev.org//daily-digest-291/"/>
+   <updated>2019-02-21T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-291</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tailwindcss.com/&quot;&gt;Tailwind CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/command-sourcing-why-i-am-considering-it/&quot;&gt;Command sourcing - why I am considering it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/12/12/tests-are-not-enough/&quot;&gt;Tests won’t make your software correct&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/tips-for-visual-search-at-scale/&quot;&gt;Seven Tips for Visual Search at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//model-document-share/&quot;&gt;Model, document and share&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/hackers-love-docker-container-catastrophe-3-2-1&quot;&gt;Hackers love Docker: Container catastrophe in 3, 2, 1…&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-serverless-platforms-could-power-an-event-driven-ai-pipeline/&quot;&gt;How Serverless Platforms Could Power an Event-Driven AI Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/devops-disillusionment-4-behaviors-to-get-your-team-to-the-other-side/&quot;&gt;DevOps Disillusionment? 4 Behaviors to Get Your Team to the Other Side&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed&quot;&gt;How to set up continuous deployment in your home project the easy way&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;290</title>
