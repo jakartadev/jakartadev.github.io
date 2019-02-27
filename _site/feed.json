@@ -12,12 +12,21 @@
     "items": [
       {
         {
+            "id": "/daily-digest-295",
+            "title": "Daily Digest #294",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html\">Twitter’s Kafka adoption story</a></li>\n  <li><a href=\"https://www.future-processing.pl/blog/how-to-build-a-fault-tolerant-system/\">How to build a fault tolerant system?</a></li>\n  <li><a href=\"https://engineering.pivotal.io/post/ssh_handshake_failed/\">Troubleshooting Obscure OpenSSH Failures</a></li>\n  <li><a href=\"https://medium.com/carousell-insider/deep-image-understanding-at-carousell-121857434837\">Deep image understanding at Carousell</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/\">Reasons to Scale Horizontally</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-295/",
+            "summary": "",
+            "date_published": "2019-02-27 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-294",
             "title": "Daily Digest #294",
             "content_html": "<ul>\n  <li><a href=\"https://eng.uber.com/sessionizing-data/\">Sessionizing Uber Trips in Real Time</a></li>\n  <li><a href=\"https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe\">Predicting the real-time availability of 200 million grocery items</a></li>\n  <li><a href=\"https://medium.com/@baweaver/sf-abusing-operators-and-method-missing-ced78ab428cb\">Sf — Abusing Operators and Method Missing</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/automated-cross-browser-testing-webgl-not-going-happen/\">Automated Cross-Browser Testing for WebGL— It’s Not Going to Happen</a></li>\n  <li><a href=\"https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good\">Developer Relations: (More Than) The Art of Talking Good</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-294/",
             "summary": "",
-            "date_published": "2019-02-27 00:00:00 +0700"
+            "date_published": "2019-02-26 00:00:00 +0700"
         },
 {
         {
@@ -26,7 +35,7 @@
             "content_html": "<ul>\n  <li><a href=\"https://eng.uber.com/payments-platform/\">Engineering Uber’s Next-Gen Payments Platform</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/\">Caching Smartly In The Age Of Gutenberg</a></li>\n  <li><a href=\"https://www.infoq.com/articles/relational-nosql-fauna\">Back to the Future with Relational NoSQL</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1\">Cross-Shard Queries &amp; Lookup Tables</a></li>\n  <li><a href=\"https://medium.com/dev-channel/visbug-101-749f26a485c8\">VisBug 101</a></li>\n  <li><a href=\"https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b\">An update on Pixie, Pinterest’s recommendation system</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-293/",
             "summary": "",
-            "date_published": "2019-02-26 00:00:00 +0700"
+            "date_published": "2019-02-25 00:00:00 +0700"
         },
 {
         {
@@ -35,7 +44,7 @@
             "content_html": "<ul>\n  <li><a href=\"https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4\">Apollo Client with REST APIs</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html\">Tag-based Navigation of a Fashion Catalog </a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd\">Shard Splits with Consistent Snapshots</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/state-ai-marketing\">The State of AI Marketing</a></li>\n  <li><a href=\"https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html\">TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/google-microservices\">What We Got Wrong: Lessons from the Birth of Microservices</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-292/",
             "summary": "",
-            "date_published": "2019-02-25 00:00:00 +0700"
+            "date_published": "2019-02-22 00:00:00 +0700"
         },
 {
         {
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-291/",
             "summary": "",
             "date_published": "2019-02-21 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-290",
-            "title": "Daily Digest #290",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/square-corner-blog/abstracting-sharding-with-vitess-and-distributed-deadlocks-3128d7c8ffd1\">Abstracting Sharding with Vitess and Distributed Deadlocks</a></li>\n  <li><a href=\"http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course\">Managing Remote Teams - A Crash Course</a></li>\n  <li><a href=\"https://www.infoq.com/news/2018/11/instagram-across-continents\">Splitting Stateful Services across Continents at Instagram</a></li>\n  <li><a href=\"https://engineering.riotgames.com/news/globalizing-player-accounts\">Globalizing Player Accounts</a></li>\n  <li><a href=\"https://eng.uber.com/mh-gan/\">How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN</a></li>\n  <li><a href=\"https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/\">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a></li>\n  <li><a href=\"https://hackernoon.com/certainty-theater-43f18c278cf9\">Certainty Theater</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-290/",
-            "summary": "",
-            "date_published": "2019-02-20 00:00:00 +0700"
         }
 
     ]

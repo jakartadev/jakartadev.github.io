@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-27T11:58:19+07:00</updated>
+ <updated>2019-02-27T12:00:33+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -14,8 +14,23 @@
  
  <entry>
    <title>Daily Digest &#35;294</title>
-   <link href="https://jakartadev.org//daily-digest-294/"/>
+   <link href="https://jakartadev.org//daily-digest-295/"/>
    <updated>2019-02-27T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-295</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html&quot;&gt;Twitter’s Kafka adoption story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/how-to-build-a-fault-tolerant-system/&quot;&gt;How to build a fault tolerant system?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.pivotal.io/post/ssh_handshake_failed/&quot;&gt;Troubleshooting Obscure OpenSSH Failures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/carousell-insider/deep-image-understanding-at-carousell-121857434837&quot;&gt;Deep image understanding at Carousell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/&quot;&gt;Reasons to Scale Horizontally&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;294</title>
+   <link href="https://jakartadev.org//daily-digest-294/"/>
+   <updated>2019-02-26T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-294</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/sessionizing-data/&quot;&gt;Sessionizing Uber Trips in Real Time&lt;/a&gt;&lt;/li&gt;
@@ -30,7 +45,7 @@
  <entry>
    <title>Daily Digest &#35;293</title>
    <link href="https://jakartadev.org//daily-digest-293/"/>
-   <updated>2019-02-26T00:00:00+07:00</updated>
+   <updated>2019-02-25T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-293</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/payments-platform/&quot;&gt;Engineering Uber’s Next-Gen Payments Platform&lt;/a&gt;&lt;/li&gt;
@@ -46,7 +61,7 @@
  <entry>
    <title>Daily Digest &#35;292</title>
    <link href="https://jakartadev.org//daily-digest-292/"/>
-   <updated>2019-02-25T00:00:00+07:00</updated>
+   <updated>2019-02-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-292</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4&quot;&gt;Apollo Client with REST APIs&lt;/a&gt;&lt;/li&gt;

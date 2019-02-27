@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Feb 2019 11:58:19 +0700</pubDate>
-    <lastBuildDate>Wed, 27 Feb 2019 11:58:19 +0700</lastBuildDate>
+    <pubDate>Wed, 27 Feb 2019 12:00:33 +0700</pubDate>
+    <lastBuildDate>Wed, 27 Feb 2019 12:00:33 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;294</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html&quot;&gt;Twitter’s Kafka adoption story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/how-to-build-a-fault-tolerant-system/&quot;&gt;How to build a fault tolerant system?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.pivotal.io/post/ssh_handshake_failed/&quot;&gt;Troubleshooting Obscure OpenSSH Failures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/carousell-insider/deep-image-understanding-at-carousell-121857434837&quot;&gt;Deep image understanding at Carousell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/&quot;&gt;Reasons to Scale Horizontally&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-295/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-295/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;294</title>
@@ -19,7 +40,7 @@
   &lt;li&gt;&lt;a href=&quot;https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good&quot;&gt;Developer Relations: (More Than) The Art of Talking Good&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 27 Feb 2019 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 26 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-294/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-294/</guid>
         
@@ -41,7 +62,7 @@
   &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b&quot;&gt;An update on Pixie, Pinterest’s recommendation system&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 26 Feb 2019 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 25 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-293/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-293/</guid>
         
@@ -63,7 +84,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/google-microservices&quot;&gt;What We Got Wrong: Lessons from the Birth of Microservices&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 25 Feb 2019 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 22 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-292/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-292/</guid>
         
@@ -200,26 +221,6 @@
         <pubDate>Thu, 14 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-286/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-286/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;285</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability&quot;&gt;The trinity of errors in financial models: An introductory analysis using TensorFlow Probability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/using-machine-learning-and-analytics-to-attract-and-retain-employees&quot;&gt;Using machine learning and analytics to attract and retain employees&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ankane/blazer&quot;&gt;Blazer – Business intelligence made simple&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f&quot;&gt;How Facebook Scales Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-285/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-285/</guid>
         
         <category>daily</category>
         
