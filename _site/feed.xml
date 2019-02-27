@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Feb 2019 11:55:59 +0700</pubDate>
-    <lastBuildDate>Wed, 27 Feb 2019 11:55:59 +0700</lastBuildDate>
+    <pubDate>Wed, 27 Feb 2019 11:56:59 +0700</pubDate>
+    <lastBuildDate>Wed, 27 Feb 2019 11:56:59 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;293</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/payments-platform/&quot;&gt;Engineering Uber’s Next-Gen Payments Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/&quot;&gt;Caching Smartly In The Age Of Gutenberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/relational-nosql-fauna&quot;&gt;Back to the Future with Relational NoSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1&quot;&gt;Cross-Shard Queries &amp;amp; Lookup Tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/visbug-101-749f26a485c8&quot;&gt;VisBug 101&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b&quot;&gt;An update on Pixie, Pinterest’s recommendation system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 26 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-293/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-293/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;292</title>
@@ -198,27 +220,6 @@
         <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-284/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-284/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;283</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://richardmavis.info/a-complete-program&quot;&gt;A Complete Program&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/RustPython/RustPython&quot;&gt;A Python Interpreter written in Rust&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-development-visual-studio-code/&quot;&gt;Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/google-chrome-kill-url-first-steps/&quot;&gt;Google Takes Its First Steps Toward Killing the URL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-283/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-283/</guid>
         
         <category>daily</category>
         

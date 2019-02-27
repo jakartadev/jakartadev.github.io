@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-27T11:55:59+07:00</updated>
+ <updated>2019-02-27T11:56:59+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;293</title>
+   <link href="https://jakartadev.org//daily-digest-293/"/>
+   <updated>2019-02-26T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-293</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/payments-platform/&quot;&gt;Engineering Uber’s Next-Gen Payments Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/&quot;&gt;Caching Smartly In The Age Of Gutenberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/relational-nosql-fauna&quot;&gt;Back to the Future with Relational NoSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1&quot;&gt;Cross-Shard Queries &amp;amp; Lookup Tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/visbug-101-749f26a485c8&quot;&gt;VisBug 101&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b&quot;&gt;An update on Pixie, Pinterest’s recommendation system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;292</title>

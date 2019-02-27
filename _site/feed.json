@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-293",
+            "title": "Daily Digest #293",
+            "content_html": "<ul>\n  <li><a href=\"https://eng.uber.com/payments-platform/\">Engineering Uber’s Next-Gen Payments Platform</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/\">Caching Smartly In The Age Of Gutenberg</a></li>\n  <li><a href=\"https://www.infoq.com/articles/relational-nosql-fauna\">Back to the Future with Relational NoSQL</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1\">Cross-Shard Queries &amp; Lookup Tables</a></li>\n  <li><a href=\"https://medium.com/dev-channel/visbug-101-749f26a485c8\">VisBug 101</a></li>\n  <li><a href=\"https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b\">An update on Pixie, Pinterest’s recommendation system</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-293/",
+            "summary": "",
+            "date_published": "2019-02-26 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-292",
             "title": "Daily Digest #292",
             "content_html": "<ul>\n  <li><a href=\"https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4\">Apollo Client with REST APIs</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html\">Tag-based Navigation of a Fashion Catalog </a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd\">Shard Splits with Consistent Snapshots</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/state-ai-marketing\">The State of AI Marketing</a></li>\n  <li><a href=\"https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html\">TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/google-microservices\">What We Got Wrong: Lessons from the Birth of Microservices</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-289/",
             "summary": "",
             "date_published": "2019-02-19 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-288",
-            "title": "Daily Digest #288",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be\">How Pinterest runs Kafka at scale</a></li>\n  <li><a href=\"https://circleci.com/blog/tools-for-effective-pairing/\">Tools for effective pairing</a></li>\n  <li><a href=\"https://blog.algolia.com/advanced-search-experience-for-e-commerce/\">Beyond the search bar: advanced e-commerce search experiences</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/\">Solving the challenges of debugging microservices on a container platform</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732\">Reliable Webhooks Using Serverless Architecture</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/\">An Extensive Guide To Progressive Web Applications</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-288/",
-            "summary": "",
-            "date_published": "2019-02-18 00:00:00 +0700"
         }
 
     ]
