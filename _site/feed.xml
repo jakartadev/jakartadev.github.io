@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Feb 2019 12:25:27 +0700</pubDate>
-    <lastBuildDate>Thu, 21 Feb 2019 12:25:27 +0700</lastBuildDate>
+    <pubDate>Wed, 27 Feb 2019 11:55:59 +0700</pubDate>
+    <lastBuildDate>Wed, 27 Feb 2019 11:55:59 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;292</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4&quot;&gt;Apollo Client with REST APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html&quot;&gt;Tag-based Navigation of a Fashion Catalog &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd&quot;&gt;Shard Splits with Consistent Snapshots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/state-ai-marketing&quot;&gt;The State of AI Marketing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html&quot;&gt;TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/google-microservices&quot;&gt;What We Got Wrong: Lessons from the Birth of Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 25 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-292/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-292/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;291</title>
@@ -197,30 +219,6 @@
         <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-283/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-283/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;282</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/&quot;&gt;Avoiding The Pitfalls Of Automatically Inlined Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance&quot;&gt;Errors in Go: From denial to acceptance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/web-standards-guide/&quot;&gt;Web Standards: The What, The Why, And The How&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b&quot;&gt;Interesting Web Technologies to follow in 2019&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/&quot;&gt;The developer’s guide to native web animation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/gradually-then-suddenly&quot;&gt;Gradually, then suddenly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb&quot;&gt;Protect Application Assets: How to Secure Your Secrets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347&quot;&gt;The Impostor Effect vs Dunning-Kruger&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-282/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-282/</guid>
         
         <category>daily</category>
         

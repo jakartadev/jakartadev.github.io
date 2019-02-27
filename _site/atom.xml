@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-21T12:25:27+07:00</updated>
+ <updated>2019-02-27T11:55:59+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;292</title>
+   <link href="https://jakartadev.org//daily-digest-292/"/>
+   <updated>2019-02-25T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-292</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4&quot;&gt;Apollo Client with REST APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html&quot;&gt;Tag-based Navigation of a Fashion Catalog &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd&quot;&gt;Shard Splits with Consistent Snapshots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/state-ai-marketing&quot;&gt;The State of AI Marketing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html&quot;&gt;TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/google-microservices&quot;&gt;What We Got Wrong: Lessons from the Birth of Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;291</title>
