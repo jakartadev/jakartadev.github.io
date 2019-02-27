@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Feb 2019 11:56:59 +0700</pubDate>
-    <lastBuildDate>Wed, 27 Feb 2019 11:56:59 +0700</lastBuildDate>
+    <pubDate>Wed, 27 Feb 2019 11:58:19 +0700</pubDate>
+    <lastBuildDate>Wed, 27 Feb 2019 11:58:19 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;294</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/sessionizing-data/&quot;&gt;Sessionizing Uber Trips in Real Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe&quot;&gt;Predicting the real-time availability of 200 million grocery items&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@baweaver/sf-abusing-operators-and-method-missing-ced78ab428cb&quot;&gt;Sf — Abusing Operators and Method Missing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/automated-cross-browser-testing-webgl-not-going-happen/&quot;&gt;Automated Cross-Browser Testing for WebGL— It’s Not Going to Happen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good&quot;&gt;Developer Relations: (More Than) The Art of Talking Good&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-294/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-294/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;293</title>
@@ -199,27 +220,6 @@
         <pubDate>Wed, 13 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-285/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-285/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;284</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca&quot;&gt;How Developers and Designers Can Collaborate Using Flutter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28&quot;&gt;How We Moved From Wordpress to React and Raised $80 Million&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/manifold/&quot;&gt;Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/artificial-intelligence-and-machine-learning-adoption-in-european-enterprise&quot;&gt;Artificial intelligence and machine learning adoption in European enterprise&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9&quot;&gt;The cold start problem: how to build your machine learning portfolio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-284/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-284/</guid>
         
         <category>daily</category>
         

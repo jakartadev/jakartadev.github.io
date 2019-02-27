@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-27T11:56:59+07:00</updated>
+ <updated>2019-02-27T11:58:19+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;294</title>
+   <link href="https://jakartadev.org//daily-digest-294/"/>
+   <updated>2019-02-27T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-294</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/sessionizing-data/&quot;&gt;Sessionizing Uber Trips in Real Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe&quot;&gt;Predicting the real-time availability of 200 million grocery items&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@baweaver/sf-abusing-operators-and-method-missing-ced78ab428cb&quot;&gt;Sf — Abusing Operators and Method Missing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/automated-cross-browser-testing-webgl-not-going-happen/&quot;&gt;Automated Cross-Browser Testing for WebGL— It’s Not Going to Happen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good&quot;&gt;Developer Relations: (More Than) The Art of Talking Good&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;293</title>
