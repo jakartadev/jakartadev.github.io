@@ -12,8 +12,17 @@
     "items": [
       {
         {
+            "id": "/daily-digest-296",
+            "title": "Daily Digest #296",
+            "content_html": "<ul>\n  <li><a href=\"https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop\">Big on Heroku: Scaling Fountain without losing a drop</a></li>\n  <li><a href=\"https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884\">Enforcing Transitive Constraints in SQL</a></li>\n  <li><a href=\"https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important\">Why is a PULL vs a PUSH pipeline important?</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642\">Cache warming: Agility for a stateful service</a></li>\n  <li><a href=\"https://objective-see.com/blog/blog_0x3C.html\">The Mac Malware of 2018</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-296/",
+            "summary": "",
+            "date_published": "2019-02-28 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-295",
-            "title": "Daily Digest #294",
+            "title": "Daily Digest #295",
             "content_html": "<ul>\n  <li><a href=\"https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html\">Twitter’s Kafka adoption story</a></li>\n  <li><a href=\"https://www.future-processing.pl/blog/how-to-build-a-fault-tolerant-system/\">How to build a fault tolerant system?</a></li>\n  <li><a href=\"https://engineering.pivotal.io/post/ssh_handshake_failed/\">Troubleshooting Obscure OpenSSH Failures</a></li>\n  <li><a href=\"https://medium.com/carousell-insider/deep-image-understanding-at-carousell-121857434837\">Deep image understanding at Carousell</a></li>\n  <li><a href=\"https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/\">Reasons to Scale Horizontally</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-295/",
             "summary": "",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-292/",
             "summary": "",
             "date_published": "2019-02-22 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-291",
-            "title": "Daily Digest #291",
-            "content_html": "<ul>\n  <li><a href=\"https://tailwindcss.com/\">Tailwind CSS</a></li>\n  <li><a href=\"https://blog.arkency.com/command-sourcing-why-i-am-considering-it/\">Command sourcing - why I am considering it</a></li>\n  <li><a href=\"https://codewithoutrules.com/2018/12/12/tests-are-not-enough/\">Tests won’t make your software correct</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/tips-for-visual-search-at-scale/\">Seven Tips for Visual Search at Scale</a></li>\n  <li><a href=\"https://lethain.com//model-document-share/\">Model, document and share</a></li>\n  <li><a href=\"https://techbeacon.com/security/hackers-love-docker-container-catastrophe-3-2-1\">Hackers love Docker: Container catastrophe in 3, 2, 1…</a></li>\n  <li><a href=\"https://thenewstack.io/how-serverless-platforms-could-power-an-event-driven-ai-pipeline/\">How Serverless Platforms Could Power an Event-Driven AI Pipeline</a></li>\n  <li><a href=\"https://devops.com/devops-disillusionment-4-behaviors-to-get-your-team-to-the-other-side/\">DevOps Disillusionment? 4 Behaviors to Get Your Team to the Other Side</a></li>\n  <li><a href=\"https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed\">How to set up continuous deployment in your home project the easy way</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-291/",
-            "summary": "",
-            "date_published": "2019-02-21 00:00:00 +0700"
         }
 
     ]

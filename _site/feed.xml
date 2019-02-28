@@ -5,12 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Feb 2019 12:00:33 +0700</pubDate>
-    <lastBuildDate>Wed, 27 Feb 2019 12:00:33 +0700</lastBuildDate>
+    <pubDate>Thu, 28 Feb 2019 09:12:50 +0700</pubDate>
+    <lastBuildDate>Thu, 28 Feb 2019 09:12:50 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;294</title>
+        <title>Daily Digest &amp;#35;296</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop&quot;&gt;Big on Heroku: Scaling Fountain without losing a drop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884&quot;&gt;Enforcing Transitive Constraints in SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important&quot;&gt;Why is a PULL vs a PUSH pipeline important?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642&quot;&gt;Cache warming: Agility for a stateful service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://objective-see.com/blog/blog_0x3C.html&quot;&gt;The Mac Malware of 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-296/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-296/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;295</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html&quot;&gt;Twitter’s Kafka adoption story&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/how-to-build-a-fault-tolerant-system/&quot;&gt;How to build a fault tolerant system?&lt;/a&gt;&lt;/li&gt;
@@ -200,27 +221,6 @@
         <pubDate>Fri, 15 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-287/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-287/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;286</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://smallstep.com/blog/everything-pki.html&quot;&gt;Everything you should know about certificates and PKI but are too afraid to ask&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d&quot;&gt;The Ultimate Guide To Starting Your First IoT Project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-optimistic-mode/&quot;&gt;How Uber’s New Driver App Overcomes Network Lag&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/reimagining-the-morning-briefing-655100304624&quot;&gt;Reimagining the Morning Briefing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/11/28/artsy-auth/&quot;&gt;Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 14 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-286/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-286/</guid>
         
         <category>daily</category>
         

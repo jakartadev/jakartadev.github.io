@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-02-27T12:00:33+07:00</updated>
+ <updated>2019-02-28T09:12:50+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -13,7 +13,22 @@
 
  
  <entry>
-   <title>Daily Digest &#35;294</title>
+   <title>Daily Digest &#35;296</title>
+   <link href="https://jakartadev.org//daily-digest-296/"/>
+   <updated>2019-02-28T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-296</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop&quot;&gt;Big on Heroku: Scaling Fountain without losing a drop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884&quot;&gt;Enforcing Transitive Constraints in SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important&quot;&gt;Why is a PULL vs a PUSH pipeline important?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642&quot;&gt;Cache warming: Agility for a stateful service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://objective-see.com/blog/blog_0x3C.html&quot;&gt;The Mac Malware of 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;295</title>
    <link href="https://jakartadev.org//daily-digest-295/"/>
    <updated>2019-02-27T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-295</id>
