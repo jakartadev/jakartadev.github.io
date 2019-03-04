@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-298",
+            "title": "Daily Digest #298",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@chris.rimondi/devops-embedding-as-aiding-and-abetting-db112d1977a\">DevOps embedding as aiding and abetting</a></li>\n  <li><a href=\"https://www.intercom.com/blog/learning-fixing-value-triage-engineers/\">Learning by fixing — the value of triage engineer rotations</a></li>\n  <li><a href=\"https://github.com/lorin/resilience-engineering\">resilience engineering</a></li>\n  <li><a href=\"https://sosedoff.github.io/pgweb/\">Pgweb – Cross-platform client for PostgreSQL databases</a></li>\n  <li><a href=\"https://hackertarget.com/ssh-examples-tunnels/\">SSH Examples, Tips &amp; Tunnels</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-298/",
+            "summary": "",
+            "date_published": "2019-03-04 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-297",
             "title": "Daily Digest #297",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/linux-noah/noah\">Bash on Ubuntu on macOS</a></li>\n  <li><a href=\"https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616\">Forget Docker, the future is JAMstack</a></li>\n  <li><a href=\"https://blog.imaginea.com/why-we-fancied-testcafe-over-webdriver/\">Why we fancied Testcafe over Webdriver for a mordern web app?</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/airbnb-soa-migration\">The Great Migration: from Monolith to Service-Oriented</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-294/",
             "summary": "",
             "date_published": "2019-02-26 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-293",
-            "title": "Daily Digest #293",
-            "content_html": "<ul>\n  <li><a href=\"https://eng.uber.com/payments-platform/\">Engineering Uber’s Next-Gen Payments Platform</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/\">Caching Smartly In The Age Of Gutenberg</a></li>\n  <li><a href=\"https://www.infoq.com/articles/relational-nosql-fauna\">Back to the Future with Relational NoSQL</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1\">Cross-Shard Queries &amp; Lookup Tables</a></li>\n  <li><a href=\"https://medium.com/dev-channel/visbug-101-749f26a485c8\">VisBug 101</a></li>\n  <li><a href=\"https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b\">An update on Pixie, Pinterest’s recommendation system</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-293/",
-            "summary": "",
-            "date_published": "2019-02-25 00:00:00 +0700"
         }
 
     ]

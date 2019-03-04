@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-04T20:52:39+07:00</updated>
+ <updated>2019-03-04T20:53:32+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;298</title>
+   <link href="https://jakartadev.org//daily-digest-298/"/>
+   <updated>2019-03-04T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-298</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/devops-embedding-as-aiding-and-abetting-db112d1977a&quot;&gt;DevOps embedding as aiding and abetting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/learning-fixing-value-triage-engineers/&quot;&gt;Learning by fixing — the value of triage engineer rotations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lorin/resilience-engineering&quot;&gt;resilience engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sosedoff.github.io/pgweb/&quot;&gt;Pgweb – Cross-platform client for PostgreSQL databases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackertarget.com/ssh-examples-tunnels/&quot;&gt;SSH Examples, Tips &amp;amp; Tunnels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;297</title>

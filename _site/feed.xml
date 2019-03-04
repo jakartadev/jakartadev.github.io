@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Mar 2019 20:52:39 +0700</pubDate>
-    <lastBuildDate>Mon, 04 Mar 2019 20:52:39 +0700</lastBuildDate>
+    <pubDate>Mon, 04 Mar 2019 20:53:32 +0700</pubDate>
+    <lastBuildDate>Mon, 04 Mar 2019 20:53:32 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;298</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/devops-embedding-as-aiding-and-abetting-db112d1977a&quot;&gt;DevOps embedding as aiding and abetting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/learning-fixing-value-triage-engineers/&quot;&gt;Learning by fixing — the value of triage engineer rotations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lorin/resilience-engineering&quot;&gt;resilience engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sosedoff.github.io/pgweb/&quot;&gt;Pgweb – Cross-platform client for PostgreSQL databases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackertarget.com/ssh-examples-tunnels/&quot;&gt;SSH Examples, Tips &amp;amp; Tunnels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 04 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-298/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-298/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;297</title>
@@ -198,28 +219,6 @@
         <pubDate>Tue, 19 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-289/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-289/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;288</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be&quot;&gt;How Pinterest runs Kafka at scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://circleci.com/blog/tools-for-effective-pairing/&quot;&gt;Tools for effective pairing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/advanced-search-experience-for-e-commerce/&quot;&gt;Beyond the search bar: advanced e-commerce search experiences&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/&quot;&gt;Solving the challenges of debugging microservices on a container platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732&quot;&gt;Reliable Webhooks Using Serverless Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/&quot;&gt;An Extensive Guide To Progressive Web Applications&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 18 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-288/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-288/</guid>
         
         <category>daily</category>
         
