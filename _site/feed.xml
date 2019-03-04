@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Feb 2019 09:12:50 +0700</pubDate>
-    <lastBuildDate>Thu, 28 Feb 2019 09:12:50 +0700</lastBuildDate>
+    <pubDate>Mon, 04 Mar 2019 20:52:39 +0700</pubDate>
+    <lastBuildDate>Mon, 04 Mar 2019 20:52:39 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;297</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/linux-noah/noah&quot;&gt;Bash on Ubuntu on macOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616&quot;&gt;Forget Docker, the future is JAMstack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/why-we-fancied-testcafe-over-webdriver/&quot;&gt;Why we fancied Testcafe over Webdriver for a mordern web app?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/airbnb-soa-migration&quot;&gt;The Great Migration: from Monolith to Service-Oriented&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-297/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-297/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;296</title>
@@ -200,27 +220,6 @@
         <pubDate>Mon, 18 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-288/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-288/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;287</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness&quot;&gt;Tim Bray – Serverlessness&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/&quot;&gt;Git Webhooks with AWS services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/intika/Librefox&quot;&gt;Librefox&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/how-to-run-docker-and-get-more-sleep-than-i-did/&quot;&gt;How to run Docker and get more sleep than I did&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sicpers.info/2018/12/more-speed-lower-velocity/&quot;&gt;More speed, lower velocity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 15 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-287/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-287/</guid>
         
         <category>daily</category>
         

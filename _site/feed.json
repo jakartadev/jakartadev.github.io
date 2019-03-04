@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-297",
+            "title": "Daily Digest #297",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/linux-noah/noah\">Bash on Ubuntu on macOS</a></li>\n  <li><a href=\"https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616\">Forget Docker, the future is JAMstack</a></li>\n  <li><a href=\"https://blog.imaginea.com/why-we-fancied-testcafe-over-webdriver/\">Why we fancied Testcafe over Webdriver for a mordern web app?</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/airbnb-soa-migration\">The Great Migration: from Monolith to Service-Oriented</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-297/",
+            "summary": "",
+            "date_published": "2019-03-01 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-296",
             "title": "Daily Digest #296",
             "content_html": "<ul>\n  <li><a href=\"https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop\">Big on Heroku: Scaling Fountain without losing a drop</a></li>\n  <li><a href=\"https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884\">Enforcing Transitive Constraints in SQL</a></li>\n  <li><a href=\"https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important\">Why is a PULL vs a PUSH pipeline important?</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642\">Cache warming: Agility for a stateful service</a></li>\n  <li><a href=\"https://objective-see.com/blog/blog_0x3C.html\">The Mac Malware of 2018</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-293/",
             "summary": "",
             "date_published": "2019-02-25 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-292",
-            "title": "Daily Digest #292",
-            "content_html": "<ul>\n  <li><a href=\"https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4\">Apollo Client with REST APIs</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html\">Tag-based Navigation of a Fashion Catalog </a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd\">Shard Splits with Consistent Snapshots</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/state-ai-marketing\">The State of AI Marketing</a></li>\n  <li><a href=\"https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html\">TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/google-microservices\">What We Got Wrong: Lessons from the Birth of Microservices</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-292/",
-            "summary": "",
-            "date_published": "2019-02-22 00:00:00 +0700"
         }
 
     ]
