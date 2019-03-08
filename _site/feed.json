@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-303",
+            "title": "Daily Digest #302",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.brunomiranda.com/professional-focus-8f9fe082a593\">Professional Focus Planning for the New Year</a></li>\n  <li><a href=\"https://lwn.net/Articles/775736/\">The Firecracker virtual machine monitor</a></li>\n  <li><a href=\"https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b\">Monorepos: Please don’t!</a></li>\n  <li><a href=\"https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering\">How Accenture retrofitted for site reliability engineering</a></li>\n  <li><a href=\"https://www.eclipse.org/Xtext/\">Xtext</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-303/",
+            "summary": "",
+            "date_published": "2019-03-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-302",
             "title": "Daily Digest #302",
             "content_html": "<ul>\n  <li><a href=\"https://blog.heroku.com/event-streams-kafka-redshift-metabase\">Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase</a></li>\n  <li><a href=\"https://github.com/bkuhlmann/git-cop\">git-cop – enforces consistent Git commits.</a></li>\n  <li><a href=\"https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md\">Learn JSON web tokens</a></li>\n  <li><a href=\"https://altkomsoftware.pl/en/blog/headless-cms-as-a-microservice/\">Headless CMS as a Microservice</a></li>\n  <li><a href=\"https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html\">How to use AWS Secrets Manager in Ruby on Rails</a></li>\n</ul>\n",
@@ -43,15 +52,6 @@
             "title": "Daily Digest #299",
             "content_html": "<ul>\n  <li><a href=\"https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture\">Better Android Apps Using MVVM with Clean Architecture</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/midway-simplifying-mocked-responses-da5601fc667d\">Midway: Simplifying Mocked Responses</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/containers-net\">Containers - What Are They Good For?</a></li>\n  <li><a href=\"https://lambda.grofers.com/how-we-load-tested-our-apis-in-production-18225ee77f45\">How we load tested our APIs in Production</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f\">Our learnings from adopting GraphQL</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/an-approach-for-metadata-store-on-large-volume-data-sets/\">Providing Metadata Discovery on Large-Volume Data Sets</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/12/gutenberg-accessibility-situation/\">What Can Be Learned From The Gutenberg Accessibility Situation?</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-299/",
-            "summary": "",
-            "date_published": "2019-03-04 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-298",
-            "title": "Daily Digest #298",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/@chris.rimondi/devops-embedding-as-aiding-and-abetting-db112d1977a\">DevOps embedding as aiding and abetting</a></li>\n  <li><a href=\"https://www.intercom.com/blog/learning-fixing-value-triage-engineers/\">Learning by fixing — the value of triage engineer rotations</a></li>\n  <li><a href=\"https://github.com/lorin/resilience-engineering\">resilience engineering</a></li>\n  <li><a href=\"https://sosedoff.github.io/pgweb/\">Pgweb – Cross-platform client for PostgreSQL databases</a></li>\n  <li><a href=\"https://hackertarget.com/ssh-examples-tunnels/\">SSH Examples, Tips &amp; Tunnels</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-298/",
             "summary": "",
             "date_published": "2019-03-04 00:00:00 +0700"
         }
