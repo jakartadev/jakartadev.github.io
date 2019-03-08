@@ -5,30 +5,9 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Mar 2019 08:05:20 +0700</pubDate>
-    <lastBuildDate>Fri, 08 Mar 2019 08:05:20 +0700</lastBuildDate>
+    <pubDate>Fri, 08 Mar 2019 08:08:57 +0700</pubDate>
+    <lastBuildDate>Fri, 08 Mar 2019 08:08:57 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Daily Digest &amp;#35;302</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.brunomiranda.com/professional-focus-8f9fe082a593&quot;&gt;Professional Focus Planning for the New Year&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lwn.net/Articles/775736/&quot;&gt;The Firecracker virtual machine monitor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b&quot;&gt;Monorepos: Please don’t!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering&quot;&gt;How Accenture retrofitted for site reliability engineering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/Xtext/&quot;&gt;Xtext&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-303/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-303/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
     
       <item>
         <title>Daily Digest &amp;#35;302</title>
@@ -40,7 +19,7 @@
   &lt;li&gt;&lt;a href=&quot;https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html&quot;&gt;How to use AWS Secrets Manager in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Mar 2019 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 08 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-302/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-302/</guid>
         
@@ -61,7 +40,7 @@
   &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/&quot;&gt;IP packet buffering in OVN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 06 Mar 2019 00:00:00 +0700</pubDate>
+        <pubDate>Thu, 07 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-301/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-301/</guid>
         
@@ -81,7 +60,7 @@
   &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/high-availability-timescaledb-postgresql-patroni-a4572264a831/&quot;&gt;Evaluating high availability solutions for TimescaleDB + PostgreSQL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0700</pubDate>
+        <pubDate>Wed, 06 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-300/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-300/</guid>
         
@@ -104,7 +83,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/gutenberg-accessibility-situation/&quot;&gt;What Can Be Learned From The Gutenberg Accessibility Situation?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 04 Mar 2019 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-299/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-299/</guid>
         
@@ -211,6 +190,28 @@
         <pubDate>Tue, 26 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-294/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-294/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;293</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/payments-platform/&quot;&gt;Engineering Uber’s Next-Gen Payments Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/&quot;&gt;Caching Smartly In The Age Of Gutenberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/relational-nosql-fauna&quot;&gt;Back to the Future with Relational NoSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1&quot;&gt;Cross-Shard Queries &amp;amp; Lookup Tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/visbug-101-749f26a485c8&quot;&gt;VisBug 101&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b&quot;&gt;An update on Pixie, Pinterest’s recommendation system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 25 Feb 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-293/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-293/</guid>
         
         <category>daily</category>
         
