@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Mar 2019 08:00:10 +0700</pubDate>
-    <lastBuildDate>Fri, 08 Mar 2019 08:00:10 +0700</lastBuildDate>
+    <pubDate>Fri, 08 Mar 2019 08:01:38 +0700</pubDate>
+    <lastBuildDate>Fri, 08 Mar 2019 08:01:38 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;301</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/&quot;&gt;Building a scalable, highly reliable, asynchronous user service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/tagoverflow-correlating-tags-in-stackoverflow-66e2b0e1117b&quot;&gt;TagOverflow — Correlating Tags in Stackoverflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/12/rust-2018-is-here/&quot;&gt;Rust 2018 is here… but what is it?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/front-end-micro-services/index.html&quot;&gt;Front-End Micro Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/&quot;&gt;IP packet buffering in OVN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 06 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-301/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-301/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;300 :tada:</title>
@@ -192,31 +213,6 @@
         <pubDate>Fri, 22 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-292/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-292/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;291</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tailwindcss.com/&quot;&gt;Tailwind CSS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/command-sourcing-why-i-am-considering-it/&quot;&gt;Command sourcing - why I am considering it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/12/12/tests-are-not-enough/&quot;&gt;Tests won’t make your software correct&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/tips-for-visual-search-at-scale/&quot;&gt;Seven Tips for Visual Search at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lethain.com//model-document-share/&quot;&gt;Model, document and share&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/hackers-love-docker-container-catastrophe-3-2-1&quot;&gt;Hackers love Docker: Container catastrophe in 3, 2, 1…&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-serverless-platforms-could-power-an-event-driven-ai-pipeline/&quot;&gt;How Serverless Platforms Could Power an Event-Driven AI Pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/devops-disillusionment-4-behaviors-to-get-your-team-to-the-other-side/&quot;&gt;DevOps Disillusionment? 4 Behaviors to Get Your Team to the Other Side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed&quot;&gt;How to set up continuous deployment in your home project the easy way&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 21 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-291/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-291/</guid>
         
         <category>daily</category>
         

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-301",
+            "title": "Daily Digest #301",
+            "content_html": "<ul>\n  <li><a href=\"https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/\">Building a scalable, highly reliable, asynchronous user service</a></li>\n  <li><a href=\"https://towardsdatascience.com/tagoverflow-correlating-tags-in-stackoverflow-66e2b0e1117b\">TagOverflow — Correlating Tags in Stackoverflow</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/12/rust-2018-is-here/\">Rust 2018 is here… but what is it?</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/front-end-micro-services/index.html\">Front-End Micro Services</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/\">IP packet buffering in OVN</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-301/",
+            "summary": "",
+            "date_published": "2019-03-06 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-300",
             "title": "Daily Digest #300 :tada:",
             "content_html": "<ul>\n  <li><a href=\"https://eng.uber.com/makisu/#utm_source=jakartadev\">Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes</a></li>\n  <li><a href=\"https://hackernoon.com/from-mvc-to-modern-web-frameworks-8067ec9dee65\">From MVC to Modern Web Frameworks</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/\">How To Build A Real-Time App With GraphQL Subscriptions On Postgres</a></li>\n  <li><a href=\"https://blog.timescale.com/high-availability-timescaledb-postgresql-patroni-a4572264a831/\">Evaluating high availability solutions for TimescaleDB + PostgreSQL</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-297/",
             "summary": "",
             "date_published": "2019-03-01 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-296",
-            "title": "Daily Digest #296",
-            "content_html": "<ul>\n  <li><a href=\"https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop\">Big on Heroku: Scaling Fountain without losing a drop</a></li>\n  <li><a href=\"https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884\">Enforcing Transitive Constraints in SQL</a></li>\n  <li><a href=\"https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important\">Why is a PULL vs a PUSH pipeline important?</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642\">Cache warming: Agility for a stateful service</a></li>\n  <li><a href=\"https://objective-see.com/blog/blog_0x3C.html\">The Mac Malware of 2018</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-296/",
-            "summary": "",
-            "date_published": "2019-02-28 00:00:00 +0700"
         }
 
     ]
