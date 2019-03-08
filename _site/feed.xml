@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Mar 2019 08:01:38 +0700</pubDate>
-    <lastBuildDate>Fri, 08 Mar 2019 08:01:38 +0700</lastBuildDate>
+    <pubDate>Fri, 08 Mar 2019 08:03:58 +0700</pubDate>
+    <lastBuildDate>Fri, 08 Mar 2019 08:03:58 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;302</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/event-streams-kafka-redshift-metabase&quot;&gt;Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/git-cop&quot;&gt;git-cop – enforces consistent Git commits.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md&quot;&gt;Learn JSON web tokens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://altkomsoftware.pl/en/blog/headless-cms-as-a-microservice/&quot;&gt;Headless CMS as a Microservice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html&quot;&gt;How to use AWS Secrets Manager in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 07 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-302/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-302/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;301</title>
@@ -191,28 +212,6 @@
         <pubDate>Mon, 25 Feb 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-293/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-293/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;292</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4&quot;&gt;Apollo Client with REST APIs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html&quot;&gt;Tag-based Navigation of a Fashion Catalog &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd&quot;&gt;Shard Splits with Consistent Snapshots&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/state-ai-marketing&quot;&gt;The State of AI Marketing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html&quot;&gt;TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/google-microservices&quot;&gt;What We Got Wrong: Lessons from the Birth of Microservices&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 22 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-292/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-292/</guid>
         
         <category>daily</category>
         

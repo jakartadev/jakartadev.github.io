@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-08T08:01:38+07:00</updated>
+ <updated>2019-03-08T08:03:58+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;302</title>
+   <link href="https://jakartadev.org//daily-digest-302/"/>
+   <updated>2019-03-07T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-302</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/event-streams-kafka-redshift-metabase&quot;&gt;Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/git-cop&quot;&gt;git-cop – enforces consistent Git commits.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md&quot;&gt;Learn JSON web tokens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://altkomsoftware.pl/en/blog/headless-cms-as-a-microservice/&quot;&gt;Headless CMS as a Microservice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html&quot;&gt;How to use AWS Secrets Manager in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;301</title>

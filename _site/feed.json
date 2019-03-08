@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-302",
+            "title": "Daily Digest #302",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.heroku.com/event-streams-kafka-redshift-metabase\">Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase</a></li>\n  <li><a href=\"https://github.com/bkuhlmann/git-cop\">git-cop – enforces consistent Git commits.</a></li>\n  <li><a href=\"https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md\">Learn JSON web tokens</a></li>\n  <li><a href=\"https://altkomsoftware.pl/en/blog/headless-cms-as-a-microservice/\">Headless CMS as a Microservice</a></li>\n  <li><a href=\"https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html\">How to use AWS Secrets Manager in Ruby on Rails</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-302/",
+            "summary": "",
+            "date_published": "2019-03-07 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-301",
             "title": "Daily Digest #301",
             "content_html": "<ul>\n  <li><a href=\"https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/\">Building a scalable, highly reliable, asynchronous user service</a></li>\n  <li><a href=\"https://towardsdatascience.com/tagoverflow-correlating-tags-in-stackoverflow-66e2b0e1117b\">TagOverflow — Correlating Tags in Stackoverflow</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/12/rust-2018-is-here/\">Rust 2018 is here… but what is it?</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/front-end-micro-services/index.html\">Front-End Micro Services</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/\">IP packet buffering in OVN</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-298/",
             "summary": "",
             "date_published": "2019-03-04 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-297",
-            "title": "Daily Digest #297",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/linux-noah/noah\">Bash on Ubuntu on macOS</a></li>\n  <li><a href=\"https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616\">Forget Docker, the future is JAMstack</a></li>\n  <li><a href=\"https://blog.imaginea.com/why-we-fancied-testcafe-over-webdriver/\">Why we fancied Testcafe over Webdriver for a mordern web app?</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/airbnb-soa-migration\">The Great Migration: from Monolith to Service-Oriented</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-297/",
-            "summary": "",
-            "date_published": "2019-03-01 00:00:00 +0700"
         }
 
     ]
