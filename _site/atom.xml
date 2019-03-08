@@ -4,13 +4,27 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-05T12:56:41+07:00</updated>
+ <updated>2019-03-08T08:00:10+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;300 :tada:</title>
+   <link href="https://jakartadev.org//daily-digest-300/"/>
+   <updated>2019-03-05T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-300</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/makisu/#utm_source=jakartadev&quot;&gt;Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-mvc-to-modern-web-frameworks-8067ec9dee65&quot;&gt;From MVC to Modern Web Frameworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/&quot;&gt;How To Build A Real-Time App With GraphQL Subscriptions On Postgres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/high-availability-timescaledb-postgresql-patroni-a4572264a831/&quot;&gt;Evaluating high availability solutions for TimescaleDB + PostgreSQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;299</title>
