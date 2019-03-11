@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-08T08:08:57+07:00</updated>
+ <updated>2019-03-11T13:26:07+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;303</title>
+   <link href="https://jakartadev.org//daily-digest-303/"/>
+   <updated>2019-03-11T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-303</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.brunomiranda.com/professional-focus-8f9fe082a593&quot;&gt;Professional Focus Planning for the New Year&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lwn.net/Articles/775736/&quot;&gt;The Firecracker virtual machine monitor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b&quot;&gt;Monorepos: Please don’t!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering&quot;&gt;How Accenture retrofitted for site reliability engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/Xtext/&quot;&gt;Xtext&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;302</title>
