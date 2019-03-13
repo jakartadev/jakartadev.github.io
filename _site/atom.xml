@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-12T00:24:03+07:00</updated>
+ <updated>2019-03-13T13:22:39+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -15,21 +15,13 @@
  <entry>
    <title>Daily Digest &#35;305</title>
    <link href="https://jakartadev.org//daily-digest-305/"/>
-   <updated>2019-03-12T00:00:00+07:00</updated>
+   <updated>2019-03-13T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-305</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-three-principles-of-excellent-api-design/&quot;&gt;The Three Principles of Excellent API Design&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://americanexpress.io/on-the-importance-of-commit-messages/&quot;&gt;On the Importance of Commit Messages&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/&quot;&gt;GraphQL Stitching 101&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/the-quiet-revolution-how-json-displaced-xml-1e1f3e8552f7&quot;&gt;The quiet revolution: How JSON displaced XML&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-truth-about-black-friday-and-cyber-monday/&quot;&gt;The truth about Black Friday and Cyber Monday&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d&quot;&gt;Building Services at Airbnb, Part 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/neural-networks-jpeg/&quot;&gt;Faster Neural Networks Straight from JPEG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b&quot;&gt;The Ultimate Guide To Memorable Tech Talks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/&quot;&gt;AWS, MongoDB, and the Economic Realities of Open Source&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05&quot;&gt;Learn Enough Python to be Useful: argparse&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zachvalenta/nginx-wsgi&quot;&gt;setup servers (Nginx, Gunicorn) 🦄 on macOS 🍎 for Python 🐍&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/blog/running-flask-on-kubernetes/?source=4320ef6a6395&quot;&gt;Running Flask on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
