@@ -1,21 +1,30 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "jakartaDEV",
-    "home_page_url": "https://jakartadev.org//",
-    "feed_url": "https://jakartadev.org//feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "author": {
         "name": "Deden Fathurahman",
         "url": "https://keybase.io/dedenf"
     },
-    "icon": "https://jakartadev.org//images/favicon.png",
+    "icon": "http://localhost:4000/images/favicon.png",
     "expired": false,
     "items": [
       {
         {
+            "id": "/daily-digest-306",
+            "title": "Daily Digest #306",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.cloudflare.com/the-truth-about-black-friday-and-cyber-monday/\">The truth about Black Friday and Cyber Monday</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d\">Building Services at Airbnb, Part 3</a></li>\n  <li><a href=\"https://eng.uber.com/neural-networks-jpeg/\">Faster Neural Networks Straight from JPEG</a></li>\n  <li><a href=\"https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b\">The Ultimate Guide To Memorable Tech Talks</a></li>\n  <li><a href=\"https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/\">AWS, MongoDB, and the Economic Realities of Open Source</a></li>\n  <li><a href=\"https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05\">Learn Enough Python to be Useful: argparse</a></li>\n  <li><a href=\"https://github.com/zachvalenta/nginx-wsgi\">setup servers (Nginx, Gunicorn) 🦄 on macOS 🍎 for Python 🐍</a></li>\n  <li><a href=\"https://testdriven.io/blog/running-flask-on-kubernetes/?source=4320ef6a6395\">Running Flask on Kubernetes</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-306/",
+            "summary": "",
+            "date_published": "2019-03-14 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-305",
             "title": "Daily Digest #305",
             "content_html": "<ul>\n  <li><a href=\"https://nordicapis.com/the-three-principles-of-excellent-api-design/\">The Three Principles of Excellent API Design</a></li>\n  <li><a href=\"https://americanexpress.io/on-the-importance-of-commit-messages/\">On the Importance of Commit Messages</a></li>\n  <li><a href=\"https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/\">GraphQL Stitching 101</a></li>\n  <li><a href=\"https://blog.logrocket.com/the-quiet-revolution-how-json-displaced-xml-1e1f3e8552f7\">The quiet revolution: How JSON displaced XML</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-305/",
+            "url": "http://localhost:4000/daily-digest-305/",
             "summary": "",
             "date_published": "2019-03-13 00:00:00 +0700"
         },
@@ -24,7 +33,7 @@
             "id": "/daily-digest-304",
             "title": "Daily Digest #304",
             "content_html": "<ul>\n  <li><a href=\"http://bradfrost.com/blog/post/big-ol-ball-o-javascript/\">Big ol’ Ball o’ JavaScript</a></li>\n  <li><a href=\"https://medium.com/@chris.rimondi/aws-app-mesh-first-take-f959b7d8430b\">AWS App Mesh — First Take</a></li>\n  <li><a href=\"https://medium.com/serious-scrum/top-traits-of-a-lazy-scrum-master-9ff49cc23e7a\">Top Traits of a lazy Scrum Master</a></li>\n  <li><a href=\"https://opensource.com/article/19/2/linux-distributions-still-matter-containers\">Do Linux distributions still matter with containers?</a></li>\n  <li><a href=\"https://thenewstack.io/7-key-considerations-for-kubernetes-in-production/\">7 Key Considerations for Kubernetes in Production</a></li>\n  <li><a href=\"https://opensource.com/article/19/2/infrastructure-monitoring\">Infrastructure monitoring: Defense against surprise downtime</a></li>\n  <li><a href=\"https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/\">Serverless Needs a Bolder, Stateful Vision</a></li>\n  <li><a href=\"https://techbeacon.com/devops/5-red-flags-when-devops-might-not-be-good-fit\">5 red flags: When DevOps might not be a good fit</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-304/",
+            "url": "http://localhost:4000/daily-digest-304/",
             "summary": "",
             "date_published": "2019-03-12 00:00:00 +0700"
         },
@@ -33,7 +42,7 @@
             "id": "/daily-digest-303",
             "title": "Daily Digest #303",
             "content_html": "<ul>\n  <li><a href=\"https://blog.brunomiranda.com/professional-focus-8f9fe082a593\">Professional Focus Planning for the New Year</a></li>\n  <li><a href=\"https://lwn.net/Articles/775736/\">The Firecracker virtual machine monitor</a></li>\n  <li><a href=\"https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b\">Monorepos: Please don’t!</a></li>\n  <li><a href=\"https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering\">How Accenture retrofitted for site reliability engineering</a></li>\n  <li><a href=\"https://www.eclipse.org/Xtext/\">Xtext</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-303/",
+            "url": "http://localhost:4000/daily-digest-303/",
             "summary": "",
             "date_published": "2019-03-11 00:00:00 +0700"
         },
@@ -42,18 +51,9 @@
             "id": "/daily-digest-302",
             "title": "Daily Digest #302",
             "content_html": "<ul>\n  <li><a href=\"https://blog.heroku.com/event-streams-kafka-redshift-metabase\">Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase</a></li>\n  <li><a href=\"https://github.com/bkuhlmann/git-cop\">git-cop – enforces consistent Git commits.</a></li>\n  <li><a href=\"https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md\">Learn JSON web tokens</a></li>\n  <li><a href=\"https://altkomsoftware.pl/en/blog/headless-cms-as-a-microservice/\">Headless CMS as a Microservice</a></li>\n  <li><a href=\"https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html\">How to use AWS Secrets Manager in Ruby on Rails</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-302/",
+            "url": "http://localhost:4000/daily-digest-302/",
             "summary": "",
             "date_published": "2019-03-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-301",
-            "title": "Daily Digest #301",
-            "content_html": "<ul>\n  <li><a href=\"https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/\">Building a scalable, highly reliable, asynchronous user service</a></li>\n  <li><a href=\"https://towardsdatascience.com/tagoverflow-correlating-tags-in-stackoverflow-66e2b0e1117b\">TagOverflow — Correlating Tags in Stackoverflow</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2018/12/rust-2018-is-here/\">Rust 2018 is here… but what is it?</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/front-end-micro-services/index.html\">Front-End Micro Services</a></li>\n  <li><a href=\"https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/\">IP packet buffering in OVN</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-301/",
-            "summary": "",
-            "date_published": "2019-03-07 00:00:00 +0700"
         }
 
     ]
