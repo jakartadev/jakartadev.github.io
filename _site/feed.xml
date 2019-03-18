@@ -3,11 +3,54 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Mar 2019 14:57:49 +0700</pubDate>
-    <lastBuildDate>Thu, 14 Mar 2019 14:57:49 +0700</lastBuildDate>
+    <link>https://jakartadev.org//</link>
+    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Mar 2019 14:18:32 +0700</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2019 14:18:32 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;308</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/&quot;&gt;Liveness Detection with OpenCV&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13&quot;&gt;10 Steps to Set Up Your Python Project for Success&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.phoronix.com/scan.php?page=article&amp;amp;item=wsl-february-2018&amp;amp;num=1&quot;&gt;Windows 10 WSL vs. Linux Performance For Early 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mattlayman.com/blog/2018/python-code-black/&quot;&gt;Consistent Python code with Black&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/lessons/what-pep-8-and-why-you-need-it/&quot;&gt;What PEP 8 Is and Why You Need It&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-308/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-308/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;307</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-the-fork-amazon/&quot;&gt;What the Fork, Amazon?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mezerotm.com/i-learned-python-in-a-week-here-is-my-reflection/&quot;&gt;I Learned Python in a week and only sorta regret it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/eabglobal/minik&quot;&gt;Minik: Serverless Web Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://victorzhou.com/blog/intro-to-neural-networks/&quot;&gt;Machine Learning for Beginners: An Introduction to Neural Networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.quiltdata.com/import-almost-anything-in-python-an-intro-to-module-loaders-and-finders-f5e7b15cda47&quot;&gt;Import almost anything in Python: an intro to module loaders and finders&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/intro-to-pyenv/&quot;&gt;Managing Multiple Python Versions With pyenv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 15 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-307/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-307/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;306</title>
@@ -23,8 +66,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 14 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-306/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-306/</guid>
+        <link>https://jakartadev.org//daily-digest-306/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-306/</guid>
         
         <category>daily</category>
         
@@ -43,8 +86,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-305/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-305/</guid>
+        <link>https://jakartadev.org//daily-digest-305/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-305/</guid>
         
         <category>daily</category>
         
@@ -67,8 +110,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-304/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-304/</guid>
+        <link>https://jakartadev.org//daily-digest-304/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-304/</guid>
         
         <category>daily</category>
         
@@ -88,8 +131,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-303/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-303/</guid>
+        <link>https://jakartadev.org//daily-digest-303/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-303/</guid>
         
         <category>daily</category>
         
@@ -109,8 +152,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-302/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-302/</guid>
+        <link>https://jakartadev.org//daily-digest-302/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-302/</guid>
         
         <category>daily</category>
         
@@ -130,8 +173,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-301/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-301/</guid>
+        <link>https://jakartadev.org//daily-digest-301/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-301/</guid>
         
         <category>daily</category>
         
@@ -150,8 +193,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-300/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-300/</guid>
+        <link>https://jakartadev.org//daily-digest-300/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-300/</guid>
         
         <category>daily</category>
         
@@ -173,49 +216,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-299/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-299/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;298</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/devops-embedding-as-aiding-and-abetting-db112d1977a&quot;&gt;DevOps embedding as aiding and abetting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/learning-fixing-value-triage-engineers/&quot;&gt;Learning by fixing — the value of triage engineer rotations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/lorin/resilience-engineering&quot;&gt;resilience engineering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sosedoff.github.io/pgweb/&quot;&gt;Pgweb – Cross-platform client for PostgreSQL databases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackertarget.com/ssh-examples-tunnels/&quot;&gt;SSH Examples, Tips &amp;amp; Tunnels&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 04 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-298/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-298/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;297</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/linux-noah/noah&quot;&gt;Bash on Ubuntu on macOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616&quot;&gt;Forget Docker, the future is JAMstack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/why-we-fancied-testcafe-over-webdriver/&quot;&gt;Why we fancied Testcafe over Webdriver for a mordern web app?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/airbnb-soa-migration&quot;&gt;The Great Migration: from Monolith to Service-Oriented&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 01 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-297/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-297/</guid>
+        <link>https://jakartadev.org//daily-digest-299/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-299/</guid>
         
         <category>daily</category>
         
