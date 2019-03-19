@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-309",
+            "title": "Daily Digest #309",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.hltbra.net/2019/03/06/aws-fargate.html\">Is AWS Fargate The Future of Containers?</a></li>\n  <li><a href=\"https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/\">The What and the Why of the Cluster API</a></li>\n  <li><a href=\"https://www.cloudops.com/2019/01/a-brief-guide-to-securing-containers-at-scale/\">A Brief Guide to Securing Containers at Scale</a></li>\n  <li><a href=\"https://github.com/triggermesh/aktion\">Aktion – Translates GitHub Actions into Tekton and Knative Objects</a></li>\n  <li><a href=\"https://engineering.grab.com/structured-logging\">Structured Logging: The Best Friend You’ll Want When Things Go Wrong</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-309/",
+            "summary": "",
+            "date_published": "2019-03-19 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-308",
             "title": "Daily Digest #308",
             "content_html": "<ul>\n  <li><a href=\"https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/\">Liveness Detection with OpenCV</a></li>\n  <li><a href=\"https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13\">10 Steps to Set Up Your Python Project for Success</a></li>\n  <li><a href=\"https://www.phoronix.com/scan.php?page=article&amp;item=wsl-february-2018&amp;num=1\">Windows 10 WSL vs. Linux Performance For Early 2018</a></li>\n  <li><a href=\"https://www.mattlayman.com/blog/2018/python-code-black/\">Consistent Python code with Black</a></li>\n  <li><a href=\"https://realpython.com/lessons/what-pep-8-and-why-you-need-it/\">What PEP 8 Is and Why You Need It</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-305/",
             "summary": "",
             "date_published": "2019-03-13 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-304",
-            "title": "Daily Digest #304",
-            "content_html": "<ul>\n  <li><a href=\"http://bradfrost.com/blog/post/big-ol-ball-o-javascript/\">Big ol’ Ball o’ JavaScript</a></li>\n  <li><a href=\"https://medium.com/@chris.rimondi/aws-app-mesh-first-take-f959b7d8430b\">AWS App Mesh — First Take</a></li>\n  <li><a href=\"https://medium.com/serious-scrum/top-traits-of-a-lazy-scrum-master-9ff49cc23e7a\">Top Traits of a lazy Scrum Master</a></li>\n  <li><a href=\"https://opensource.com/article/19/2/linux-distributions-still-matter-containers\">Do Linux distributions still matter with containers?</a></li>\n  <li><a href=\"https://thenewstack.io/7-key-considerations-for-kubernetes-in-production/\">7 Key Considerations for Kubernetes in Production</a></li>\n  <li><a href=\"https://opensource.com/article/19/2/infrastructure-monitoring\">Infrastructure monitoring: Defense against surprise downtime</a></li>\n  <li><a href=\"https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/\">Serverless Needs a Bolder, Stateful Vision</a></li>\n  <li><a href=\"https://techbeacon.com/devops/5-red-flags-when-devops-might-not-be-good-fit\">5 red flags: When DevOps might not be a good fit</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-304/",
-            "summary": "",
-            "date_published": "2019-03-12 00:00:00 +0700"
         }
 
     ]
