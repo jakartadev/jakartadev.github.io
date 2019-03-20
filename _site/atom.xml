@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-19T23:44:49+07:00</updated>
+ <updated>2019-03-20T12:50:38+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;310</title>
+   <link href="https://jakartadev.org//daily-digest-310/"/>
+   <updated>2019-03-20T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-310</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.gruntwork.io/automated-testing-for-kubernetes-and-helm-charts-using-terratest-a4ddc4e67344&quot;&gt;Automated Testing for Kubernetes and Helm Charts using Terratest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@samdemers/software-estimates-and-other-lies-17ffc29ea6b7&quot;&gt;Software Estimates and Other Lies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/outsystems-engineering/the-three-pillars-of-product-agility-part-1-the-north-star-354ddf4ef51&quot;&gt;The Three Pillars of Product Agility — Part 1: The North Star&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/whats-wrong-your-value-stream-mapping&quot;&gt;What’s wrong with your value stream mapping &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188&quot;&gt;Murder On The Kubernetes Express: The Life And Death Of A Docker Container&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;309</title>

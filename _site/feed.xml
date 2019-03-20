@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Mar 2019 23:44:49 +0700</pubDate>
-    <lastBuildDate>Tue, 19 Mar 2019 23:44:49 +0700</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2019 12:50:38 +0700</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2019 12:50:38 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;310</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.gruntwork.io/automated-testing-for-kubernetes-and-helm-charts-using-terratest-a4ddc4e67344&quot;&gt;Automated Testing for Kubernetes and Helm Charts using Terratest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@samdemers/software-estimates-and-other-lies-17ffc29ea6b7&quot;&gt;Software Estimates and Other Lies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/outsystems-engineering/the-three-pillars-of-product-agility-part-1-the-north-star-354ddf4ef51&quot;&gt;The Three Pillars of Product Agility — Part 1: The North Star&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/whats-wrong-your-value-stream-mapping&quot;&gt;What’s wrong with your value stream mapping &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188&quot;&gt;Murder On The Kubernetes Express: The Life And Death Of A Docker Container&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 20 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-310/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-310/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;309</title>
@@ -196,26 +217,6 @@
         <pubDate>Thu, 07 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-301/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-301/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;300 :tada:</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/makisu/#utm_source=jakartadev&quot;&gt;Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-mvc-to-modern-web-frameworks-8067ec9dee65&quot;&gt;From MVC to Modern Web Frameworks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/&quot;&gt;How To Build A Real-Time App With GraphQL Subscriptions On Postgres&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/high-availability-timescaledb-postgresql-patroni-a4572264a831/&quot;&gt;Evaluating high availability solutions for TimescaleDB + PostgreSQL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 06 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-300/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-300/</guid>
         
         <category>daily</category>
         
