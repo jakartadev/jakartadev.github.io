@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-20T12:50:38+07:00</updated>
+ <updated>2019-03-21T15:43:58+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;311</title>
+   <link href="https://jakartadev.org//daily-digest-311/"/>
+   <updated>2019-03-21T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-311</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/3-trends-in-tracking-software-delivery/&quot;&gt;3 Trends in Tracking Software Delivery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thispointer.com/pandas-how-to-merge-dataframes-using-dataframe-merge-in-python-part-1/&quot;&gt;Pandas : How to Merge Dataframes using Dataframe.merge() in Python – Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd&quot;&gt;The 737Max and Why Software Engineers Might Want to Pay Attention&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/sarahjwells/qcon-london-2019-mature-microservices-and-how-to-operate-them&quot;&gt;QCon London 2019: Mature microservices and how to operate them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@semaphoreci/a-reality-check-about-cloud-native-devops-384aee39a2e0&quot;&gt;A Reality Check About Cloud Native DevOps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/a-docker-product-manager-on-what-the-future-holds-for-containers/&quot;&gt;A Docker Product Manager on What the Future Holds for Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;310</title>

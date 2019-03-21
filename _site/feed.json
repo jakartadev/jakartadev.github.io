@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-311",
+            "title": "Daily Digest #311",
+            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/3-trends-in-tracking-software-delivery/\">3 Trends in Tracking Software Delivery</a></li>\n  <li><a href=\"https://thispointer.com/pandas-how-to-merge-dataframes-using-dataframe-merge-in-python-part-1/\">Pandas : How to Merge Dataframes using Dataframe.merge() in Python – Part 1</a></li>\n  <li><a href=\"https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd\">The 737Max and Why Software Engineers Might Want to Pay Attention</a></li>\n  <li><a href=\"https://speakerdeck.com/sarahjwells/qcon-london-2019-mature-microservices-and-how-to-operate-them\">QCon London 2019: Mature microservices and how to operate them</a></li>\n  <li><a href=\"https://medium.com/@semaphoreci/a-reality-check-about-cloud-native-devops-384aee39a2e0\">A Reality Check About Cloud Native DevOps</a></li>\n  <li><a href=\"https://thenewstack.io/a-docker-product-manager-on-what-the-future-holds-for-containers/\">A Docker Product Manager on What the Future Holds for Containers</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-311/",
+            "summary": "",
+            "date_published": "2019-03-21 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-310",
             "title": "Daily Digest #310",
             "content_html": "<ul>\n  <li><a href=\"https://blog.gruntwork.io/automated-testing-for-kubernetes-and-helm-charts-using-terratest-a4ddc4e67344\">Automated Testing for Kubernetes and Helm Charts using Terratest</a></li>\n  <li><a href=\"https://medium.com/@samdemers/software-estimates-and-other-lies-17ffc29ea6b7\">Software Estimates and Other Lies</a></li>\n  <li><a href=\"https://medium.com/outsystems-engineering/the-three-pillars-of-product-agility-part-1-the-north-star-354ddf4ef51\">The Three Pillars of Product Agility — Part 1: The North Star</a></li>\n  <li><a href=\"https://techbeacon.com/devops/whats-wrong-your-value-stream-mapping\">What’s wrong with your value stream mapping </a></li>\n  <li><a href=\"https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188\">Murder On The Kubernetes Express: The Life And Death Of A Docker Container</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-307/",
             "summary": "",
             "date_published": "2019-03-15 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-306",
-            "title": "Daily Digest #306",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.cloudflare.com/the-truth-about-black-friday-and-cyber-monday/\">The truth about Black Friday and Cyber Monday</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d\">Building Services at Airbnb, Part 3</a></li>\n  <li><a href=\"https://eng.uber.com/neural-networks-jpeg/\">Faster Neural Networks Straight from JPEG</a></li>\n  <li><a href=\"https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b\">The Ultimate Guide To Memorable Tech Talks</a></li>\n  <li><a href=\"https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/\">AWS, MongoDB, and the Economic Realities of Open Source</a></li>\n  <li><a href=\"https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05\">Learn Enough Python to be Useful: argparse</a></li>\n  <li><a href=\"https://github.com/zachvalenta/nginx-wsgi\">setup servers (Nginx, Gunicorn) 🦄 on macOS 🍎 for Python 🐍</a></li>\n  <li><a href=\"https://testdriven.io/blog/running-flask-on-kubernetes/?source=4320ef6a6395\">Running Flask on Kubernetes</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-306/",
-            "summary": "",
-            "date_published": "2019-03-14 00:00:00 +0700"
         }
 
     ]

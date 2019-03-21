@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Mar 2019 12:50:38 +0700</pubDate>
-    <lastBuildDate>Wed, 20 Mar 2019 12:50:38 +0700</lastBuildDate>
+    <pubDate>Thu, 21 Mar 2019 15:43:58 +0700</pubDate>
+    <lastBuildDate>Thu, 21 Mar 2019 15:43:58 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;311</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/3-trends-in-tracking-software-delivery/&quot;&gt;3 Trends in Tracking Software Delivery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thispointer.com/pandas-how-to-merge-dataframes-using-dataframe-merge-in-python-part-1/&quot;&gt;Pandas : How to Merge Dataframes using Dataframe.merge() in Python – Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd&quot;&gt;The 737Max and Why Software Engineers Might Want to Pay Attention&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/sarahjwells/qcon-london-2019-mature-microservices-and-how-to-operate-them&quot;&gt;QCon London 2019: Mature microservices and how to operate them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@semaphoreci/a-reality-check-about-cloud-native-devops-384aee39a2e0&quot;&gt;A Reality Check About Cloud Native DevOps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/a-docker-product-manager-on-what-the-future-holds-for-containers/&quot;&gt;A Docker Product Manager on What the Future Holds for Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 21 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-311/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-311/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;310</title>
@@ -196,27 +218,6 @@
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-302/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-302/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;301</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/&quot;&gt;Building a scalable, highly reliable, asynchronous user service&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/tagoverflow-correlating-tags-in-stackoverflow-66e2b0e1117b&quot;&gt;TagOverflow — Correlating Tags in Stackoverflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/12/rust-2018-is-here/&quot;&gt;Rust 2018 is here… but what is it?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/front-end-micro-services/index.html&quot;&gt;Front-End Micro Services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/&quot;&gt;IP packet buffering in OVN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 07 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-301/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-301/</guid>
         
         <category>daily</category>
         
