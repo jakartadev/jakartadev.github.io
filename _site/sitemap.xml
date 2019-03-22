@@ -1009,6 +1009,10 @@
 <lastmod>2019-03-21T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>https://jakartadev.org//daily-digest-312/</loc>
+<lastmod>2019-03-22T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>https://jakartadev.org//404/</loc>
 </url>
 <url>
@@ -1154,5 +1158,8 @@
 </url>
 <url>
 <loc>https://jakartadev.org//page/42/</loc>
+</url>
+<url>
+<loc>https://jakartadev.org//page/43/</loc>
 </url>
 </urlset>

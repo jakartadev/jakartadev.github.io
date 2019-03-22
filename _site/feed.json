@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-312",
+            "title": "Daily Digest #311",
+            "content_html": "<ul>\n  <li><a href=\"https://speakerdeck.com/garethr/a-continuation-of-devops-policy-as-code\">A continuation of devops: policy as code</a></li>\n  <li><a href=\"https://thewomenintechshow.com/2019/03/11/cloud-computing-tools-with-priyanka-sharma/\">Cloud Computing Tools with Priyanka Sharma</a></li>\n  <li><a href=\"https://stackshare.io/launchdarkly/redux-scaling-launchdarkly-from-4-to-200-billion-feature-flags-daily\"> Redux: Scaling LaunchDarkly from 4 to 200 billion feature flags daily </a></li>\n  <li><a href=\"https://www.cloudatomiclab.com/rustyk8s/\">Kubernetes as an API standard</a></li>\n  <li><a href=\"https://getdockup.com/\">On demand staging environments for engineering teams</a></li>\n  <li><a href=\"https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/\"> Cloud Irregular: IAM Is The Real Cloud Lock-In </a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-312/",
+            "summary": "",
+            "date_published": "2019-03-22 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-311",
             "title": "Daily Digest #311",
             "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/3-trends-in-tracking-software-delivery/\">3 Trends in Tracking Software Delivery</a></li>\n  <li><a href=\"https://thispointer.com/pandas-how-to-merge-dataframes-using-dataframe-merge-in-python-part-1/\">Pandas : How to Merge Dataframes using Dataframe.merge() in Python – Part 1</a></li>\n  <li><a href=\"https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd\">The 737Max and Why Software Engineers Might Want to Pay Attention</a></li>\n  <li><a href=\"https://speakerdeck.com/sarahjwells/qcon-london-2019-mature-microservices-and-how-to-operate-them\">QCon London 2019: Mature microservices and how to operate them</a></li>\n  <li><a href=\"https://medium.com/@semaphoreci/a-reality-check-about-cloud-native-devops-384aee39a2e0\">A Reality Check About Cloud Native DevOps</a></li>\n  <li><a href=\"https://thenewstack.io/a-docker-product-manager-on-what-the-future-holds-for-containers/\">A Docker Product Manager on What the Future Holds for Containers</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-308/",
             "summary": "",
             "date_published": "2019-03-18 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-307",
-            "title": "Daily Digest #307",
-            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/what-the-fork-amazon/\">What the Fork, Amazon?</a></li>\n  <li><a href=\"https://mezerotm.com/i-learned-python-in-a-week-here-is-my-reflection/\">I Learned Python in a week and only sorta regret it</a></li>\n  <li><a href=\"https://github.com/eabglobal/minik\">Minik: Serverless Web Framework</a></li>\n  <li><a href=\"https://victorzhou.com/blog/intro-to-neural-networks/\">Machine Learning for Beginners: An Introduction to Neural Networks</a></li>\n  <li><a href=\"https://blog.quiltdata.com/import-almost-anything-in-python-an-intro-to-module-loaders-and-finders-f5e7b15cda47\">Import almost anything in Python: an intro to module loaders and finders</a></li>\n  <li><a href=\"https://realpython.com/intro-to-pyenv/\">Managing Multiple Python Versions With pyenv</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-307/",
-            "summary": "",
-            "date_published": "2019-03-15 00:00:00 +0700"
         }
 
     ]
