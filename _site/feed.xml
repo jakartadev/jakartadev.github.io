@@ -5,12 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Mar 2019 11:51:08 +0700</pubDate>
-    <lastBuildDate>Fri, 22 Mar 2019 11:51:08 +0700</lastBuildDate>
+    <pubDate>Mon, 25 Mar 2019 13:03:38 +0700</pubDate>
+    <lastBuildDate>Mon, 25 Mar 2019 13:03:38 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;311</title>
+        <title>Daily Digest &amp;#35;313</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/&quot;&gt;Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/wallyqs/connect-everything-with-nats-cloud-expo-europe&quot;&gt;Connect Everything with NATS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pydist.com/blog/python-packages-since-2005&quot;&gt;Python Packages Since 2005&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://m.subbu.org/taming-the-rate-of-change-439e3dccbb5d&quot;&gt;Taming the Rate of Change&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/adobetech/serverless-microservices-and-service-mesh-oh-my-cd7903bd499d&quot;&gt;Serverless, Microservices, and Service Mesh — Oh My&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 25 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-313/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-313/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;312</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/garethr/a-continuation-of-devops-policy-as-code&quot;&gt;A continuation of devops: policy as code&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thewomenintechshow.com/2019/03/11/cloud-computing-tools-with-priyanka-sharma/&quot;&gt;Cloud Computing Tools with Priyanka Sharma&lt;/a&gt;&lt;/li&gt;
@@ -198,27 +219,6 @@
         <pubDate>Tue, 12 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-304/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-304/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;303</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.brunomiranda.com/professional-focus-8f9fe082a593&quot;&gt;Professional Focus Planning for the New Year&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lwn.net/Articles/775736/&quot;&gt;The Firecracker virtual machine monitor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b&quot;&gt;Monorepos: Please don’t!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering&quot;&gt;How Accenture retrofitted for site reliability engineering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/Xtext/&quot;&gt;Xtext&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-303/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-303/</guid>
         
         <category>daily</category>
         

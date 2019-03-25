@@ -12,8 +12,17 @@
     "items": [
       {
         {
+            "id": "/daily-digest-313",
+            "title": "Daily Digest #313",
+            "content_html": "<ul>\n  <li><a href=\"https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/\">Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests</a></li>\n  <li><a href=\"https://www.slideshare.net/wallyqs/connect-everything-with-nats-cloud-expo-europe\">Connect Everything with NATS</a></li>\n  <li><a href=\"https://pydist.com/blog/python-packages-since-2005\">Python Packages Since 2005</a></li>\n  <li><a href=\"https://m.subbu.org/taming-the-rate-of-change-439e3dccbb5d\">Taming the Rate of Change</a></li>\n  <li><a href=\"https://medium.com/adobetech/serverless-microservices-and-service-mesh-oh-my-cd7903bd499d\">Serverless, Microservices, and Service Mesh — Oh My</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-313/",
+            "summary": "",
+            "date_published": "2019-03-25 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-312",
-            "title": "Daily Digest #311",
+            "title": "Daily Digest #312",
             "content_html": "<ul>\n  <li><a href=\"https://speakerdeck.com/garethr/a-continuation-of-devops-policy-as-code\">A continuation of devops: policy as code</a></li>\n  <li><a href=\"https://thewomenintechshow.com/2019/03/11/cloud-computing-tools-with-priyanka-sharma/\">Cloud Computing Tools with Priyanka Sharma</a></li>\n  <li><a href=\"https://stackshare.io/launchdarkly/redux-scaling-launchdarkly-from-4-to-200-billion-feature-flags-daily\"> Redux: Scaling LaunchDarkly from 4 to 200 billion feature flags daily </a></li>\n  <li><a href=\"https://www.cloudatomiclab.com/rustyk8s/\">Kubernetes as an API standard</a></li>\n  <li><a href=\"https://getdockup.com/\">On demand staging environments for engineering teams</a></li>\n  <li><a href=\"https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/\"> Cloud Irregular: IAM Is The Real Cloud Lock-In </a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-312/",
             "summary": "",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-309/",
             "summary": "",
             "date_published": "2019-03-19 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-308",
-            "title": "Daily Digest #308",
-            "content_html": "<ul>\n  <li><a href=\"https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/\">Liveness Detection with OpenCV</a></li>\n  <li><a href=\"https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13\">10 Steps to Set Up Your Python Project for Success</a></li>\n  <li><a href=\"https://www.phoronix.com/scan.php?page=article&amp;item=wsl-february-2018&amp;num=1\">Windows 10 WSL vs. Linux Performance For Early 2018</a></li>\n  <li><a href=\"https://www.mattlayman.com/blog/2018/python-code-black/\">Consistent Python code with Black</a></li>\n  <li><a href=\"https://realpython.com/lessons/what-pep-8-and-why-you-need-it/\">What PEP 8 Is and Why You Need It</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-308/",
-            "summary": "",
-            "date_published": "2019-03-18 00:00:00 +0700"
         }
 
     ]

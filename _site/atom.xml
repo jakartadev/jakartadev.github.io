@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-22T11:51:08+07:00</updated>
+ <updated>2019-03-25T13:03:38+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -13,7 +13,22 @@
 
  
  <entry>
-   <title>Daily Digest &#35;311</title>
+   <title>Daily Digest &#35;313</title>
+   <link href="https://jakartadev.org//daily-digest-313/"/>
+   <updated>2019-03-25T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-313</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/&quot;&gt;Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/wallyqs/connect-everything-with-nats-cloud-expo-europe&quot;&gt;Connect Everything with NATS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pydist.com/blog/python-packages-since-2005&quot;&gt;Python Packages Since 2005&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://m.subbu.org/taming-the-rate-of-change-439e3dccbb5d&quot;&gt;Taming the Rate of Change&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/adobetech/serverless-microservices-and-service-mesh-oh-my-cd7903bd499d&quot;&gt;Serverless, Microservices, and Service Mesh — Oh My&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;312</title>
    <link href="https://jakartadev.org//daily-digest-312/"/>
    <updated>2019-03-22T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-312</id>
