@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Mar 2019 13:03:38 +0700</pubDate>
-    <lastBuildDate>Mon, 25 Mar 2019 13:03:38 +0700</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2019 15:50:44 +0700</pubDate>
+    <lastBuildDate>Tue, 26 Mar 2019 15:50:44 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;314</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://orbifold.xyz/not-callable.html&quot;&gt;Don’t Make It Callable&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/packagr/using-packagr-with-poetry-4bc986215bd2&quot;&gt;Using Packagr with poetry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/adobetech/why-i-a-serverless-developer-dont-care-about-your-containers-40c08d36aee4&quot;&gt;Why I, A Serverless Developer, Don’t Care About Your Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/autonomy/talos&quot;&gt;Talos is a modern Linux distribution designed to be secure, immutable, and minimal.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 26 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-314/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-314/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;313</title>
@@ -195,30 +215,6 @@
         <pubDate>Wed, 13 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-305/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-305/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;304</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/big-ol-ball-o-javascript/&quot;&gt;Big ol’ Ball o’ JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/aws-app-mesh-first-take-f959b7d8430b&quot;&gt;AWS App Mesh — First Take&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/serious-scrum/top-traits-of-a-lazy-scrum-master-9ff49cc23e7a&quot;&gt;Top Traits of a lazy Scrum Master&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/2/linux-distributions-still-matter-containers&quot;&gt;Do Linux distributions still matter with containers?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/7-key-considerations-for-kubernetes-in-production/&quot;&gt;7 Key Considerations for Kubernetes in Production&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/2/infrastructure-monitoring&quot;&gt;Infrastructure monitoring: Defense against surprise downtime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/&quot;&gt;Serverless Needs a Bolder, Stateful Vision&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/5-red-flags-when-devops-might-not-be-good-fit&quot;&gt;5 red flags: When DevOps might not be a good fit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 12 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-304/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-304/</guid>
         
         <category>daily</category>
         

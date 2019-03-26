@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-314",
+            "title": "Daily Digest #314",
+            "content_html": "<ul>\n  <li><a href=\"https://orbifold.xyz/not-callable.html\">Don’t Make It Callable</a></li>\n  <li><a href=\"https://medium.com/packagr/using-packagr-with-poetry-4bc986215bd2\">Using Packagr with poetry</a></li>\n  <li><a href=\"https://medium.com/adobetech/why-i-a-serverless-developer-dont-care-about-your-containers-40c08d36aee4\">Why I, A Serverless Developer, Don’t Care About Your Containers</a></li>\n  <li><a href=\"https://github.com/autonomy/talos\">Talos is a modern Linux distribution designed to be secure, immutable, and minimal.</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-314/",
+            "summary": "",
+            "date_published": "2019-03-26 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-313",
             "title": "Daily Digest #313",
             "content_html": "<ul>\n  <li><a href=\"https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/\">Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests</a></li>\n  <li><a href=\"https://www.slideshare.net/wallyqs/connect-everything-with-nats-cloud-expo-europe\">Connect Everything with NATS</a></li>\n  <li><a href=\"https://pydist.com/blog/python-packages-since-2005\">Python Packages Since 2005</a></li>\n  <li><a href=\"https://m.subbu.org/taming-the-rate-of-change-439e3dccbb5d\">Taming the Rate of Change</a></li>\n  <li><a href=\"https://medium.com/adobetech/serverless-microservices-and-service-mesh-oh-my-cd7903bd499d\">Serverless, Microservices, and Service Mesh — Oh My</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-310/",
             "summary": "",
             "date_published": "2019-03-20 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-309",
-            "title": "Daily Digest #309",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.hltbra.net/2019/03/06/aws-fargate.html\">Is AWS Fargate The Future of Containers?</a></li>\n  <li><a href=\"https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/\">The What and the Why of the Cluster API</a></li>\n  <li><a href=\"https://www.cloudops.com/2019/01/a-brief-guide-to-securing-containers-at-scale/\">A Brief Guide to Securing Containers at Scale</a></li>\n  <li><a href=\"https://github.com/triggermesh/aktion\">Aktion – Translates GitHub Actions into Tekton and Knative Objects</a></li>\n  <li><a href=\"https://engineering.grab.com/structured-logging\">Structured Logging: The Best Friend You’ll Want When Things Go Wrong</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-309/",
-            "summary": "",
-            "date_published": "2019-03-19 00:00:00 +0700"
         }
 
     ]
