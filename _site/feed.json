@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-315",
+            "title": "Daily Digest #315",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/joelparkerhenderson/queueing_theory\">Queueing theory: an introduction for software development</a></li>\n  <li><a href=\"https://medium.com/@fxn/zeitwerk-a-new-code-loader-for-ruby-ae7895977e73\">Zeitwerk: A new code loader for Ruby</a></li>\n  <li><a href=\"https://hackernoon.com/going-agile-c9fcce6cb65\">“Going Agile”</a></li>\n  <li><a href=\"https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze\">Canary analysis: Lessons learned and best practices from Google and Waze</a></li>\n  <li><a href=\"https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d\">Four Startup Engineering Killers</a></li>\n  <li><a href=\"https://amy.dev/?p=853\">Data structures to name-drop when you want to sound smart in an interview</a></li>\n  <li><a href=\"https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e\">Effective Mental Models for Code and Systems</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-315/",
+            "summary": "",
+            "date_published": "2019-03-27 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-314",
             "title": "Daily Digest #314",
             "content_html": "<ul>\n  <li><a href=\"https://orbifold.xyz/not-callable.html\">Don’t Make It Callable</a></li>\n  <li><a href=\"https://medium.com/packagr/using-packagr-with-poetry-4bc986215bd2\">Using Packagr with poetry</a></li>\n  <li><a href=\"https://medium.com/adobetech/why-i-a-serverless-developer-dont-care-about-your-containers-40c08d36aee4\">Why I, A Serverless Developer, Don’t Care About Your Containers</a></li>\n  <li><a href=\"https://github.com/autonomy/talos\">Talos is a modern Linux distribution designed to be secure, immutable, and minimal.</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-311/",
             "summary": "",
             "date_published": "2019-03-21 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-310",
-            "title": "Daily Digest #310",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.gruntwork.io/automated-testing-for-kubernetes-and-helm-charts-using-terratest-a4ddc4e67344\">Automated Testing for Kubernetes and Helm Charts using Terratest</a></li>\n  <li><a href=\"https://medium.com/@samdemers/software-estimates-and-other-lies-17ffc29ea6b7\">Software Estimates and Other Lies</a></li>\n  <li><a href=\"https://medium.com/outsystems-engineering/the-three-pillars-of-product-agility-part-1-the-north-star-354ddf4ef51\">The Three Pillars of Product Agility — Part 1: The North Star</a></li>\n  <li><a href=\"https://techbeacon.com/devops/whats-wrong-your-value-stream-mapping\">What’s wrong with your value stream mapping </a></li>\n  <li><a href=\"https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188\">Murder On The Kubernetes Express: The Life And Death Of A Docker Container</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-310/",
-            "summary": "",
-            "date_published": "2019-03-20 00:00:00 +0700"
         }
 
     ]

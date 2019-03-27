@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-26T15:50:44+07:00</updated>
+ <updated>2019-03-27T17:48:54+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;315</title>
+   <link href="https://jakartadev.org//daily-digest-315/"/>
+   <updated>2019-03-27T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-315</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joelparkerhenderson/queueing_theory&quot;&gt;Queueing theory: an introduction for software development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@fxn/zeitwerk-a-new-code-loader-for-ruby-ae7895977e73&quot;&gt;Zeitwerk: A new code loader for Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/going-agile-c9fcce6cb65&quot;&gt;“Going Agile”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze&quot;&gt;Canary analysis: Lessons learned and best practices from Google and Waze&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d&quot;&gt;Four Startup Engineering Killers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amy.dev/?p=853&quot;&gt;Data structures to name-drop when you want to sound smart in an interview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e&quot;&gt;Effective Mental Models for Code and Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;314</title>

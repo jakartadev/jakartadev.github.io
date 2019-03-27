@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Mar 2019 15:50:44 +0700</pubDate>
-    <lastBuildDate>Tue, 26 Mar 2019 15:50:44 +0700</lastBuildDate>
+    <pubDate>Wed, 27 Mar 2019 17:48:54 +0700</pubDate>
+    <lastBuildDate>Wed, 27 Mar 2019 17:48:54 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;315</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joelparkerhenderson/queueing_theory&quot;&gt;Queueing theory: an introduction for software development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@fxn/zeitwerk-a-new-code-loader-for-ruby-ae7895977e73&quot;&gt;Zeitwerk: A new code loader for Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/going-agile-c9fcce6cb65&quot;&gt;“Going Agile”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze&quot;&gt;Canary analysis: Lessons learned and best practices from Google and Waze&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d&quot;&gt;Four Startup Engineering Killers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amy.dev/?p=853&quot;&gt;Data structures to name-drop when you want to sound smart in an interview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e&quot;&gt;Effective Mental Models for Code and Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-315/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-315/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;314</title>
@@ -195,26 +218,6 @@
         <pubDate>Thu, 14 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-306/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-306/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;305</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-three-principles-of-excellent-api-design/&quot;&gt;The Three Principles of Excellent API Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://americanexpress.io/on-the-importance-of-commit-messages/&quot;&gt;On the Importance of Commit Messages&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/&quot;&gt;GraphQL Stitching 101&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/the-quiet-revolution-how-json-displaced-xml-1e1f3e8552f7&quot;&gt;The quiet revolution: How JSON displaced XML&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-305/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-305/</guid>
         
         <category>daily</category>
         
