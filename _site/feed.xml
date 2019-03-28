@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Mar 2019 17:48:54 +0700</pubDate>
-    <lastBuildDate>Wed, 27 Mar 2019 17:48:54 +0700</lastBuildDate>
+    <pubDate>Thu, 28 Mar 2019 10:19:57 +0700</pubDate>
+    <lastBuildDate>Thu, 28 Mar 2019 10:19:57 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;316</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mrzasa/call_logger&quot;&gt;Call Logger – A debugging tool that lets you log method usage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noncombatant.org/2019/01/06/state-of-security-2019/&quot;&gt;The State Of Software Security In 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a&quot;&gt;Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command &amp;amp; Control Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.golang.org/debugging-what-you-deploy&quot;&gt;Debugging what you deploy in Go 1.12&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spotify.design/articles/2018-12-04/the-paradox-of-design-systems/&quot;&gt;The Paradox of Design Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6&quot;&gt;Karabiner God Mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 28 Mar 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//dail-digest-316/</link>
+        <guid isPermaLink="true">https://jakartadev.org//dail-digest-316/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;315</title>
@@ -194,30 +216,6 @@
         <pubDate>Fri, 15 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-307/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-307/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;306</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-truth-about-black-friday-and-cyber-monday/&quot;&gt;The truth about Black Friday and Cyber Monday&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d&quot;&gt;Building Services at Airbnb, Part 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/neural-networks-jpeg/&quot;&gt;Faster Neural Networks Straight from JPEG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b&quot;&gt;The Ultimate Guide To Memorable Tech Talks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/&quot;&gt;AWS, MongoDB, and the Economic Realities of Open Source&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05&quot;&gt;Learn Enough Python to be Useful: argparse&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zachvalenta/nginx-wsgi&quot;&gt;setup servers (Nginx, Gunicorn) 🦄 on macOS 🍎 for Python 🐍&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/blog/running-flask-on-kubernetes/?source=4320ef6a6395&quot;&gt;Running Flask on Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 14 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-306/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-306/</guid>
         
         <category>daily</category>
         
