@@ -12,10 +12,10 @@
     "items": [
       {
         {
-            "id": "/dail-digest-316",
+            "id": "/daily-digest-316",
             "title": "Daily Digest #316",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/mrzasa/call_logger\">Call Logger – A debugging tool that lets you log method usage</a></li>\n  <li><a href=\"https://noncombatant.org/2019/01/06/state-of-security-2019/\">The State Of Software Security In 2019</a></li>\n  <li><a href=\"https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a\">Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command &amp; Control Tool</a></li>\n  <li><a href=\"https://blog.golang.org/debugging-what-you-deploy\">Debugging what you deploy in Go 1.12</a></li>\n  <li><a href=\"https://spotify.design/articles/2018-12-04/the-paradox-of-design-systems/\">The Paradox of Design Systems</a></li>\n  <li><a href=\"https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6\">Karabiner God Mode</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//dail-digest-316/",
+            "url": "https://jakartadev.org//daily-digest-316/",
             "summary": "",
             "date_published": "2019-03-28 00:00:00 +0700"
         },
