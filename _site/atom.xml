@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-03-28T10:20:39+07:00</updated>
+ <updated>2019-03-29T15:06:08+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;317</title>
+   <link href="https://jakartadev.org//daily-digest-317/"/>
+   <updated>2019-03-29T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-317</id>
+   <content type="html">&lt;p&gt;weekend reading!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html&quot;&gt;3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://heleo.com/conversation-why-the-best-leaders-dont-always-have-a-plan/19649/&quot;&gt;Why the Best Leaders Don’t Always Have a Plan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/agile-isnt-new-it-s-just-common-sense-rebranded-d4238a40c800&quot;&gt;Agile Isn’t New, It’s Just Common Sense Rebranded&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/12/stackoverflow-monitoring&quot;&gt;Inside Stack Overflow’s Monitoring Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/generic-css-mobile-first/&quot;&gt;Generic First CSS: New Thinking On Mobile First&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;316</title>

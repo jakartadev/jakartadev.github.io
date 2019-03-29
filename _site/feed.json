@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-317",
+            "title": "Daily Digest #317",
+            "content_html": "<p>weekend reading!</p>\n\n<ul>\n  <li><a href=\"https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html\">3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present</a></li>\n  <li><a href=\"https://heleo.com/conversation-why-the-best-leaders-dont-always-have-a-plan/19649/\">Why the Best Leaders Don’t Always Have a Plan</a></li>\n  <li><a href=\"https://blog.usejournal.com/agile-isnt-new-it-s-just-common-sense-rebranded-d4238a40c800\">Agile Isn’t New, It’s Just Common Sense Rebranded</a></li>\n  <li><a href=\"https://www.infoq.com/news/2018/12/stackoverflow-monitoring\">Inside Stack Overflow’s Monitoring Systems</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/12/generic-css-mobile-first/\">Generic First CSS: New Thinking On Mobile First</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-317/",
+            "summary": "",
+            "date_published": "2019-03-29 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-316",
             "title": "Daily Digest #316",
             "content_html": "<ul>\n  <li><a href=\"https://github.com/mrzasa/call_logger\">Call Logger – A debugging tool that lets you log method usage</a></li>\n  <li><a href=\"https://noncombatant.org/2019/01/06/state-of-security-2019/\">The State Of Software Security In 2019</a></li>\n  <li><a href=\"https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a\">Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command &amp; Control Tool</a></li>\n  <li><a href=\"https://blog.golang.org/debugging-what-you-deploy\">Debugging what you deploy in Go 1.12</a></li>\n  <li><a href=\"https://spotify.design/articles/2018-12-04/the-paradox-of-design-systems/\">The Paradox of Design Systems</a></li>\n  <li><a href=\"https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6\">Karabiner God Mode</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-313/",
             "summary": "",
             "date_published": "2019-03-25 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-312",
-            "title": "Daily Digest #312",
-            "content_html": "<ul>\n  <li><a href=\"https://speakerdeck.com/garethr/a-continuation-of-devops-policy-as-code\">A continuation of devops: policy as code</a></li>\n  <li><a href=\"https://thewomenintechshow.com/2019/03/11/cloud-computing-tools-with-priyanka-sharma/\">Cloud Computing Tools with Priyanka Sharma</a></li>\n  <li><a href=\"https://stackshare.io/launchdarkly/redux-scaling-launchdarkly-from-4-to-200-billion-feature-flags-daily\"> Redux: Scaling LaunchDarkly from 4 to 200 billion feature flags daily </a></li>\n  <li><a href=\"https://www.cloudatomiclab.com/rustyk8s/\">Kubernetes as an API standard</a></li>\n  <li><a href=\"https://getdockup.com/\">On demand staging environments for engineering teams</a></li>\n  <li><a href=\"https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/\"> Cloud Irregular: IAM Is The Real Cloud Lock-In </a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-312/",
-            "summary": "",
-            "date_published": "2019-03-22 00:00:00 +0700"
         }
 
     ]
