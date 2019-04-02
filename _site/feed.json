@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-319",
+            "title": "Daily Digest #319",
+            "content_html": "<ul>\n  <li><a href=\"https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/\">Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization</a></li>\n  <li><a href=\"https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/\">Benchmark PostgreSQL With Linux HugePages</a></li>\n  <li><a href=\"https://code.fb.com/ai-research/nevergrad/\">Nevergrad: An open source tool for derivative-free optimization</a></li>\n  <li><a href=\"https://kubedb.com/\">KubeDB – Run production-grade databases easily on Kubernetes</a></li>\n  <li><a href=\"https://diogomonica.com/2018/10/07/a-pirates-take-on-strategy-vs-tactics/\">A Pirate’s take on Strategy vs. Tactics</a></li>\n  <li><a href=\"https://medium.com/@wgalyean/how-to-lead-f4383da7047c\">How To Lead</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-319/",
+            "summary": "",
+            "date_published": "2019-04-02 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-318",
             "title": "Daily Digest #318",
             "content_html": "<ul>\n  <li><a href=\"https://engineering.grab.com/designing-resilient-systems-part-1\">Designing resilient systems – part 1</a></li>\n  <li><a href=\"https://github.com/dpc/crev\">Crev – Scalable, social, Code REView and recommendation system that we desperately need</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/flexibility-is-the-greatest-perk/\">Flexibility is the greatest perk</a></li>\n  <li><a href=\"https://www.schemacrawler.com/diagramming.html\">SchemaCrawler Database Diagramming</a></li>\n  <li><a href=\"https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/\">Seven tough lessons from ten years in bootstrapped business</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-315/",
             "summary": "",
             "date_published": "2019-03-27 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-314",
-            "title": "Daily Digest #314",
-            "content_html": "<ul>\n  <li><a href=\"https://orbifold.xyz/not-callable.html\">Don’t Make It Callable</a></li>\n  <li><a href=\"https://medium.com/packagr/using-packagr-with-poetry-4bc986215bd2\">Using Packagr with poetry</a></li>\n  <li><a href=\"https://medium.com/adobetech/why-i-a-serverless-developer-dont-care-about-your-containers-40c08d36aee4\">Why I, A Serverless Developer, Don’t Care About Your Containers</a></li>\n  <li><a href=\"https://github.com/autonomy/talos\">Talos is a modern Linux distribution designed to be secure, immutable, and minimal.</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-314/",
-            "summary": "",
-            "date_published": "2019-03-26 00:00:00 +0700"
         }
 
     ]

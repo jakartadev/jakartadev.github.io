@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-01T11:52:49+07:00</updated>
+ <updated>2019-04-02T12:42:40+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;319</title>
+   <link href="https://jakartadev.org//daily-digest-319/"/>
+   <updated>2019-04-02T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-319</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/&quot;&gt;Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/&quot;&gt;Benchmark PostgreSQL With Linux HugePages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/nevergrad/&quot;&gt;Nevergrad: An open source tool for derivative-free optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubedb.com/&quot;&gt;KubeDB – Run production-grade databases easily on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diogomonica.com/2018/10/07/a-pirates-take-on-strategy-vs-tactics/&quot;&gt;A Pirate’s take on Strategy vs. Tactics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wgalyean/how-to-lead-f4383da7047c&quot;&gt;How To Lead&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;318</title>

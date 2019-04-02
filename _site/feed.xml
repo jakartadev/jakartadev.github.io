@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Apr 2019 11:52:49 +0700</pubDate>
-    <lastBuildDate>Mon, 01 Apr 2019 11:52:49 +0700</lastBuildDate>
+    <pubDate>Tue, 02 Apr 2019 12:42:40 +0700</pubDate>
+    <lastBuildDate>Tue, 02 Apr 2019 12:42:40 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;319</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/&quot;&gt;Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/&quot;&gt;Benchmark PostgreSQL With Linux HugePages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/nevergrad/&quot;&gt;Nevergrad: An open source tool for derivative-free optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubedb.com/&quot;&gt;KubeDB – Run production-grade databases easily on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diogomonica.com/2018/10/07/a-pirates-take-on-strategy-vs-tactics/&quot;&gt;A Pirate’s take on Strategy vs. Tactics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wgalyean/how-to-lead-f4383da7047c&quot;&gt;How To Lead&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 02 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-319/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-319/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;318</title>
@@ -196,27 +218,6 @@
         <pubDate>Wed, 20 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-310/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-310/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;309</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.hltbra.net/2019/03/06/aws-fargate.html&quot;&gt;Is AWS Fargate The Future of Containers?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/&quot;&gt;The What and the Why of the Cluster API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cloudops.com/2019/01/a-brief-guide-to-securing-containers-at-scale/&quot;&gt;A Brief Guide to Securing Containers at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/triggermesh/aktion&quot;&gt;Aktion – Translates GitHub Actions into Tekton and Knative Objects&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/structured-logging&quot;&gt;Structured Logging: The Best Friend You’ll Want When Things Go Wrong&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 19 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-309/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-309/</guid>
         
         <category>daily</category>
         
