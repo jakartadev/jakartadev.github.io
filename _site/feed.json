@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-320",
+            "title": "Daily Digest #320",
+            "content_html": "<ul>\n  <li><a href=\"https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff\">Running Apache Airflow At Lyft</a></li>\n  <li><a href=\"https://blog.scottlogic.com/2018/12/21/decent-code-a-concise-guide-to-writing-better-code.html\">Introducing decent-code: A concise guide to writing better code</a></li>\n  <li><a href=\"https://itnext.io/kubernetes-multi-cluster-networking-made-simple-c8f26827813\">Kubernetes multi-cluster networking made simple</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0\">Netflix OSS and Spring Boot — Coming Full Circle</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-320/",
+            "summary": "",
+            "date_published": "2019-04-03 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-319",
             "title": "Daily Digest #319",
             "content_html": "<ul>\n  <li><a href=\"https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/\">Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization</a></li>\n  <li><a href=\"https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/\">Benchmark PostgreSQL With Linux HugePages</a></li>\n  <li><a href=\"https://code.fb.com/ai-research/nevergrad/\">Nevergrad: An open source tool for derivative-free optimization</a></li>\n  <li><a href=\"https://kubedb.com/\">KubeDB – Run production-grade databases easily on Kubernetes</a></li>\n  <li><a href=\"https://diogomonica.com/2018/10/07/a-pirates-take-on-strategy-vs-tactics/\">A Pirate’s take on Strategy vs. Tactics</a></li>\n  <li><a href=\"https://medium.com/@wgalyean/how-to-lead-f4383da7047c\">How To Lead</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-316/",
             "summary": "",
             "date_published": "2019-03-28 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-315",
-            "title": "Daily Digest #315",
-            "content_html": "<ul>\n  <li><a href=\"https://github.com/joelparkerhenderson/queueing_theory\">Queueing theory: an introduction for software development</a></li>\n  <li><a href=\"https://medium.com/@fxn/zeitwerk-a-new-code-loader-for-ruby-ae7895977e73\">Zeitwerk: A new code loader for Ruby</a></li>\n  <li><a href=\"https://hackernoon.com/going-agile-c9fcce6cb65\">“Going Agile”</a></li>\n  <li><a href=\"https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze\">Canary analysis: Lessons learned and best practices from Google and Waze</a></li>\n  <li><a href=\"https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d\">Four Startup Engineering Killers</a></li>\n  <li><a href=\"https://amy.dev/?p=853\">Data structures to name-drop when you want to sound smart in an interview</a></li>\n  <li><a href=\"https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e\">Effective Mental Models for Code and Systems</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-315/",
-            "summary": "",
-            "date_published": "2019-03-27 00:00:00 +0700"
         }
 
     ]

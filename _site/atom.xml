@@ -4,13 +4,27 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-02T12:42:40+07:00</updated>
+ <updated>2019-04-03T18:28:29+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;320</title>
+   <link href="https://jakartadev.org//daily-digest-320/"/>
+   <updated>2019-04-03T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-320</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff&quot;&gt;Running Apache Airflow At Lyft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/12/21/decent-code-a-concise-guide-to-writing-better-code.html&quot;&gt;Introducing decent-code: A concise guide to writing better code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-multi-cluster-networking-made-simple-c8f26827813&quot;&gt;Kubernetes multi-cluster networking made simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0&quot;&gt;Netflix OSS and Spring Boot — Coming Full Circle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;319</title>

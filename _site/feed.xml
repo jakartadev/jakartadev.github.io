@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Apr 2019 12:42:40 +0700</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2019 12:42:40 +0700</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2019 18:28:29 +0700</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2019 18:28:29 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;320</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff&quot;&gt;Running Apache Airflow At Lyft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/12/21/decent-code-a-concise-guide-to-writing-better-code.html&quot;&gt;Introducing decent-code: A concise guide to writing better code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-multi-cluster-networking-made-simple-c8f26827813&quot;&gt;Kubernetes multi-cluster networking made simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0&quot;&gt;Netflix OSS and Spring Boot — Coming Full Circle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 03 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-320/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-320/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;319</title>
@@ -197,27 +217,6 @@
         <pubDate>Thu, 21 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-311/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-311/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;310</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.gruntwork.io/automated-testing-for-kubernetes-and-helm-charts-using-terratest-a4ddc4e67344&quot;&gt;Automated Testing for Kubernetes and Helm Charts using Terratest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@samdemers/software-estimates-and-other-lies-17ffc29ea6b7&quot;&gt;Software Estimates and Other Lies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/outsystems-engineering/the-three-pillars-of-product-agility-part-1-the-north-star-354ddf4ef51&quot;&gt;The Three Pillars of Product Agility — Part 1: The North Star&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/whats-wrong-your-value-stream-mapping&quot;&gt;What’s wrong with your value stream mapping &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188&quot;&gt;Murder On The Kubernetes Express: The Life And Death Of A Docker Container&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 20 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-310/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-310/</guid>
         
         <category>daily</category>
         
