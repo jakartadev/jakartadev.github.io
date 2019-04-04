@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-03T18:28:29+07:00</updated>
+ <updated>2019-04-04T10:58:59+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;320</title>
+   <link href="https://jakartadev.org//daily-digest-321/"/>
+   <updated>2019-04-04T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-321</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitch.tv/how-does-vp9-deliver-value-for-twitchs-esports-live-streaming-35db26f6322f&quot;&gt;How VP9 delivers value for Twitch’s esports live streaming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-in-production-shopgun-2c280f0c0923&quot;&gt;Kubernetes in production @ ShopGun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-beacon/&quot;&gt;How Uber Beacon Helps Improve Safety for Riders and Drivers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/core-data/zstandard/&quot;&gt;5 ways Facebook improved compression at scale with Zstandard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sharing-modules-across-experience-services-and-multi-screen-applications/&quot;&gt;Sharing Modules Across Experience Services and Multi-Screen Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;320</title>

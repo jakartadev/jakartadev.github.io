@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Apr 2019 18:28:29 +0700</pubDate>
-    <lastBuildDate>Wed, 03 Apr 2019 18:28:29 +0700</lastBuildDate>
+    <pubDate>Thu, 04 Apr 2019 10:58:59 +0700</pubDate>
+    <lastBuildDate>Thu, 04 Apr 2019 10:58:59 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;320</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitch.tv/how-does-vp9-deliver-value-for-twitchs-esports-live-streaming-35db26f6322f&quot;&gt;How VP9 delivers value for Twitch’s esports live streaming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-in-production-shopgun-2c280f0c0923&quot;&gt;Kubernetes in production @ ShopGun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-beacon/&quot;&gt;How Uber Beacon Helps Improve Safety for Riders and Drivers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/core-data/zstandard/&quot;&gt;5 ways Facebook improved compression at scale with Zstandard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sharing-modules-across-experience-services-and-multi-screen-applications/&quot;&gt;Sharing Modules Across Experience Services and Multi-Screen Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 04 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-321/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-321/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;320</title>
@@ -195,28 +216,6 @@
         <pubDate>Fri, 22 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-312/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-312/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;311</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/3-trends-in-tracking-software-delivery/&quot;&gt;3 Trends in Tracking Software Delivery&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thispointer.com/pandas-how-to-merge-dataframes-using-dataframe-merge-in-python-part-1/&quot;&gt;Pandas : How to Merge Dataframes using Dataframe.merge() in Python – Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd&quot;&gt;The 737Max and Why Software Engineers Might Want to Pay Attention&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/sarahjwells/qcon-london-2019-mature-microservices-and-how-to-operate-them&quot;&gt;QCon London 2019: Mature microservices and how to operate them&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@semaphoreci/a-reality-check-about-cloud-native-devops-384aee39a2e0&quot;&gt;A Reality Check About Cloud Native DevOps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/a-docker-product-manager-on-what-the-future-holds-for-containers/&quot;&gt;A Docker Product Manager on What the Future Holds for Containers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 21 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-311/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-311/</guid>
         
         <category>daily</category>
         
