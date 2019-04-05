@@ -4,7 +4,7 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-04T10:58:59+07:00</updated>
+ <updated>2019-04-05T11:32:29+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
@@ -13,7 +13,22 @@
 
  
  <entry>
-   <title>Daily Digest &#35;320</title>
+   <title>Daily Digest &#35;322</title>
+   <link href="https://jakartadev.org//daily-digest-322/"/>
+   <updated>2019-04-05T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-322</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/&quot;&gt;Security Considerations for Container Runtimes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thoughtbot.com/blog/how-to-get-better-at-pair-programming&quot;&gt; How to Get Better at Pair Programming &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/&quot;&gt;Cape Technical Deep Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.golang.org/modules2019&quot;&gt;Go Modules in 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/netflix-migration-resilience&quot;&gt;Building Resilience in Production Migrations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;321</title>
    <link href="https://jakartadev.org//daily-digest-321/"/>
    <updated>2019-04-04T00:00:00+07:00</updated>
    <id>https://jakartadev.org//daily-digest-321</id>
