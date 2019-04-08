@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-323",
+            "title": "Daily Digest #323",
+            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de\">From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00\">Learnings from rebuilding our checkout experience</a></li>\n  <li><a href=\"https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/\">Envoy Proxy at Reddit</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d\">Operating Vitess</a></li>\n  <li><a href=\"https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56\">Lessons Learned at Instagram Stories and Feed Machine Learning</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-323/",
+            "summary": "",
+            "date_published": "2019-04-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-322",
             "title": "Daily Digest #322",
             "content_html": "<ul>\n  <li><a href=\"https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/\">Security Considerations for Container Runtimes</a></li>\n  <li><a href=\"https://thoughtbot.com/blog/how-to-get-better-at-pair-programming\"> How to Get Better at Pair Programming </a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/\">Cape Technical Deep Dive</a></li>\n  <li><a href=\"https://blog.golang.org/modules2019\">Go Modules in 2019</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/netflix-migration-resilience\">Building Resilience in Production Migrations</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-319/",
             "summary": "",
             "date_published": "2019-04-02 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-318",
-            "title": "Daily Digest #318",
-            "content_html": "<ul>\n  <li><a href=\"https://engineering.grab.com/designing-resilient-systems-part-1\">Designing resilient systems – part 1</a></li>\n  <li><a href=\"https://github.com/dpc/crev\">Crev – Scalable, social, Code REView and recommendation system that we desperately need</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/flexibility-is-the-greatest-perk/\">Flexibility is the greatest perk</a></li>\n  <li><a href=\"https://www.schemacrawler.com/diagramming.html\">SchemaCrawler Database Diagramming</a></li>\n  <li><a href=\"https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/\">Seven tough lessons from ten years in bootstrapped business</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-318/",
-            "summary": "",
-            "date_published": "2019-04-01 00:00:00 +0700"
         }
 
     ]

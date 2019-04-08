@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-05T11:32:29+07:00</updated>
+ <updated>2019-04-08T15:34:30+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;323</title>
+   <link href="https://jakartadev.org//daily-digest-323/"/>
+   <updated>2019-04-08T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-323</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de&quot;&gt;From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00&quot;&gt;Learnings from rebuilding our checkout experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/&quot;&gt;Envoy Proxy at Reddit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d&quot;&gt;Operating Vitess&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56&quot;&gt;Lessons Learned at Instagram Stories and Feed Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;322</title>

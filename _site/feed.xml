@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Apr 2019 11:32:29 +0700</pubDate>
-    <lastBuildDate>Fri, 05 Apr 2019 11:32:29 +0700</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2019 15:34:30 +0700</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2019 15:34:30 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;323</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de&quot;&gt;From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00&quot;&gt;Learnings from rebuilding our checkout experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/&quot;&gt;Envoy Proxy at Reddit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d&quot;&gt;Operating Vitess&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56&quot;&gt;Lessons Learned at Instagram Stories and Feed Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-323/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-323/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;322</title>
@@ -194,27 +215,6 @@
         <pubDate>Tue, 26 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-314/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-314/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;313</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/&quot;&gt;Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/wallyqs/connect-everything-with-nats-cloud-expo-europe&quot;&gt;Connect Everything with NATS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pydist.com/blog/python-packages-since-2005&quot;&gt;Python Packages Since 2005&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://m.subbu.org/taming-the-rate-of-change-439e3dccbb5d&quot;&gt;Taming the Rate of Change&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/adobetech/serverless-microservices-and-service-mesh-oh-my-cd7903bd499d&quot;&gt;Serverless, Microservices, and Service Mesh — Oh My&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 25 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-313/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-313/</guid>
         
         <category>daily</category>
         
