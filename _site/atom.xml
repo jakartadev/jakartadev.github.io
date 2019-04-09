@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-08T15:34:30+07:00</updated>
+ <updated>2019-04-09T11:52:48+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;324</title>
+   <link href="https://jakartadev.org//daily-digest-324/"/>
+   <updated>2019-04-09T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-324</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02&quot;&gt;Beyond “How May I Help You?”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/introducing-deploy-pipelines-to-airbnb-fc804ac2a157&quot;&gt;Introducing Pipelines to Airbnb’s Deployment Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/12/07/monte-carlo-power-analysis.html&quot;&gt;Monte Carlo Power Analysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/cf-pipeline-mastercard&quot;&gt;Extreme Pipelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/native-secondary-indexing-in-manhattan.html&quot;&gt;Native secondary indexing in Manhattan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/android/benefits-of-clean-architecture-android&quot;&gt;Discover the Benefits of Android Clean Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;323</title>
