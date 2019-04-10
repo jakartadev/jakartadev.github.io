@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Apr 2019 11:52:48 +0700</pubDate>
-    <lastBuildDate>Tue, 09 Apr 2019 11:52:48 +0700</lastBuildDate>
+    <pubDate>Wed, 10 Apr 2019 15:10:16 +0700</pubDate>
+    <lastBuildDate>Wed, 10 Apr 2019 15:10:16 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;325</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/lets-talk-about-story-mapping/&quot;&gt;Let’s talk about Story Mapping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/&quot;&gt;What is an Engineering Manager?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;kube-score – Kubernetes object analysis with recommendations for improved reliability and security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7&quot;&gt;It’s 2019 and I Still Make Websites with my Bare Hands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/pytext-open-source-nlp-framework/&quot;&gt;Open-sourcing PyText for faster NLP development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/scaling-secure-tunnels-for-browser-testing-9673c71505d&quot;&gt;Scaling secure tunnels for browser testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.doyensec.com/2019/01/24/electronegativity.html&quot;&gt;Electronegativity is finally out!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-325/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-325/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;324</title>
@@ -194,29 +217,6 @@
         <pubDate>Thu, 28 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-316/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-316/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;315</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joelparkerhenderson/queueing_theory&quot;&gt;Queueing theory: an introduction for software development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@fxn/zeitwerk-a-new-code-loader-for-ruby-ae7895977e73&quot;&gt;Zeitwerk: A new code loader for Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/going-agile-c9fcce6cb65&quot;&gt;“Going Agile”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze&quot;&gt;Canary analysis: Lessons learned and best practices from Google and Waze&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d&quot;&gt;Four Startup Engineering Killers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amy.dev/?p=853&quot;&gt;Data structures to name-drop when you want to sound smart in an interview&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e&quot;&gt;Effective Mental Models for Code and Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 27 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-315/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-315/</guid>
         
         <category>daily</category>
         

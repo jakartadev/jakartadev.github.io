@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-09T11:52:48+07:00</updated>
+ <updated>2019-04-10T15:10:16+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;325</title>
+   <link href="https://jakartadev.org//daily-digest-325/"/>
+   <updated>2019-04-10T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-325</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/lets-talk-about-story-mapping/&quot;&gt;Let’s talk about Story Mapping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/&quot;&gt;What is an Engineering Manager?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;kube-score – Kubernetes object analysis with recommendations for improved reliability and security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7&quot;&gt;It’s 2019 and I Still Make Websites with my Bare Hands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/pytext-open-source-nlp-framework/&quot;&gt;Open-sourcing PyText for faster NLP development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/scaling-secure-tunnels-for-browser-testing-9673c71505d&quot;&gt;Scaling secure tunnels for browser testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.doyensec.com/2019/01/24/electronegativity.html&quot;&gt;Electronegativity is finally out!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;324</title>
