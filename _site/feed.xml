@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Apr 2019 15:10:16 +0700</pubDate>
-    <lastBuildDate>Wed, 10 Apr 2019 15:10:16 +0700</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2019 16:28:44 +0700</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2019 16:28:44 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;326</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jamesshore.com/Blog/Where-Do-You-Want-Your-Complexity.html&quot;&gt;Large-Scale Agile: Where Do You Want Your Complexity?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nickcaldwell/menteegoals-prepping-for-your-mentoring-relationship-bdfeca70f0a3&quot;&gt;#MenteeGoals Prepping for a mentoring relationship&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://knowyourteam.com/blog/2019/01/15/building-trust-in-teams-what-and-why/&quot;&gt; Building trust in teams: What and why? &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/&quot;&gt;What Does Open Source Mean in the Era of Cloud APIs?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/the-design-of-engineering-culture&quot;&gt;The Design of Engineering Culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/charlax/professional-programming&quot;&gt;A collection of full-stack resources for programmers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.keyvalues.com/blog/what-exactly-do-developer-advocates-do?&quot;&gt;What exactly do developer advocates do?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-326/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-326/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;325</title>
@@ -195,28 +218,6 @@
         <pubDate>Fri, 29 Mar 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-317/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-317/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;316</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/mrzasa/call_logger&quot;&gt;Call Logger – A debugging tool that lets you log method usage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://noncombatant.org/2019/01/06/state-of-security-2019/&quot;&gt;The State Of Software Security In 2019&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a&quot;&gt;Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command &amp;amp; Control Tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.golang.org/debugging-what-you-deploy&quot;&gt;Debugging what you deploy in Go 1.12&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://spotify.design/articles/2018-12-04/the-paradox-of-design-systems/&quot;&gt;The Paradox of Design Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6&quot;&gt;Karabiner God Mode&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 28 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-316/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-316/</guid>
         
         <category>daily</category>
         

@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-10T15:10:16+07:00</updated>
+ <updated>2019-04-11T16:28:44+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;326</title>
+   <link href="https://jakartadev.org//daily-digest-326/"/>
+   <updated>2019-04-11T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-326</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jamesshore.com/Blog/Where-Do-You-Want-Your-Complexity.html&quot;&gt;Large-Scale Agile: Where Do You Want Your Complexity?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nickcaldwell/menteegoals-prepping-for-your-mentoring-relationship-bdfeca70f0a3&quot;&gt;#MenteeGoals Prepping for a mentoring relationship&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://knowyourteam.com/blog/2019/01/15/building-trust-in-teams-what-and-why/&quot;&gt; Building trust in teams: What and why? &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/&quot;&gt;What Does Open Source Mean in the Era of Cloud APIs?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/the-design-of-engineering-culture&quot;&gt;The Design of Engineering Culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/charlax/professional-programming&quot;&gt;A collection of full-stack resources for programmers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.keyvalues.com/blog/what-exactly-do-developer-advocates-do?&quot;&gt;What exactly do developer advocates do?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;325</title>
