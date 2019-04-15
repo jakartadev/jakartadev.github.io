@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-11T16:28:44+07:00</updated>
+ <updated>2019-04-15T11:41:13+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;327</title>
+   <link href="https://jakartadev.org//daily-digest-327/"/>
+   <updated>2019-04-15T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-327</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.techcoil.com/blog/how-i-use-my-raspberry-pis-to-help-me-work-on-with-my-side-projects/&quot;&gt;How I use my Raspberry Pis to help me work on with my side projects &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alash3al/sqler&quot;&gt;Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cathydutton.co.uk/posts/why-i-stopped-using-sass/&quot;&gt;Stepping away from Sass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://securitycheckli.st/&quot;&gt;Be safe on the internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.abstract.com/blog/decolonizing-silicon-valley/&quot;&gt;Decolonizing Silicon Valley: The critical role of inclusion in tech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.swtch.com/deps&quot;&gt;Our Software Dependency Problem &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;326</title>

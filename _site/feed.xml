@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 16:28:44 +0700</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 16:28:44 +0700</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2019 11:41:13 +0700</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2019 11:41:13 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;327</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.techcoil.com/blog/how-i-use-my-raspberry-pis-to-help-me-work-on-with-my-side-projects/&quot;&gt;How I use my Raspberry Pis to help me work on with my side projects &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alash3al/sqler&quot;&gt;Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cathydutton.co.uk/posts/why-i-stopped-using-sass/&quot;&gt;Stepping away from Sass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://securitycheckli.st/&quot;&gt;Be safe on the internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.abstract.com/blog/decolonizing-silicon-valley/&quot;&gt;Decolonizing Silicon Valley: The critical role of inclusion in tech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.swtch.com/deps&quot;&gt;Our Software Dependency Problem &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-327/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-327/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;326</title>
@@ -195,29 +217,6 @@
         <pubDate>Mon, 01 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-318/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-318/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;317</title>
-        <description>&lt;p&gt;weekend reading!&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html&quot;&gt;3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://heleo.com/conversation-why-the-best-leaders-dont-always-have-a-plan/19649/&quot;&gt;Why the Best Leaders Don’t Always Have a Plan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/agile-isnt-new-it-s-just-common-sense-rebranded-d4238a40c800&quot;&gt;Agile Isn’t New, It’s Just Common Sense Rebranded&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/12/stackoverflow-monitoring&quot;&gt;Inside Stack Overflow’s Monitoring Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/generic-css-mobile-first/&quot;&gt;Generic First CSS: New Thinking On Mobile First&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 29 Mar 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-317/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-317/</guid>
         
         <category>daily</category>
         

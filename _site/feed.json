@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-327",
+            "title": "Daily Digest #327",
+            "content_html": "<ul>\n  <li><a href=\"https://www.techcoil.com/blog/how-i-use-my-raspberry-pis-to-help-me-work-on-with-my-side-projects/\">How I use my Raspberry Pis to help me work on with my side projects </a></li>\n  <li><a href=\"https://github.com/alash3al/sqler\">Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL</a></li>\n  <li><a href=\"https://cathydutton.co.uk/posts/why-i-stopped-using-sass/\">Stepping away from Sass</a></li>\n  <li><a href=\"https://securitycheckli.st/\">Be safe on the internet</a></li>\n  <li><a href=\"https://www.abstract.com/blog/decolonizing-silicon-valley/\">Decolonizing Silicon Valley: The critical role of inclusion in tech</a></li>\n  <li><a href=\"https://research.swtch.com/deps\">Our Software Dependency Problem </a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-327/",
+            "summary": "",
+            "date_published": "2019-04-15 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-326",
             "title": "Daily Digest #326",
             "content_html": "<ul>\n  <li><a href=\"https://www.jamesshore.com/Blog/Where-Do-You-Want-Your-Complexity.html\">Large-Scale Agile: Where Do You Want Your Complexity?</a></li>\n  <li><a href=\"https://medium.com/@nickcaldwell/menteegoals-prepping-for-your-mentoring-relationship-bdfeca70f0a3\">#MenteeGoals Prepping for a mentoring relationship</a></li>\n  <li><a href=\"https://knowyourteam.com/blog/2019/01/15/building-trust-in-teams-what-and-why/\"> Building trust in teams: What and why? </a></li>\n  <li><a href=\"https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/\">What Does Open Source Mean in the Era of Cloud APIs?</a></li>\n  <li><a href=\"https://dzone.com/articles/the-design-of-engineering-culture\">The Design of Engineering Culture</a></li>\n  <li><a href=\"https://github.com/charlax/professional-programming\">A collection of full-stack resources for programmers</a></li>\n  <li><a href=\"https://www.keyvalues.com/blog/what-exactly-do-developer-advocates-do?\">What exactly do developer advocates do?</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-323/",
             "summary": "",
             "date_published": "2019-04-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-322",
-            "title": "Daily Digest #322",
-            "content_html": "<ul>\n  <li><a href=\"https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/\">Security Considerations for Container Runtimes</a></li>\n  <li><a href=\"https://thoughtbot.com/blog/how-to-get-better-at-pair-programming\"> How to Get Better at Pair Programming </a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/\">Cape Technical Deep Dive</a></li>\n  <li><a href=\"https://blog.golang.org/modules2019\">Go Modules in 2019</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/netflix-migration-resilience\">Building Resilience in Production Migrations</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-322/",
-            "summary": "",
-            "date_published": "2019-04-05 00:00:00 +0700"
         }
 
     ]
