@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-328",
+            "title": "Daily Digest #328",
+            "content_html": "<ul>\n  <li><a href=\"https://diamantidis.github.io/2019/01/06/curl-options\">Useful Curl features</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/the-joy-of-caretaking/\">The joy of caretaking</a></li>\n  <li><a href=\"http://blog.plataformatec.com.br/2019/01/working-with-distributed-teams/\">Working with distributed teams</a></li>\n  <li><a href=\"https://github.com/twpayne/chezmoi\">Chezmoi – Manage your dotfiles across multiple machines, securely</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a\">Implementing the Netflix Media Database</a></li>\n  <li><a href=\"https://engineering.pivotal.io/post/stateful-apps-toc/\">Stateful Apps in Kubernetes</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-328/",
+            "summary": "",
+            "date_published": "2019-04-16 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-327",
             "title": "Daily Digest #327",
             "content_html": "<ul>\n  <li><a href=\"https://www.techcoil.com/blog/how-i-use-my-raspberry-pis-to-help-me-work-on-with-my-side-projects/\">How I use my Raspberry Pis to help me work on with my side projects </a></li>\n  <li><a href=\"https://github.com/alash3al/sqler\">Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL</a></li>\n  <li><a href=\"https://cathydutton.co.uk/posts/why-i-stopped-using-sass/\">Stepping away from Sass</a></li>\n  <li><a href=\"https://securitycheckli.st/\">Be safe on the internet</a></li>\n  <li><a href=\"https://www.abstract.com/blog/decolonizing-silicon-valley/\">Decolonizing Silicon Valley: The critical role of inclusion in tech</a></li>\n  <li><a href=\"https://research.swtch.com/deps\">Our Software Dependency Problem </a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-324/",
             "summary": "",
             "date_published": "2019-04-09 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-323",
-            "title": "Daily Digest #323",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de\">From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00\">Learnings from rebuilding our checkout experience</a></li>\n  <li><a href=\"https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/\">Envoy Proxy at Reddit</a></li>\n  <li><a href=\"https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d\">Operating Vitess</a></li>\n  <li><a href=\"https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56\">Lessons Learned at Instagram Stories and Feed Machine Learning</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-323/",
-            "summary": "",
-            "date_published": "2019-04-08 00:00:00 +0700"
         }
 
     ]

@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Apr 2019 11:41:13 +0700</pubDate>
-    <lastBuildDate>Mon, 15 Apr 2019 11:41:13 +0700</lastBuildDate>
+    <pubDate>Tue, 16 Apr 2019 16:51:49 +0700</pubDate>
+    <lastBuildDate>Tue, 16 Apr 2019 16:51:49 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;328</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diamantidis.github.io/2019/01/06/curl-options&quot;&gt;Useful Curl features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/the-joy-of-caretaking/&quot;&gt;The joy of caretaking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/working-with-distributed-teams/&quot;&gt;Working with distributed teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/twpayne/chezmoi&quot;&gt;Chezmoi – Manage your dotfiles across multiple machines, securely&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a&quot;&gt;Implementing the Netflix Media Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.pivotal.io/post/stateful-apps-toc/&quot;&gt;Stateful Apps in Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 16 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-328/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-328/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;327</title>
@@ -196,27 +218,6 @@
         <pubDate>Tue, 02 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-319/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-319/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;318</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-1&quot;&gt;Designing resilient systems – part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/dpc/crev&quot;&gt;Crev – Scalable, social, Code REView and recommendation system that we desperately need&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/flexibility-is-the-greatest-perk/&quot;&gt;Flexibility is the greatest perk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.schemacrawler.com/diagramming.html&quot;&gt;SchemaCrawler Database Diagramming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/&quot;&gt;Seven tough lessons from ten years in bootstrapped business&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 01 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-318/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-318/</guid>
         
         <category>daily</category>
         
