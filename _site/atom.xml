@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-16T16:51:49+07:00</updated>
+ <updated>2019-04-22T12:08:18+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;329</title>
+   <link href="https://jakartadev.org//daily-digest-329/"/>
+   <updated>2019-04-22T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-329</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/data-infrastructure/hyperloglog/&quot;&gt;HyperLogLog in Presto: A significantly faster way to handle cardinality estimation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation/&quot;&gt;The Role of Domain Driven Architecture and GraphQL in Digital Transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/typography/web-typography-infographic&quot;&gt;Designing for Readability - A Guide to Web Typography (with Infographic)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/&quot;&gt;Bigtable Autoscaler: saving money and time using managed storage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/security/dns-over-tls/&quot;&gt;DNS over TLS: Encrypting DNS end-to-end&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;328</title>

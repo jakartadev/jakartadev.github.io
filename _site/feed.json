@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-329",
+            "title": "Daily Digest #329",
+            "content_html": "<ul>\n  <li><a href=\"https://code.fb.com/data-infrastructure/hyperloglog/\">HyperLogLog in Presto: A significantly faster way to handle cardinality estimation</a></li>\n  <li><a href=\"https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation/\">The Role of Domain Driven Architecture and GraphQL in Digital Transformation</a></li>\n  <li><a href=\"https://www.toptal.com/designers/typography/web-typography-infographic\">Designing for Readability - A Guide to Web Typography (with Infographic)</a></li>\n  <li><a href=\"https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/\">Bigtable Autoscaler: saving money and time using managed storage</a></li>\n  <li><a href=\"https://code.fb.com/security/dns-over-tls/\">DNS over TLS: Encrypting DNS end-to-end</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-329/",
+            "summary": "",
+            "date_published": "2019-04-22 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-328",
             "title": "Daily Digest #328",
             "content_html": "<ul>\n  <li><a href=\"https://diamantidis.github.io/2019/01/06/curl-options\">Useful Curl features</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/the-joy-of-caretaking/\">The joy of caretaking</a></li>\n  <li><a href=\"http://blog.plataformatec.com.br/2019/01/working-with-distributed-teams/\">Working with distributed teams</a></li>\n  <li><a href=\"https://github.com/twpayne/chezmoi\">Chezmoi – Manage your dotfiles across multiple machines, securely</a></li>\n  <li><a href=\"https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a\">Implementing the Netflix Media Database</a></li>\n  <li><a href=\"https://engineering.pivotal.io/post/stateful-apps-toc/\">Stateful Apps in Kubernetes</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-325/",
             "summary": "",
             "date_published": "2019-04-10 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-324",
-            "title": "Daily Digest #324",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02\">Beyond “How May I Help You?”</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/introducing-deploy-pipelines-to-airbnb-fc804ac2a157\">Introducing Pipelines to Airbnb’s Deployment Process</a></li>\n  <li><a href=\"https://deliveroo.engineering/2018/12/07/monte-carlo-power-analysis.html\">Monte Carlo Power Analysis</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/cf-pipeline-mastercard\">Extreme Pipelines</a></li>\n  <li><a href=\"https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/native-secondary-indexing-in-manhattan.html\">Native secondary indexing in Manhattan</a></li>\n  <li><a href=\"https://www.toptal.com/android/benefits-of-clean-architecture-android\">Discover the Benefits of Android Clean Architecture</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-324/",
-            "summary": "",
-            "date_published": "2019-04-09 00:00:00 +0700"
         }
 
     ]
