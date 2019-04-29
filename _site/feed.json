@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-331",
+            "title": "Daily Digest #331",
+            "content_html": "<ul>\n  <li><a href=\"https://pragmacoders.com/blog/packages-and-modern-security\">Packages and Modern Security</a></li>\n  <li><a href=\"https://solnic.codes/2019/01/31/introducing-dry-schema/\">Introducing dry-schema</a></li>\n  <li><a href=\"http://olafurw.com/2019-01-27-programmer-advice/\">Advice to new Programmers</a></li>\n  <li><a href=\"https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/\">How to Make Things High-Quality</a></li>\n  <li><a href=\"https://github.com/matti/kommando\">kommando</a></li>\n  <li><a href=\"https://www.faucet-pipeline.org/\">faucet-pipeline</a></li>\n  <li><a href=\"https://medium.com/mindtouch-engineering/%CE%BB-accelerate-serverless-development-with-cloudformation-3f57ab27d6a3\">λ# — Accelerate Serverless Development with CloudFormation</a></li>\n  <li><a href=\"https://www.linkedin.com/pulse/once-again-scrum-master-project-manager-tobias-mayer-/\">Scrum Master ≠ Project Manager</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-331/",
+            "summary": "",
+            "date_published": "2019-04-29 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-330",
             "title": "Daily Digest #330",
             "content_html": "<ul>\n  <li><a href=\"https://steemit.com/blockchain/@ivoras/putting-wikipedia-on-the-blockchain\">Putting Wikipedia on the blockchain</a></li>\n  <li><a href=\"https://github.com/tyroprogrammer/learn-react-app\">Learn react app</a></li>\n  <li><a href=\"https://github.com/danluu/post-mortems\">Post-mortems lesson</a></li>\n  <li><a href=\"https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html\">CS 331 Spring 2018 A Primer on Type Systems</a></li>\n  <li><a href=\"https://lukekanies.com/my-losing-battle-with-enterprise-sales/\">My Losing Battle with Enterprise Sales</a></li>\n  <li><a href=\"https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html\">On Being A Principal Engineer</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-327/",
             "summary": "",
             "date_published": "2019-04-15 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-326",
-            "title": "Daily Digest #326",
-            "content_html": "<ul>\n  <li><a href=\"https://www.jamesshore.com/Blog/Where-Do-You-Want-Your-Complexity.html\">Large-Scale Agile: Where Do You Want Your Complexity?</a></li>\n  <li><a href=\"https://medium.com/@nickcaldwell/menteegoals-prepping-for-your-mentoring-relationship-bdfeca70f0a3\">#MenteeGoals Prepping for a mentoring relationship</a></li>\n  <li><a href=\"https://knowyourteam.com/blog/2019/01/15/building-trust-in-teams-what-and-why/\"> Building trust in teams: What and why? </a></li>\n  <li><a href=\"https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/\">What Does Open Source Mean in the Era of Cloud APIs?</a></li>\n  <li><a href=\"https://dzone.com/articles/the-design-of-engineering-culture\">The Design of Engineering Culture</a></li>\n  <li><a href=\"https://github.com/charlax/professional-programming\">A collection of full-stack resources for programmers</a></li>\n  <li><a href=\"https://www.keyvalues.com/blog/what-exactly-do-developer-advocates-do?\">What exactly do developer advocates do?</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-326/",
-            "summary": "",
-            "date_published": "2019-04-11 00:00:00 +0700"
         }
 
     ]

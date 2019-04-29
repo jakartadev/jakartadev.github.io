@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Apr 2019 15:26:27 +0700</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2019 15:26:27 +0700</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2019 15:27:21 +0700</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2019 15:27:21 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;331</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pragmacoders.com/blog/packages-and-modern-security&quot;&gt;Packages and Modern Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solnic.codes/2019/01/31/introducing-dry-schema/&quot;&gt;Introducing dry-schema&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://olafurw.com/2019-01-27-programmer-advice/&quot;&gt;Advice to new Programmers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/&quot;&gt;How to Make Things High-Quality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/matti/kommando&quot;&gt;kommando&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.faucet-pipeline.org/&quot;&gt;faucet-pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/mindtouch-engineering/%CE%BB-accelerate-serverless-development-with-cloudformation-3f57ab27d6a3&quot;&gt;λ# — Accelerate Serverless Development with CloudFormation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/once-again-scrum-master-project-manager-tobias-mayer-/&quot;&gt;Scrum Master ≠ Project Manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-331/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-331/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;330</title>
@@ -198,27 +222,6 @@
         <pubDate>Fri, 05 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-322/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-322/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;321</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitch.tv/how-does-vp9-deliver-value-for-twitchs-esports-live-streaming-35db26f6322f&quot;&gt;How VP9 delivers value for Twitch’s esports live streaming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-in-production-shopgun-2c280f0c0923&quot;&gt;Kubernetes in production @ ShopGun&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-beacon/&quot;&gt;How Uber Beacon Helps Improve Safety for Riders and Drivers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/core-data/zstandard/&quot;&gt;5 ways Facebook improved compression at scale with Zstandard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sharing-modules-across-experience-services-and-multi-screen-applications/&quot;&gt;Sharing Modules Across Experience Services and Multi-Screen Applications&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 04 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-321/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-321/</guid>
         
         <category>daily</category>
         
