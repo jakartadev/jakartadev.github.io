@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-22T12:08:18+07:00</updated>
+ <updated>2019-04-29T15:26:27+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;330</title>
+   <link href="https://jakartadev.org//daily-digest-330/"/>
+   <updated>2019-04-23T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-330</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://steemit.com/blockchain/@ivoras/putting-wikipedia-on-the-blockchain&quot;&gt;Putting Wikipedia on the blockchain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tyroprogrammer/learn-react-app&quot;&gt;Learn react app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/danluu/post-mortems&quot;&gt;Post-mortems lesson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html&quot;&gt;CS 331 Spring 2018 A Primer on Type Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lukekanies.com/my-losing-battle-with-enterprise-sales/&quot;&gt;My Losing Battle with Enterprise Sales&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html&quot;&gt;On Being A Principal Engineer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;329</title>

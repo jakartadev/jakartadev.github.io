@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Apr 2019 12:08:18 +0700</pubDate>
-    <lastBuildDate>Mon, 22 Apr 2019 12:08:18 +0700</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2019 15:26:27 +0700</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2019 15:26:27 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;330</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://steemit.com/blockchain/@ivoras/putting-wikipedia-on-the-blockchain&quot;&gt;Putting Wikipedia on the blockchain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tyroprogrammer/learn-react-app&quot;&gt;Learn react app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/danluu/post-mortems&quot;&gt;Post-mortems lesson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html&quot;&gt;CS 331 Spring 2018 A Primer on Type Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lukekanies.com/my-losing-battle-with-enterprise-sales/&quot;&gt;My Losing Battle with Enterprise Sales&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html&quot;&gt;On Being A Principal Engineer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-330/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-330/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;329</title>
@@ -197,26 +219,6 @@
         <pubDate>Thu, 04 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-321/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-321/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;320</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff&quot;&gt;Running Apache Airflow At Lyft&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/12/21/decent-code-a-concise-guide-to-writing-better-code.html&quot;&gt;Introducing decent-code: A concise guide to writing better code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-multi-cluster-networking-made-simple-c8f26827813&quot;&gt;Kubernetes multi-cluster networking made simple&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0&quot;&gt;Netflix OSS and Spring Boot — Coming Full Circle&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 03 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-320/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-320/</guid>
         
         <category>daily</category>
         

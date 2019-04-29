@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-330",
+            "title": "Daily Digest #330",
+            "content_html": "<ul>\n  <li><a href=\"https://steemit.com/blockchain/@ivoras/putting-wikipedia-on-the-blockchain\">Putting Wikipedia on the blockchain</a></li>\n  <li><a href=\"https://github.com/tyroprogrammer/learn-react-app\">Learn react app</a></li>\n  <li><a href=\"https://github.com/danluu/post-mortems\">Post-mortems lesson</a></li>\n  <li><a href=\"https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html\">CS 331 Spring 2018 A Primer on Type Systems</a></li>\n  <li><a href=\"https://lukekanies.com/my-losing-battle-with-enterprise-sales/\">My Losing Battle with Enterprise Sales</a></li>\n  <li><a href=\"https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html\">On Being A Principal Engineer</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-330/",
+            "summary": "",
+            "date_published": "2019-04-23 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-329",
             "title": "Daily Digest #329",
             "content_html": "<ul>\n  <li><a href=\"https://code.fb.com/data-infrastructure/hyperloglog/\">HyperLogLog in Presto: A significantly faster way to handle cardinality estimation</a></li>\n  <li><a href=\"https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation/\">The Role of Domain Driven Architecture and GraphQL in Digital Transformation</a></li>\n  <li><a href=\"https://www.toptal.com/designers/typography/web-typography-infographic\">Designing for Readability - A Guide to Web Typography (with Infographic)</a></li>\n  <li><a href=\"https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/\">Bigtable Autoscaler: saving money and time using managed storage</a></li>\n  <li><a href=\"https://code.fb.com/security/dns-over-tls/\">DNS over TLS: Encrypting DNS end-to-end</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-326/",
             "summary": "",
             "date_published": "2019-04-11 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-325",
-            "title": "Daily Digest #325",
-            "content_html": "<ul>\n  <li><a href=\"http://blog.plataformatec.com.br/2019/01/lets-talk-about-story-mapping/\">Let’s talk about Story Mapping</a></li>\n  <li><a href=\"https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/\">What is an Engineering Manager?</a></li>\n  <li><a href=\"https://github.com/zegl/kube-score\">kube-score – Kubernetes object analysis with recommendations for improved reliability and security</a></li>\n  <li><a href=\"https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7\">It’s 2019 and I Still Make Websites with my Bare Hands</a></li>\n  <li><a href=\"https://code.fb.com/ai-research/pytext-open-source-nlp-framework/\">Open-sourcing PyText for faster NLP development</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/scaling-secure-tunnels-for-browser-testing-9673c71505d\">Scaling secure tunnels for browser testing</a></li>\n  <li><a href=\"https://blog.doyensec.com/2019/01/24/electronegativity.html\">Electronegativity is finally out!</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-325/",
-            "summary": "",
-            "date_published": "2019-04-10 00:00:00 +0700"
         }
 
     ]
