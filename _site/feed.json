@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-332",
+            "title": "Daily Digest #332",
+            "content_html": "<ul>\n  <li><a href=\"https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/\">Why Don’t People Use Formal Methods?</a></li>\n  <li><a href=\"https://webauthn.guide/\">WebAuthn</a></li>\n  <li><a href=\"https://queue.acm.org/detail.cfm?id=3308563\">Design Patterns for Managing Up</a></li>\n  <li><a href=\"https://jwongworks.com/blog/2019/1/17/on-accountability\">On Accountability</a></li>\n  <li><a href=\"https://www.fast.ai/2019/01/24/course-v3/\">Practical Deep Learning for Coders 2019 </a></li>\n  <li><a href=\"https://www.ebgconsulting.com/blog/using-product-canvas-define-product-getting-started/\">Using the Product Canvas to Define Your Product: Getting Started</a></li>\n  <li><a href=\"https://github.com/ohler55/agoo\">Agoo – A High Performance HTTP Server for Ruby</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-332/",
+            "summary": "",
+            "date_published": "2019-04-30 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-331",
             "title": "Daily Digest #331",
             "content_html": "<ul>\n  <li><a href=\"https://pragmacoders.com/blog/packages-and-modern-security\">Packages and Modern Security</a></li>\n  <li><a href=\"https://solnic.codes/2019/01/31/introducing-dry-schema/\">Introducing dry-schema</a></li>\n  <li><a href=\"http://olafurw.com/2019-01-27-programmer-advice/\">Advice to new Programmers</a></li>\n  <li><a href=\"https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/\">How to Make Things High-Quality</a></li>\n  <li><a href=\"https://github.com/matti/kommando\">kommando</a></li>\n  <li><a href=\"https://www.faucet-pipeline.org/\">faucet-pipeline</a></li>\n  <li><a href=\"https://medium.com/mindtouch-engineering/%CE%BB-accelerate-serverless-development-with-cloudformation-3f57ab27d6a3\">λ# — Accelerate Serverless Development with CloudFormation</a></li>\n  <li><a href=\"https://www.linkedin.com/pulse/once-again-scrum-master-project-manager-tobias-mayer-/\">Scrum Master ≠ Project Manager</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-328/",
             "summary": "",
             "date_published": "2019-04-16 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-327",
-            "title": "Daily Digest #327",
-            "content_html": "<ul>\n  <li><a href=\"https://www.techcoil.com/blog/how-i-use-my-raspberry-pis-to-help-me-work-on-with-my-side-projects/\">How I use my Raspberry Pis to help me work on with my side projects </a></li>\n  <li><a href=\"https://github.com/alash3al/sqler\">Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL</a></li>\n  <li><a href=\"https://cathydutton.co.uk/posts/why-i-stopped-using-sass/\">Stepping away from Sass</a></li>\n  <li><a href=\"https://securitycheckli.st/\">Be safe on the internet</a></li>\n  <li><a href=\"https://www.abstract.com/blog/decolonizing-silicon-valley/\">Decolonizing Silicon Valley: The critical role of inclusion in tech</a></li>\n  <li><a href=\"https://research.swtch.com/deps\">Our Software Dependency Problem </a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-327/",
-            "summary": "",
-            "date_published": "2019-04-15 00:00:00 +0700"
         }
 
     ]

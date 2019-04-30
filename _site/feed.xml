@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Apr 2019 15:27:21 +0700</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2019 15:27:21 +0700</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2019 11:54:49 +0700</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2019 11:54:49 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;332</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/&quot;&gt;Why Don’t People Use Formal Methods?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webauthn.guide/&quot;&gt;WebAuthn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://queue.acm.org/detail.cfm?id=3308563&quot;&gt;Design Patterns for Managing Up&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jwongworks.com/blog/2019/1/17/on-accountability&quot;&gt;On Accountability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fast.ai/2019/01/24/course-v3/&quot;&gt;Practical Deep Learning for Coders 2019 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebgconsulting.com/blog/using-product-canvas-define-product-getting-started/&quot;&gt;Using the Product Canvas to Define Your Product: Getting Started&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ohler55/agoo&quot;&gt;Agoo – A High Performance HTTP Server for Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 30 Apr 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-332/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-332/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;331</title>
@@ -201,27 +224,6 @@
         <pubDate>Mon, 08 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-323/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-323/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;322</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/&quot;&gt;Security Considerations for Container Runtimes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thoughtbot.com/blog/how-to-get-better-at-pair-programming&quot;&gt; How to Get Better at Pair Programming &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/&quot;&gt;Cape Technical Deep Dive&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.golang.org/modules2019&quot;&gt;Go Modules in 2019&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/netflix-migration-resilience&quot;&gt;Building Resilience in Production Migrations&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 05 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-322/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-322/</guid>
         
         <category>daily</category>
         
