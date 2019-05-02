@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Apr 2019 11:54:49 +0700</pubDate>
-    <lastBuildDate>Tue, 30 Apr 2019 11:54:49 +0700</lastBuildDate>
+    <pubDate>Thu, 02 May 2019 12:35:35 +0700</pubDate>
+    <lastBuildDate>Thu, 02 May 2019 12:35:35 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;333</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://orbifold.xyz/open-source-safety.html&quot;&gt;Staying Safe with Open Source&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//examples-delightful-developer-experiences/&quot;&gt;Some delightful developer experiences in 2019.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/towards-remote-working/&quot;&gt;Towards remote working&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://objective-see.com/products/reikey.html&quot;&gt;ReiKey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/&quot;&gt;From relational DB to single DynamoDB table: a step-by-step exploration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b&quot;&gt;The TypeScript Tax&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20190122005035/en/McKinsey-Company-Scrum.org-Release-Joint-Research-Study&quot;&gt;McKinsey &amp;amp; Company and Scrum.org Release Joint Research Study on Agile Teams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 02 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-333/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-333/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;332</title>
@@ -203,27 +226,6 @@
         <pubDate>Tue, 09 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-324/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-324/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;323</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de&quot;&gt;From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00&quot;&gt;Learnings from rebuilding our checkout experience&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/&quot;&gt;Envoy Proxy at Reddit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d&quot;&gt;Operating Vitess&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56&quot;&gt;Lessons Learned at Instagram Stories and Feed Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-323/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-323/</guid>
         
         <category>daily</category>
         

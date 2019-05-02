@@ -4,13 +4,30 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-04-30T11:54:49+07:00</updated>
+ <updated>2019-05-02T12:35:35+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;333</title>
+   <link href="https://jakartadev.org//daily-digest-333/"/>
+   <updated>2019-05-02T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-333</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://orbifold.xyz/open-source-safety.html&quot;&gt;Staying Safe with Open Source&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//examples-delightful-developer-experiences/&quot;&gt;Some delightful developer experiences in 2019.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/towards-remote-working/&quot;&gt;Towards remote working&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://objective-see.com/products/reikey.html&quot;&gt;ReiKey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/&quot;&gt;From relational DB to single DynamoDB table: a step-by-step exploration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b&quot;&gt;The TypeScript Tax&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20190122005035/en/McKinsey-Company-Scrum.org-Release-Joint-Research-Study&quot;&gt;McKinsey &amp;amp; Company and Scrum.org Release Joint Research Study on Agile Teams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;332</title>
