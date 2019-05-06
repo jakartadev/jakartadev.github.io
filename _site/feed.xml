@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 May 2019 12:35:35 +0700</pubDate>
-    <lastBuildDate>Thu, 02 May 2019 12:35:35 +0700</lastBuildDate>
+    <pubDate>Mon, 06 May 2019 14:01:41 +0700</pubDate>
+    <lastBuildDate>Mon, 06 May 2019 14:01:41 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;334</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.felipe.rs/2019/01/29/demystifying-join-algorithms/&quot;&gt;Demystifying JOIN Algorithms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rubypigeon.com/posts/value-semantics-gem-for-making-value-classes/&quot;&gt;ValueSemantics—A Gem for Making Value Classes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codewithjason.com/rspec-mocks-stubs-plain-english/&quot;&gt;RSpec mocks and stubs in plain English&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://larahogan.me/blog/team-introspection/&quot;&gt;Tools for Introspection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gruns/ImmortalDB&quot;&gt;ImmortalDB – 🔩 A relentless key-value store for the browser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2019/01/28/defining-the-tracking-practices-that-will-be-blocked-in-firefox/&quot;&gt;Defining the tracking practices that will be blocked in Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 03 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-334/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-334/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;333</title>
@@ -204,28 +226,6 @@
         <pubDate>Wed, 10 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-325/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-325/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;324</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02&quot;&gt;Beyond “How May I Help You?”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/introducing-deploy-pipelines-to-airbnb-fc804ac2a157&quot;&gt;Introducing Pipelines to Airbnb’s Deployment Process&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/12/07/monte-carlo-power-analysis.html&quot;&gt;Monte Carlo Power Analysis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/cf-pipeline-mastercard&quot;&gt;Extreme Pipelines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/native-secondary-indexing-in-manhattan.html&quot;&gt;Native secondary indexing in Manhattan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/android/benefits-of-clean-architecture-android&quot;&gt;Discover the Benefits of Android Clean Architecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 09 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-324/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-324/</guid>
         
         <category>daily</category>
         

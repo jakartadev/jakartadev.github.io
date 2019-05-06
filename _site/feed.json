@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-334",
+            "title": "Daily Digest #334",
+            "content_html": "<ul>\n  <li><a href=\"http://blog.felipe.rs/2019/01/29/demystifying-join-algorithms/\">Demystifying JOIN Algorithms</a></li>\n  <li><a href=\"https://www.rubypigeon.com/posts/value-semantics-gem-for-making-value-classes/\">ValueSemantics—A Gem for Making Value Classes</a></li>\n  <li><a href=\"https://www.codewithjason.com/rspec-mocks-stubs-plain-english/\">RSpec mocks and stubs in plain English</a></li>\n  <li><a href=\"https://larahogan.me/blog/team-introspection/\">Tools for Introspection</a></li>\n  <li><a href=\"https://github.com/gruns/ImmortalDB\">ImmortalDB – 🔩 A relentless key-value store for the browser</a></li>\n  <li><a href=\"https://blog.mozilla.org/security/2019/01/28/defining-the-tracking-practices-that-will-be-blocked-in-firefox/\">Defining the tracking practices that will be blocked in Firefox</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-334/",
+            "summary": "",
+            "date_published": "2019-05-03 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-333",
             "title": "Daily Digest #333",
             "content_html": "<ul>\n  <li><a href=\"https://orbifold.xyz/open-source-safety.html\">Staying Safe with Open Source</a></li>\n  <li><a href=\"https://lethain.com//examples-delightful-developer-experiences/\">Some delightful developer experiences in 2019.</a></li>\n  <li><a href=\"http://theengineeringmanager.com/growth/towards-remote-working/\">Towards remote working</a></li>\n  <li><a href=\"https://objective-see.com/products/reikey.html\">ReiKey</a></li>\n  <li><a href=\"https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/\">From relational DB to single DynamoDB table: a step-by-step exploration</a></li>\n  <li><a href=\"https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b\">The TypeScript Tax</a></li>\n  <li><a href=\"https://www.businesswire.com/news/home/20190122005035/en/McKinsey-Company-Scrum.org-Release-Joint-Research-Study\">McKinsey &amp; Company and Scrum.org Release Joint Research Study on Agile Teams</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-330/",
             "summary": "",
             "date_published": "2019-04-23 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-329",
-            "title": "Daily Digest #329",
-            "content_html": "<ul>\n  <li><a href=\"https://code.fb.com/data-infrastructure/hyperloglog/\">HyperLogLog in Presto: A significantly faster way to handle cardinality estimation</a></li>\n  <li><a href=\"https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation/\">The Role of Domain Driven Architecture and GraphQL in Digital Transformation</a></li>\n  <li><a href=\"https://www.toptal.com/designers/typography/web-typography-infographic\">Designing for Readability - A Guide to Web Typography (with Infographic)</a></li>\n  <li><a href=\"https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/\">Bigtable Autoscaler: saving money and time using managed storage</a></li>\n  <li><a href=\"https://code.fb.com/security/dns-over-tls/\">DNS over TLS: Encrypting DNS end-to-end</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-329/",
-            "summary": "",
-            "date_published": "2019-04-22 00:00:00 +0700"
         }
 
     ]

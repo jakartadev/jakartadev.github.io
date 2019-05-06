@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-02T12:35:35+07:00</updated>
+ <updated>2019-05-06T14:01:41+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;334</title>
+   <link href="https://jakartadev.org//daily-digest-334/"/>
+   <updated>2019-05-03T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-334</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.felipe.rs/2019/01/29/demystifying-join-algorithms/&quot;&gt;Demystifying JOIN Algorithms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rubypigeon.com/posts/value-semantics-gem-for-making-value-classes/&quot;&gt;ValueSemantics—A Gem for Making Value Classes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codewithjason.com/rspec-mocks-stubs-plain-english/&quot;&gt;RSpec mocks and stubs in plain English&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://larahogan.me/blog/team-introspection/&quot;&gt;Tools for Introspection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gruns/ImmortalDB&quot;&gt;ImmortalDB – 🔩 A relentless key-value store for the browser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2019/01/28/defining-the-tracking-practices-that-will-be-blocked-in-firefox/&quot;&gt;Defining the tracking practices that will be blocked in Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;333</title>
