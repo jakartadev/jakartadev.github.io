@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-06T14:01:41+07:00</updated>
+ <updated>2019-05-06T14:11:44+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;335</title>
+   <link href="https://jakartadev.org//daily-digest-335/"/>
+   <updated>2019-05-06T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-335</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hiringengineersbook.com/post/trouble-hiring/&quot;&gt;Trouble hiring senior engineers? It’s probably you&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/algoraves-live-coding-djs/&quot;&gt;DJs of the Future Don’t Spin Records—They Write Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-to-bring-legacy-systems-to-devops-speed/&quot;&gt;How to Bring Legacy Systems to DevOps Speed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/5-mistakes-to-avoid-when-chasing-devops-transformation/&quot;&gt;5 Mistakes to Avoid When Chasing DevOps Transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/8-best-practices-for-container-secrets-management/&quot;&gt;8 Best Practices for Container Secrets Management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://searchmicroservices.techtarget.com/tip/The-key-differences-between-stateless-and-stateful-microservices?&quot;&gt;The key differences between stateless and stateful microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;334</title>

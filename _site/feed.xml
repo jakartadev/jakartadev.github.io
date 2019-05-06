@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 May 2019 14:01:41 +0700</pubDate>
-    <lastBuildDate>Mon, 06 May 2019 14:01:41 +0700</lastBuildDate>
+    <pubDate>Mon, 06 May 2019 14:11:44 +0700</pubDate>
+    <lastBuildDate>Mon, 06 May 2019 14:11:44 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;335</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hiringengineersbook.com/post/trouble-hiring/&quot;&gt;Trouble hiring senior engineers? It’s probably you&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/algoraves-live-coding-djs/&quot;&gt;DJs of the Future Don’t Spin Records—They Write Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-to-bring-legacy-systems-to-devops-speed/&quot;&gt;How to Bring Legacy Systems to DevOps Speed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/5-mistakes-to-avoid-when-chasing-devops-transformation/&quot;&gt;5 Mistakes to Avoid When Chasing DevOps Transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/8-best-practices-for-container-secrets-management/&quot;&gt;8 Best Practices for Container Secrets Management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://searchmicroservices.techtarget.com/tip/The-key-differences-between-stateless-and-stateful-microservices?&quot;&gt;The key differences between stateless and stateful microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 06 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-335/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-335/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;334</title>
@@ -203,29 +225,6 @@
         <pubDate>Thu, 11 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-326/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-326/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;325</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/lets-talk-about-story-mapping/&quot;&gt;Let’s talk about Story Mapping&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/&quot;&gt;What is an Engineering Manager?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;kube-score – Kubernetes object analysis with recommendations for improved reliability and security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7&quot;&gt;It’s 2019 and I Still Make Websites with my Bare Hands&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/pytext-open-source-nlp-framework/&quot;&gt;Open-sourcing PyText for faster NLP development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/scaling-secure-tunnels-for-browser-testing-9673c71505d&quot;&gt;Scaling secure tunnels for browser testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.doyensec.com/2019/01/24/electronegativity.html&quot;&gt;Electronegativity is finally out!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-325/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-325/</guid>
         
         <category>daily</category>
         

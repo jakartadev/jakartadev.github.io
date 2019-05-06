@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-335",
+            "title": "Daily Digest #335",
+            "content_html": "<ul>\n  <li><a href=\"https://hiringengineersbook.com/post/trouble-hiring/\">Trouble hiring senior engineers? It’s probably you</a></li>\n  <li><a href=\"https://www.wired.com/story/algoraves-live-coding-djs/\">DJs of the Future Don’t Spin Records—They Write Code</a></li>\n  <li><a href=\"https://thenewstack.io/how-to-bring-legacy-systems-to-devops-speed/\">How to Bring Legacy Systems to DevOps Speed</a></li>\n  <li><a href=\"https://devops.com/5-mistakes-to-avoid-when-chasing-devops-transformation/\">5 Mistakes to Avoid When Chasing DevOps Transformation</a></li>\n  <li><a href=\"https://thenewstack.io/8-best-practices-for-container-secrets-management/\">8 Best Practices for Container Secrets Management</a></li>\n  <li><a href=\"https://searchmicroservices.techtarget.com/tip/The-key-differences-between-stateless-and-stateful-microservices?\">The key differences between stateless and stateful microservices</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-335/",
+            "summary": "",
+            "date_published": "2019-05-06 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-334",
             "title": "Daily Digest #334",
             "content_html": "<ul>\n  <li><a href=\"http://blog.felipe.rs/2019/01/29/demystifying-join-algorithms/\">Demystifying JOIN Algorithms</a></li>\n  <li><a href=\"https://www.rubypigeon.com/posts/value-semantics-gem-for-making-value-classes/\">ValueSemantics—A Gem for Making Value Classes</a></li>\n  <li><a href=\"https://www.codewithjason.com/rspec-mocks-stubs-plain-english/\">RSpec mocks and stubs in plain English</a></li>\n  <li><a href=\"https://larahogan.me/blog/team-introspection/\">Tools for Introspection</a></li>\n  <li><a href=\"https://github.com/gruns/ImmortalDB\">ImmortalDB – 🔩 A relentless key-value store for the browser</a></li>\n  <li><a href=\"https://blog.mozilla.org/security/2019/01/28/defining-the-tracking-practices-that-will-be-blocked-in-firefox/\">Defining the tracking practices that will be blocked in Firefox</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-331/",
             "summary": "",
             "date_published": "2019-04-29 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-330",
-            "title": "Daily Digest #330",
-            "content_html": "<ul>\n  <li><a href=\"https://steemit.com/blockchain/@ivoras/putting-wikipedia-on-the-blockchain\">Putting Wikipedia on the blockchain</a></li>\n  <li><a href=\"https://github.com/tyroprogrammer/learn-react-app\">Learn react app</a></li>\n  <li><a href=\"https://github.com/danluu/post-mortems\">Post-mortems lesson</a></li>\n  <li><a href=\"https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html\">CS 331 Spring 2018 A Primer on Type Systems</a></li>\n  <li><a href=\"https://lukekanies.com/my-losing-battle-with-enterprise-sales/\">My Losing Battle with Enterprise Sales</a></li>\n  <li><a href=\"https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html\">On Being A Principal Engineer</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-330/",
-            "summary": "",
-            "date_published": "2019-04-23 00:00:00 +0700"
         }
 
     ]
