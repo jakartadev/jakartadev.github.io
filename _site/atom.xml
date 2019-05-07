@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-06T14:11:44+07:00</updated>
+ <updated>2019-05-07T19:18:09+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;336</title>
+   <link href="https://jakartadev.org//daily-digest-336/"/>
+   <updated>2019-05-07T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-336</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/4/devops-pipeline-acceptance-testing&quot;&gt;Automate user acceptance testing with your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/app-dev-testing/4-tips-agile-testing-waterfall-world&quot;&gt;4 tips for agile testing in a waterfall world&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/4/kubernetes-jobs-hunt-how-land-role&quot;&gt;Kubernetes jobs hunt: How to land that role&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/forbestechcouncil/2019/04/09/how-to-approach-the-transformation-to-microservices/&quot;&gt;How To Approach The Transformation To Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/logging-and-monitoring-why-you-need-both/&quot;&gt;Logging and Monitoring: Why You Need Both&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/&quot;&gt;Git as a NoSql database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;335</title>

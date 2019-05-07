@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-336",
+            "title": "Daily Digest #336",
+            "content_html": "<ul>\n  <li><a href=\"https://opensource.com/article/19/4/devops-pipeline-acceptance-testing\">Automate user acceptance testing with your DevOps pipeline</a></li>\n  <li><a href=\"https://techbeacon.com/app-dev-testing/4-tips-agile-testing-waterfall-world\">4 tips for agile testing in a waterfall world</a></li>\n  <li><a href=\"https://enterprisersproject.com/article/2019/4/kubernetes-jobs-hunt-how-land-role\">Kubernetes jobs hunt: How to land that role</a></li>\n  <li><a href=\"https://www.forbes.com/sites/forbestechcouncil/2019/04/09/how-to-approach-the-transformation-to-microservices/\">How To Approach The Transformation To Microservices</a></li>\n  <li><a href=\"https://thenewstack.io/logging-and-monitoring-why-you-need-both/\">Logging and Monitoring: Why You Need Both</a></li>\n  <li><a href=\"https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/\">Git as a NoSql database</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-336/",
+            "summary": "",
+            "date_published": "2019-05-07 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-335",
             "title": "Daily Digest #335",
             "content_html": "<ul>\n  <li><a href=\"https://hiringengineersbook.com/post/trouble-hiring/\">Trouble hiring senior engineers? It’s probably you</a></li>\n  <li><a href=\"https://www.wired.com/story/algoraves-live-coding-djs/\">DJs of the Future Don’t Spin Records—They Write Code</a></li>\n  <li><a href=\"https://thenewstack.io/how-to-bring-legacy-systems-to-devops-speed/\">How to Bring Legacy Systems to DevOps Speed</a></li>\n  <li><a href=\"https://devops.com/5-mistakes-to-avoid-when-chasing-devops-transformation/\">5 Mistakes to Avoid When Chasing DevOps Transformation</a></li>\n  <li><a href=\"https://thenewstack.io/8-best-practices-for-container-secrets-management/\">8 Best Practices for Container Secrets Management</a></li>\n  <li><a href=\"https://searchmicroservices.techtarget.com/tip/The-key-differences-between-stateless-and-stateful-microservices?\">The key differences between stateless and stateful microservices</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-332/",
             "summary": "",
             "date_published": "2019-04-30 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-331",
-            "title": "Daily Digest #331",
-            "content_html": "<ul>\n  <li><a href=\"https://pragmacoders.com/blog/packages-and-modern-security\">Packages and Modern Security</a></li>\n  <li><a href=\"https://solnic.codes/2019/01/31/introducing-dry-schema/\">Introducing dry-schema</a></li>\n  <li><a href=\"http://olafurw.com/2019-01-27-programmer-advice/\">Advice to new Programmers</a></li>\n  <li><a href=\"https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/\">How to Make Things High-Quality</a></li>\n  <li><a href=\"https://github.com/matti/kommando\">kommando</a></li>\n  <li><a href=\"https://www.faucet-pipeline.org/\">faucet-pipeline</a></li>\n  <li><a href=\"https://medium.com/mindtouch-engineering/%CE%BB-accelerate-serverless-development-with-cloudformation-3f57ab27d6a3\">λ# — Accelerate Serverless Development with CloudFormation</a></li>\n  <li><a href=\"https://www.linkedin.com/pulse/once-again-scrum-master-project-manager-tobias-mayer-/\">Scrum Master ≠ Project Manager</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-331/",
-            "summary": "",
-            "date_published": "2019-04-29 00:00:00 +0700"
         }
 
     ]

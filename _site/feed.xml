@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 May 2019 14:11:44 +0700</pubDate>
-    <lastBuildDate>Mon, 06 May 2019 14:11:44 +0700</lastBuildDate>
+    <pubDate>Tue, 07 May 2019 19:18:09 +0700</pubDate>
+    <lastBuildDate>Tue, 07 May 2019 19:18:09 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;336</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/4/devops-pipeline-acceptance-testing&quot;&gt;Automate user acceptance testing with your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/app-dev-testing/4-tips-agile-testing-waterfall-world&quot;&gt;4 tips for agile testing in a waterfall world&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/4/kubernetes-jobs-hunt-how-land-role&quot;&gt;Kubernetes jobs hunt: How to land that role&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/forbestechcouncil/2019/04/09/how-to-approach-the-transformation-to-microservices/&quot;&gt;How To Approach The Transformation To Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/logging-and-monitoring-why-you-need-both/&quot;&gt;Logging and Monitoring: Why You Need Both&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/&quot;&gt;Git as a NoSql database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 07 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-336/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-336/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;335</title>
@@ -202,29 +224,6 @@
         <pubDate>Mon, 15 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-327/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-327/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;326</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.jamesshore.com/Blog/Where-Do-You-Want-Your-Complexity.html&quot;&gt;Large-Scale Agile: Where Do You Want Your Complexity?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nickcaldwell/menteegoals-prepping-for-your-mentoring-relationship-bdfeca70f0a3&quot;&gt;#MenteeGoals Prepping for a mentoring relationship&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://knowyourteam.com/blog/2019/01/15/building-trust-in-teams-what-and-why/&quot;&gt; Building trust in teams: What and why? &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/&quot;&gt;What Does Open Source Mean in the Era of Cloud APIs?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/the-design-of-engineering-culture&quot;&gt;The Design of Engineering Culture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/charlax/professional-programming&quot;&gt;A collection of full-stack resources for programmers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.keyvalues.com/blog/what-exactly-do-developer-advocates-do?&quot;&gt;What exactly do developer advocates do?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 11 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-326/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-326/</guid>
         
         <category>daily</category>
         
