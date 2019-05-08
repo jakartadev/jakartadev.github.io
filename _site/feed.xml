@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 May 2019 13:02:40 +0700</pubDate>
-    <lastBuildDate>Wed, 08 May 2019 13:02:40 +0700</lastBuildDate>
+    <link>https://jakartadev.org//</link>
+    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 08 May 2019 13:44:18 +0700</pubDate>
+    <lastBuildDate>Wed, 08 May 2019 13:44:18 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -77,14 +77,35 @@ Connection: keep-alive
 &lt;p&gt;Jika terkendala masalah, bisa langsung lihat error nginx-nya saja, biasanya terletak di &lt;code class=&quot;highlighter-rouge&quot;&gt;/var/log/nginx/error.log&lt;/code&gt; dan bisa melakukan analisa masalah di situ.&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 May 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/redirection-nginx-multiple-uri/</link>
-        <guid isPermaLink="true">http://localhost:4000/redirection-nginx-multiple-uri/</guid>
+        <link>https://jakartadev.org//redirection-nginx-multiple-uri/</link>
+        <guid isPermaLink="true">https://jakartadev.org//redirection-nginx-multiple-uri/</guid>
         
         <category>nginx</category>
         
         <category>webserver</category>
         
         <category>devops</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;337</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/improving-html-time-to-first-byte/&quot;&gt;Improving HTML Time to First Byte&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/blockchain-basics-use-cases&quot;&gt;Understanding Blockchain Basics and Use Cases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/reactive-ddd&quot;&gt;Reactive DDD—When Concurrent Waxes Fluent&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-2-the-messy-middle-59f16a959b7f&quot;&gt;The history of infrastructure at Zendesk (Part 2) — the messy middle&lt;/a&gt; (&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-constant-tradeoffs-bdfa916ff4c3&quot;&gt;part 1&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/12/improving-member-productivity-with-in-product-help-&quot;&gt;Improving Member Productivity with In-Product Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 08 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-337/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-337/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
         
         
       </item>
@@ -101,8 +122,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 07 May 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-336/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-336/</guid>
+        <link>https://jakartadev.org//daily-digest-336/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-336/</guid>
         
         <category>daily</category>
         
@@ -123,8 +144,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 06 May 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-335/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-335/</guid>
+        <link>https://jakartadev.org//daily-digest-335/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-335/</guid>
         
         <category>daily</category>
         
@@ -145,8 +166,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 03 May 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-334/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-334/</guid>
+        <link>https://jakartadev.org//daily-digest-334/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-334/</guid>
         
         <category>daily</category>
         
@@ -168,8 +189,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 02 May 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-333/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-333/</guid>
+        <link>https://jakartadev.org//daily-digest-333/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-333/</guid>
         
         <category>daily</category>
         
@@ -191,8 +212,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 30 Apr 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-332/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-332/</guid>
+        <link>https://jakartadev.org//daily-digest-332/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-332/</guid>
         
         <category>daily</category>
         
@@ -215,8 +236,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-331/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-331/</guid>
+        <link>https://jakartadev.org//daily-digest-331/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-331/</guid>
         
         <category>daily</category>
         
@@ -237,8 +258,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 23 Apr 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-330/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-330/</guid>
+        <link>https://jakartadev.org//daily-digest-330/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-330/</guid>
         
         <category>daily</category>
         
@@ -258,30 +279,8 @@ Connection: keep-alive
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 22 Apr 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-329/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-329/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;328</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://diamantidis.github.io/2019/01/06/curl-options&quot;&gt;Useful Curl features&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/the-joy-of-caretaking/&quot;&gt;The joy of caretaking&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/working-with-distributed-teams/&quot;&gt;Working with distributed teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/twpayne/chezmoi&quot;&gt;Chezmoi – Manage your dotfiles across multiple machines, securely&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a&quot;&gt;Implementing the Netflix Media Database&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.pivotal.io/post/stateful-apps-toc/&quot;&gt;Stateful Apps in Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 16 Apr 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-328/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-328/</guid>
+        <link>https://jakartadev.org//daily-digest-329/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-329/</guid>
         
         <category>daily</category>
         
