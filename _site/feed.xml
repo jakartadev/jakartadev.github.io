@@ -5,9 +5,33 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 May 2019 13:44:18 +0700</pubDate>
-    <lastBuildDate>Wed, 08 May 2019 13:44:18 +0700</lastBuildDate>
+    <pubDate>Thu, 09 May 2019 19:50:53 +0700</pubDate>
+    <lastBuildDate>Thu, 09 May 2019 19:50:53 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;338</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2018/12/27/inheriting-a-codebase/&quot;&gt;Four Steps for Inheriting a Codebase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/&quot;&gt;Common CSS Issues For Front-End Projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/risk-management-engineering-resilience&quot;&gt;Risk Management for Engineering Resilience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/sharding-writes-with-mysql-and-increment-offsets-48df32379563&quot;&gt;Sharding Writes with MySQL and Increment Offsets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/big-data-real-time-presto-talariadb&quot;&gt;Querying Big Data in Real-Time with Presto &amp;amp; Grab’s TalariaDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/key-lessons-from-100-api-projects/&quot;&gt;Key Lessons From 100 API Projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/one-year-with-flutter-my-experience-5bfe64acc96f&quot;&gt;One Year with Flutter: My Experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/12/envoycon-ebay-edge&quot;&gt;Running Envoy as an Edge Proxy at eBay: Replacing Hardware Load Balancers with a Software Solution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-338/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-338/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Redireksi multiple URI dengan menggunakan NGINX</title>
@@ -260,27 +284,6 @@ Connection: keep-alive
         <pubDate>Tue, 23 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-330/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-330/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;329</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/data-infrastructure/hyperloglog/&quot;&gt;HyperLogLog in Presto: A significantly faster way to handle cardinality estimation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation/&quot;&gt;The Role of Domain Driven Architecture and GraphQL in Digital Transformation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/typography/web-typography-infographic&quot;&gt;Designing for Readability - A Guide to Web Typography (with Infographic)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/&quot;&gt;Bigtable Autoscaler: saving money and time using managed storage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/security/dns-over-tls/&quot;&gt;DNS over TLS: Encrypting DNS end-to-end&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 22 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-329/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-329/</guid>
         
         <category>daily</category>
         
