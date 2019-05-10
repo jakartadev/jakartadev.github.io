@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 May 2019 19:50:53 +0700</pubDate>
-    <lastBuildDate>Thu, 09 May 2019 19:50:53 +0700</lastBuildDate>
+    <pubDate>Fri, 10 May 2019 10:27:34 +0700</pubDate>
+    <lastBuildDate>Fri, 10 May 2019 10:27:34 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;339</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/postgresql-connection-pooling-and-load-balancing-with-pgpool-ii-cluster-edbbb7959ef1&quot;&gt;PostgreSQL Connection Pooling and Load Balancing with PgPool-II Cluster (Updated)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/design-app-improve&quot;&gt;Improving the Design of Existing Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.opensooq.com/testing-android-deep-linking-at-opensooq/&quot;&gt;Testing Android Deep Linking at OpenSooq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c&quot;&gt;webpack: From 0 to automated testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/2018/12/self-service-hybrid-performance-engineering/&quot;&gt;Our Self-Service Hybrid Performance Engineering Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/service-mesh-microservices-2018&quot;&gt;Connecting, Managing, Observing, and Securing Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-339/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-339/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;338</title>
@@ -262,28 +284,6 @@ Connection: keep-alive
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-331/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-331/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;330</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://steemit.com/blockchain/@ivoras/putting-wikipedia-on-the-blockchain&quot;&gt;Putting Wikipedia on the blockchain&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tyroprogrammer/learn-react-app&quot;&gt;Learn react app&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/danluu/post-mortems&quot;&gt;Post-mortems lesson&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html&quot;&gt;CS 331 Spring 2018 A Primer on Type Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lukekanies.com/my-losing-battle-with-enterprise-sales/&quot;&gt;My Losing Battle with Enterprise Sales&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html&quot;&gt;On Being A Principal Engineer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 23 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-330/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-330/</guid>
         
         <category>daily</category>
         

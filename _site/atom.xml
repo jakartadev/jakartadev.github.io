@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-09T19:50:53+07:00</updated>
+ <updated>2019-05-10T10:27:34+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;339</title>
+   <link href="https://jakartadev.org//daily-digest-339/"/>
+   <updated>2019-05-10T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-339</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/postgresql-connection-pooling-and-load-balancing-with-pgpool-ii-cluster-edbbb7959ef1&quot;&gt;PostgreSQL Connection Pooling and Load Balancing with PgPool-II Cluster (Updated)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/design-app-improve&quot;&gt;Improving the Design of Existing Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.opensooq.com/testing-android-deep-linking-at-opensooq/&quot;&gt;Testing Android Deep Linking at OpenSooq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c&quot;&gt;webpack: From 0 to automated testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/2018/12/self-service-hybrid-performance-engineering/&quot;&gt;Our Self-Service Hybrid Performance Engineering Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/service-mesh-microservices-2018&quot;&gt;Connecting, Managing, Observing, and Securing Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;338</title>
