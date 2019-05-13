@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 May 2019 10:27:34 +0700</pubDate>
-    <lastBuildDate>Fri, 10 May 2019 10:27:34 +0700</lastBuildDate>
+    <pubDate>Mon, 13 May 2019 14:36:15 +0700</pubDate>
+    <lastBuildDate>Mon, 13 May 2019 14:36:15 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;340</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/usability/mobile-heuristic-principles&quot;&gt;Heuristic Principles for Mobile Interfaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4&quot;&gt;Using TypeScript transforms to enrich runtime code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/review-of-gloo-the-function-api-gateway/&quot;&gt;Review of Gloo, The Function Gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/&quot;&gt;Fast Gaussian-distributed Random Numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a&quot;&gt;Understanding High Dimensional Spaces in Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474&quot;&gt;Implementing AudioWorklets with React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-340/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-340/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;339</title>
@@ -260,30 +282,6 @@ Connection: keep-alive
         <pubDate>Tue, 30 Apr 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-332/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-332/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;331</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pragmacoders.com/blog/packages-and-modern-security&quot;&gt;Packages and Modern Security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://solnic.codes/2019/01/31/introducing-dry-schema/&quot;&gt;Introducing dry-schema&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://olafurw.com/2019-01-27-programmer-advice/&quot;&gt;Advice to new Programmers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/&quot;&gt;How to Make Things High-Quality&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/matti/kommando&quot;&gt;kommando&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.faucet-pipeline.org/&quot;&gt;faucet-pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/mindtouch-engineering/%CE%BB-accelerate-serverless-development-with-cloudformation-3f57ab27d6a3&quot;&gt;λ# — Accelerate Serverless Development with CloudFormation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/once-again-scrum-master-project-manager-tobias-mayer-/&quot;&gt;Scrum Master ≠ Project Manager&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 29 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-331/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-331/</guid>
         
         <category>daily</category>
         

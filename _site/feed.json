@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-340",
+            "title": "Daily Digest #340",
+            "content_html": "<ul>\n  <li><a href=\"https://www.toptal.com/designers/usability/mobile-heuristic-principles\">Heuristic Principles for Mobile Interfaces</a></li>\n  <li><a href=\"https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4\">Using TypeScript transforms to enrich runtime code</a></li>\n  <li><a href=\"https://nordicapis.com/review-of-gloo-the-function-api-gateway/\">Review of Gloo, The Function Gateway</a></li>\n  <li><a href=\"https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/\">Fast Gaussian-distributed Random Numbers</a></li>\n  <li><a href=\"https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a\">Understanding High Dimensional Spaces in Machine Learning</a></li>\n  <li><a href=\"https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474\">Implementing AudioWorklets with React</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-340/",
+            "summary": "",
+            "date_published": "2019-05-13 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-339",
             "title": "Daily Digest #339",
             "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/postgresql-connection-pooling-and-load-balancing-with-pgpool-ii-cluster-edbbb7959ef1\">PostgreSQL Connection Pooling and Load Balancing with PgPool-II Cluster (Updated)</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/design-app-improve\">Improving the Design of Existing Software</a></li>\n  <li><a href=\"https://engineering.opensooq.com/testing-android-deep-linking-at-opensooq/\">Testing Android Deep Linking at OpenSooq</a></li>\n  <li><a href=\"https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c\">webpack: From 0 to automated testing</a></li>\n  <li><a href=\"https://tech.wayfair.com/2018/12/self-service-hybrid-performance-engineering/\">Our Self-Service Hybrid Performance Engineering Platform</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/service-mesh-microservices-2018\">Connecting, Managing, Observing, and Securing Services</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-337/",
             "summary": "",
             "date_published": "2019-05-08 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-336",
-            "title": "Daily Digest #336",
-            "content_html": "<ul>\n  <li><a href=\"https://opensource.com/article/19/4/devops-pipeline-acceptance-testing\">Automate user acceptance testing with your DevOps pipeline</a></li>\n  <li><a href=\"https://techbeacon.com/app-dev-testing/4-tips-agile-testing-waterfall-world\">4 tips for agile testing in a waterfall world</a></li>\n  <li><a href=\"https://enterprisersproject.com/article/2019/4/kubernetes-jobs-hunt-how-land-role\">Kubernetes jobs hunt: How to land that role</a></li>\n  <li><a href=\"https://www.forbes.com/sites/forbestechcouncil/2019/04/09/how-to-approach-the-transformation-to-microservices/\">How To Approach The Transformation To Microservices</a></li>\n  <li><a href=\"https://thenewstack.io/logging-and-monitoring-why-you-need-both/\">Logging and Monitoring: Why You Need Both</a></li>\n  <li><a href=\"https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/\">Git as a NoSql database</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-336/",
-            "summary": "",
-            "date_published": "2019-05-07 00:00:00 +0700"
         }
 
     ]

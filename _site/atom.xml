@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-10T10:27:34+07:00</updated>
+ <updated>2019-05-13T14:36:15+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;340</title>
+   <link href="https://jakartadev.org//daily-digest-340/"/>
+   <updated>2019-05-13T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-340</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/usability/mobile-heuristic-principles&quot;&gt;Heuristic Principles for Mobile Interfaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4&quot;&gt;Using TypeScript transforms to enrich runtime code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/review-of-gloo-the-function-api-gateway/&quot;&gt;Review of Gloo, The Function Gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/&quot;&gt;Fast Gaussian-distributed Random Numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a&quot;&gt;Understanding High Dimensional Spaces in Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474&quot;&gt;Implementing AudioWorklets with React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;339</title>
