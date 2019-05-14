@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-13T14:36:15+07:00</updated>
+ <updated>2019-05-14T11:33:33+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;341</title>
+   <link href="https://jakartadev.org//daily-digest-341/"/>
+   <updated>2019-05-14T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-341</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a&quot;&gt;Understanding how IME (Shapley Values) explains predictions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/how-to-learn-css/&quot;&gt;How To Learn CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/&quot;&gt;Tutorial: Advanced Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295?source=rss----7f3d96429888---4&quot;&gt;Reactivity with RxJS: force press&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin&quot;&gt;Scaling Machine Learning Productivity at LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/carbon-dual-binary-mobile-app/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=carbon-dual-binary-mobile-app&quot;&gt;How to Ship an App Rewrite Without Risking Your Entire Business&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;340</title>

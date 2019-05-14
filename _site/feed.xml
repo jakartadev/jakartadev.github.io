@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 May 2019 14:36:15 +0700</pubDate>
-    <lastBuildDate>Mon, 13 May 2019 14:36:15 +0700</lastBuildDate>
+    <pubDate>Tue, 14 May 2019 11:33:33 +0700</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 11:33:33 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;341</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a&quot;&gt;Understanding how IME (Shapley Values) explains predictions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/how-to-learn-css/&quot;&gt;How To Learn CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/&quot;&gt;Tutorial: Advanced Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295?source=rss----7f3d96429888---4&quot;&gt;Reactivity with RxJS: force press&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin&quot;&gt;Scaling Machine Learning Productivity at LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/carbon-dual-binary-mobile-app/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=carbon-dual-binary-mobile-app&quot;&gt;How to Ship an App Rewrite Without Risking Your Entire Business&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 14 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-341/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-341/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;340</title>
@@ -259,29 +281,6 @@ Connection: keep-alive
         <pubDate>Thu, 02 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-333/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-333/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;332</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/&quot;&gt;Why Don’t People Use Formal Methods?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://webauthn.guide/&quot;&gt;WebAuthn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://queue.acm.org/detail.cfm?id=3308563&quot;&gt;Design Patterns for Managing Up&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jwongworks.com/blog/2019/1/17/on-accountability&quot;&gt;On Accountability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.fast.ai/2019/01/24/course-v3/&quot;&gt;Practical Deep Learning for Coders 2019 &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebgconsulting.com/blog/using-product-canvas-define-product-getting-started/&quot;&gt;Using the Product Canvas to Define Your Product: Getting Started&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ohler55/agoo&quot;&gt;Agoo – A High Performance HTTP Server for Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 30 Apr 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-332/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-332/</guid>
         
         <category>daily</category>
         
