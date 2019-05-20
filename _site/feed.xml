@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 May 2019 11:33:33 +0700</pubDate>
-    <lastBuildDate>Tue, 14 May 2019 11:33:33 +0700</lastBuildDate>
+    <pubDate>Mon, 20 May 2019 14:51:45 +0700</pubDate>
+    <lastBuildDate>Mon, 20 May 2019 14:51:45 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;342</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks&quot;&gt;Integration Testing for Memory Leaks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/01/03/mongodb-engines-mmapv1-vs-wiredtiger/&quot;&gt;MongoDB Engines: MMAPV1 Vs WiredTiger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d&quot;&gt;Data Science Project Flow for Startups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/basics-of-caching-data-in-graphql-7ce9489dac15&quot;&gt;Basics of Caching Data in GraphQL Apollo React Client&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/data-validation-netflix&quot;&gt;Crisis to Calm: Story of Data Validation @ Netflix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://engineering.curalate.com/2018/12/31/holiday-load-prep.html&quot;&gt;Hey, you busy? I have thousands of questions to ask you&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buildingvts.com/moving-on-from-angularjs-5417b79693a9&quot;&gt;Why VTS is Moving Off of AngularJS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 15 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-342/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-342/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;341</title>
@@ -258,29 +281,6 @@ Connection: keep-alive
         <pubDate>Fri, 03 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-334/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-334/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;333</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://orbifold.xyz/open-source-safety.html&quot;&gt;Staying Safe with Open Source&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lethain.com//examples-delightful-developer-experiences/&quot;&gt;Some delightful developer experiences in 2019.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/towards-remote-working/&quot;&gt;Towards remote working&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://objective-see.com/products/reikey.html&quot;&gt;ReiKey&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/&quot;&gt;From relational DB to single DynamoDB table: a step-by-step exploration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b&quot;&gt;The TypeScript Tax&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20190122005035/en/McKinsey-Company-Scrum.org-Release-Joint-Research-Study&quot;&gt;McKinsey &amp;amp; Company and Scrum.org Release Joint Research Study on Agile Teams&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 02 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-333/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-333/</guid>
         
         <category>daily</category>
         
