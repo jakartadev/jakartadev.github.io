@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-20T14:51:45+07:00</updated>
+ <updated>2019-05-20T14:52:43+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;343</title>
+   <link href="https://jakartadev.org//daily-digest-343/"/>
+   <updated>2019-05-20T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-343</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/serverless-chatbots&quot;&gt;Serverless and Chatbots: A Match Made in the Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/12/28/finetuning-for-natural-language-processing.html&quot;&gt;Fine-tuning for Natural Language Processing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/multitask-learning-in-tensorflow-with-the-head-api-68f2717019df&quot;&gt;Multitask learning in TensorFlow with the Head API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/&quot;&gt;Keep your infrastructure keys safe with Vault&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/devops-database&quot;&gt;DevOps for the Database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;342</title>

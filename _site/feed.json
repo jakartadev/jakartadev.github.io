@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-343",
+            "title": "Daily Digest #343",
+            "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/presentations/serverless-chatbots\">Serverless and Chatbots: A Match Made in the Cloud</a></li>\n  <li><a href=\"https://blog.fastforwardlabs.com/2018/12/28/finetuning-for-natural-language-processing.html\">Fine-tuning for Natural Language Processing</a></li>\n  <li><a href=\"https://towardsdatascience.com/multitask-learning-in-tensorflow-with-the-head-api-68f2717019df\">Multitask learning in TensorFlow with the Head API</a></li>\n  <li><a href=\"https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/\">Keep your infrastructure keys safe with Vault</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/devops-database\">DevOps for the Database</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-343/",
+            "summary": "",
+            "date_published": "2019-05-20 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-342",
             "title": "Daily Digest #342",
             "content_html": "<ul>\n  <li><a href=\"https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks\">Integration Testing for Memory Leaks</a></li>\n  <li><a href=\"https://www.percona.com/blog/2019/01/03/mongodb-engines-mmapv1-vs-wiredtiger/\">MongoDB Engines: MMAPV1 Vs WiredTiger</a></li>\n  <li><a href=\"https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d\">Data Science Project Flow for Startups</a></li>\n  <li><a href=\"https://levelup.gitconnected.com/basics-of-caching-data-in-graphql-7ce9489dac15\">Basics of Caching Data in GraphQL Apollo React Client</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/data-validation-netflix\">Crisis to Calm: Story of Data Validation @ Netflix</a></li>\n  <li><a href=\"http://engineering.curalate.com/2018/12/31/holiday-load-prep.html\">Hey, you busy? I have thousands of questions to ask you</a></li>\n  <li><a href=\"https://buildingvts.com/moving-on-from-angularjs-5417b79693a9\">Why VTS is Moving Off of AngularJS</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-339/",
             "summary": "",
             "date_published": "2019-05-10 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-338",
-            "title": "Daily Digest #338",
-            "content_html": "<ul>\n  <li><a href=\"https://spin.atomicobject.com/2018/12/27/inheriting-a-codebase/\">Four Steps for Inheriting a Codebase</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/\">Common CSS Issues For Front-End Projects</a></li>\n  <li><a href=\"https://www.thoughtworks.com/insights/blog/risk-management-engineering-resilience\">Risk Management for Engineering Resilience</a></li>\n  <li><a href=\"https://hackernoon.com/sharding-writes-with-mysql-and-increment-offsets-48df32379563\">Sharding Writes with MySQL and Increment Offsets</a></li>\n  <li><a href=\"https://engineering.grab.com/big-data-real-time-presto-talariadb\">Querying Big Data in Real-Time with Presto &amp; Grab’s TalariaDB</a></li>\n  <li><a href=\"https://nordicapis.com/key-lessons-from-100-api-projects/\">Key Lessons From 100 API Projects</a></li>\n  <li><a href=\"https://hackernoon.com/one-year-with-flutter-my-experience-5bfe64acc96f\">One Year with Flutter: My Experience</a></li>\n  <li><a href=\"https://www.infoq.com/news/2018/12/envoycon-ebay-edge\">Running Envoy as an Edge Proxy at eBay: Replacing Hardware Load Balancers with a Software Solution</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-338/",
-            "summary": "",
-            "date_published": "2019-05-09 00:00:00 +0700"
         }
 
     ]

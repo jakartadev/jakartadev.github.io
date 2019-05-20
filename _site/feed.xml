@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 May 2019 14:51:45 +0700</pubDate>
-    <lastBuildDate>Mon, 20 May 2019 14:51:45 +0700</lastBuildDate>
+    <pubDate>Mon, 20 May 2019 14:52:43 +0700</pubDate>
+    <lastBuildDate>Mon, 20 May 2019 14:52:43 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;343</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/serverless-chatbots&quot;&gt;Serverless and Chatbots: A Match Made in the Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/12/28/finetuning-for-natural-language-processing.html&quot;&gt;Fine-tuning for Natural Language Processing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/multitask-learning-in-tensorflow-with-the-head-api-68f2717019df&quot;&gt;Multitask learning in TensorFlow with the Head API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/&quot;&gt;Keep your infrastructure keys safe with Vault&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/devops-database&quot;&gt;DevOps for the Database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-343/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-343/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;342</title>
@@ -259,28 +280,6 @@ Connection: keep-alive
         <pubDate>Mon, 06 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-335/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-335/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;334</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.felipe.rs/2019/01/29/demystifying-join-algorithms/&quot;&gt;Demystifying JOIN Algorithms&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rubypigeon.com/posts/value-semantics-gem-for-making-value-classes/&quot;&gt;ValueSemantics—A Gem for Making Value Classes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.codewithjason.com/rspec-mocks-stubs-plain-english/&quot;&gt;RSpec mocks and stubs in plain English&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://larahogan.me/blog/team-introspection/&quot;&gt;Tools for Introspection&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/gruns/ImmortalDB&quot;&gt;ImmortalDB – 🔩 A relentless key-value store for the browser&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2019/01/28/defining-the-tracking-practices-that-will-be-blocked-in-firefox/&quot;&gt;Defining the tracking practices that will be blocked in Firefox&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 03 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-334/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-334/</guid>
         
         <category>daily</category>
         
