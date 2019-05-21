@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 May 2019 14:52:43 +0700</pubDate>
-    <lastBuildDate>Mon, 20 May 2019 14:52:43 +0700</lastBuildDate>
+    <pubDate>Tue, 21 May 2019 14:44:25 +0700</pubDate>
+    <lastBuildDate>Tue, 21 May 2019 14:44:25 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;344</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/reverse-engineering-an-obfuscated-malicious-macro-3fd4d4f9c439&quot;&gt;Reverse Engineering an Obfuscated Malicious Macro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/design-automatic-pipelines-ml&quot;&gt;Designing Automated Pipelines for Unseen Custom Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/stack-too-deep-error-in-solidity-ca83326ff0f0&quot;&gt;Understanding the “Stack Too Deep” Error in Solidity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/java-responsive-cloud&quot;&gt;Building Responsive Systems with Serverless, Event-Driven Java&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/poet-open-ended-deep-learning/&quot;&gt;POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/mobile-testing-apps&quot;&gt;Break Things to Fix Things: Testing More than What “Should” Work&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 21 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-344/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-344/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;343</title>
@@ -258,28 +280,6 @@ Connection: keep-alive
         <pubDate>Tue, 07 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-336/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-336/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;335</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hiringengineersbook.com/post/trouble-hiring/&quot;&gt;Trouble hiring senior engineers? It’s probably you&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/algoraves-live-coding-djs/&quot;&gt;DJs of the Future Don’t Spin Records—They Write Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-to-bring-legacy-systems-to-devops-speed/&quot;&gt;How to Bring Legacy Systems to DevOps Speed&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/5-mistakes-to-avoid-when-chasing-devops-transformation/&quot;&gt;5 Mistakes to Avoid When Chasing DevOps Transformation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/8-best-practices-for-container-secrets-management/&quot;&gt;8 Best Practices for Container Secrets Management&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://searchmicroservices.techtarget.com/tip/The-key-differences-between-stateless-and-stateful-microservices?&quot;&gt;The key differences between stateless and stateful microservices&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 06 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-335/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-335/</guid>
         
         <category>daily</category>
         

@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-20T14:52:43+07:00</updated>
+ <updated>2019-05-21T14:44:25+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;344</title>
+   <link href="https://jakartadev.org//daily-digest-344/"/>
+   <updated>2019-05-21T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-344</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/reverse-engineering-an-obfuscated-malicious-macro-3fd4d4f9c439&quot;&gt;Reverse Engineering an Obfuscated Malicious Macro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/design-automatic-pipelines-ml&quot;&gt;Designing Automated Pipelines for Unseen Custom Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/stack-too-deep-error-in-solidity-ca83326ff0f0&quot;&gt;Understanding the “Stack Too Deep” Error in Solidity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/java-responsive-cloud&quot;&gt;Building Responsive Systems with Serverless, Event-Driven Java&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/poet-open-ended-deep-learning/&quot;&gt;POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/mobile-testing-apps&quot;&gt;Break Things to Fix Things: Testing More than What “Should” Work&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;343</title>
