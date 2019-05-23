@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 May 2019 14:44:25 +0700</pubDate>
-    <lastBuildDate>Tue, 21 May 2019 14:44:25 +0700</lastBuildDate>
+    <pubDate>Thu, 23 May 2019 11:51:19 +0700</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 11:51:19 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;345</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/&quot;&gt;Courier: Dropbox migration to gRPC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/should-you-build-an-api-gateway-in-house/&quot;&gt;Should You Build An API Gateway In-House?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046&quot;&gt;A Deep Dive Into Data Quality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/industrial-document-classification-with-deep-learning/&quot;&gt;Industrial document classification with Deep Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/&quot;&gt;Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5&quot;&gt;Redux on an ESP8266&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 22 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-345/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-345/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;344</title>
@@ -258,28 +280,6 @@ Connection: keep-alive
         <pubDate>Wed, 08 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-337/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-337/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;336</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/4/devops-pipeline-acceptance-testing&quot;&gt;Automate user acceptance testing with your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/app-dev-testing/4-tips-agile-testing-waterfall-world&quot;&gt;4 tips for agile testing in a waterfall world&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/4/kubernetes-jobs-hunt-how-land-role&quot;&gt;Kubernetes jobs hunt: How to land that role&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/forbestechcouncil/2019/04/09/how-to-approach-the-transformation-to-microservices/&quot;&gt;How To Approach The Transformation To Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/logging-and-monitoring-why-you-need-both/&quot;&gt;Logging and Monitoring: Why You Need Both&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/&quot;&gt;Git as a NoSql database&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 07 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-336/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-336/</guid>
         
         <category>daily</category>
         

@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-21T14:44:25+07:00</updated>
+ <updated>2019-05-23T11:51:19+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;345</title>
+   <link href="https://jakartadev.org//daily-digest-345/"/>
+   <updated>2019-05-22T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-345</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/&quot;&gt;Courier: Dropbox migration to gRPC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/should-you-build-an-api-gateway-in-house/&quot;&gt;Should You Build An API Gateway In-House?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046&quot;&gt;A Deep Dive Into Data Quality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/industrial-document-classification-with-deep-learning/&quot;&gt;Industrial document classification with Deep Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/&quot;&gt;Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5&quot;&gt;Redux on an ESP8266&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;344</title>

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-345",
+            "title": "Daily Digest #345",
+            "content_html": "<ul>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/\">Courier: Dropbox migration to gRPC</a></li>\n  <li><a href=\"https://nordicapis.com/should-you-build-an-api-gateway-in-house/\">Should You Build An API Gateway In-House?</a></li>\n  <li><a href=\"https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046\">A Deep Dive Into Data Quality</a></li>\n  <li><a href=\"https://blog.octo.com/en/industrial-document-classification-with-deep-learning/\">Industrial document classification with Deep Learning</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/\">Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]</a></li>\n  <li><a href=\"https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5\">Redux on an ESP8266</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-345/",
+            "summary": "",
+            "date_published": "2019-05-22 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-344",
             "title": "Daily Digest #344",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/walmartlabs/reverse-engineering-an-obfuscated-malicious-macro-3fd4d4f9c439\">Reverse Engineering an Obfuscated Malicious Macro</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/design-automatic-pipelines-ml\">Designing Automated Pipelines for Unseen Custom Data</a></li>\n  <li><a href=\"https://levelup.gitconnected.com/stack-too-deep-error-in-solidity-ca83326ff0f0\">Understanding the “Stack Too Deep” Error in Solidity</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/java-responsive-cloud\">Building Responsive Systems with Serverless, Event-Driven Java</a></li>\n  <li><a href=\"https://eng.uber.com/poet-open-ended-deep-learning/\">POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/mobile-testing-apps\">Break Things to Fix Things: Testing More than What “Should” Work</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-341/",
             "summary": "",
             "date_published": "2019-05-14 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-340",
-            "title": "Daily Digest #340",
-            "content_html": "<ul>\n  <li><a href=\"https://www.toptal.com/designers/usability/mobile-heuristic-principles\">Heuristic Principles for Mobile Interfaces</a></li>\n  <li><a href=\"https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4\">Using TypeScript transforms to enrich runtime code</a></li>\n  <li><a href=\"https://nordicapis.com/review-of-gloo-the-function-api-gateway/\">Review of Gloo, The Function Gateway</a></li>\n  <li><a href=\"https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/\">Fast Gaussian-distributed Random Numbers</a></li>\n  <li><a href=\"https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a\">Understanding High Dimensional Spaces in Machine Learning</a></li>\n  <li><a href=\"https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474\">Implementing AudioWorklets with React</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-340/",
-            "summary": "",
-            "date_published": "2019-05-13 00:00:00 +0700"
         }
 
     ]
