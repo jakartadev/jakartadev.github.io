@@ -12,6 +12,24 @@
     "items": [
       {
         {
+            "id": "/daily-digest-347",
+            "title": "Daily Digest #347",
+            "content_html": "<ul>\n  <li><a href=\"https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic\">7 years as a developer - lessons learned </a></li>\n  <li><a href=\"https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4\">Using Animation Worklet</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/\">Designing the Flexbox Inspector</a></li>\n  <li><a href=\"https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007\">The lies and lack of self respect that lead to burnout </a></li>\n  <li><a href=\"https://tech.showmax.com/2019/01/divide-encode-1/\">Divide &amp; Encode: How to Encode Videos Blazingly Fast</a></li>\n  <li><a href=\"https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb\">Impress your colleagues with these NPM tricks </a></li>\n  <li><a href=\"https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4\">WebSockets &amp; API Gateway</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor\">Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform</a></li>\n  <li><a href=\"https://eng.uber.com/atari-zoo-deep-reinforcement-learning/\">Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning</a></li>\n  <li><a href=\"https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4\">New horizons in CSS: Houdini and the Paint API</a></li>\n  <li><a href=\"https://www.viget.com/articles/using-arkit-and-image-tracking/\">Using ARKit and Image Tracking to Augment a Postcard</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-347/",
+            "summary": "",
+            "date_published": "2019-05-24 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-346",
+            "title": "Daily Digest #346",
+            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd\">Exploring Distributed System Theory: Availability and Consistency</a></li>\n  <li><a href=\"https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/\">Better understanding of Android accessibility for blind people</a></li>\n  <li><a href=\"https://engineering.grab.com/designing-resilient-systems-part-2\">Designing resilient systems: Circuit Breakers or Retries? (Part 2)</a></li>\n  <li><a href=\"https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580\">Progressive Web Apps, UX and Engagement</a></li>\n  <li><a href=\"https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/\">The Case of the Hidden Mongo Data</a></li>\n  <li><a href=\"https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study\">The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study</a></li>\n  <li><a href=\"https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1\">Lessons Learned Building Distributed Systems with CQRS and Event Sourcing</a></li>\n  <li><a href=\"https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb\">Impress your colleagues with these NPM tricks</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-346/",
+            "summary": "",
+            "date_published": "2019-05-23 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-345",
             "title": "Daily Digest #345",
             "content_html": "<ul>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/\">Courier: Dropbox migration to gRPC</a></li>\n  <li><a href=\"https://nordicapis.com/should-you-build-an-api-gateway-in-house/\">Should You Build An API Gateway In-House?</a></li>\n  <li><a href=\"https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046\">A Deep Dive Into Data Quality</a></li>\n  <li><a href=\"https://blog.octo.com/en/industrial-document-classification-with-deep-learning/\">Industrial document classification with Deep Learning</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/\">Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]</a></li>\n  <li><a href=\"https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5\">Redux on an ESP8266</a></li>\n</ul>\n",
@@ -36,24 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-343/",
             "summary": "",
             "date_published": "2019-05-20 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-342",
-            "title": "Daily Digest #342",
-            "content_html": "<ul>\n  <li><a href=\"https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks\">Integration Testing for Memory Leaks</a></li>\n  <li><a href=\"https://www.percona.com/blog/2019/01/03/mongodb-engines-mmapv1-vs-wiredtiger/\">MongoDB Engines: MMAPV1 Vs WiredTiger</a></li>\n  <li><a href=\"https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d\">Data Science Project Flow for Startups</a></li>\n  <li><a href=\"https://levelup.gitconnected.com/basics-of-caching-data-in-graphql-7ce9489dac15\">Basics of Caching Data in GraphQL Apollo React Client</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/data-validation-netflix\">Crisis to Calm: Story of Data Validation @ Netflix</a></li>\n  <li><a href=\"http://engineering.curalate.com/2018/12/31/holiday-load-prep.html\">Hey, you busy? I have thousands of questions to ask you</a></li>\n  <li><a href=\"https://buildingvts.com/moving-on-from-angularjs-5417b79693a9\">Why VTS is Moving Off of AngularJS</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-342/",
-            "summary": "",
-            "date_published": "2019-05-15 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-341",
-            "title": "Daily Digest #341",
-            "content_html": "<ul>\n  <li><a href=\"https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a\">Understanding how IME (Shapley Values) explains predictions</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/how-to-learn-css/\">How To Learn CSS</a></li>\n  <li><a href=\"https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/\">Tutorial: Advanced Jupyter Notebooks</a></li>\n  <li><a href=\"https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295?source=rss----7f3d96429888---4\">Reactivity with RxJS: force press</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin\">Scaling Machine Learning Productivity at LinkedIn</a></li>\n  <li><a href=\"https://eng.uber.com/carbon-dual-binary-mobile-app/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=carbon-dual-binary-mobile-app\">How to Ship an App Rewrite Without Risking Your Entire Business</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-341/",
-            "summary": "",
-            "date_published": "2019-05-14 00:00:00 +0700"
         }
 
     ]

@@ -5,9 +5,60 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 May 2019 11:51:19 +0700</pubDate>
-    <lastBuildDate>Thu, 23 May 2019 11:51:19 +0700</lastBuildDate>
+    <pubDate>Fri, 24 May 2019 13:31:11 +0700</pubDate>
+    <lastBuildDate>Fri, 24 May 2019 13:31:11 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;347</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic&quot;&gt;7 years as a developer - lessons learned &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4&quot;&gt;Using Animation Worklet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/&quot;&gt;Designing the Flexbox Inspector&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007&quot;&gt;The lies and lack of self respect that lead to burnout &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/01/divide-encode-1/&quot;&gt;Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4&quot;&gt;WebSockets &amp;amp; API Gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor&quot;&gt;Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/atari-zoo-deep-reinforcement-learning/&quot;&gt;Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4&quot;&gt;New horizons in CSS: Houdini and the Paint API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/using-arkit-and-image-tracking/&quot;&gt;Using ARKit and Image Tracking to Augment a Postcard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 24 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-347/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-347/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;346</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd&quot;&gt;Exploring Distributed System Theory: Availability and Consistency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/&quot;&gt;Better understanding of Android accessibility for blind people&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-2&quot;&gt;Designing resilient systems: Circuit Breakers or Retries? (Part 2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580&quot;&gt;Progressive Web Apps, UX and Engagement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/&quot;&gt;The Case of the Hidden Mongo Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study&quot;&gt;The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1&quot;&gt;Lessons Learned Building Distributed Systems with CQRS and Event Sourcing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 23 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-346/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-346/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;345</title>
@@ -179,107 +230,6 @@
         <pubDate>Thu, 09 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-338/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-338/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Redireksi multiple URI dengan menggunakan NGINX</title>
-        <description>&lt;p&gt;Kemarin ini menemukan kasus yang lumayan menarik, yaitu migrasi URL yang lama dan sudah ada di mesin pencari google dan lainnya, yang berpindah ke URL baru, misalkan URI awal adalah &lt;code class=&quot;highlighter-rouge&quot;&gt;https://old.jakartadev.org/publish-website&lt;/code&gt; dan hendak diubah menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;https://new.jakartadev.org/publish-website&lt;/code&gt;, untuk perubahan ini memang menjadikan URI lama yang sudah terdaftar di mesin pencari menjadi tidak berlaku lagi dan juga sebagai pemilik website proses migrasi ini harus dilakukan, dan ini akan ada efek untuk SEO dan tentunya bisnis.&lt;/p&gt;
-
-&lt;p&gt;Alasan untuk mengubah ini macam-macam, ada karena perubahan nama, atau URI yang lama tidak &lt;em&gt;SEO friendly&lt;/em&gt; (misal &lt;code class=&quot;highlighter-rouge&quot;&gt;https://website/?p=122&lt;/code&gt; hendak diubah ke &lt;code class=&quot;highlighter-rouge&quot;&gt;https://website/ini-mudah-diingat&lt;/code&gt;), dan banyak alasan lain.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Untuk mencapai tujuan ini, &lt;a href=&quot;https://www.nginx.com/&quot;&gt;NGINX&lt;/a&gt; menyediakan fitur &lt;em&gt;mapping&lt;/em&gt; untuk mendukung redireksi banyak URI lama ke URI yang baru, konfigurasi ini dipasang di &lt;em&gt;site&lt;/em&gt; lama, untuk meng-&lt;em&gt;enable&lt;/em&gt; konfigurasi &lt;em&gt;mapping&lt;/em&gt; di NGINX, biasanya tersimpan di &lt;em&gt;path&lt;/em&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/nginx/&lt;/code&gt; (di sini menggunakan distro Ubuntu), bisa ditambahkan di file &lt;em&gt;nginx.conf&lt;/em&gt; diblok bagian &lt;code class=&quot;highlighter-rouge&quot;&gt;http {}&lt;/code&gt;, untuk jumlah byte &lt;em&gt;map_hash…&lt;/em&gt; tergantung dari jumlah URI yang akan di &lt;em&gt;mapping&lt;/em&gt;, di sini menggunakan 256MB (dalam byte).&lt;/p&gt;
-
-&lt;div class=&quot;language-conf highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;map_hash_max_size&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;262144&lt;/span&gt;; &lt;span class=&quot;c&quot;&gt;# 256 
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;map_hash_bucket_size&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;262144&lt;/span&gt;; &lt;span class=&quot;c&quot;&gt;# 256
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Supaya lebih bersih file &lt;em&gt;site&lt;/em&gt;, karena NGINX juga mudah sekali untuk membuat &lt;em&gt;config&lt;/em&gt; yang modular, jadi bisa membuat file terpisah yang nantinya akan di-&lt;em&gt;include&lt;/em&gt;-kan di &lt;em&gt;file site&lt;/em&gt;, lalu buat file config mapping (ini bisa dimana saja, untuk contoh ini fokus di lokasi &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/nginx/conf.d/&lt;/code&gt;).&lt;/p&gt;
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# vim /etc/nginx/conf.d/uri-mapping.conf  //root&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;atau jika sudoer&lt;/p&gt;
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;vim /etc/nginx/conf.d/uri-mapping.conf  
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Pada file tersebut, tambahkan daftar URI yang hendak dilakukan redireksi dengan blok &lt;code class=&quot;highlighter-rouge&quot;&gt;map {}&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;language-conf highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;map&lt;/span&gt; $&lt;span class=&quot;n&quot;&gt;request_uri&lt;/span&gt; $&lt;span class=&quot;n&quot;&gt;redirect_uri&lt;/span&gt; {
-    /&lt;span class=&quot;n&quot;&gt;publish&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;website&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;https&lt;/span&gt;://&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;jakartadev&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;org&lt;/span&gt;/&lt;span class=&quot;n&quot;&gt;publish&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;website&lt;/span&gt;
-    /&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;uri&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;lain&lt;/span&gt;     &lt;span class=&quot;n&quot;&gt;https&lt;/span&gt;://&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;jakartadev&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;org&lt;/span&gt;/&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;uri&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;lain&lt;/span&gt;
-    /&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;to&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;article&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;https&lt;/span&gt;://&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;jakartadev&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;org&lt;/span&gt;/&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;to&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;article&lt;/span&gt;
-    ...     ...
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Untuk konfigurasi &lt;em&gt;mapping&lt;/em&gt; di atas, menggunakan spasi atau tab tidak berbeda. di file ini, setelah &lt;code class=&quot;highlighter-rouge&quot;&gt;map&lt;/code&gt; terdapat map variable &lt;code class=&quot;highlighter-rouge&quot;&gt;$request_uri&lt;/code&gt; dan variable &lt;code class=&quot;highlighter-rouge&quot;&gt;$redirect_uri&lt;/code&gt;, variable &lt;code class=&quot;highlighter-rouge&quot;&gt;$request_uri&lt;/code&gt; akan menangkap URI yang diminta oleh client, sedangkan &lt;code class=&quot;highlighter-rouge&quot;&gt;$redirect_uri&lt;/code&gt; untuk memberikan URI baru jika ada di mapping.   &lt;br /&gt;
-File kemudian disimpan dan beralih ke file &lt;em&gt;site&lt;/em&gt; yang ada di &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/nginx/sites-enabled/&lt;/code&gt; yang menjadi konfigurasi file untuk site &lt;a href=&quot;https://old.jakartadev.org&quot;&gt;https://old.jakartadev.org&lt;/a&gt;, edit file tersebut dengan menambahkan baris di blok &lt;code class=&quot;highlighter-rouge&quot;&gt;server{}&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;language-conf highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;include&lt;/span&gt; /&lt;span class=&quot;n&quot;&gt;etc&lt;/span&gt;/&lt;span class=&quot;n&quot;&gt;nginx&lt;/span&gt;/&lt;span class=&quot;n&quot;&gt;conf&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;/&lt;span class=&quot;n&quot;&gt;uri&lt;/span&gt;-&lt;span class=&quot;n&quot;&gt;mapping&lt;/span&gt;.&lt;span class=&quot;n&quot;&gt;conf&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;server&lt;/span&gt; {
-    ...
-    &lt;span class=&quot;n&quot;&gt;if&lt;/span&gt; ( $&lt;span class=&quot;n&quot;&gt;redirect_uri&lt;/span&gt;) {
-        &lt;span class=&quot;n&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;301&lt;/span&gt; $&lt;span class=&quot;n&quot;&gt;redirect_uri&lt;/span&gt;;
-    }
-    ...
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Baris di atas akan mengambil &lt;code class=&quot;highlighter-rouge&quot;&gt;request_uri&lt;/code&gt; yang didapat oleh nginx dan kemudian mengubahnya sesuai dengan mapping yang sudah dibuat di file &lt;code class=&quot;highlighter-rouge&quot;&gt;uri-mapping.conf&lt;/code&gt; dan dibuat kan redireksi menuju ke URI yang baru jika URI yang direquest terdapat di &lt;em&gt;mapping&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/HTTP_301&quot;&gt;Kode HTTP 301&lt;/a&gt; adalah untuk memberi tahu browser atau mesin pencari bahwa URI yang dimaksud sebelumnya sudah pindah permanen ke URI yang baru, dan diharapkan jika ada request ke URI lama ini akan langsung dialihkan ke URI yang baru.&lt;/p&gt;
-
-&lt;p&gt;Untuk mengetes apakah redireksi berjalan dengan baik bisa dengan menggunakan aplikasi &lt;code class=&quot;highlighter-rouge&quot;&gt;curl&lt;/code&gt;, dengan perintah&lt;/p&gt;
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-IL&lt;/span&gt; https://old/path-to-article
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;hasilnya biasanya berupa&lt;/p&gt;
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dedenf@Skypeia ~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-IL&lt;/span&gt; https://old/path-to-article
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 08 May 2019 05:43:32 GMT
-Content-Type: text/html
-Connection: keep-alive
-Location: https://new/
-
-HTTP/1.1 200 OK
-Server: nginx/1.10.3 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;Ubuntu&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-Date: Wed, 08 May 2019 05:43:33 GMT
-Content-Type: text/html&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;charset&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;UTF-8
-Connection: keep-alive
-...
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dengan melihat hasil di atas, dan perhatikan diberikan &lt;code class=&quot;highlighter-rouge&quot;&gt;301&lt;/code&gt; dari URI lama yang direquest oleh server. proses redireksi ini telah sukses, redireksi ini penting untuk mesin pencari atau untuk orang lain ketemukan dan tidak mau memberikan halaman 404 dari website yang lama, karena ini akan sangat jelek tentunya untuk pembaca atau bisnis.&lt;/p&gt;
-
-&lt;p&gt;Jika terkendala masalah, bisa langsung lihat error nginx-nya saja, biasanya terletak di &lt;code class=&quot;highlighter-rouge&quot;&gt;/var/log/nginx/error.log&lt;/code&gt; dan bisa melakukan analisa masalah di situ.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 08 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//redirection-nginx-multiple-uri/</link>
-        <guid isPermaLink="true">https://jakartadev.org//redirection-nginx-multiple-uri/</guid>
-        
-        <category>nginx</category>
-        
-        <category>webserver</category>
-        
-        <category>devops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;337</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/improving-html-time-to-first-byte/&quot;&gt;Improving HTML Time to First Byte&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/blockchain-basics-use-cases&quot;&gt;Understanding Blockchain Basics and Use Cases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/reactive-ddd&quot;&gt;Reactive DDD—When Concurrent Waxes Fluent&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-2-the-messy-middle-59f16a959b7f&quot;&gt;The history of infrastructure at Zendesk (Part 2) — the messy middle&lt;/a&gt; (&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-constant-tradeoffs-bdfa916ff4c3&quot;&gt;part 1&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/12/improving-member-productivity-with-in-product-help-&quot;&gt;Improving Member Productivity with In-Product Help&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 08 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-337/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-337/</guid>
         
         <category>daily</category>
         

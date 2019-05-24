@@ -4,13 +4,52 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-23T11:51:19+07:00</updated>
+ <updated>2019-05-24T13:31:11+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;347</title>
+   <link href="https://jakartadev.org//daily-digest-347/"/>
+   <updated>2019-05-24T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-347</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic&quot;&gt;7 years as a developer - lessons learned &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4&quot;&gt;Using Animation Worklet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/&quot;&gt;Designing the Flexbox Inspector&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007&quot;&gt;The lies and lack of self respect that lead to burnout &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/01/divide-encode-1/&quot;&gt;Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4&quot;&gt;WebSockets &amp;amp; API Gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor&quot;&gt;Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/atari-zoo-deep-reinforcement-learning/&quot;&gt;Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4&quot;&gt;New horizons in CSS: Houdini and the Paint API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/using-arkit-and-image-tracking/&quot;&gt;Using ARKit and Image Tracking to Augment a Postcard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;346</title>
+   <link href="https://jakartadev.org//daily-digest-346/"/>
+   <updated>2019-05-23T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-346</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd&quot;&gt;Exploring Distributed System Theory: Availability and Consistency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/&quot;&gt;Better understanding of Android accessibility for blind people&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-2&quot;&gt;Designing resilient systems: Circuit Breakers or Retries? (Part 2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580&quot;&gt;Progressive Web Apps, UX and Engagement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/&quot;&gt;The Case of the Hidden Mongo Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study&quot;&gt;The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1&quot;&gt;Lessons Learned Building Distributed Systems with CQRS and Event Sourcing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;345</title>
