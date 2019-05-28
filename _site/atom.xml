@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-27T12:58:34+07:00</updated>
+ <updated>2019-05-28T14:26:19+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;349</title>
+   <link href="https://jakartadev.org//daily-digest-349/"/>
+   <updated>2019-05-28T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-349</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/&quot;&gt;Podman: Managing pods and containers in a local container runtime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/managing-secrets-in-kubernetes&quot;&gt;Managing Secrets in Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2019/01/14/android-vs-ios-development/&quot;&gt;With Jetpack, Android Development Has Leapfrogged iOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://americanexpress.io/git-bisect/&quot;&gt;Using Git Bisect To Find Bugs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b&quot;&gt;Common api mistakes and how to avoid them&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;348</title>
