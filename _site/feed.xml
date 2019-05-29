@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 May 2019 14:26:19 +0700</pubDate>
-    <lastBuildDate>Tue, 28 May 2019 14:26:19 +0700</lastBuildDate>
+    <pubDate>Wed, 29 May 2019 10:51:50 +0700</pubDate>
+    <lastBuildDate>Wed, 29 May 2019 10:51:50 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;350</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967?source=rss----cfe1120185d3---4&quot;&gt;TLS Fingerprinting with JA3 and JA3S&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.memsql.com/blog/porting-30k-lines-of-code-from-flow-to-typescript/&quot;&gt;Porting 30K Lines of Code from Flow to TypeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/01/augmented-reality-and-the-browser%E2%80%8A-%E2%80%8Aan-app-experiment/&quot;&gt;Augmented Reality and the Browser — An App Experiment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/ios-application-testing-strategies-at-shopify&quot;&gt;iOS Application Testing Strategies at Shopify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/interpretable-machine-learning-part-i-bd1829b42b3a&quot;&gt;Interpretable Machine learning : Part I&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 29 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-350/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-350/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;349</title>
@@ -204,28 +225,6 @@
         <pubDate>Tue, 14 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-341/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-341/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;340</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/usability/mobile-heuristic-principles&quot;&gt;Heuristic Principles for Mobile Interfaces&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4&quot;&gt;Using TypeScript transforms to enrich runtime code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/review-of-gloo-the-function-api-gateway/&quot;&gt;Review of Gloo, The Function Gateway&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/&quot;&gt;Fast Gaussian-distributed Random Numbers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a&quot;&gt;Understanding High Dimensional Spaces in Machine Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474&quot;&gt;Implementing AudioWorklets with React&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-340/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-340/</guid>
         
         <category>daily</category>
         

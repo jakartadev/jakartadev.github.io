@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-28T14:26:19+07:00</updated>
+ <updated>2019-05-29T10:51:50+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;350</title>
+   <link href="https://jakartadev.org//daily-digest-350/"/>
+   <updated>2019-05-29T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-350</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967?source=rss----cfe1120185d3---4&quot;&gt;TLS Fingerprinting with JA3 and JA3S&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.memsql.com/blog/porting-30k-lines-of-code-from-flow-to-typescript/&quot;&gt;Porting 30K Lines of Code from Flow to TypeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/01/augmented-reality-and-the-browser%E2%80%8A-%E2%80%8Aan-app-experiment/&quot;&gt;Augmented Reality and the Browser — An App Experiment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/ios-application-testing-strategies-at-shopify&quot;&gt;iOS Application Testing Strategies at Shopify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/interpretable-machine-learning-part-i-bd1829b42b3a&quot;&gt;Interpretable Machine learning : Part I&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;349</title>
