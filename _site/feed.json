@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-352",
+            "title": "Daily Digest #352",
+            "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/news/2019/01/rearchitecture-system-success/\">An Incremental Architecture Approach to Building Systems</a></li>\n  <li><a href=\"https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html\">Migrating Kafka’s Zookeeper With No Downtime</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/\">Automating Datacenter Operations at Dropbox</a></li>\n  <li><a href=\"https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4\">Why are we getting Streams in Redis?</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/\">Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-352/",
+            "summary": "",
+            "date_published": "2019-05-31 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-351",
             "title": "Daily Digest #351",
             "content_html": "<ul>\n  <li><a href=\"https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/\">GraphQL: Union vs. Interface</a></li>\n  <li><a href=\"https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4\">How to limit front-end bugs</a></li>\n  <li><a href=\"https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript\">The History (and Future) of Asynchronous JavaScript</a></li>\n  <li><a href=\"https://blog.sqreen.com/demystifying-radix-trees/\">How Radix trees made blocking IPs 5000 times faster</a></li>\n  <li><a href=\"https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/\">An overview of 2018 language models</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-348/",
             "summary": "",
             "date_published": "2019-05-27 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-347",
-            "title": "Daily Digest #347",
-            "content_html": "<ul>\n  <li><a href=\"https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic\">7 years as a developer - lessons learned </a></li>\n  <li><a href=\"https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4\">Using Animation Worklet</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/\">Designing the Flexbox Inspector</a></li>\n  <li><a href=\"https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007\">The lies and lack of self respect that lead to burnout </a></li>\n  <li><a href=\"https://tech.showmax.com/2019/01/divide-encode-1/\">Divide &amp; Encode: How to Encode Videos Blazingly Fast</a></li>\n  <li><a href=\"https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb\">Impress your colleagues with these NPM tricks </a></li>\n  <li><a href=\"https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4\">WebSockets &amp; API Gateway</a></li>\n  <li><a href=\"https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor\">Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform</a></li>\n  <li><a href=\"https://eng.uber.com/atari-zoo-deep-reinforcement-learning/\">Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning</a></li>\n  <li><a href=\"https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4\">New horizons in CSS: Houdini and the Paint API</a></li>\n  <li><a href=\"https://www.viget.com/articles/using-arkit-and-image-tracking/\">Using ARKit and Image Tracking to Augment a Postcard</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-347/",
-            "summary": "",
-            "date_published": "2019-05-24 00:00:00 +0700"
         }
 
     ]

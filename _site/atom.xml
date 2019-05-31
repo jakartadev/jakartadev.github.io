@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-31T15:40:58+07:00</updated>
+ <updated>2019-05-31T15:42:17+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;352</title>
+   <link href="https://jakartadev.org//daily-digest-352/"/>
+   <updated>2019-05-31T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-352</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2019/01/rearchitecture-system-success/&quot;&gt;An Incremental Architecture Approach to Building Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html&quot;&gt;Migrating Kafka’s Zookeeper With No Downtime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/&quot;&gt;Automating Datacenter Operations at Dropbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4&quot;&gt;Why are we getting Streams in Redis?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/&quot;&gt;Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;351</title>
