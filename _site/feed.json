@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-351",
+            "title": "Daily Digest #351",
+            "content_html": "<ul>\n  <li><a href=\"https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/\">GraphQL: Union vs. Interface</a></li>\n  <li><a href=\"https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4\">How to limit front-end bugs</a></li>\n  <li><a href=\"https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript\">The History (and Future) of Asynchronous JavaScript</a></li>\n  <li><a href=\"https://blog.sqreen.com/demystifying-radix-trees/\">How Radix trees made blocking IPs 5000 times faster</a></li>\n  <li><a href=\"https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/\">An overview of 2018 language models</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-351/",
+            "summary": "",
+            "date_published": "2019-05-30 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-350",
             "title": "Daily Digest #350",
             "content_html": "<ul>\n  <li><a href=\"https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967?source=rss----cfe1120185d3---4\">TLS Fingerprinting with JA3 and JA3S</a></li>\n  <li><a href=\"https://www.memsql.com/blog/porting-30k-lines-of-code-from-flow-to-typescript/\">Porting 30K Lines of Code from Flow to TypeScript</a></li>\n  <li><a href=\"https://hacks.mozilla.org/2019/01/augmented-reality-and-the-browser%E2%80%8A-%E2%80%8Aan-app-experiment/\">Augmented Reality and the Browser — An App Experiment</a></li>\n  <li><a href=\"https://shopifyengineering.myshopify.com/blogs/engineering/ios-application-testing-strategies-at-shopify\">iOS Application Testing Strategies at Shopify</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/interpretable-machine-learning-part-i-bd1829b42b3a\">Interpretable Machine learning : Part I</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-347/",
             "summary": "",
             "date_published": "2019-05-24 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-346",
-            "title": "Daily Digest #346",
-            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd\">Exploring Distributed System Theory: Availability and Consistency</a></li>\n  <li><a href=\"https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/\">Better understanding of Android accessibility for blind people</a></li>\n  <li><a href=\"https://engineering.grab.com/designing-resilient-systems-part-2\">Designing resilient systems: Circuit Breakers or Retries? (Part 2)</a></li>\n  <li><a href=\"https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580\">Progressive Web Apps, UX and Engagement</a></li>\n  <li><a href=\"https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/\">The Case of the Hidden Mongo Data</a></li>\n  <li><a href=\"https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study\">The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study</a></li>\n  <li><a href=\"https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1\">Lessons Learned Building Distributed Systems with CQRS and Event Sourcing</a></li>\n  <li><a href=\"https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb\">Impress your colleagues with these NPM tricks</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-346/",
-            "summary": "",
-            "date_published": "2019-05-23 00:00:00 +0700"
         }
 
     ]

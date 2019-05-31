@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-29T10:51:50+07:00</updated>
+ <updated>2019-05-31T15:40:58+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;351</title>
+   <link href="https://jakartadev.org//daily-digest-351/"/>
+   <updated>2019-05-30T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-351</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/&quot;&gt;GraphQL: Union vs. Interface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4&quot;&gt;How to limit front-end bugs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript&quot;&gt;The History (and Future) of Asynchronous JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/demystifying-radix-trees/&quot;&gt;How Radix trees made blocking IPs 5000 times faster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/&quot;&gt;An overview of 2018 language models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;350</title>

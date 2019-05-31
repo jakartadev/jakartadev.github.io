@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 May 2019 10:51:50 +0700</pubDate>
-    <lastBuildDate>Wed, 29 May 2019 10:51:50 +0700</lastBuildDate>
+    <pubDate>Fri, 31 May 2019 15:40:58 +0700</pubDate>
+    <lastBuildDate>Fri, 31 May 2019 15:40:58 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;351</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/&quot;&gt;GraphQL: Union vs. Interface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4&quot;&gt;How to limit front-end bugs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript&quot;&gt;The History (and Future) of Asynchronous JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/demystifying-radix-trees/&quot;&gt;How Radix trees made blocking IPs 5000 times faster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/&quot;&gt;An overview of 2018 language models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 30 May 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-351/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-351/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;350</title>
@@ -203,28 +224,6 @@
         <pubDate>Wed, 15 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-342/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-342/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;341</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a&quot;&gt;Understanding how IME (Shapley Values) explains predictions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/how-to-learn-css/&quot;&gt;How To Learn CSS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/&quot;&gt;Tutorial: Advanced Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295?source=rss----7f3d96429888---4&quot;&gt;Reactivity with RxJS: force press&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin&quot;&gt;Scaling Machine Learning Productivity at LinkedIn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/carbon-dual-binary-mobile-app/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=carbon-dual-binary-mobile-app&quot;&gt;How to Ship an App Rewrite Without Risking Your Entire Business&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 14 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-341/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-341/</guid>
         
         <category>daily</category>
         
