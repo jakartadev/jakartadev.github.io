@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 May 2019 15:42:17 +0700</pubDate>
-    <lastBuildDate>Fri, 31 May 2019 15:42:17 +0700</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2019 12:57:54 +0700</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2019 12:57:54 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;353</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/&quot;&gt;Why we built CockroachDB on top of RocksDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/patient-care-stream-processing/&quot;&gt;Increasing the Quality of Patient Care through Stream Processing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rockthecode.io/blog/distributed-application-using-raft/&quot;&gt;Application Scaling with Raft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/&quot;&gt;Using Parallel Query with Amazon Aurora for MySQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb&quot;&gt;Avoiding Double Payments in a Distributed Payments System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 03 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-353/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-353/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;352</title>
@@ -201,27 +222,6 @@
         <pubDate>Tue, 21 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-344/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-344/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;343</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/serverless-chatbots&quot;&gt;Serverless and Chatbots: A Match Made in the Cloud&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/12/28/finetuning-for-natural-language-processing.html&quot;&gt;Fine-tuning for Natural Language Processing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/multitask-learning-in-tensorflow-with-the-head-api-68f2717019df&quot;&gt;Multitask learning in TensorFlow with the Head API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/&quot;&gt;Keep your infrastructure keys safe with Vault&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/devops-database&quot;&gt;DevOps for the Database&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 20 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-343/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-343/</guid>
         
         <category>daily</category>
         

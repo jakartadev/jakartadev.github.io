@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-05-31T15:42:17+07:00</updated>
+ <updated>2019-06-03T12:57:54+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;353</title>
+   <link href="https://jakartadev.org//daily-digest-353/"/>
+   <updated>2019-06-03T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-353</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/&quot;&gt;Why we built CockroachDB on top of RocksDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/patient-care-stream-processing/&quot;&gt;Increasing the Quality of Patient Care through Stream Processing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rockthecode.io/blog/distributed-application-using-raft/&quot;&gt;Application Scaling with Raft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/&quot;&gt;Using Parallel Query with Amazon Aurora for MySQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb&quot;&gt;Avoiding Double Payments in a Distributed Payments System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;352</title>

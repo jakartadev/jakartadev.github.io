@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-353",
+            "title": "Daily Digest #353",
+            "content_html": "<ul>\n  <li><a href=\"https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/\">Why we built CockroachDB on top of RocksDB</a></li>\n  <li><a href=\"https://www.infoq.com/articles/patient-care-stream-processing/\">Increasing the Quality of Patient Care through Stream Processing</a></li>\n  <li><a href=\"http://rockthecode.io/blog/distributed-application-using-raft/\">Application Scaling with Raft</a></li>\n  <li><a href=\"https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/\">Using Parallel Query with Amazon Aurora for MySQL</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb\">Avoiding Double Payments in a Distributed Payments System</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-353/",
+            "summary": "",
+            "date_published": "2019-06-03 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-352",
             "title": "Daily Digest #352",
             "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/news/2019/01/rearchitecture-system-success/\">An Incremental Architecture Approach to Building Systems</a></li>\n  <li><a href=\"https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html\">Migrating Kafka’s Zookeeper With No Downtime</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/\">Automating Datacenter Operations at Dropbox</a></li>\n  <li><a href=\"https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4\">Why are we getting Streams in Redis?</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/\">Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-349/",
             "summary": "",
             "date_published": "2019-05-28 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-348",
-            "title": "Daily Digest #348",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.logrocket.com/reverse-engineering-observable-4069f3853139\"> Reverse engineering Observable</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/nvme-cache\">Caching Beyond RAM: The Case for NVMe</a></li>\n  <li><a href=\"https://hackernoon.com/why-and-how-we-built-a-temporal-database-system-called-sirixdb-open-source-from-scratch-a7446f56f201\">Pushing Database Versioning to Its Limits by Means of a Novel Sliding Snapshot Algorithm and Efficient Time Travel Queries</a></li>\n  <li><a href=\"https://security.googleblog.com/2019/01/pha-family-highlights-zen-and-its.html\">PHA Family Highlights: Zen and its cousins</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/modern-operating-systems\">The Operating System in 2018</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-348/",
-            "summary": "",
-            "date_published": "2019-05-27 00:00:00 +0700"
         }
 
     ]
