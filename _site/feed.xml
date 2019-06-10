@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Jun 2019 12:57:54 +0700</pubDate>
-    <lastBuildDate>Mon, 03 Jun 2019 12:57:54 +0700</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2019 13:00:28 +0700</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2019 13:00:28 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;354</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/octos-vision-on-the-service-mesh-radiography-of-the-service-mesh/&quot;&gt;OCTO’s vision on the Service Mesh: radiography of the Service Mesh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@octoz/thoughts-about-scaled-agile-frameworks-and-why-they-are-useless-bfdf29f968af&quot;&gt;Thoughts about scaled agile frameworks and why they are useless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/experimentation-platform-data-pipeline&quot;&gt;A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042&quot;&gt;Empowering Data Science with Engineering Education&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/1/8/mysql-high-availability-framework-explained-part-ii.html&quot;&gt;MySQL High Availability Framework Explained – Part II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 10 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-354/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-354/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;353</title>
@@ -200,28 +221,6 @@
         <pubDate>Wed, 22 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-345/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-345/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;344</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/reverse-engineering-an-obfuscated-malicious-macro-3fd4d4f9c439&quot;&gt;Reverse Engineering an Obfuscated Malicious Macro&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/design-automatic-pipelines-ml&quot;&gt;Designing Automated Pipelines for Unseen Custom Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/stack-too-deep-error-in-solidity-ca83326ff0f0&quot;&gt;Understanding the “Stack Too Deep” Error in Solidity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/java-responsive-cloud&quot;&gt;Building Responsive Systems with Serverless, Event-Driven Java&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/poet-open-ended-deep-learning/&quot;&gt;POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/mobile-testing-apps&quot;&gt;Break Things to Fix Things: Testing More than What “Should” Work&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 21 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-344/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-344/</guid>
         
         <category>daily</category>
         
