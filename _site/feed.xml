@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jun 2019 13:00:28 +0700</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2019 13:00:28 +0700</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2019 11:49:04 +0700</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2019 11:49:04 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;355</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/why-architectural-diagrams/&quot;&gt;Why Do We Need Architectural Diagrams?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microsoft-tfs-azure-devops&quot;&gt;Journey to Cloud Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rewind.io/blog/feature-flagging-in-ruby-using-eightball/&quot;&gt;Feature Flagging in Ruby Using EightBall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4&quot;&gt;Node.js multithreading: What are Worker Threads and why do they matter?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730&quot;&gt;Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 11 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-355/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-355/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;354</title>
@@ -199,28 +220,6 @@
         <pubDate>Thu, 23 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-346/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-346/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;345</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/&quot;&gt;Courier: Dropbox migration to gRPC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/should-you-build-an-api-gateway-in-house/&quot;&gt;Should You Build An API Gateway In-House?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046&quot;&gt;A Deep Dive Into Data Quality&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/industrial-document-classification-with-deep-learning/&quot;&gt;Industrial document classification with Deep Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/&quot;&gt;Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5&quot;&gt;Redux on an ESP8266&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 22 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-345/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-345/</guid>
         
         <category>daily</category>
         
