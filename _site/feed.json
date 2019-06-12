@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-356",
+            "title": "Daily Digest #356",
+            "content_html": "<ul>\n  <li><a href=\"https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4\">Big Data Metrics Discovery</a></li>\n  <li><a href=\"https://www.pikapkg.com/blog/introducing-pika-pack/\">Introducing: @pika/pack npm package building, reimagined</a></li>\n  <li><a href=\"https://overreacted.io/react-as-a-ui-runtime/\">React as a UI Runtime</a></li>\n  <li><a href=\"https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/\">How We Use Trello to Help Us Onboard Our New Employees</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c\">Working with GraphQL using Vanilla JS</a></li>\n  <li><a href=\"https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f\">Analyzing twitch chat during a pokémon marathon</a></li>\n  <li><a href=\"https://faastruby.io/blog/introducing-templates/\">Introducing Templates: A way to share your Serverless Functions with the Community</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-356/",
+            "summary": "",
+            "date_published": "2019-06-12 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-355",
             "title": "Daily Digest #355",
             "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/articles/why-architectural-diagrams/\">Why Do We Need Architectural Diagrams?</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/microsoft-tfs-azure-devops\">Journey to Cloud Architecture</a></li>\n  <li><a href=\"https://rewind.io/blog/feature-flagging-in-ruby-using-eightball/\">Feature Flagging in Ruby Using EightBall</a></li>\n  <li><a href=\"https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4\">Node.js multithreading: What are Worker Threads and why do they matter?</a></li>\n  <li><a href=\"https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730\">Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-352/",
             "summary": "",
             "date_published": "2019-05-31 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-351",
-            "title": "Daily Digest #351",
-            "content_html": "<ul>\n  <li><a href=\"https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/\">GraphQL: Union vs. Interface</a></li>\n  <li><a href=\"https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4\">How to limit front-end bugs</a></li>\n  <li><a href=\"https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript\">The History (and Future) of Asynchronous JavaScript</a></li>\n  <li><a href=\"https://blog.sqreen.com/demystifying-radix-trees/\">How Radix trees made blocking IPs 5000 times faster</a></li>\n  <li><a href=\"https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/\">An overview of 2018 language models</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-351/",
-            "summary": "",
-            "date_published": "2019-05-30 00:00:00 +0700"
         }
 
     ]

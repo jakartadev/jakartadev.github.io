@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jun 2019 11:49:04 +0700</pubDate>
-    <lastBuildDate>Tue, 11 Jun 2019 11:49:04 +0700</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2019 16:18:05 +0700</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2019 16:18:05 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;356</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4&quot;&gt;Big Data Metrics Discovery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pikapkg.com/blog/introducing-pika-pack/&quot;&gt;Introducing: @pika/pack npm package building, reimagined&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://overreacted.io/react-as-a-ui-runtime/&quot;&gt;React as a UI Runtime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/&quot;&gt;How We Use Trello to Help Us Onboard Our New Employees&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c&quot;&gt;Working with GraphQL using Vanilla JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f&quot;&gt;Analyzing twitch chat during a pokémon marathon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://faastruby.io/blog/introducing-templates/&quot;&gt;Introducing Templates: A way to share your Serverless Functions with the Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 12 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-356/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-356/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;355</title>
@@ -196,30 +219,6 @@
         <pubDate>Fri, 24 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-347/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-347/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;346</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd&quot;&gt;Exploring Distributed System Theory: Availability and Consistency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/&quot;&gt;Better understanding of Android accessibility for blind people&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-2&quot;&gt;Designing resilient systems: Circuit Breakers or Retries? (Part 2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580&quot;&gt;Progressive Web Apps, UX and Engagement&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/&quot;&gt;The Case of the Hidden Mongo Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study&quot;&gt;The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1&quot;&gt;Lessons Learned Building Distributed Systems with CQRS and Event Sourcing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 23 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-346/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-346/</guid>
         
         <category>daily</category>
         
