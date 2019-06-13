@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-06-12T16:18:05+07:00</updated>
+ <updated>2019-06-13T12:13:22+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;357</title>
+   <link href="https://jakartadev.org//daily-digest-357/"/>
+   <updated>2019-06-13T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-357</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/&quot;&gt;Interactive Visual Search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nosarthur/gita&quot;&gt;Gita – Manage multiple git repos side by side for sanity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component&quot;&gt;Feedback and Control - an Essential GitOps Component&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/culture-of-change/edito-culture-change-whitepaper-d8d8b66749&quot;&gt;Edito — Culture Change whitepaper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ioquatix/covered&quot;&gt;Covered – modern Ruby features to generate comprehensive coverage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git.occrp.org/libre/fonts-degooglifier&quot;&gt;fonts-degooglifier&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;356</title>

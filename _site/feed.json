@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-357",
+            "title": "Daily Digest #357",
+            "content_html": "<ul>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/\">Interactive Visual Search</a></li>\n  <li><a href=\"https://github.com/nosarthur/gita\">Gita – Manage multiple git repos side by side for sanity</a></li>\n  <li><a href=\"https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component\">Feedback and Control - an Essential GitOps Component</a></li>\n  <li><a href=\"https://medium.com/culture-of-change/edito-culture-change-whitepaper-d8d8b66749\">Edito — Culture Change whitepaper</a></li>\n  <li><a href=\"https://github.com/ioquatix/covered\">Covered – modern Ruby features to generate comprehensive coverage</a></li>\n  <li><a href=\"https://git.occrp.org/libre/fonts-degooglifier\">fonts-degooglifier</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-357/",
+            "summary": "",
+            "date_published": "2019-06-13 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-356",
             "title": "Daily Digest #356",
             "content_html": "<ul>\n  <li><a href=\"https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4\">Big Data Metrics Discovery</a></li>\n  <li><a href=\"https://www.pikapkg.com/blog/introducing-pika-pack/\">Introducing: @pika/pack npm package building, reimagined</a></li>\n  <li><a href=\"https://overreacted.io/react-as-a-ui-runtime/\">React as a UI Runtime</a></li>\n  <li><a href=\"https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/\">How We Use Trello to Help Us Onboard Our New Employees</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c\">Working with GraphQL using Vanilla JS</a></li>\n  <li><a href=\"https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f\">Analyzing twitch chat during a pokémon marathon</a></li>\n  <li><a href=\"https://faastruby.io/blog/introducing-templates/\">Introducing Templates: A way to share your Serverless Functions with the Community</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-353/",
             "summary": "",
             "date_published": "2019-06-03 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-352",
-            "title": "Daily Digest #352",
-            "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/news/2019/01/rearchitecture-system-success/\">An Incremental Architecture Approach to Building Systems</a></li>\n  <li><a href=\"https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html\">Migrating Kafka’s Zookeeper With No Downtime</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/\">Automating Datacenter Operations at Dropbox</a></li>\n  <li><a href=\"https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4\">Why are we getting Streams in Redis?</a></li>\n  <li><a href=\"https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/\">Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-352/",
-            "summary": "",
-            "date_published": "2019-05-31 00:00:00 +0700"
         }
 
     ]

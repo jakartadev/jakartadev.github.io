@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jun 2019 16:18:05 +0700</pubDate>
-    <lastBuildDate>Wed, 12 Jun 2019 16:18:05 +0700</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2019 12:13:22 +0700</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2019 12:13:22 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;357</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/&quot;&gt;Interactive Visual Search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nosarthur/gita&quot;&gt;Gita – Manage multiple git repos side by side for sanity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component&quot;&gt;Feedback and Control - an Essential GitOps Component&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/culture-of-change/edito-culture-change-whitepaper-d8d8b66749&quot;&gt;Edito — Culture Change whitepaper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ioquatix/covered&quot;&gt;Covered – modern Ruby features to generate comprehensive coverage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git.occrp.org/libre/fonts-degooglifier&quot;&gt;fonts-degooglifier&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 13 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-357/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-357/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;356</title>
@@ -192,33 +214,6 @@
         <pubDate>Mon, 27 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-348/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-348/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;347</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic&quot;&gt;7 years as a developer - lessons learned &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4&quot;&gt;Using Animation Worklet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/&quot;&gt;Designing the Flexbox Inspector&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007&quot;&gt;The lies and lack of self respect that lead to burnout &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/01/divide-encode-1/&quot;&gt;Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4&quot;&gt;WebSockets &amp;amp; API Gateway&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor&quot;&gt;Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/atari-zoo-deep-reinforcement-learning/&quot;&gt;Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4&quot;&gt;New horizons in CSS: Houdini and the Paint API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/using-arkit-and-image-tracking/&quot;&gt;Using ARKit and Image Tracking to Augment a Postcard&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 24 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-347/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-347/</guid>
         
         <category>daily</category>
         
