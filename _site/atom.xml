@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-06-13T12:13:22+07:00</updated>
+ <updated>2019-06-14T14:44:19+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;358</title>
+   <link href="https://jakartadev.org//daily-digest-358/"/>
+   <updated>2019-06-14T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-358</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/&quot;&gt;Preload, Eager Load, Includes and Joins in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.xkyle.com/Being-a-Great-Engineering-Mentor/&quot;&gt;Being a Great Engineering Mentor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chriskiehl.com/article/event-sourcing-is-hard&quot;&gt;Don’t Let the Internet Dupe You, Event Sourcing is Hard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html&quot;&gt;The Cost of Bad Software Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/postlight/mercury-parser&quot;&gt;Mercury parser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;357</title>

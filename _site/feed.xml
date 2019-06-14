@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Jun 2019 12:13:22 +0700</pubDate>
-    <lastBuildDate>Thu, 13 Jun 2019 12:13:22 +0700</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2019 14:44:19 +0700</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2019 14:44:19 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;358</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/&quot;&gt;Preload, Eager Load, Includes and Joins in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.xkyle.com/Being-a-Great-Engineering-Mentor/&quot;&gt;Being a Great Engineering Mentor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chriskiehl.com/article/event-sourcing-is-hard&quot;&gt;Don’t Let the Internet Dupe You, Event Sourcing is Hard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html&quot;&gt;The Cost of Bad Software Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/postlight/mercury-parser&quot;&gt;Mercury parser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-358/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-358/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;357</title>
@@ -193,27 +214,6 @@
         <pubDate>Tue, 28 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-349/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-349/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;348</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/reverse-engineering-observable-4069f3853139&quot;&gt; Reverse engineering Observable&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/nvme-cache&quot;&gt;Caching Beyond RAM: The Case for NVMe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/why-and-how-we-built-a-temporal-database-system-called-sirixdb-open-source-from-scratch-a7446f56f201&quot;&gt;Pushing Database Versioning to Its Limits by Means of a Novel Sliding Snapshot Algorithm and Efficient Time Travel Queries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/01/pha-family-highlights-zen-and-its.html&quot;&gt;PHA Family Highlights: Zen and its cousins&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/modern-operating-systems&quot;&gt;The Operating System in 2018&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 27 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-348/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-348/</guid>
         
         <category>daily</category>
         

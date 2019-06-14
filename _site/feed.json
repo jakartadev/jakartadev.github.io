@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-358",
+            "title": "Daily Digest #358",
+            "content_html": "<ul>\n  <li><a href=\"https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/\">Preload, Eager Load, Includes and Joins in Ruby on Rails</a></li>\n  <li><a href=\"https://www.xkyle.com/Being-a-Great-Engineering-Mentor/\">Being a Great Engineering Mentor</a></li>\n  <li><a href=\"https://chriskiehl.com/article/event-sourcing-is-hard\">Don’t Let the Internet Dupe You, Event Sourcing is Hard</a></li>\n  <li><a href=\"https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html\">The Cost of Bad Software Architecture</a></li>\n  <li><a href=\"https://github.com/postlight/mercury-parser\">Mercury parser</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-358/",
+            "summary": "",
+            "date_published": "2019-06-14 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-357",
             "title": "Daily Digest #357",
             "content_html": "<ul>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/\">Interactive Visual Search</a></li>\n  <li><a href=\"https://github.com/nosarthur/gita\">Gita – Manage multiple git repos side by side for sanity</a></li>\n  <li><a href=\"https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component\">Feedback and Control - an Essential GitOps Component</a></li>\n  <li><a href=\"https://medium.com/culture-of-change/edito-culture-change-whitepaper-d8d8b66749\">Edito — Culture Change whitepaper</a></li>\n  <li><a href=\"https://github.com/ioquatix/covered\">Covered – modern Ruby features to generate comprehensive coverage</a></li>\n  <li><a href=\"https://git.occrp.org/libre/fonts-degooglifier\">fonts-degooglifier</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-354/",
             "summary": "",
             "date_published": "2019-06-10 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-353",
-            "title": "Daily Digest #353",
-            "content_html": "<ul>\n  <li><a href=\"https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/\">Why we built CockroachDB on top of RocksDB</a></li>\n  <li><a href=\"https://www.infoq.com/articles/patient-care-stream-processing/\">Increasing the Quality of Patient Care through Stream Processing</a></li>\n  <li><a href=\"http://rockthecode.io/blog/distributed-application-using-raft/\">Application Scaling with Raft</a></li>\n  <li><a href=\"https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/\">Using Parallel Query with Amazon Aurora for MySQL</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb\">Avoiding Double Payments in a Distributed Payments System</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-353/",
-            "summary": "",
-            "date_published": "2019-06-03 00:00:00 +0700"
         }
 
     ]
