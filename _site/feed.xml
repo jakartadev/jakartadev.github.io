@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2019 14:44:19 +0700</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2019 14:44:19 +0700</lastBuildDate>
+    <pubDate>Mon, 17 Jun 2019 18:40:36 +0700</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2019 18:40:36 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;359</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-customer-churning-with-big-data-analytics-70ce4eb17669&quot;&gt;Understanding Customer Churning with Big Data Analytics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ui/minimal-web-design&quot;&gt;Simplicity is Key – Exploring Minimal Web Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/table-design-patterns-web/&quot;&gt;Table Design Patterns On The Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/explainable-reasoning-over-knowledge-graphs-for-recommendation/&quot;&gt;Explainable Reasoning over Knowledge Graphs for Recommendation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/TrillCyborg/onefraction&quot;&gt;React/ApolloGraphQL/Node/Mongo demo written in Typescript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 17 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-359/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-359/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;358</title>
@@ -193,27 +214,6 @@
         <pubDate>Wed, 29 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-350/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-350/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;349</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/&quot;&gt;Podman: Managing pods and containers in a local container runtime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/managing-secrets-in-kubernetes&quot;&gt;Managing Secrets in Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2019/01/14/android-vs-ios-development/&quot;&gt;With Jetpack, Android Development Has Leapfrogged iOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://americanexpress.io/git-bisect/&quot;&gt;Using Git Bisect To Find Bugs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b&quot;&gt;Common api mistakes and how to avoid them&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-349/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-349/</guid>
         
         <category>daily</category>
         

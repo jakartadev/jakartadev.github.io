@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-359",
+            "title": "Daily Digest #359",
+            "content_html": "<ul>\n  <li><a href=\"https://towardsdatascience.com/understanding-customer-churning-with-big-data-analytics-70ce4eb17669\">Understanding Customer Churning with Big Data Analytics</a></li>\n  <li><a href=\"https://www.toptal.com/designers/ui/minimal-web-design\">Simplicity is Key – Exploring Minimal Web Design</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/table-design-patterns-web/\">Table Design Patterns On The Web</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/explainable-reasoning-over-knowledge-graphs-for-recommendation/\">Explainable Reasoning over Knowledge Graphs for Recommendation</a></li>\n  <li><a href=\"https://github.com/TrillCyborg/onefraction\">React/ApolloGraphQL/Node/Mongo demo written in Typescript</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-359/",
+            "summary": "",
+            "date_published": "2019-06-17 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-358",
             "title": "Daily Digest #358",
             "content_html": "<ul>\n  <li><a href=\"https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/\">Preload, Eager Load, Includes and Joins in Ruby on Rails</a></li>\n  <li><a href=\"https://www.xkyle.com/Being-a-Great-Engineering-Mentor/\">Being a Great Engineering Mentor</a></li>\n  <li><a href=\"https://chriskiehl.com/article/event-sourcing-is-hard\">Don’t Let the Internet Dupe You, Event Sourcing is Hard</a></li>\n  <li><a href=\"https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html\">The Cost of Bad Software Architecture</a></li>\n  <li><a href=\"https://github.com/postlight/mercury-parser\">Mercury parser</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-355/",
             "summary": "",
             "date_published": "2019-06-11 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-354",
-            "title": "Daily Digest #354",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.octo.com/en/octos-vision-on-the-service-mesh-radiography-of-the-service-mesh/\">OCTO’s vision on the Service Mesh: radiography of the Service Mesh</a></li>\n  <li><a href=\"https://medium.com/@octoz/thoughts-about-scaled-agile-frameworks-and-why-they-are-useless-bfdf29f968af\">Thoughts about scaled agile frameworks and why they are useless</a></li>\n  <li><a href=\"https://engineering.grab.com/experimentation-platform-data-pipeline\">A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042\">Empowering Data Science with Engineering Education</a></li>\n  <li><a href=\"http://highscalability.com/blog/2019/1/8/mysql-high-availability-framework-explained-part-ii.html\">MySQL High Availability Framework Explained – Part II</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-354/",
-            "summary": "",
-            "date_published": "2019-06-10 00:00:00 +0700"
         }
 
     ]

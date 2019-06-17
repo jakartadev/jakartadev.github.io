@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-06-14T14:44:19+07:00</updated>
+ <updated>2019-06-17T18:40:36+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;359</title>
+   <link href="https://jakartadev.org//daily-digest-359/"/>
+   <updated>2019-06-17T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-359</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-customer-churning-with-big-data-analytics-70ce4eb17669&quot;&gt;Understanding Customer Churning with Big Data Analytics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ui/minimal-web-design&quot;&gt;Simplicity is Key – Exploring Minimal Web Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/table-design-patterns-web/&quot;&gt;Table Design Patterns On The Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/explainable-reasoning-over-knowledge-graphs-for-recommendation/&quot;&gt;Explainable Reasoning over Knowledge Graphs for Recommendation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/TrillCyborg/onefraction&quot;&gt;React/ApolloGraphQL/Node/Mongo demo written in Typescript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;358</title>
