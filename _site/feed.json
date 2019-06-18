@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-360",
+            "title": "Daily Digest #360",
+            "content_html": "<ul>\n  <li><a href=\"http://www.pregamemagazine.com/dear-ceo-your-feel-good-diversity-initiative-is-undermined-by-every-other-way-youre-doing-business/\">Dear CEO: Your Feel-Good Diversity Initiative is Undermined By Every Other Way You’re Doing Business</a></li>\n  <li><a href=\"https://github.com/amatsuda/heavens_door\">Capybara test scenario recorder for Rails</a></li>\n  <li><a href=\"https://medium.com/capgemini-dynamics-365-team/opportunity-cost-for-developers-a02aa3dc1035\">Opportunity Cost for developers — or how I stopped worrying about the future and learned to code for the present</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-360/",
+            "summary": "",
+            "date_published": "2019-06-18 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-359",
             "title": "Daily Digest #359",
             "content_html": "<ul>\n  <li><a href=\"https://towardsdatascience.com/understanding-customer-churning-with-big-data-analytics-70ce4eb17669\">Understanding Customer Churning with Big Data Analytics</a></li>\n  <li><a href=\"https://www.toptal.com/designers/ui/minimal-web-design\">Simplicity is Key – Exploring Minimal Web Design</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/table-design-patterns-web/\">Table Design Patterns On The Web</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/explainable-reasoning-over-knowledge-graphs-for-recommendation/\">Explainable Reasoning over Knowledge Graphs for Recommendation</a></li>\n  <li><a href=\"https://github.com/TrillCyborg/onefraction\">React/ApolloGraphQL/Node/Mongo demo written in Typescript</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-356/",
             "summary": "",
             "date_published": "2019-06-12 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-355",
-            "title": "Daily Digest #355",
-            "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/articles/why-architectural-diagrams/\">Why Do We Need Architectural Diagrams?</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/microsoft-tfs-azure-devops\">Journey to Cloud Architecture</a></li>\n  <li><a href=\"https://rewind.io/blog/feature-flagging-in-ruby-using-eightball/\">Feature Flagging in Ruby Using EightBall</a></li>\n  <li><a href=\"https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4\">Node.js multithreading: What are Worker Threads and why do they matter?</a></li>\n  <li><a href=\"https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730\">Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-355/",
-            "summary": "",
-            "date_published": "2019-06-11 00:00:00 +0700"
         }
 
     ]
