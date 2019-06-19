@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jun 2019 12:32:41 +0700</pubDate>
-    <lastBuildDate>Tue, 18 Jun 2019 12:32:41 +0700</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2019 13:26:02 +0700</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2019 13:26:02 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;361</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2019/jan/24/leaving-scribe&quot;&gt;Leaving Scribe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications&quot;&gt;Garbage Collection in Redux Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/engineering-uber-lite/&quot;&gt;Expanding Access: Engineering Uber Lite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/the-scalable-fabric-behind-our-growing-data-center-network/&quot;&gt;The scalable fabric behind our growing data center network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 19 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-361/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-361/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;360</title>
@@ -191,27 +211,6 @@
         <pubDate>Fri, 31 May 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-352/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-352/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;351</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/&quot;&gt;GraphQL: Union vs. Interface&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4&quot;&gt;How to limit front-end bugs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript&quot;&gt;The History (and Future) of Asynchronous JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/demystifying-radix-trees/&quot;&gt;How Radix trees made blocking IPs 5000 times faster&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/&quot;&gt;An overview of 2018 language models&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 30 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-351/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-351/</guid>
         
         <category>daily</category>
         

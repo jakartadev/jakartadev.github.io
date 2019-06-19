@@ -4,13 +4,27 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-06-18T12:32:41+07:00</updated>
+ <updated>2019-06-19T13:26:02+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;361</title>
+   <link href="https://jakartadev.org//daily-digest-361/"/>
+   <updated>2019-06-19T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-361</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2019/jan/24/leaving-scribe&quot;&gt;Leaving Scribe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications&quot;&gt;Garbage Collection in Redux Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/engineering-uber-lite/&quot;&gt;Expanding Access: Engineering Uber Lite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/the-scalable-fabric-behind-our-growing-data-center-network/&quot;&gt;The scalable fabric behind our growing data center network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;360</title>

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-361",
+            "title": "Daily Digest #361",
+            "content_html": "<ul>\n  <li><a href=\"https://www.theguardian.com/info/2019/jan/24/leaving-scribe\">Leaving Scribe</a></li>\n  <li><a href=\"https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications\">Garbage Collection in Redux Applications</a></li>\n  <li><a href=\"https://eng.uber.com/engineering-uber-lite/\">Expanding Access: Engineering Uber Lite</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/01/the-scalable-fabric-behind-our-growing-data-center-network/\">The scalable fabric behind our growing data center network</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-361/",
+            "summary": "",
+            "date_published": "2019-06-19 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-360",
             "title": "Daily Digest #360",
             "content_html": "<ul>\n  <li><a href=\"http://www.pregamemagazine.com/dear-ceo-your-feel-good-diversity-initiative-is-undermined-by-every-other-way-youre-doing-business/\">Dear CEO: Your Feel-Good Diversity Initiative is Undermined By Every Other Way You’re Doing Business</a></li>\n  <li><a href=\"https://github.com/amatsuda/heavens_door\">Capybara test scenario recorder for Rails</a></li>\n  <li><a href=\"https://medium.com/capgemini-dynamics-365-team/opportunity-cost-for-developers-a02aa3dc1035\">Opportunity Cost for developers — or how I stopped worrying about the future and learned to code for the present</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-357/",
             "summary": "",
             "date_published": "2019-06-13 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-356",
-            "title": "Daily Digest #356",
-            "content_html": "<ul>\n  <li><a href=\"https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4\">Big Data Metrics Discovery</a></li>\n  <li><a href=\"https://www.pikapkg.com/blog/introducing-pika-pack/\">Introducing: @pika/pack npm package building, reimagined</a></li>\n  <li><a href=\"https://overreacted.io/react-as-a-ui-runtime/\">React as a UI Runtime</a></li>\n  <li><a href=\"https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/\">How We Use Trello to Help Us Onboard Our New Employees</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c\">Working with GraphQL using Vanilla JS</a></li>\n  <li><a href=\"https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f\">Analyzing twitch chat during a pokémon marathon</a></li>\n  <li><a href=\"https://faastruby.io/blog/introducing-templates/\">Introducing Templates: A way to share your Serverless Functions with the Community</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-356/",
-            "summary": "",
-            "date_published": "2019-06-12 00:00:00 +0700"
         }
 
     ]
