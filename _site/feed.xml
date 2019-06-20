@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jun 2019 13:26:02 +0700</pubDate>
-    <lastBuildDate>Wed, 19 Jun 2019 13:26:02 +0700</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2019 18:33:31 +0700</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2019 18:33:31 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;362</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/designing-emotional-interfaces-future/&quot;&gt;Designing Emotional Interfaces Of The Future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/front-end-performance-optimization&quot;&gt;Fantastic Front-End Performance Tricks &amp;amp; Why We Do Them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/&quot;&gt;Type-Driven Development – Replacing Unit Tests with Types in Typescript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c&quot;&gt;Discovering and Classifying In-app Message Intent at Airbnb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 20 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-362/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-362/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;361</title>
@@ -190,27 +210,6 @@
         <pubDate>Mon, 03 Jun 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-353/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-353/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;352</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2019/01/rearchitecture-system-success/&quot;&gt;An Incremental Architecture Approach to Building Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html&quot;&gt;Migrating Kafka’s Zookeeper With No Downtime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/&quot;&gt;Automating Datacenter Operations at Dropbox&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4&quot;&gt;Why are we getting Streams in Redis?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/&quot;&gt;Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 31 May 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-352/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-352/</guid>
         
         <category>daily</category>
         

@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-362",
+            "title": "Daily Digest #362",
+            "content_html": "<ul>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/designing-emotional-interfaces-future/\">Designing Emotional Interfaces Of The Future</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/front-end-performance-optimization\">Fantastic Front-End Performance Tricks &amp; Why We Do Them</a></li>\n  <li><a href=\"https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/\">Type-Driven Development – Replacing Unit Tests with Types in Typescript</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c\">Discovering and Classifying In-app Message Intent at Airbnb</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-362/",
+            "summary": "",
+            "date_published": "2019-06-20 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-361",
             "title": "Daily Digest #361",
             "content_html": "<ul>\n  <li><a href=\"https://www.theguardian.com/info/2019/jan/24/leaving-scribe\">Leaving Scribe</a></li>\n  <li><a href=\"https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications\">Garbage Collection in Redux Applications</a></li>\n  <li><a href=\"https://eng.uber.com/engineering-uber-lite/\">Expanding Access: Engineering Uber Lite</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/01/the-scalable-fabric-behind-our-growing-data-center-network/\">The scalable fabric behind our growing data center network</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-358/",
             "summary": "",
             "date_published": "2019-06-14 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-357",
-            "title": "Daily Digest #357",
-            "content_html": "<ul>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/\">Interactive Visual Search</a></li>\n  <li><a href=\"https://github.com/nosarthur/gita\">Gita – Manage multiple git repos side by side for sanity</a></li>\n  <li><a href=\"https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component\">Feedback and Control - an Essential GitOps Component</a></li>\n  <li><a href=\"https://medium.com/culture-of-change/edito-culture-change-whitepaper-d8d8b66749\">Edito — Culture Change whitepaper</a></li>\n  <li><a href=\"https://github.com/ioquatix/covered\">Covered – modern Ruby features to generate comprehensive coverage</a></li>\n  <li><a href=\"https://git.occrp.org/libre/fonts-degooglifier\">fonts-degooglifier</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-357/",
-            "summary": "",
-            "date_published": "2019-06-13 00:00:00 +0700"
         }
 
     ]
