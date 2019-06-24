@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-06-20T18:33:31+07:00</updated>
+ <updated>2019-06-24T12:39:16+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;363</title>
+   <link href="https://jakartadev.org//daily-digest-363/"/>
+   <updated>2019-06-21T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-363</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/shawnxlw/infra-dev-env&quot;&gt;Infrastructure Development Environment – A docker image that contains the necessary tools for doing Infrastructure Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://naturaily.com/blog/8-frameworks-ruby-not-rails&quot;&gt;8 Ruby frameworks that aren’t Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-fba3d35b2877&quot;&gt;Creating Raspberry Pi applications with Raylib and Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/&quot;&gt;Enjoy a slice of QUIC, and Rust!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2019/01/21/scylla-summit-video-grab-and-scylla-driving-southeast-asia-forward/&quot;&gt;Scylla Summit Video: Grab and Scylla Driving Southeast Asia Forward&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vinistock/sail&quot;&gt;Sail - lightweight Rails engine for admin panel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;362</title>

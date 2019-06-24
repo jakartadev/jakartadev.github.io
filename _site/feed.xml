@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jun 2019 18:33:31 +0700</pubDate>
-    <lastBuildDate>Thu, 20 Jun 2019 18:33:31 +0700</lastBuildDate>
+    <pubDate>Mon, 24 Jun 2019 12:39:16 +0700</pubDate>
+    <lastBuildDate>Mon, 24 Jun 2019 12:39:16 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;363</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/shawnxlw/infra-dev-env&quot;&gt;Infrastructure Development Environment – A docker image that contains the necessary tools for doing Infrastructure Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://naturaily.com/blog/8-frameworks-ruby-not-rails&quot;&gt;8 Ruby frameworks that aren’t Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-fba3d35b2877&quot;&gt;Creating Raspberry Pi applications with Raylib and Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/&quot;&gt;Enjoy a slice of QUIC, and Rust!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2019/01/21/scylla-summit-video-grab-and-scylla-driving-southeast-asia-forward/&quot;&gt;Scylla Summit Video: Grab and Scylla Driving Southeast Asia Forward&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vinistock/sail&quot;&gt;Sail - lightweight Rails engine for admin panel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-363/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-363/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;362</title>
@@ -189,27 +211,6 @@
         <pubDate>Mon, 10 Jun 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-354/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-354/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;353</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/&quot;&gt;Why we built CockroachDB on top of RocksDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/patient-care-stream-processing/&quot;&gt;Increasing the Quality of Patient Care through Stream Processing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://rockthecode.io/blog/distributed-application-using-raft/&quot;&gt;Application Scaling with Raft&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/&quot;&gt;Using Parallel Query with Amazon Aurora for MySQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb&quot;&gt;Avoiding Double Payments in a Distributed Payments System&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 03 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-353/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-353/</guid>
         
         <category>daily</category>
         

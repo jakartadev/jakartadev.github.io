@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-363",
+            "title": "Daily Digest #363",
+            "content_html": "<ul>\n  <li><a href=\"https://github.com/shawnxlw/infra-dev-env\">Infrastructure Development Environment – A docker image that contains the necessary tools for doing Infrastructure Development</a></li>\n  <li><a href=\"https://naturaily.com/blog/8-frameworks-ruby-not-rails\">8 Ruby frameworks that aren’t Rails</a></li>\n  <li><a href=\"https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-fba3d35b2877\">Creating Raspberry Pi applications with Raylib and Ruby</a></li>\n  <li><a href=\"https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/\">Enjoy a slice of QUIC, and Rust!</a></li>\n  <li><a href=\"https://www.scylladb.com/2019/01/21/scylla-summit-video-grab-and-scylla-driving-southeast-asia-forward/\">Scylla Summit Video: Grab and Scylla Driving Southeast Asia Forward</a></li>\n  <li><a href=\"https://github.com/vinistock/sail\">Sail - lightweight Rails engine for admin panel</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-363/",
+            "summary": "",
+            "date_published": "2019-06-21 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-362",
             "title": "Daily Digest #362",
             "content_html": "<ul>\n  <li><a href=\"https://www.smashingmagazine.com/2019/01/designing-emotional-interfaces-future/\">Designing Emotional Interfaces Of The Future</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/front-end-performance-optimization\">Fantastic Front-End Performance Tricks &amp; Why We Do Them</a></li>\n  <li><a href=\"https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/\">Type-Driven Development – Replacing Unit Tests with Types in Typescript</a></li>\n  <li><a href=\"https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c\">Discovering and Classifying In-app Message Intent at Airbnb</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-359/",
             "summary": "",
             "date_published": "2019-06-17 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-358",
-            "title": "Daily Digest #358",
-            "content_html": "<ul>\n  <li><a href=\"https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/\">Preload, Eager Load, Includes and Joins in Ruby on Rails</a></li>\n  <li><a href=\"https://www.xkyle.com/Being-a-Great-Engineering-Mentor/\">Being a Great Engineering Mentor</a></li>\n  <li><a href=\"https://chriskiehl.com/article/event-sourcing-is-hard\">Don’t Let the Internet Dupe You, Event Sourcing is Hard</a></li>\n  <li><a href=\"https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html\">The Cost of Bad Software Architecture</a></li>\n  <li><a href=\"https://github.com/postlight/mercury-parser\">Mercury parser</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-358/",
-            "summary": "",
-            "date_published": "2019-06-14 00:00:00 +0700"
         }
 
     ]
