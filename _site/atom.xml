@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-06-24T12:39:16+07:00</updated>
+ <updated>2019-06-25T16:51:44+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;364</title>
+   <link href="https://jakartadev.org//daily-digest-364/"/>
+   <updated>2019-06-25T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-364</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theengineeringmanager.com/growth/working-from-home-the-yin-and-yang/&quot;&gt;Working from home: the yin and yang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.boltops.com/2019/02/25/sqs-events-and-aws-lambda-with-ruby-on-jets&quot;&gt;SQS Events and AWS Lambda with Ruby on Jets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/introducing-component-based-api/&quot;&gt;Introducing The Component-Based API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mermaidjs.github.io/&quot;&gt;MermaidJS – Create diagram or charts in a text&lt;/a&gt; – &lt;a href=&quot;https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxva2V8IERbTGFwdG9wXVxuQyAtLT58YmxhaHwgRVtpUGhvbmVdXG5DIC0tPnxkYWRhfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ&quot;&gt;in action&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spacevim.org/use-vim-as-a-ruby-ide/&quot;&gt;Use Vim as a Ruby IDE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/competing-frameworks-alibaba-puts-sdk-flutter-to-the-test-88eb8cf1f35a&quot;&gt;Competing Frameworks: Alibaba Puts SDK Flutter to the Test&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;363</title>
