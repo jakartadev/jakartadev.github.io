@@ -4,13 +4,77 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-06-25T16:51:44+07:00</updated>
+ <updated>2019-07-01T16:56:07+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;368</title>
+   <link href="https://jakartadev.org//daily-digest-368/"/>
+   <updated>2019-07-01T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-368</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kubernetes-yaml/&quot;&gt;Dissecting Kubernetes (K8s) - An Intro to Main Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html&quot;&gt;Diving into Ruby’s #dup and #clone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/aresdb/&quot;&gt;Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/auditing-containers-with-osquery-389636f8c420&quot;&gt;Auditing containers with osquery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andycroll.com/ruby/secure-your-staging-environment-with-basic-auth/&quot;&gt;Secure Your Rails Staging Environment with HTTP Basic Authentication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/parallel-programming-and-developing-fast-solutions-for-your-slow-programs-using-threads-585708c1e533&quot;&gt;Parallel programming and developing fast solutions for your slow programs using threads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;367</title>
+   <link href="https://jakartadev.org//daily-digest-367/"/>
+   <updated>2019-06-28T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-367</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/be-creative-with-midway-mock-3e0e0c2d1524&quot;&gt;Be creative with Midway mock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/1/28/a-hybrid-cloud-approach-from-fraudguardio-that-handles-50m-r.html&quot;&gt;A Hybrid Cloud Approach from FraudGuard.io that Handles 50M Requests a Day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.just-eat.com/2019/01/28/ltdd/&quot;&gt;Building Stable Systems with Load-Test Driven Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/distributed-pki-development-and-use-cases-a828287a2e67&quot;&gt;Distributed PKI: Development and Use Cases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/debugging-year-old-sprockets-bug&quot;&gt;Debugging in Ruby—Busting a Year-old Bug in Sprockets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nholden/how-i-replaced-a-rails-app-with-a-few-dozen-lines-of-ruby-3l1m&quot;&gt;How I replaced a Rails app with a few dozen lines of Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;366</title>
+   <link href="https://jakartadev.org//daily-digest-366/"/>
+   <updated>2019-06-27T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-366</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/type-system-typescript-flow-graphql/&quot;&gt;Learning to Love Type Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/applied-behavioral-science-at-scale/&quot;&gt;How Uber Leverages Applied Behavioral Science at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers/&quot;&gt;Understanding API-Based Platforms: A Guide For Product Managers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/rolling-our-own-medium-style-wysiwyg-c10fda0e5699&quot;&gt;Rolling our own Medium-style WYSIWYG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-toolbox.com/blog/2019-02-25/historical-gem-download-charts&quot;&gt;Historical Rubygem Download Charts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;365</title>
+   <link href="https://jakartadev.org//daily-digest-365/"/>
+   <updated>2019-06-26T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-365</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/microservices-bdd-interface-oriented/&quot;&gt;Developing Microservices with Behavior Driven Development and Interface Oriented Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nebulab.it/blog/actioncable-vs-anycable-fight/&quot;&gt;Action Cable vs AnyCable: fight! &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/how-shopify-uses-recommender-systems-to-empower-entrepreneurs&quot;&gt;How Shopify Uses Recommender Systems to Empower Entrepreneurs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/blog/2019/02/04/putting-users-and-publishers-at-the-center-of-the-online-value-exchange/&quot;&gt;Putting Users and Publishers at the Center of the Online Value Exchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/derailed/k9s&quot;&gt;K9s – 🐶 Kubernetes CLI To Manage Your Clusters In Style!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rieckpil/30-minutes-every-day-for-your-craft-committing-code-to-github-for-365-consecutive-days-eec8b73b5105&quot;&gt;30 minutes every day for your craft: Committing code to GitHub for 365 consecutive days&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cssreference.io/&quot;&gt;CSS Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;364</title>

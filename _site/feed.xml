@@ -5,9 +5,97 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jun 2019 16:51:44 +0700</pubDate>
-    <lastBuildDate>Tue, 25 Jun 2019 16:51:44 +0700</lastBuildDate>
+    <pubDate>Mon, 01 Jul 2019 16:56:07 +0700</pubDate>
+    <lastBuildDate>Mon, 01 Jul 2019 16:56:07 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;368</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kubernetes-yaml/&quot;&gt;Dissecting Kubernetes (K8s) - An Intro to Main Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html&quot;&gt;Diving into Ruby’s #dup and #clone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/aresdb/&quot;&gt;Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/auditing-containers-with-osquery-389636f8c420&quot;&gt;Auditing containers with osquery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andycroll.com/ruby/secure-your-staging-environment-with-basic-auth/&quot;&gt;Secure Your Rails Staging Environment with HTTP Basic Authentication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/parallel-programming-and-developing-fast-solutions-for-your-slow-programs-using-threads-585708c1e533&quot;&gt;Parallel programming and developing fast solutions for your slow programs using threads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-368/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-368/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;367</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/be-creative-with-midway-mock-3e0e0c2d1524&quot;&gt;Be creative with Midway mock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/1/28/a-hybrid-cloud-approach-from-fraudguardio-that-handles-50m-r.html&quot;&gt;A Hybrid Cloud Approach from FraudGuard.io that Handles 50M Requests a Day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.just-eat.com/2019/01/28/ltdd/&quot;&gt;Building Stable Systems with Load-Test Driven Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/distributed-pki-development-and-use-cases-a828287a2e67&quot;&gt;Distributed PKI: Development and Use Cases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/debugging-year-old-sprockets-bug&quot;&gt;Debugging in Ruby—Busting a Year-old Bug in Sprockets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nholden/how-i-replaced-a-rails-app-with-a-few-dozen-lines-of-ruby-3l1m&quot;&gt;How I replaced a Rails app with a few dozen lines of Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 28 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-367/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-367/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;366</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/type-system-typescript-flow-graphql/&quot;&gt;Learning to Love Type Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/applied-behavioral-science-at-scale/&quot;&gt;How Uber Leverages Applied Behavioral Science at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers/&quot;&gt;Understanding API-Based Platforms: A Guide For Product Managers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/rolling-our-own-medium-style-wysiwyg-c10fda0e5699&quot;&gt;Rolling our own Medium-style WYSIWYG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-toolbox.com/blog/2019-02-25/historical-gem-download-charts&quot;&gt;Historical Rubygem Download Charts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 27 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-366/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-366/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;365</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/microservices-bdd-interface-oriented/&quot;&gt;Developing Microservices with Behavior Driven Development and Interface Oriented Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nebulab.it/blog/actioncable-vs-anycable-fight/&quot;&gt;Action Cable vs AnyCable: fight! &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/how-shopify-uses-recommender-systems-to-empower-entrepreneurs&quot;&gt;How Shopify Uses Recommender Systems to Empower Entrepreneurs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/blog/2019/02/04/putting-users-and-publishers-at-the-center-of-the-online-value-exchange/&quot;&gt;Putting Users and Publishers at the Center of the Online Value Exchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/derailed/k9s&quot;&gt;K9s – 🐶 Kubernetes CLI To Manage Your Clusters In Style!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rieckpil/30-minutes-every-day-for-your-craft-committing-code-to-github-for-365-consecutive-days-eec8b73b5105&quot;&gt;30 minutes every day for your craft: Committing code to GitHub for 365 consecutive days&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cssreference.io/&quot;&gt;CSS Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-365/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-365/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;364</title>
@@ -125,93 +213,6 @@
         <pubDate>Mon, 17 Jun 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-359/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-359/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;358</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/&quot;&gt;Preload, Eager Load, Includes and Joins in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.xkyle.com/Being-a-Great-Engineering-Mentor/&quot;&gt;Being a Great Engineering Mentor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chriskiehl.com/article/event-sourcing-is-hard&quot;&gt;Don’t Let the Internet Dupe You, Event Sourcing is Hard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html&quot;&gt;The Cost of Bad Software Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/postlight/mercury-parser&quot;&gt;Mercury parser&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 14 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-358/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-358/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;357</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/&quot;&gt;Interactive Visual Search&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/nosarthur/gita&quot;&gt;Gita – Manage multiple git repos side by side for sanity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component&quot;&gt;Feedback and Control - an Essential GitOps Component&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/culture-of-change/edito-culture-change-whitepaper-d8d8b66749&quot;&gt;Edito — Culture Change whitepaper&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ioquatix/covered&quot;&gt;Covered – modern Ruby features to generate comprehensive coverage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://git.occrp.org/libre/fonts-degooglifier&quot;&gt;fonts-degooglifier&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 13 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-357/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-357/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;356</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4&quot;&gt;Big Data Metrics Discovery&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pikapkg.com/blog/introducing-pika-pack/&quot;&gt;Introducing: @pika/pack npm package building, reimagined&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://overreacted.io/react-as-a-ui-runtime/&quot;&gt;React as a UI Runtime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/&quot;&gt;How We Use Trello to Help Us Onboard Our New Employees&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c&quot;&gt;Working with GraphQL using Vanilla JS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f&quot;&gt;Analyzing twitch chat during a pokémon marathon&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://faastruby.io/blog/introducing-templates/&quot;&gt;Introducing Templates: A way to share your Serverless Functions with the Community&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 12 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-356/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-356/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;355</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/why-architectural-diagrams/&quot;&gt;Why Do We Need Architectural Diagrams?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microsoft-tfs-azure-devops&quot;&gt;Journey to Cloud Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rewind.io/blog/feature-flagging-in-ruby-using-eightball/&quot;&gt;Feature Flagging in Ruby Using EightBall&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4&quot;&gt;Node.js multithreading: What are Worker Threads and why do they matter?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730&quot;&gt;Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 11 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-355/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-355/</guid>
         
         <category>daily</category>
         
