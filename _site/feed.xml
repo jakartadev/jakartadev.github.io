@@ -5,9 +5,32 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jul 2019 16:56:07 +0700</pubDate>
-    <lastBuildDate>Mon, 01 Jul 2019 16:56:07 +0700</lastBuildDate>
-    <generator>Jekyll v3.7.4</generator>
+    <pubDate>Tue, 02 Jul 2019 10:44:47 +0700</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2019 10:44:47 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;369</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/ux-trends-2018&quot;&gt;UX Trends 2018: A Retrospective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://99designs.com/blog/inside-99designs/engineering-managers-guide-to-rebranding/&quot;&gt;An engineering manager’s guide to rebranding &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codewithjason.com/write-characterization-tests/&quot;&gt;How I write characterization tests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework&quot;&gt;Managing Distributed Tasks with Helix Task Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/faster-and-lighter-moving-ad-tech-server-side-ef4bd6d2f2eb&quot;&gt;Faster and Lighter: Moving Ad Tech Server-Side&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/http-3-from-root-to-tip/&quot;&gt;HTTP/3: From root to tip&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/state-devops-europe-how-become-devops-determined&quot;&gt;The state of DevOps in Europe: How to become ‘DevOps Determined’&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 02 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-369/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-369/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;368</title>
@@ -192,27 +215,6 @@
         <pubDate>Tue, 18 Jun 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-360/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-360/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;359</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-customer-churning-with-big-data-analytics-70ce4eb17669&quot;&gt;Understanding Customer Churning with Big Data Analytics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ui/minimal-web-design&quot;&gt;Simplicity is Key – Exploring Minimal Web Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/table-design-patterns-web/&quot;&gt;Table Design Patterns On The Web&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/explainable-reasoning-over-knowledge-graphs-for-recommendation/&quot;&gt;Explainable Reasoning over Knowledge Graphs for Recommendation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/TrillCyborg/onefraction&quot;&gt;React/ApolloGraphQL/Node/Mongo demo written in Typescript&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 17 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-359/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-359/</guid>
         
         <category>daily</category>
         
