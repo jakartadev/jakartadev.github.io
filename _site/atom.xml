@@ -4,13 +4,29 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-07-02T10:44:47+07:00</updated>
+ <updated>2019-07-03T11:40:46+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;370</title>
+   <link href="https://jakartadev.org//daily-digest-370/"/>
+   <updated>2019-07-03T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-370</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/blog/2019/05/23/kyma-extend-and-build-on-kubernetes-with-ease/&quot;&gt;Kyma - extend and build on Kubernetes with ease&lt;/a&gt; – &lt;a href=&quot;https://kyma-project.io/docs/root/kyma#overview-overview&quot;&gt;Kyma overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.computerworlduk.com/infrastructure/how-trustpilot-pivoted-infrastructure-as-code-serverless-first-3698203/&quot;&gt;How Trustpilot pivoted to infrastructure-as-code and serverless first&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudblogs.microsoft.com/opensource/2019/05/21/kubecon-microsoft-updates-helm-3-virtual-kubelet-1-visual-studio-code-service-mesh-interface/&quot;&gt;Extending Kubernetes in the open&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2019/01/29/graphql.html&quot;&gt;An instrumental intro to GraphQL with Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments&quot;&gt;How to track security problems in your Kubernetes deployments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it&quot;&gt;5 principles for cloud-native architecture—what it is and how to master it&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;369</title>

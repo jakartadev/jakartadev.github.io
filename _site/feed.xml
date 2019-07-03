@@ -5,9 +5,31 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jul 2019 10:44:47 +0700</pubDate>
-    <lastBuildDate>Tue, 02 Jul 2019 10:44:47 +0700</lastBuildDate>
+    <pubDate>Wed, 03 Jul 2019 11:40:46 +0700</pubDate>
+    <lastBuildDate>Wed, 03 Jul 2019 11:40:46 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;370</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/blog/2019/05/23/kyma-extend-and-build-on-kubernetes-with-ease/&quot;&gt;Kyma - extend and build on Kubernetes with ease&lt;/a&gt; – &lt;a href=&quot;https://kyma-project.io/docs/root/kyma#overview-overview&quot;&gt;Kyma overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.computerworlduk.com/infrastructure/how-trustpilot-pivoted-infrastructure-as-code-serverless-first-3698203/&quot;&gt;How Trustpilot pivoted to infrastructure-as-code and serverless first&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudblogs.microsoft.com/opensource/2019/05/21/kubecon-microsoft-updates-helm-3-virtual-kubelet-1-visual-studio-code-service-mesh-interface/&quot;&gt;Extending Kubernetes in the open&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2019/01/29/graphql.html&quot;&gt;An instrumental intro to GraphQL with Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments&quot;&gt;How to track security problems in your Kubernetes deployments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it&quot;&gt;5 principles for cloud-native architecture—what it is and how to master it&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 03 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-370/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-370/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;369</title>
@@ -196,25 +218,6 @@
         <pubDate>Wed, 19 Jun 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-361/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-361/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;360</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.pregamemagazine.com/dear-ceo-your-feel-good-diversity-initiative-is-undermined-by-every-other-way-youre-doing-business/&quot;&gt;Dear CEO: Your Feel-Good Diversity Initiative is Undermined By Every Other Way You’re Doing Business&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/amatsuda/heavens_door&quot;&gt;Capybara test scenario recorder for Rails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/capgemini-dynamics-365-team/opportunity-cost-for-developers-a02aa3dc1035&quot;&gt;Opportunity Cost for developers — or how I stopped worrying about the future and learned to code for the present&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 18 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-360/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-360/</guid>
         
         <category>daily</category>
         
