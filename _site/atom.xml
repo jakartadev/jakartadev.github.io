@@ -4,13 +4,98 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-07-03T11:40:46+07:00</updated>
+ <updated>2019-07-09T13:05:29+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;374</title>
+   <link href="https://jakartadev.org//daily-digest-374/"/>
+   <updated>2019-07-09T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-374</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2019/02/01/meshify-and-scylla-an-industrial-strength-iot-solution/&quot;&gt;Meshify and Scylla: an Industrial-Strength IoT Solution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2019/02/01/executing-a-sunset/&quot;&gt;Executing a Sunset&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/vectorized-hash-joiner/&quot;&gt;40x faster hash joiner with vectorized execution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/01/31/the-curious-case-of-disappeared-buses.html&quot;&gt;The curious case of disappearing buses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sourced.tech/post/formatting-with-style/&quot;&gt;Formatting. With style.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.semantics3.com/blog/how-we-do-data-qa-semantics3-processes-humans-in-the-loop-part-2/&quot;&gt;How we do Data QA @ Semantics3: Processes &amp;amp; Humans-in-the-Loop (Part 2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;373</title>
+   <link href="https://jakartadev.org//daily-digest-373/"/>
+   <updated>2019-07-08T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-373</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/ios-performance-tricks-apps/&quot;&gt;iOS Performance Tricks To Make Your App Feel More Performant&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/engineering-to-scale-paid-media-campaigns-84ba018fb3fa&quot;&gt;Engineering to Improve Marketing Effectiveness (Part 3) — Scaling Paid Media campaigns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/beginners-perspective-kafka-streams-building-real-time-walkthrough-detection&quot;&gt;A Beginner’s Perspective on Kafka Streams: Building Real-Time Walkthrough Detection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46&quot;&gt;Detecting Performance Anomalies in External Firmware Deployments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/overcoming-restlessness/&quot;&gt;Overcoming RESTlessness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/debug-nodejs-dependencies-51eb40f484ec&quot;&gt;Debug Node.js Dependencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/asymmetric-cryptography-in-blockchains-d1a4c1654a71&quot;&gt;Asymmetric Cryptography In Blockchains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;371</title>
+   <link href="https://jakartadev.org//daily-digest-372/"/>
+   <updated>2019-07-05T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-372</id>
+   <content type="html">&lt;p&gt;Selamat berakhir pekan!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/un-safe-any-speed-rethinking-scale-agility-sam-mcafee&quot;&gt;Un-SAFe At Any Speed: Rethinking Scale and Agility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/bridging-offline-and-nearline-computations-with-apache-calcite&quot;&gt;Bridging Offline and Nearline Computations with Apache Calcite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/trimstray/nginx-admins-handbook&quot;&gt;nginx-admins-handbook – How to improve NGINX performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a&quot;&gt;Contextualizing Airbnb by Building Knowledge Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/&quot;&gt;From TSLint to ESLint, or How I Learned to Lint GraphQL Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/building-a-scalable-event-pipeline-with-heroku-and-salesforce-2549cb20ce06&quot;&gt;Building a Scalable Event Pipeline with Heroku and Salesforce&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything&quot;&gt;Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html&quot;&gt;Improving Stream Data Quality With Protobuf Schema Validation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OSS Gems: Azakaban, Nginx admin handbooks</title>
+   <link href="https://jakartadev.org//oss-azkaban-nginx-book/"/>
+   <updated>2019-07-04T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//oss-azkaban-nginx-book</id>
+   <content type="html">&lt;p&gt;Segment baru yang akan menuliskan proyek-proyek open source software (oss) yang menurut saya menarik untuk dibahas dan berguna untuk kebutuhan dikerjaan atau sekedar &lt;em&gt;ngulik&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;azkaban&quot;&gt;&lt;a href=&quot;https://azkaban.github.io/&quot;&gt;Azkaban&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Sebuah &lt;em&gt;Workflow Manager&lt;/em&gt; yang open source tentunya, pertama di-develop oleh linkedin, software ini digunakan untuk batch workflow job scheduler untuk dijalankan di Hadoop jobs, yang pada zaman dulu menggunakan cron, yang mana tidak scalable, dengan menggunakan ini bisa lebih scalable dan gampang untuk &lt;em&gt;tracking&lt;/em&gt; jobs yang ada di server.&lt;/p&gt;
+
+&lt;h3 id=&quot;nginx-admin-handbooks&quot;&gt;&lt;a href=&quot;https://github.com/trimstray/nginx-admins-handbook&quot;&gt;Nginx Admin Handbooks&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Sebuah repo yang dibuat oleh &lt;a href=&quot;https://github.com/trimstray&quot;&gt;trimstray&lt;/a&gt; dan &lt;a href=&quot;https://github.com/trimstray/nginx-admins-handbook/graphs/contributors&quot;&gt;kontributor lain&lt;/a&gt;, yang berisi tutorial, pengalaman, masalah dan lainnya ketika menggunakan nginx, membahas keamanan, &lt;em&gt;performance&lt;/em&gt; dan topik lainnya.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;371</title>
+   <link href="https://jakartadev.org//daily-digest-371/"/>
+   <updated>2019-07-04T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-371</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/api-gateways-are-going-through-an-identity-crisis-e5dc3a5ab6d4&quot;&gt;API Gateways are going through an identity crisis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/arp242/hello-css&quot;&gt;hello-css - A CSS template focused on readability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/&quot;&gt;Finding Kafka’s throughput limit in Dropbox infrastructure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/how-to-build-a-technology-platform-5d0b0fc92af1&quot;&gt;How to build a technology platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/streamlining-frontend-as-a-service-for-backend-teams-69d9223efcec&quot;&gt;Streamlining Frontend-as-a-Service for Backend Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pomber/git-history&quot;&gt;git-history – Quickly browse the history of a file from any git repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stylelint.io/&quot;&gt;stylelint – A mighty, modern linter for css/no-css&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;370</title>
@@ -2421,7 +2506,7 @@ Connection: keep-alive
 &lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
 &lt;p&gt;Untuk macOS, bisa langsung pakai homebrew untuk instalasi&lt;/p&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;ansible
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew install ansible
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Jika sukses di-instal, kita test dengan perintah&lt;/p&gt;
 &lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ansible &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
@@ -2430,7 +2515,7 @@ ansible 2.7.0
 &lt;!--more--&gt;
 &lt;h3 id=&quot;konfigurasi&quot;&gt;Konfigurasi&lt;/h3&gt;
 &lt;p&gt;Untuk contoh sederhana ini, kita buat dengan menuliskan konfigurasi file yang berisi &lt;em&gt;host&lt;/em&gt; target yang akan kita &lt;em&gt;provisioning&lt;/em&gt;, di dalam folder project kita,&lt;/p&gt;
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;touch &lt;/span&gt;hosts
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;touch hosts
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Kemudian &lt;code class=&quot;highlighter-rouge&quot;&gt;vi hosts&lt;/code&gt; dan masukkan daftar &lt;em&gt;host&lt;/em&gt; yang akan digunakan, di sini menggunakan host yang telah saya buat sebelumnya di &lt;a href=&quot;https://m.do.co/c/714b3c32b2e7&quot;&gt;digitalocean&lt;/a&gt;, menggunakan Terraform (!TODO nulis), contoh.&lt;/p&gt;
@@ -2474,7 +2559,7 @@ ansible 2.7.0
 
 TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Gathering Facts] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
 
-TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;mysql-server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;install mysql-server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
 
 TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;uninstall mysql-server 1.0] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
 
@@ -2980,7 +3065,7 @@ kube3   192.168.10.14
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;setenforce 0 
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--follow-symlinks&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--follow-symlinks&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt;
                     &lt;span class=&quot;s1&quot;&gt;'s/SELINUX=enforcing/SELINUX=disabled/g'&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
                     /etc/sysconfig/selinux
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -3012,7 +3097,7 @@ kube3   192.168.10.14
 &lt;p&gt;Kubernetes membutuhkan &lt;em&gt;container&lt;/em&gt;, dan yang kita gunakan untuk workshop ini adalah Docker, untuk menginstall-nya ikuti langkah berikut&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; yum-utils &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; yum-utils &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
   device-mapper-persistent-data &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
   lvm2
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -3026,12 +3111,12 @@ kube3   192.168.10.14
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Di &lt;em&gt;howto&lt;/em&gt; setup kubernetes, disarankan untuk menggunakan menggunakan docker versi &lt;code class=&quot;highlighter-rouge&quot;&gt;17.03&lt;/code&gt;, tapi sejauh ini menggunakan versi &lt;code class=&quot;highlighter-rouge&quot;&gt;18.06.1-ce&lt;/code&gt; tidak ada masalah, karena jika install langsung biasanya merujuk ke versi yang terbaru, maka untuk memilih menggunakan versi yang diharapkan bisa menggunakan perintah&lt;/p&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum list docker-ce &lt;span class=&quot;nt&quot;&gt;--showduplicates&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;sort&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum list docker-ce &lt;span class=&quot;nt&quot;&gt;--showduplicates&lt;/span&gt; | sort &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Dan untuk install versi yang spesifik sesuai dengan tulisan versi yang keluar dari hasil menjalankan perintah di atas.&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;docker-ce-&amp;lt;VERSION STRING&amp;gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sudo &lt;/span&gt;yum install docker-ce-&amp;lt;VERSION STRING&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;install-kubernetes&quot;&gt;Install Kubernetes&lt;/h4&gt;
@@ -3051,7 +3136,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 &lt;p&gt;Install &lt;code class=&quot;highlighter-rouge&quot;&gt;kubectl&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kubelet&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; kubelet kubeadm kubectl
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; kubelet kubeadm kubectl
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Kemudian reboot semua node.&lt;/p&gt;
@@ -3070,7 +3155,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 &lt;p&gt;Masukkan cgroup-driver ini masuk ke konfigurasi &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; ke &lt;code class=&quot;highlighter-rouge&quot;&gt;cgroupfs&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'&lt;/span&gt; /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'&lt;/span&gt; /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Reload systemd dan restart service kubelet&lt;/p&gt;
@@ -3092,9 +3177,9 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 &lt;p&gt;Agar kubernetes bisa digunakan, maka diperlukan file konfigurasi yang akan kita simpan di &lt;code class=&quot;highlighter-rouge&quot;&gt;$HOME&lt;/code&gt; user kita, tidak disarankan menjalankan kubernetes sebagai root. Untuk itu, kita siapkan direktori dotfile, dan juga salin file &lt;code class=&quot;highlighter-rouge&quot;&gt;admin.conf&lt;/code&gt; di kubernetes folder.&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini HANYA di master&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;mkdir&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo cp&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; /etc/kubernetes/admin.conf &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo chown&lt;/span&gt; &lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;:&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;mkdir &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;cp &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; /etc/kubernetes/admin.conf &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;chown &lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;:&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Seperti yang kita sebutkan sebelumnya, kita menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt;, untuk itu kita akan mendeploy &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt; di master node kita.&lt;/p&gt;
 
@@ -3122,7 +3207,7 @@ kube-system   kube-scheduler-master            1/1       Running    7          1
 &lt;p&gt;Langkah selanjutnya adalah menambahkan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube1&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kube2&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube3&lt;/code&gt; ke cluster, yang pertama dilakukan adalah perintah yang sebelumnya muncul dari hasil &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadmin init&lt;/code&gt; diatas.&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node WORKER&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@kube1 ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm &lt;span class=&quot;nb&quot;&gt;join &lt;/span&gt;192.168.10.11:6443 &lt;span class=&quot;nt&quot;&gt;--token&lt;/span&gt; 0d3sfd.0ky3mcq2hof7a72a &lt;span class=&quot;nt&quot;&gt;--discovery-token-ca-cert-hash&lt;/span&gt; sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@kube1 ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm join 192.168.10.11:6443 &lt;span class=&quot;nt&quot;&gt;--token&lt;/span&gt; 0d3sfd.0ky3mcq2hof7a72a &lt;span class=&quot;nt&quot;&gt;--discovery-token-ca-cert-hash&lt;/span&gt; sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Jalankan perintah diatas disemua node worker di cluster.Jika sudah, silakan cek apakah node worker sudah bergabung dengan cluster ini atau belum.&lt;/p&gt;
 
@@ -3194,7 +3279,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl 192.168.10.12:31802
 &amp;lt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;DOCTYPE html&amp;gt;
 &amp;lt;html&amp;gt;
-&amp;lt;&lt;span class=&quot;nb&quot;&gt;head&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+&amp;lt;head&amp;gt;
 &amp;lt;title&amp;gt;Welcome to nginx!&amp;lt;/title&amp;gt;
 ...
 
