@@ -5,9 +5,117 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jul 2019 13:05:29 +0700</pubDate>
-    <lastBuildDate>Tue, 09 Jul 2019 13:05:29 +0700</lastBuildDate>
+    <pubDate>Tue, 16 Jul 2019 11:33:53 +0700</pubDate>
+    <lastBuildDate>Tue, 16 Jul 2019 11:33:53 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;379</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://xon.sh/&quot;&gt;Xonsh – Python-powered shell and command prompt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/7/code-reviews-devops&quot;&gt;What makes a good code review in DevOps?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/it-monitoring-in-the-era-of-containers-tapping-into-ebpf-observability/&quot;&gt;IT Monitoring in the Era of Containers: Tapping into eBPF Observability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://containerjournal.com/2019/07/01/building-secure-production-ready-kubernetes-clusters-and-containers-part-1/&quot;&gt;Building Secure Production-Ready Kubernetes Clusters and Containers, Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/reverse-engineering-attacks-6-tools-your-team-needs-know&quot;&gt;Reverse engineering attacks: 6 tools your team needs to know&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/how-systemic-approaches-to-itops-impact-the-business-culture/&quot;&gt;How Systemic Approaches to ITOps Impact the Business Culture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 16 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-379/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-379/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;378</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/financial-planning-for-data-scientist/&quot;&gt;Why Financial Planning is Exciting… At Least for a Data Scientist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sre-case-study-triage-a-non-heap-jvm-out-of-memory-issue/&quot;&gt;SRE Case Study: Triaging a Non-Heap JVM Out of Memory Issue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/improving-react-application-perfomance-by-avoiding-unnecessary-updates-bd96d03dec40&quot;&gt;Improving React Application Performance by Avoiding Unnecessary Updates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/02/introducing-adiantum-encryption-for.html&quot;&gt;Introducing Adiantum: Encryption for the Next Billion Users&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-378/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-378/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;377</title>
+        <description>&lt;p&gt;Selamat berakhir pekan!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consider-grpc-for-mobile-apis-2f0a8552ec23&quot;&gt;Consider gRPC for Mobile APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/complex-web-tables/&quot;&gt;How To Architect A Complex Web Table&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kafka-pks/&quot;&gt;Cloud-Native Streaming Platform: Running Apache Kafka on PKS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/02/open-sourcing-clusterfuzz.html&quot;&gt;Open sourcing ClusterFuzz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/so-you-think-you-know-java-multi-threading-f38e3fd5df85&quot;&gt;So you think you know Java Multi threading!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/the-only-reason-your-css-fails-8e4388d562af&quot;&gt;The only reason your CSS fails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-377/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-377/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;376</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/should-you-design-natural-language-first-apis/&quot;&gt;Should You Design Natural Language First APIs?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/automating-shop-the-look-on-pinterest-a17aeff0eae2&quot;&gt;Automating Shop the Look on Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4&quot;&gt;Move fast and migrate things: how we automated migrations in Postgres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/02/incrementally-migrating-over-one-million-lines-of-code-from-python-2-to-python-3/&quot;&gt;Incrementally migrating over one million lines of code from Python 2 to Python 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/understanding-database-sharding&quot;&gt;Understanding Database Sharding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/jobteaser-dev-team/python-packaging-how-do-we-manage-it-at-jobteaser-2bc8d1e9d206&quot;&gt;Python Packaging : How we manage it at JobTeaser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 11 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-376/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-376/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;375</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789&quot;&gt;Machine Learning-Powered Search Ranking of Airbnb Experiences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/swift/advanced-concurrency-in-swift-with-honeybee&quot;&gt;Advanced Concurrency in Swift with HoneyBee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/api-gateway-clojure-golang/&quot;&gt;Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/using-hypermedia-to-design-event-driven-uis/&quot;&gt;Using Hypermedia To Design Event-Driven UIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-375/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-375/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;374</title>
@@ -118,116 +226,6 @@
         <pubDate>Thu, 04 Jul 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-371/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-371/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;370</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/blog/2019/05/23/kyma-extend-and-build-on-kubernetes-with-ease/&quot;&gt;Kyma - extend and build on Kubernetes with ease&lt;/a&gt; – &lt;a href=&quot;https://kyma-project.io/docs/root/kyma#overview-overview&quot;&gt;Kyma overview&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.computerworlduk.com/infrastructure/how-trustpilot-pivoted-infrastructure-as-code-serverless-first-3698203/&quot;&gt;How Trustpilot pivoted to infrastructure-as-code and serverless first&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloudblogs.microsoft.com/opensource/2019/05/21/kubecon-microsoft-updates-helm-3-virtual-kubelet-1-visual-studio-code-service-mesh-interface/&quot;&gt;Extending Kubernetes in the open&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2019/01/29/graphql.html&quot;&gt;An instrumental intro to GraphQL with Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments&quot;&gt;How to track security problems in your Kubernetes deployments&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it&quot;&gt;5 principles for cloud-native architecture—what it is and how to master it&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 03 Jul 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-370/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-370/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;369</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/ux-trends-2018&quot;&gt;UX Trends 2018: A Retrospective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://99designs.com/blog/inside-99designs/engineering-managers-guide-to-rebranding/&quot;&gt;An engineering manager’s guide to rebranding &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.codewithjason.com/write-characterization-tests/&quot;&gt;How I write characterization tests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework&quot;&gt;Managing Distributed Tasks with Helix Task Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/faster-and-lighter-moving-ad-tech-server-side-ef4bd6d2f2eb&quot;&gt;Faster and Lighter: Moving Ad Tech Server-Side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/http-3-from-root-to-tip/&quot;&gt;HTTP/3: From root to tip&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/state-devops-europe-how-become-devops-determined&quot;&gt;The state of DevOps in Europe: How to become ‘DevOps Determined’&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 02 Jul 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-369/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-369/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;368</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kubernetes-yaml/&quot;&gt;Dissecting Kubernetes (K8s) - An Intro to Main Components&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html&quot;&gt;Diving into Ruby’s #dup and #clone&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/aresdb/&quot;&gt;Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/auditing-containers-with-osquery-389636f8c420&quot;&gt;Auditing containers with osquery&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://andycroll.com/ruby/secure-your-staging-environment-with-basic-auth/&quot;&gt;Secure Your Rails Staging Environment with HTTP Basic Authentication&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/parallel-programming-and-developing-fast-solutions-for-your-slow-programs-using-threads-585708c1e533&quot;&gt;Parallel programming and developing fast solutions for your slow programs using threads&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 01 Jul 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-368/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-368/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;367</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/be-creative-with-midway-mock-3e0e0c2d1524&quot;&gt;Be creative with Midway mock&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/1/28/a-hybrid-cloud-approach-from-fraudguardio-that-handles-50m-r.html&quot;&gt;A Hybrid Cloud Approach from FraudGuard.io that Handles 50M Requests a Day&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.just-eat.com/2019/01/28/ltdd/&quot;&gt;Building Stable Systems with Load-Test Driven Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/distributed-pki-development-and-use-cases-a828287a2e67&quot;&gt;Distributed PKI: Development and Use Cases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/debugging-year-old-sprockets-bug&quot;&gt;Debugging in Ruby—Busting a Year-old Bug in Sprockets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/nholden/how-i-replaced-a-rails-app-with-a-few-dozen-lines-of-ruby-3l1m&quot;&gt;How I replaced a Rails app with a few dozen lines of Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 28 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-367/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-367/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;366</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/type-system-typescript-flow-graphql/&quot;&gt;Learning to Love Type Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/applied-behavioral-science-at-scale/&quot;&gt;How Uber Leverages Applied Behavioral Science at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers/&quot;&gt;Understanding API-Based Platforms: A Guide For Product Managers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/rolling-our-own-medium-style-wysiwyg-c10fda0e5699&quot;&gt;Rolling our own Medium-style WYSIWYG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ruby-toolbox.com/blog/2019-02-25/historical-gem-download-charts&quot;&gt;Historical Rubygem Download Charts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 27 Jun 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-366/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-366/</guid>
         
         <category>daily</category>
         

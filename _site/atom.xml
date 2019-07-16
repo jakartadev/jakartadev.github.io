@@ -4,13 +4,91 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-07-09T13:05:29+07:00</updated>
+ <updated>2019-07-16T11:33:53+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;379</title>
+   <link href="https://jakartadev.org//daily-digest-379/"/>
+   <updated>2019-07-16T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-379</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://xon.sh/&quot;&gt;Xonsh – Python-powered shell and command prompt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/7/code-reviews-devops&quot;&gt;What makes a good code review in DevOps?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/it-monitoring-in-the-era-of-containers-tapping-into-ebpf-observability/&quot;&gt;IT Monitoring in the Era of Containers: Tapping into eBPF Observability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://containerjournal.com/2019/07/01/building-secure-production-ready-kubernetes-clusters-and-containers-part-1/&quot;&gt;Building Secure Production-Ready Kubernetes Clusters and Containers, Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/reverse-engineering-attacks-6-tools-your-team-needs-know&quot;&gt;Reverse engineering attacks: 6 tools your team needs to know&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/how-systemic-approaches-to-itops-impact-the-business-culture/&quot;&gt;How Systemic Approaches to ITOps Impact the Business Culture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;378</title>
+   <link href="https://jakartadev.org//daily-digest-378/"/>
+   <updated>2019-07-15T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-378</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/financial-planning-for-data-scientist/&quot;&gt;Why Financial Planning is Exciting… At Least for a Data Scientist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sre-case-study-triage-a-non-heap-jvm-out-of-memory-issue/&quot;&gt;SRE Case Study: Triaging a Non-Heap JVM Out of Memory Issue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/improving-react-application-perfomance-by-avoiding-unnecessary-updates-bd96d03dec40&quot;&gt;Improving React Application Performance by Avoiding Unnecessary Updates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/02/introducing-adiantum-encryption-for.html&quot;&gt;Introducing Adiantum: Encryption for the Next Billion Users&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;377</title>
+   <link href="https://jakartadev.org//daily-digest-377/"/>
+   <updated>2019-07-12T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-377</id>
+   <content type="html">&lt;p&gt;Selamat berakhir pekan!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consider-grpc-for-mobile-apis-2f0a8552ec23&quot;&gt;Consider gRPC for Mobile APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/complex-web-tables/&quot;&gt;How To Architect A Complex Web Table&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kafka-pks/&quot;&gt;Cloud-Native Streaming Platform: Running Apache Kafka on PKS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/02/open-sourcing-clusterfuzz.html&quot;&gt;Open sourcing ClusterFuzz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/so-you-think-you-know-java-multi-threading-f38e3fd5df85&quot;&gt;So you think you know Java Multi threading!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/the-only-reason-your-css-fails-8e4388d562af&quot;&gt;The only reason your CSS fails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;376</title>
+   <link href="https://jakartadev.org//daily-digest-376/"/>
+   <updated>2019-07-11T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-376</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/should-you-design-natural-language-first-apis/&quot;&gt;Should You Design Natural Language First APIs?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/automating-shop-the-look-on-pinterest-a17aeff0eae2&quot;&gt;Automating Shop the Look on Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4&quot;&gt;Move fast and migrate things: how we automated migrations in Postgres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/02/incrementally-migrating-over-one-million-lines-of-code-from-python-2-to-python-3/&quot;&gt;Incrementally migrating over one million lines of code from Python 2 to Python 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/understanding-database-sharding&quot;&gt;Understanding Database Sharding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/jobteaser-dev-team/python-packaging-how-do-we-manage-it-at-jobteaser-2bc8d1e9d206&quot;&gt;Python Packaging : How we manage it at JobTeaser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;375</title>
+   <link href="https://jakartadev.org//daily-digest-375/"/>
+   <updated>2019-07-10T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-375</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789&quot;&gt;Machine Learning-Powered Search Ranking of Airbnb Experiences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/swift/advanced-concurrency-in-swift-with-honeybee&quot;&gt;Advanced Concurrency in Swift with HoneyBee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/api-gateway-clojure-golang/&quot;&gt;Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/using-hypermedia-to-design-event-driven-uis/&quot;&gt;Using Hypermedia To Design Event-Driven UIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;374</title>
