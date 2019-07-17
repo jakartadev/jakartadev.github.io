@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-380",
+            "title": "Daily Digest #380",
+            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/security-metrics-that-actually-matter-in-a-devops-world/\">Security Metrics that Actually Matter in a DevOps World</a></li>\n  <li><a href=\"https://sdtimes.com/test/a-guide-to-continuous-testing-tools/\">A guide to continuous testing tools</a></li>\n  <li><a href=\"http://elementsofprogramming.com/\">Elements of Programming – <em>free</em> </a></li>\n  <li><a href=\"https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0?gi=5c72db3c9281\">Autoscaling Kafka Streams applications with Kubernetes</a></li>\n  <li><a href=\"http://huseyinpolatyuruk.com/2019/05/03/the-most-important-skill-a-programmer-can-learn/\">The Most Important Skill a Programmer Can Learn</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-380/",
+            "summary": "",
+            "date_published": "2019-07-17 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-379",
             "title": "Daily Digest #379",
             "content_html": "<ul>\n  <li><a href=\"https://xon.sh/\">Xonsh – Python-powered shell and command prompt</a></li>\n  <li><a href=\"https://opensource.com/article/19/7/code-reviews-devops\">What makes a good code review in DevOps?</a></li>\n  <li><a href=\"https://thenewstack.io/it-monitoring-in-the-era-of-containers-tapping-into-ebpf-observability/\">IT Monitoring in the Era of Containers: Tapping into eBPF Observability</a></li>\n  <li><a href=\"https://containerjournal.com/2019/07/01/building-secure-production-ready-kubernetes-clusters-and-containers-part-1/\">Building Secure Production-Ready Kubernetes Clusters and Containers, Part 1</a></li>\n  <li><a href=\"https://techbeacon.com/security/reverse-engineering-attacks-6-tools-your-team-needs-know\">Reverse engineering attacks: 6 tools your team needs to know</a></li>\n  <li><a href=\"https://devops.com/how-systemic-approaches-to-itops-impact-the-business-culture/\">How Systemic Approaches to ITOps Impact the Business Culture</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-376/",
             "summary": "",
             "date_published": "2019-07-11 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-375",
-            "title": "Daily Digest #375",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789\">Machine Learning-Powered Search Ranking of Airbnb Experiences</a></li>\n  <li><a href=\"https://www.toptal.com/swift/advanced-concurrency-in-swift-with-honeybee\">Advanced Concurrency in Swift with HoneyBee</a></li>\n  <li><a href=\"https://www.infoq.com/articles/api-gateway-clojure-golang/\">Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report</a></li>\n  <li><a href=\"https://nordicapis.com/using-hypermedia-to-design-event-driven-uis/\">Using Hypermedia To Design Event-Driven UIs</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-375/",
-            "summary": "",
-            "date_published": "2019-07-10 00:00:00 +0700"
         }
 
     ]

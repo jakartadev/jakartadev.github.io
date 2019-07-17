@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-07-16T11:33:53+07:00</updated>
+ <updated>2019-07-17T11:31:40+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;380</title>
+   <link href="https://jakartadev.org//daily-digest-380/"/>
+   <updated>2019-07-17T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-380</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/security-metrics-that-actually-matter-in-a-devops-world/&quot;&gt;Security Metrics that Actually Matter in a DevOps World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sdtimes.com/test/a-guide-to-continuous-testing-tools/&quot;&gt;A guide to continuous testing tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://elementsofprogramming.com/&quot;&gt;Elements of Programming – &lt;em&gt;free&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0?gi=5c72db3c9281&quot;&gt;Autoscaling Kafka Streams applications with Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://huseyinpolatyuruk.com/2019/05/03/the-most-important-skill-a-programmer-can-learn/&quot;&gt;The Most Important Skill a Programmer Can Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;379</title>

@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Jul 2019 11:33:53 +0700</pubDate>
-    <lastBuildDate>Tue, 16 Jul 2019 11:33:53 +0700</lastBuildDate>
+    <pubDate>Wed, 17 Jul 2019 11:31:40 +0700</pubDate>
+    <lastBuildDate>Wed, 17 Jul 2019 11:31:40 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;380</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/security-metrics-that-actually-matter-in-a-devops-world/&quot;&gt;Security Metrics that Actually Matter in a DevOps World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sdtimes.com/test/a-guide-to-continuous-testing-tools/&quot;&gt;A guide to continuous testing tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://elementsofprogramming.com/&quot;&gt;Elements of Programming – &lt;em&gt;free&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0?gi=5c72db3c9281&quot;&gt;Autoscaling Kafka Streams applications with Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://huseyinpolatyuruk.com/2019/05/03/the-most-important-skill-a-programmer-can-learn/&quot;&gt;The Most Important Skill a Programmer Can Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-380/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-380/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;379</title>
@@ -205,29 +226,6 @@
         <category>opensource</category>
         
         <category>oss gems</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;371</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/api-gateways-are-going-through-an-identity-crisis-e5dc3a5ab6d4&quot;&gt;API Gateways are going through an identity crisis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/arp242/hello-css&quot;&gt;hello-css - A CSS template focused on readability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/&quot;&gt;Finding Kafka’s throughput limit in Dropbox infrastructure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/how-to-build-a-technology-platform-5d0b0fc92af1&quot;&gt;How to build a technology platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/streamlining-frontend-as-a-service-for-backend-teams-69d9223efcec&quot;&gt;Streamlining Frontend-as-a-Service for Backend Teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pomber/git-history&quot;&gt;git-history – Quickly browse the history of a file from any git repository&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stylelint.io/&quot;&gt;stylelint – A mighty, modern linter for css/no-css&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 04 Jul 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-371/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-371/</guid>
-        
-        <category>daily</category>
         
         <category>development</category>
         
