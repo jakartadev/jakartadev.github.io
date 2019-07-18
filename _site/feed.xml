@@ -5,9 +5,29 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jul 2019 11:31:40 +0700</pubDate>
-    <lastBuildDate>Wed, 17 Jul 2019 11:31:40 +0700</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2019 13:50:53 +0700</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2019 13:50:53 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;381</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//head-in-the-clouds/&quot;&gt;Head in the clouds.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.dereferenced.org/federation-what-flows-where-and-why&quot;&gt;Federation – what flows where, and why?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command&quot;&gt;A simple example of git bisect command&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nora.codes/post/what-is-rusts-unsafe/&quot;&gt;What Is Rust’s unsafe?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-381/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-381/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;380</title>
@@ -203,29 +223,6 @@
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-372/</guid>
         
         <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>OSS Gems: Azakaban, Nginx admin handbooks</title>
-        <description>&lt;p&gt;Segment baru yang akan menuliskan proyek-proyek open source software (oss) yang menurut saya menarik untuk dibahas dan berguna untuk kebutuhan dikerjaan atau sekedar &lt;em&gt;ngulik&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;azkaban&quot;&gt;&lt;a href=&quot;https://azkaban.github.io/&quot;&gt;Azkaban&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Sebuah &lt;em&gt;Workflow Manager&lt;/em&gt; yang open source tentunya, pertama di-develop oleh linkedin, software ini digunakan untuk batch workflow job scheduler untuk dijalankan di Hadoop jobs, yang pada zaman dulu menggunakan cron, yang mana tidak scalable, dengan menggunakan ini bisa lebih scalable dan gampang untuk &lt;em&gt;tracking&lt;/em&gt; jobs yang ada di server.&lt;/p&gt;
-
-&lt;h3 id=&quot;nginx-admin-handbooks&quot;&gt;&lt;a href=&quot;https://github.com/trimstray/nginx-admins-handbook&quot;&gt;Nginx Admin Handbooks&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Sebuah repo yang dibuat oleh &lt;a href=&quot;https://github.com/trimstray&quot;&gt;trimstray&lt;/a&gt; dan &lt;a href=&quot;https://github.com/trimstray/nginx-admins-handbook/graphs/contributors&quot;&gt;kontributor lain&lt;/a&gt;, yang berisi tutorial, pengalaman, masalah dan lainnya ketika menggunakan nginx, membahas keamanan, &lt;em&gt;performance&lt;/em&gt; dan topik lainnya.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 04 Jul 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//oss-azkaban-nginx-book/</link>
-        <guid isPermaLink="true">https://jakartadev.org//oss-azkaban-nginx-book/</guid>
-        
-        <category>opensource</category>
-        
-        <category>oss gems</category>
         
         <category>development</category>
         

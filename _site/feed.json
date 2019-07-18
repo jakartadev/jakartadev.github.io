@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-381",
+            "title": "Daily Digest #381",
+            "content_html": "<ul>\n  <li><a href=\"https://lethain.com//head-in-the-clouds/\">Head in the clouds.</a></li>\n  <li><a href=\"https://blog.dereferenced.org/federation-what-flows-where-and-why\">Federation – what flows where, and why?</a></li>\n  <li><a href=\"https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command\">A simple example of git bisect command</a></li>\n  <li><a href=\"https://nora.codes/post/what-is-rusts-unsafe/\">What Is Rust’s unsafe?</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-381/",
+            "summary": "",
+            "date_published": "2019-07-18 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-380",
             "title": "Daily Digest #380",
             "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/security-metrics-that-actually-matter-in-a-devops-world/\">Security Metrics that Actually Matter in a DevOps World</a></li>\n  <li><a href=\"https://sdtimes.com/test/a-guide-to-continuous-testing-tools/\">A guide to continuous testing tools</a></li>\n  <li><a href=\"http://elementsofprogramming.com/\">Elements of Programming – <em>free</em> </a></li>\n  <li><a href=\"https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0?gi=5c72db3c9281\">Autoscaling Kafka Streams applications with Kubernetes</a></li>\n  <li><a href=\"http://huseyinpolatyuruk.com/2019/05/03/the-most-important-skill-a-programmer-can-learn/\">The Most Important Skill a Programmer Can Learn</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-377/",
             "summary": "",
             "date_published": "2019-07-12 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-376",
-            "title": "Daily Digest #376",
-            "content_html": "<ul>\n  <li><a href=\"https://nordicapis.com/should-you-design-natural-language-first-apis/\">Should You Design Natural Language First APIs?</a></li>\n  <li><a href=\"https://medium.com/@Pinterest_Engineering/automating-shop-the-look-on-pinterest-a17aeff0eae2\">Automating Shop the Look on Pinterest</a></li>\n  <li><a href=\"https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4\">Move fast and migrate things: how we automated migrations in Postgres</a></li>\n  <li><a href=\"https://blogs.dropbox.com/tech/2019/02/incrementally-migrating-over-one-million-lines-of-code-from-python-2-to-python-3/\">Incrementally migrating over one million lines of code from Python 2 to Python 3</a></li>\n  <li><a href=\"https://www.digitalocean.com/community/tutorials/understanding-database-sharding\">Understanding Database Sharding</a></li>\n  <li><a href=\"https://medium.com/jobteaser-dev-team/python-packaging-how-do-we-manage-it-at-jobteaser-2bc8d1e9d206\">Python Packaging : How we manage it at JobTeaser</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-376/",
-            "summary": "",
-            "date_published": "2019-07-11 00:00:00 +0700"
         }
 
     ]

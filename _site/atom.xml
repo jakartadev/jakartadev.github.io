@@ -4,13 +4,27 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-07-17T11:31:40+07:00</updated>
+ <updated>2019-07-18T13:50:53+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;381</title>
+   <link href="https://jakartadev.org//daily-digest-381/"/>
+   <updated>2019-07-18T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-381</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//head-in-the-clouds/&quot;&gt;Head in the clouds.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.dereferenced.org/federation-what-flows-where-and-why&quot;&gt;Federation – what flows where, and why?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command&quot;&gt;A simple example of git bisect command&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nora.codes/post/what-is-rusts-unsafe/&quot;&gt;What Is Rust’s unsafe?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;380</title>
