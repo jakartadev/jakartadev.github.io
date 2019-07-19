@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-382",
+            "title": "Daily Digest #382",
+            "content_html": "<ul>\n  <li>\n    <table>\n      <tbody>\n        <tr>\n          <td>[The modern PWA Cheat Sheet by Maximiliano Firtman</td>\n          <td>JSConf EU 2019](https://www.youtube.com/watch?v=cybhV88KLfI)</td>\n        </tr>\n      </tbody>\n    </table>\n  </li>\n  <li><a href=\"https://facebook.github.io/react-native/blog/2019/07/03/version-60\">React Native 0.60</a></li>\n  <li><a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68\">Firefox 68 for developers</a></li>\n  <li><a href=\"https://github.com/cjss-group/CJSS\">A CSS based web framework</a></li>\n  <li><a href=\"https://medium.com/@nodejs/the-openjs-foundation-is-official-now-what-21eecf28ffd8\">The OpenJS Foundation is Official! Now What?</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/the-future-of-machine-learning-is-tiny\">The future of machine learning is tiny</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-382/",
+            "summary": "",
+            "date_published": "2019-07-19 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-381",
             "title": "Daily Digest #381",
             "content_html": "<ul>\n  <li><a href=\"https://lethain.com//head-in-the-clouds/\">Head in the clouds.</a></li>\n  <li><a href=\"https://blog.dereferenced.org/federation-what-flows-where-and-why\">Federation – what flows where, and why?</a></li>\n  <li><a href=\"https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command\">A simple example of git bisect command</a></li>\n  <li><a href=\"https://nora.codes/post/what-is-rusts-unsafe/\">What Is Rust’s unsafe?</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-378/",
             "summary": "",
             "date_published": "2019-07-15 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-377",
-            "title": "Daily Digest #377",
-            "content_html": "<p>Selamat berakhir pekan!</p>\n\n<ul>\n  <li><a href=\"https://hackernoon.com/consider-grpc-for-mobile-apis-2f0a8552ec23\">Consider gRPC for Mobile APIs</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/02/complex-web-tables/\">How To Architect A Complex Web Table</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/kafka-pks/\">Cloud-Native Streaming Platform: Running Apache Kafka on PKS</a></li>\n  <li><a href=\"https://security.googleblog.com/2019/02/open-sourcing-clusterfuzz.html\">Open sourcing ClusterFuzz</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/so-you-think-you-know-java-multi-threading-f38e3fd5df85\">So you think you know Java Multi threading!</a></li>\n  <li><a href=\"https://blog.logrocket.com/the-only-reason-your-css-fails-8e4388d562af\">The only reason your CSS fails</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-377/",
-            "summary": "",
-            "date_published": "2019-07-12 00:00:00 +0700"
         }
 
     ]
