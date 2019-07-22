@@ -4,13 +4,28 @@
  <title></title>
  <link href="https://jakartadev.org//atom.xml" rel="self"/>
  <link href="https://jakartadev.org//"/>
- <updated>2019-07-19T12:54:39+07:00</updated>
+ <updated>2019-07-22T13:37:17+07:00</updated>
  <id>https://jakartadev.org/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Digest &#35;383</title>
+   <link href="https://jakartadev.org//daily-digest-383/"/>
+   <updated>2019-07-22T00:00:00+07:00</updated>
+   <id>https://jakartadev.org//daily-digest-383</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/sequoia-capital/role-of-a-data-science-manager-2c69264511d3&quot;&gt;Role of a Data Science Manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/90374429/how-etsy-taught-style-to-an-algorithm&quot;&gt;How Etsy taught style to an algorithm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/toward-learned-algorithms-data-structures-and-systems&quot;&gt;Toward learned algorithms, data structures, and systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314&quot;&gt;Jupyter is the new Excel (but not for your boss)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/tools-for-machine-learning-development&quot;&gt;Tools for machine learning development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;382</title>

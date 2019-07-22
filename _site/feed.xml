@@ -5,9 +5,30 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>https://jakartadev.org//</link>
     <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jul 2019 12:54:39 +0700</pubDate>
-    <lastBuildDate>Fri, 19 Jul 2019 12:54:39 +0700</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2019 13:37:17 +0700</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2019 13:37:17 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Daily Digest &amp;#35;383</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/sequoia-capital/role-of-a-data-science-manager-2c69264511d3&quot;&gt;Role of a Data Science Manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/90374429/how-etsy-taught-style-to-an-algorithm&quot;&gt;How Etsy taught style to an algorithm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/toward-learned-algorithms-data-structures-and-systems&quot;&gt;Toward learned algorithms, data structures, and systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314&quot;&gt;Jupyter is the new Excel (but not for your boss)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/tools-for-machine-learning-development&quot;&gt;Tools for machine learning development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 22 Jul 2019 00:00:00 +0700</pubDate>
+        <link>https://jakartadev.org//daily-digest-383/</link>
+        <guid isPermaLink="true">https://jakartadev.org//daily-digest-383/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Daily Digest &amp;#35;382</title>
@@ -203,29 +224,6 @@
         <pubDate>Tue, 09 Jul 2019 00:00:00 +0700</pubDate>
         <link>https://jakartadev.org//daily-digest-374/</link>
         <guid isPermaLink="true">https://jakartadev.org//daily-digest-374/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;373</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/ios-performance-tricks-apps/&quot;&gt;iOS Performance Tricks To Make Your App Feel More Performant&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/engineering-to-scale-paid-media-campaigns-84ba018fb3fa&quot;&gt;Engineering to Improve Marketing Effectiveness (Part 3) — Scaling Paid Media campaigns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/beginners-perspective-kafka-streams-building-real-time-walkthrough-detection&quot;&gt;A Beginner’s Perspective on Kafka Streams: Building Real-Time Walkthrough Detection&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46&quot;&gt;Detecting Performance Anomalies in External Firmware Deployments&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/overcoming-restlessness/&quot;&gt;Overcoming RESTlessness&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/debug-nodejs-dependencies-51eb40f484ec&quot;&gt;Debug Node.js Dependencies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/asymmetric-cryptography-in-blockchains-d1a4c1654a71&quot;&gt;Asymmetric Cryptography In Blockchains&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Jul 2019 00:00:00 +0700</pubDate>
-        <link>https://jakartadev.org//daily-digest-373/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-373/</guid>
         
         <category>daily</category>
         

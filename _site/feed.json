@@ -12,6 +12,15 @@
     "items": [
       {
         {
+            "id": "/daily-digest-383",
+            "title": "Daily Digest #383",
+            "content_html": "<ul>\n  <li><a href=\"https://medium.com/sequoia-capital/role-of-a-data-science-manager-2c69264511d3\">Role of a Data Science Manager</a></li>\n  <li><a href=\"https://www.fastcompany.com/90374429/how-etsy-taught-style-to-an-algorithm\">How Etsy taught style to an algorithm</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/toward-learned-algorithms-data-structures-and-systems\">Toward learned algorithms, data structures, and systems</a></li>\n  <li><a href=\"https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314\">Jupyter is the new Excel (but not for your boss)</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/tools-for-machine-learning-development\">Tools for machine learning development</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-383/",
+            "summary": "",
+            "date_published": "2019-07-22 00:00:00 +0700"
+        },
+{
+        {
             "id": "/daily-digest-382",
             "title": "Daily Digest #382",
             "content_html": "<ul>\n  <li>\n    <table>\n      <tbody>\n        <tr>\n          <td>[The modern PWA Cheat Sheet by Maximiliano Firtman</td>\n          <td>JSConf EU 2019](https://www.youtube.com/watch?v=cybhV88KLfI)</td>\n        </tr>\n      </tbody>\n    </table>\n  </li>\n  <li><a href=\"https://facebook.github.io/react-native/blog/2019/07/03/version-60\">React Native 0.60</a></li>\n  <li><a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68\">Firefox 68 for developers</a></li>\n  <li><a href=\"https://github.com/cjss-group/CJSS\">A CSS based web framework</a></li>\n  <li><a href=\"https://medium.com/@nodejs/the-openjs-foundation-is-official-now-what-21eecf28ffd8\">The OpenJS Foundation is Official! Now What?</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/the-future-of-machine-learning-is-tiny\">The future of machine learning is tiny</a></li>\n</ul>\n",
@@ -45,15 +54,6 @@
             "url": "https://jakartadev.org//daily-digest-379/",
             "summary": "",
             "date_published": "2019-07-16 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-378",
-            "title": "Daily Digest #378",
-            "content_html": "<ul>\n  <li><a href=\"https://eng.uber.com/financial-planning-for-data-scientist/\">Why Financial Planning is Exciting… At Least for a Data Scientist</a></li>\n  <li><a href=\"https://www.ebayinc.com/stories/blogs/tech/sre-case-study-triage-a-non-heap-jvm-out-of-memory-issue/\">SRE Case Study: Triaging a Non-Heap JVM Out of Memory Issue</a></li>\n  <li><a href=\"https://itnext.io/improving-react-application-perfomance-by-avoiding-unnecessary-updates-bd96d03dec40\">Improving React Application Performance by Avoiding Unnecessary Updates</a></li>\n  <li><a href=\"https://security.googleblog.com/2019/02/introducing-adiantum-encryption-for.html\">Introducing Adiantum: Encryption for the Next Billion Users</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-378/",
-            "summary": "",
-            "date_published": "2019-07-15 00:00:00 +0700"
         }
 
     ]
