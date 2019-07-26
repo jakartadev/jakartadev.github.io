@@ -12,48 +12,48 @@
     "items": [
       {
         {
+            "id": "/daily-digest-387",
+            "title": "Daily Digest #387",
+            "content_html": "<ul>\n  <li><a href=\"https://marcus.io/blog/menu-or-not\">Menu (or not)</a></li>\n  <li><a href=\"https://www.viget.com/articles/beginners-guide-to-variable-fonts-part-1/\">Beginner’s Guide to Variable Fonts: Part 1</a></li>\n  <li><a href=\"https://www.viget.com/articles/beginners-guide-to-variable-fonts-2/\">Beginner’s Guide to Variable Fonts: Part 2</a></li>\n  <li><a href=\"https://changelog.com/jsparty/84\">React + WebAssembly = ❤️</a></li>\n  <li><a href=\"https://medium.com/young-coder/learning-to-code-by-hacking-minecraft-8c3da41e741a\">Learning to Code by Hacking Minecraft</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-387/",
+            "summary": "",
+            "date_published": "2019-07-26 00:00:00 +0800"
+        },
+{
+        {
+            "id": "/daily-digest-386",
+            "title": "Daily Digest #386",
+            "content_html": "<ul>\n  <li><a href=\"https://calibreapp.com/blog/how-pagespeed-works/\">How Google Pagespeed works: Improve Your Score and Search Engine Ranking</a></li>\n  <li><a href=\"https://nodesource.com/blog/worker-threads-nodejs/\">Understanding Worker Threads in Node.js</a></li>\n  <li><a href=\"https://www.twilio.com/blog/optimize-javascript-application-performance-web-workers\">Optimizing JavaScript Application Performance with Web Workers</a></li>\n  <li><a href=\"https://tympanus.net/codrops/2019/07/10/how-to-add-smooth-scrolling-with-inner-image-animations-to-a-web-page/\">How to Add Smooth Scrolling with Inner Image Animations to a Web Page</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-386/",
+            "summary": "",
+            "date_published": "2019-07-25 00:00:00 +0800"
+        },
+{
+        {
+            "id": "/daily-digest-385",
+            "title": "Daily Digest #385",
+            "content_html": "<ul>\n  <li><a href=\"https://opensource.com/article/19/7/devops-vs-sysadmin\">The case for making the transition from sysadmin to DevOps engineer</a></li>\n  <li><a href=\"https://techbeacon.com/app-dev-testing/7-pitfalls-could-ruin-your-app-testing-cycle\">7 pitfalls that could ruin your app testing cycle</a></li>\n  <li><a href=\"https://thenewstack.io/what-makes-docker-so-important/\">What Makes Docker So Important</a></li>\n  <li><a href=\"https://opensource.com/article/19/7/code-reviews-devops\">What makes a good code review in DevOps?</a></li>\n  <li><a href=\"https://containerjournal.com/2019/07/09/building-secure-production-ready-kubernetes-clusters-and-containers-part-2/\">Building Secure Production-Ready Kubernetes Clusters and Containers, Part 2 </a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-385/",
+            "summary": "",
+            "date_published": "2019-07-24 00:00:00 +0800"
+        },
+{
+        {
+            "id": "/daily-digest-384",
+            "title": "Daily Digest #384",
+            "content_html": "<ul>\n  <li><a href=\"https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider\">To run or not to run a database on Kubernetes: What to consider</a></li>\n  <li><a href=\"https://thenewstack.io/organizations-running-on-more-clouds-less-likely-to-see-security-threats/\">Organizations Running on More Clouds Less Likely to See Security Threats</a></li>\n  <li><a href=\"https://techbeacon.com/enterprise-it/why-we-need-transform-internet-cloud-native-world\">Why we need to transform the Internet for a cloud-native world</a></li>\n  <li><a href=\"https://devops.com/5-ways-devsecops-can-manage-software-supply-chains/\">5 Ways DevSecOps Can Manage Software Supply Chains</a></li>\n</ul>\n",
+            "url": "https://jakartadev.org//daily-digest-384/",
+            "summary": "",
+            "date_published": "2019-07-23 00:00:00 +0800"
+        },
+{
+        {
             "id": "/daily-digest-383",
             "title": "Daily Digest #383",
             "content_html": "<ul>\n  <li><a href=\"https://medium.com/sequoia-capital/role-of-a-data-science-manager-2c69264511d3\">Role of a Data Science Manager</a></li>\n  <li><a href=\"https://www.fastcompany.com/90374429/how-etsy-taught-style-to-an-algorithm\">How Etsy taught style to an algorithm</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/toward-learned-algorithms-data-structures-and-systems\">Toward learned algorithms, data structures, and systems</a></li>\n  <li><a href=\"https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314\">Jupyter is the new Excel (but not for your boss)</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/tools-for-machine-learning-development\">Tools for machine learning development</a></li>\n</ul>\n",
             "url": "https://jakartadev.org//daily-digest-383/",
             "summary": "",
-            "date_published": "2019-07-22 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-382",
-            "title": "Daily Digest #382",
-            "content_html": "<ul>\n  <li>\n    <table>\n      <tbody>\n        <tr>\n          <td>[The modern PWA Cheat Sheet by Maximiliano Firtman</td>\n          <td>JSConf EU 2019](https://www.youtube.com/watch?v=cybhV88KLfI)</td>\n        </tr>\n      </tbody>\n    </table>\n  </li>\n  <li><a href=\"https://facebook.github.io/react-native/blog/2019/07/03/version-60\">React Native 0.60</a></li>\n  <li><a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68\">Firefox 68 for developers</a></li>\n  <li><a href=\"https://github.com/cjss-group/CJSS\">A CSS based web framework</a></li>\n  <li><a href=\"https://medium.com/@nodejs/the-openjs-foundation-is-official-now-what-21eecf28ffd8\">The OpenJS Foundation is Official! Now What?</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/the-future-of-machine-learning-is-tiny\">The future of machine learning is tiny</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-382/",
-            "summary": "",
-            "date_published": "2019-07-19 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-381",
-            "title": "Daily Digest #381",
-            "content_html": "<ul>\n  <li><a href=\"https://lethain.com//head-in-the-clouds/\">Head in the clouds.</a></li>\n  <li><a href=\"https://blog.dereferenced.org/federation-what-flows-where-and-why\">Federation – what flows where, and why?</a></li>\n  <li><a href=\"https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command\">A simple example of git bisect command</a></li>\n  <li><a href=\"https://nora.codes/post/what-is-rusts-unsafe/\">What Is Rust’s unsafe?</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-381/",
-            "summary": "",
-            "date_published": "2019-07-18 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-380",
-            "title": "Daily Digest #380",
-            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/security-metrics-that-actually-matter-in-a-devops-world/\">Security Metrics that Actually Matter in a DevOps World</a></li>\n  <li><a href=\"https://sdtimes.com/test/a-guide-to-continuous-testing-tools/\">A guide to continuous testing tools</a></li>\n  <li><a href=\"http://elementsofprogramming.com/\">Elements of Programming – <em>free</em> </a></li>\n  <li><a href=\"https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0?gi=5c72db3c9281\">Autoscaling Kafka Streams applications with Kubernetes</a></li>\n  <li><a href=\"http://huseyinpolatyuruk.com/2019/05/03/the-most-important-skill-a-programmer-can-learn/\">The Most Important Skill a Programmer Can Learn</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-380/",
-            "summary": "",
-            "date_published": "2019-07-17 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-379",
-            "title": "Daily Digest #379",
-            "content_html": "<ul>\n  <li><a href=\"https://xon.sh/\">Xonsh – Python-powered shell and command prompt</a></li>\n  <li><a href=\"https://opensource.com/article/19/7/code-reviews-devops\">What makes a good code review in DevOps?</a></li>\n  <li><a href=\"https://thenewstack.io/it-monitoring-in-the-era-of-containers-tapping-into-ebpf-observability/\">IT Monitoring in the Era of Containers: Tapping into eBPF Observability</a></li>\n  <li><a href=\"https://containerjournal.com/2019/07/01/building-secure-production-ready-kubernetes-clusters-and-containers-part-1/\">Building Secure Production-Ready Kubernetes Clusters and Containers, Part 1</a></li>\n  <li><a href=\"https://techbeacon.com/security/reverse-engineering-attacks-6-tools-your-team-needs-know\">Reverse engineering attacks: 6 tools your team needs to know</a></li>\n  <li><a href=\"https://devops.com/how-systemic-approaches-to-itops-impact-the-business-culture/\">How Systemic Approaches to ITOps Impact the Business Culture</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-379/",
-            "summary": "",
-            "date_published": "2019-07-16 00:00:00 +0700"
+            "date_published": "2019-07-22 00:00:00 +0800"
         }
 
     ]
