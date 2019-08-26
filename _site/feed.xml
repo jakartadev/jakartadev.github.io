@@ -3,25 +3,27 @@
   <channel>
     <title></title>
     <description>jakartaDEV -- Daily discoveries</description>
-    <link>https://jakartadev.org//</link>
-    <atom:link href="https://jakartadev.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 10:14:32 +0800</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 10:14:32 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 27 Aug 2019 05:53:13 +0700</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2019 05:53:13 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Daily Digest &amp;#35;387</title>
+        <title>Daily Digest &amp;#35;402</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://marcus.io/blog/menu-or-not&quot;&gt;Menu (or not)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/beginners-guide-to-variable-fonts-part-1/&quot;&gt;Beginner’s Guide to Variable Fonts: Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/beginners-guide-to-variable-fonts-2/&quot;&gt;Beginner’s Guide to Variable Fonts: Part 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://changelog.com/jsparty/84&quot;&gt;React + WebAssembly = ❤️&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/young-coder/learning-to-code-by-hacking-minecraft-8c3da41e741a&quot;&gt;Learning to Code by Hacking Minecraft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/security-concerns-around-rapid-container-growth/&quot;&gt;Security Concerns Around Rapid Container Growth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learning.oreilly.com/learning-paths/learning-path-implementing/9781492054948&quot;&gt;Implementing Cisco Network Security, Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learning.oreilly.com/learning-paths/learning-path-implementing/0636920303152&quot;&gt;Implementing Cisco Network Security, Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learning.oreilly.com/learning-paths/learning-path-implementing/0636920303183&quot;&gt;Implementing Cisco Network Security, Part 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/oreilly-software-architecture/9781492050506/&quot;&gt;O’Reilly Software Architecture Conference 2019 - New York, New York&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/the-sre-pressure-cooker-balancing-velocity-against-risk/&quot;&gt;The SRE Pressure Cooker: Balancing Velocity Against Risk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/observability-a-3-year-retrospective/&quot;&gt;Observability — A 3-Year Retrospective&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 26 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-387/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-387/</guid>
+        <pubDate>Tue, 27 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-402/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-402/</guid>
         
         <category>daily</category>
         
@@ -31,17 +33,18 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;386</title>
+        <title>Daily Digest &amp;#35;401</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://calibreapp.com/blog/how-pagespeed-works/&quot;&gt;How Google Pagespeed works: Improve Your Score and Search Engine Ranking&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/worker-threads-nodejs/&quot;&gt;Understanding Worker Threads in Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/blog/optimize-javascript-application-performance-web-workers&quot;&gt;Optimizing JavaScript Application Performance with Web Workers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tympanus.net/codrops/2019/07/10/how-to-add-smooth-scrolling-with-inner-image-animations-to-a-web-page/&quot;&gt;How to Add Smooth Scrolling with Inner Image Animations to a Web Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca?source=rss----7f60cf5620c9---4&quot;&gt;A Hitchhiker’s Guide to Mixture Density Networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techblog.commercetools.com/graphql-adoption-at-commercetools-cab25a1d1f4a?source=rss----d3d69d818e3d---4&amp;amp;gi=463d6877546d&quot;&gt;GraphQL adoption at commercetools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/&quot;&gt;SOCKMAP - TCP splicing of the future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/8/scrum-vs-kanban&quot;&gt;Scrum vs. kanban: Which agile framework is better?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/relentless-automation-the-roadmap-to-success/&quot;&gt;Relentless Automation: The Roadmap to Success&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 25 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-386/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-386/</guid>
+        <pubDate>Mon, 26 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-401/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-401/</guid>
         
         <category>daily</category>
         
@@ -51,18 +54,18 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;385</title>
+        <title>Daily Digest &amp;#35;400</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/7/devops-vs-sysadmin&quot;&gt;The case for making the transition from sysadmin to DevOps engineer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/app-dev-testing/7-pitfalls-could-ruin-your-app-testing-cycle&quot;&gt;7 pitfalls that could ruin your app testing cycle&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-makes-docker-so-important/&quot;&gt;What Makes Docker So Important&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/7/code-reviews-devops&quot;&gt;What makes a good code review in DevOps?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://containerjournal.com/2019/07/09/building-secure-production-ready-kubernetes-clusters-and-containers-part-2/&quot;&gt;Building Secure Production-Ready Kubernetes Clusters and Containers, Part 2 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/02/15/user-migration-the-definitive-guide&quot;&gt;User Migration: The Definitive Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/scalability-performance-benchmark/&quot;&gt;Scaling up Performance Benchmarking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23&quot;&gt;Maintaining Binary Compatibility in Scala&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/accessibility-webinar/&quot;&gt;How A Screen Reader User Accesses The Web: A Smashing Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/messaging-pattern-for-high-availability-and-handling-failures-in-microservices-26cdd7a0aec6?source=rss----3a8144eabfe3---4&quot;&gt;Messaging Pattern For High Availability and Handling Failures in Microservices 🔥&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 24 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-385/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-385/</guid>
+        <pubDate>Fri, 23 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-400/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-400/</guid>
         
         <category>daily</category>
         
@@ -72,17 +75,18 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;384</title>
+        <title>Daily Digest &amp;#35;399</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider&quot;&gt;To run or not to run a database on Kubernetes: What to consider&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/organizations-running-on-more-clouds-less-likely-to-see-security-threats/&quot;&gt;Organizations Running on More Clouds Less Likely to See Security Threats&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/enterprise-it/why-we-need-transform-internet-cloud-native-world&quot;&gt;Why we need to transform the Internet for a cloud-native world&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/5-ways-devsecops-can-manage-software-supply-chains/&quot;&gt;5 Ways DevSecOps Can Manage Software Supply Chains&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/modeling-censored-time-to-event-data-using-pyro/&quot;&gt;Modeling Censored Time-to-Event Data Using Pyro, an Open Source Probabilistic Programming Language&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/read-model-patterns-in-case-of-lack-of-order-guarantee/&quot;&gt;Patterns for asynchronous read models in infrastructure without order guarantee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/ai-for-algorithmic-trading-rethinking-bars-labeling-and-stationarity-90a7b626f3e1&quot;&gt;AI for algorithmic trading: rethinking bars, labeling, and stationarity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a?source=rss----3a8144eabfe3---4&quot;&gt;Understanding IPFS in Depth(1/6): A Beginner to Advanced Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-we-prepared-new-york-times-engineering-for-the-midterm-elections-2a615fe4196e?source=rss----51e1d1745b32---4&amp;amp;gi=20537d10f65&quot;&gt;How We Prepared New York Times Engineering for the Midterm Elections&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-384/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-384/</guid>
+        <pubDate>Thu, 22 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-399/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-399/</guid>
         
         <category>daily</category>
         
@@ -92,18 +96,17 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;383</title>
+        <title>Daily Digest &amp;#35;398</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/sequoia-capital/role-of-a-data-science-manager-2c69264511d3&quot;&gt;Role of a Data Science Manager&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/90374429/how-etsy-taught-style-to-an-algorithm&quot;&gt;How Etsy taught style to an algorithm&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/toward-learned-algorithms-data-structures-and-systems&quot;&gt;Toward learned algorithms, data structures, and systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314&quot;&gt;Jupyter is the new Excel (but not for your boss)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/tools-for-machine-learning-development&quot;&gt;Tools for machine learning development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/understanding-micro-frontends-b1c11585a297?source=rss----3a8144eabfe3---4&quot;&gt;Understanding Micro Frontends&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/memory-jvm/&quot;&gt;The Trouble with Memory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/myntra-scheduler-service-a0153a04526c&quot;&gt;Myntra Scheduler Service -Fault tolerant, horizontally scalable managed scheduler service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/end-to-end-microservices/index.html&quot;&gt;A Journey On End To End Testing A Microservices Architecture&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 22 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-383/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-383/</guid>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-398/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-398/</guid>
         
         <category>daily</category>
         
@@ -113,28 +116,17 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;382</title>
+        <title>Daily Digest &amp;#35;397</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[The modern PWA Cheat Sheet by Maximiliano Firtman&lt;/td&gt;
-          &lt;td&gt;JSConf EU 2019](https://www.youtube.com/watch?v=cybhV88KLfI)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-native/blog/2019/07/03/version-60&quot;&gt;React Native 0.60&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68&quot;&gt;Firefox 68 for developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/cjss-group/CJSS&quot;&gt;A CSS based web framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nodejs/the-openjs-foundation-is-official-now-what-21eecf28ffd8&quot;&gt;The OpenJS Foundation is Official! Now What?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/the-future-of-machine-learning-is-tiny&quot;&gt;The future of machine learning is tiny&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2019/safety-needs-social-scientists/&quot;&gt;AI Safety Needs Social Scientists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://becominghuman.ai/real-time-finger-detection-1e18fea0d1d4?source=rss----5e5bef33608a---4&amp;amp;gi=24268a0d3dab&quot;&gt;Real-time Finger Detection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.opsian.com/blog/what-is-continuous-profiling/&quot;&gt;What is Continuous Profiling?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/solving-problems-with-serverless-the-cloudflare-led-data-center-board-part-i/&quot;&gt;Solving Problems with Serverless – The Cloudflare LED Data Center Board, Part I&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-382/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-382/</guid>
+        <pubDate>Mon, 19 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-397/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-397/</guid>
         
         <category>daily</category>
         
@@ -144,17 +136,18 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;381</title>
+        <title>Daily Digest &amp;#35;396</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lethain.com//head-in-the-clouds/&quot;&gt;Head in the clouds.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.dereferenced.org/federation-what-flows-where-and-why&quot;&gt;Federation – what flows where, and why?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command&quot;&gt;A simple example of git bisect command&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nora.codes/post/what-is-rusts-unsafe/&quot;&gt;What Is Rust’s unsafe?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/data-driven-decision-making/&quot;&gt;Data-Driven Decision Making&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/divide-and-conquer-scale-your-node-js-app-using-distributed-queues-8231a9486d3a?source=rss----7f3d96429888---4&quot;&gt;Divide and conquer: Scale your Node.js app using distributed queues&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/avs-autonomous-vehicle-visualization/&quot;&gt;Introducing AVS, an Open Standard for Autonomous Vehicle Visualization from Uber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2019/02/rethinking-observability/&quot;&gt;Three Pillars with Zero Answers: Rethinking Observability with Ben Sigelman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/net-runtime-architecture/&quot;&gt;Tuning a Runtime for Both Productivity and Performance&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 18 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-381/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-381/</guid>
+        <pubDate>Fri, 16 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-396/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-396/</guid>
         
         <category>daily</category>
         
@@ -164,18 +157,18 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;380</title>
+        <title>Daily Digest &amp;#35;395</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/security-metrics-that-actually-matter-in-a-devops-world/&quot;&gt;Security Metrics that Actually Matter in a DevOps World&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sdtimes.com/test/a-guide-to-continuous-testing-tools/&quot;&gt;A guide to continuous testing tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://elementsofprogramming.com/&quot;&gt;Elements of Programming – &lt;em&gt;free&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0?gi=5c72db3c9281&quot;&gt;Autoscaling Kafka Streams applications with Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://huseyinpolatyuruk.com/2019/05/03/the-most-important-skill-a-programmer-can-learn/&quot;&gt;The Most Important Skill a Programmer Can Learn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/hunting-for-memory-leaks-in-python-applications-6824d0518774&quot;&gt;Hunting for Memory Leaks in Python applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/cloud-native-application-architecture-a84ddf378f82&quot;&gt;Cloud Native Application Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2019/02/13/delayed-replication-for-disaster-recovery-with-postgresql/&quot;&gt;How we used delayed replication for disaster recovery with PostgreSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/&quot;&gt;An Introduction To WebBluetooth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/front-end/guide-to-monorepos&quot;&gt;Guide to Monorepos for Front-end Code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 17 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-380/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-380/</guid>
+        <pubDate>Mon, 12 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-395/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-395/</guid>
         
         <category>daily</category>
         
@@ -185,19 +178,18 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;379</title>
+        <title>Daily Digest &amp;#35;394</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://xon.sh/&quot;&gt;Xonsh – Python-powered shell and command prompt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/7/code-reviews-devops&quot;&gt;What makes a good code review in DevOps?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/it-monitoring-in-the-era-of-containers-tapping-into-ebpf-observability/&quot;&gt;IT Monitoring in the Era of Containers: Tapping into eBPF Observability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://containerjournal.com/2019/07/01/building-secure-production-ready-kubernetes-clusters-and-containers-part-1/&quot;&gt;Building Secure Production-Ready Kubernetes Clusters and Containers, Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/reverse-engineering-attacks-6-tools-your-team-needs-know&quot;&gt;Reverse engineering attacks: 6 tools your team needs to know&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/how-systemic-approaches-to-itops-impact-the-business-culture/&quot;&gt;How Systemic Approaches to ITOps Impact the Business Culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/typesafe-frontend-development-89c7600f2759?source=rss----5517fd7b58a6---4&amp;amp;gi=f3d9855fd31f&quot;&gt;Type-safe Frontend Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.gc.com/application-performance-monitoring/&quot;&gt;Fishing For Correlations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/consistent-hashing-simplified-7fe4e512324?source=rss----7f60cf5620c9---4&quot;&gt;Consistent Hashing Simplified&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-beacon-bluetooth-mobile-app/&quot;&gt;Engineering Uber Beacon: Matching Riders and Drivers in 24-bit RGB Colors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/developing-fast-reliable-ios-builds-at-pinterest-part-one-cb1810407b92&quot;&gt;Developing fast &amp;amp; reliable iOS builds at Pinterest (Part one)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 16 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-379/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-379/</guid>
+        <pubDate>Tue, 06 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-394/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-394/</guid>
         
         <category>daily</category>
         
@@ -207,17 +199,18 @@
       </item>
     
       <item>
-        <title>Daily Digest &amp;#35;378</title>
+        <title>Daily Digest &amp;#35;393</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/financial-planning-for-data-scientist/&quot;&gt;Why Financial Planning is Exciting… At Least for a Data Scientist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sre-case-study-triage-a-non-heap-jvm-out-of-memory-issue/&quot;&gt;SRE Case Study: Triaging a Non-Heap JVM Out of Memory Issue&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/improving-react-application-perfomance-by-avoiding-unnecessary-updates-bd96d03dec40&quot;&gt;Improving React Application Performance by Avoiding Unnecessary Updates&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/02/introducing-adiantum-encryption-for.html&quot;&gt;Introducing Adiantum: Encryption for the Next Billion Users&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/deep-compression-optimization-techniques-for-inference-efficiency-615252c18f18?source=rss----7f60cf5620c9---4&quot;&gt;Deep Compression: Optimization Techniques for Inference &amp;amp; Efficiency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/unifying-graphql-design-patterns-best-practices-tutorials&quot;&gt;Unifying Our GraphQL Design Patterns and Best Practices with Tutorials &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/complementary-item-recommendations-at-ebay-scale/&quot;&gt;Complementary Item Recommendations at eBay Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/getting-organized-with-an-engineering-logbook/&quot;&gt;Getting Organized with an Engineering Logbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.novoda.com/working-with-legacy-testing-frameworks-part-1-huge-checks/&quot;&gt;Working with Legacy Testing Frameworks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 15 Jul 2019 00:00:00 +0800</pubDate>
-        <link>https://jakartadev.org//daily-digest-378/</link>
-        <guid isPermaLink="true">https://jakartadev.org//daily-digest-378/</guid>
+        <pubDate>Mon, 05 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-393/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-393/</guid>
         
         <category>daily</category>
         

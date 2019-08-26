@@ -24,11 +24,11 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://jakartadev.org/" />
     <meta property="og:site_name" content="JakartaDEV: developement news, tech news dan open source" />
-    <meta property="og:image" content="https://jakartadev.org//images/logo.png" />
+    <meta property="og:image" content="http://localhost:4000/images/logo.png" />
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:title" content="Daily discoveries dan newsletter mingguan untuk developer dan Open source enthusias"/>
     <meta name="twitter:site" content="@JakartaDev"/>
-    <meta name="twitter:image" content="https://jakartadev.org//images/logo.png"/>
+    <meta name="twitter:image" content="http://localhost:4000/images/logo.png"/>
     <meta name="twitter:creator" content="@JakartaDev"/>
 
     <!--[if lt IE 9]>
@@ -39,8 +39,8 @@
     <link rel="alternate" type="application/rss+xml" title="jakartaDEV - Daily discoveries" href="/feed.xml" />
     <!-- <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Fjalla+One|Lobster|Oswald|Patua+One" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Condensed|Roboto|Lobster|Patua+One|Open+Sans|PT+Mono" rel="stylesheet">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://jakartadev.org//images/apple-touch-icon-precomposed.png">
-    <link rel="icon" type="image/png" href="https://jakartadev.org//images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+    <link rel="icon" type="image/png" href="http://localhost:4000/images/favicon.png">
     <link rel="stylesheet" href="/public/css/highlight/styles/darcula.css">
     <script src="/public/css/highlight/highlight.pack.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>      
@@ -77,17 +77,22 @@
     
     <article class="post">
 
-      <h1 class="title"><a href="/daily-digest-358/">Daily Digest &#35;358</a>  <time datetime="June 14, 2019"> &dash; June 14, 2019</time></h1>
+      <h1 class="title"><a href="/daily-digest-372/">Daily Digest &#35;371</a>  <time datetime="July  5, 2019"> &dash; July  5, 2019</time></h1>
       
       <div class="entry">
         
         
-          <ul>
-  <li><a href="https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/">Preload, Eager Load, Includes and Joins in Ruby on Rails</a></li>
-  <li><a href="https://www.xkyle.com/Being-a-Great-Engineering-Mentor/">Being a Great Engineering Mentor</a></li>
-  <li><a href="https://chriskiehl.com/article/event-sourcing-is-hard">Don’t Let the Internet Dupe You, Event Sourcing is Hard</a></li>
-  <li><a href="https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html">The Cost of Bad Software Architecture</a></li>
-  <li><a href="https://github.com/postlight/mercury-parser">Mercury parser</a></li>
+          <p>Selamat berakhir pekan!</p>
+
+<ul>
+  <li><a href="https://www.linkedin.com/pulse/un-safe-any-speed-rethinking-scale-agility-sam-mcafee">Un-SAFe At Any Speed: Rethinking Scale and Agility</a></li>
+  <li><a href="https://engineering.linkedin.com/blog/2019/01/bridging-offline-and-nearline-computations-with-apache-calcite">Bridging Offline and Nearline Computations with Apache Calcite</a></li>
+  <li><a href="https://github.com/trimstray/nginx-admins-handbook">nginx-admins-handbook – How to improve NGINX performance</a></li>
+  <li><a href="https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a">Contextualizing Airbnb by Building Knowledge Graph</a></li>
+  <li><a href="https://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/">From TSLint to ESLint, or How I Learned to Lint GraphQL Code</a></li>
+  <li><a href="https://engineering.salesforce.com/building-a-scalable-event-pipeline-with-heroku-and-salesforce-2549cb20ce06">Building a Scalable Event Pipeline with Heroku and Salesforce</a></li>
+  <li><a href="https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything">Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything</a></li>
+  <li><a href="https://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html">Improving Stream Data Quality With Protobuf Schema Validation</a></li>
 </ul>
 
         
@@ -109,18 +114,51 @@
     
     <article class="post">
 
-      <h1 class="title"><a href="/daily-digest-357/">Daily Digest &#35;357</a>  <time datetime="June 13, 2019"> &dash; June 13, 2019</time></h1>
+      <h1 class="title"><a href="/oss-azkaban-nginx-book/">OSS Gems: Azakaban, Nginx admin handbooks</a>  <time datetime="July  4, 2019"> &dash; July  4, 2019</time></h1>
+      
+      <div class="entry">
+        
+        
+          <p>Segment baru yang akan menuliskan proyek-proyek open source software (oss) yang menurut saya menarik untuk dibahas dan berguna untuk kebutuhan dikerjaan atau sekedar <em>ngulik</em>.</p>
+
+<h3 id="azkaban"><a href="https://azkaban.github.io/">Azkaban</a></h3>
+<p>Sebuah <em>Workflow Manager</em> yang open source tentunya, pertama di-develop oleh linkedin, software ini digunakan untuk batch workflow job scheduler untuk dijalankan di Hadoop jobs, yang pada zaman dulu menggunakan cron, yang mana tidak scalable, dengan menggunakan ini bisa lebih scalable dan gampang untuk <em>tracking</em> jobs yang ada di server.</p>
+
+<h3 id="nginx-admin-handbooks"><a href="https://github.com/trimstray/nginx-admins-handbook">Nginx Admin Handbooks</a></h3>
+<p>Sebuah repo yang dibuat oleh <a href="https://github.com/trimstray">trimstray</a> dan <a href="https://github.com/trimstray/nginx-admins-handbook/graphs/contributors">kontributor lain</a>, yang berisi tutorial, pengalaman, masalah dan lainnya ketika menggunakan nginx, membahas keamanan, <em>performance</em> dan topik lainnya.</p>
+
+        
+      </div>
+      
+      
+      
+    </article>
+    <hr class="post-break" />
+    
+    
+
+    
+
+   
+
+  
+    
+    
+    <article class="post">
+
+      <h1 class="title"><a href="/daily-digest-371/">Daily Digest &#35;371</a>  <time datetime="July  4, 2019"> &dash; July  4, 2019</time></h1>
       
       <div class="entry">
         
         
           <ul>
-  <li><a href="https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/">Interactive Visual Search</a></li>
-  <li><a href="https://github.com/nosarthur/gita">Gita – Manage multiple git repos side by side for sanity</a></li>
-  <li><a href="https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component">Feedback and Control - an Essential GitOps Component</a></li>
-  <li><a href="https://medium.com/culture-of-change/edito-culture-change-whitepaper-d8d8b66749">Edito — Culture Change whitepaper</a></li>
-  <li><a href="https://github.com/ioquatix/covered">Covered – modern Ruby features to generate comprehensive coverage</a></li>
-  <li><a href="https://git.occrp.org/libre/fonts-degooglifier">fonts-degooglifier</a></li>
+  <li><a href="https://itnext.io/api-gateways-are-going-through-an-identity-crisis-e5dc3a5ab6d4">API Gateways are going through an identity crisis</a></li>
+  <li><a href="https://github.com/arp242/hello-css">hello-css - A CSS template focused on readability</a></li>
+  <li><a href="https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/">Finding Kafka’s throughput limit in Dropbox infrastructure</a></li>
+  <li><a href="https://medium.com/myntra-engineering/how-to-build-a-technology-platform-5d0b0fc92af1">How to build a technology platform</a></li>
+  <li><a href="https://medium.com/walmartlabs/streamlining-frontend-as-a-service-for-backend-teams-69d9223efcec">Streamlining Frontend-as-a-Service for Backend Teams</a></li>
+  <li><a href="https://github.com/pomber/git-history">git-history – Quickly browse the history of a file from any git repository</a></li>
+  <li><a href="https://stylelint.io/">stylelint – A mighty, modern linter for css/no-css</a></li>
 </ul>
 
         
@@ -142,19 +180,18 @@
     
     <article class="post">
 
-      <h1 class="title"><a href="/daily-digest-356/">Daily Digest &#35;356</a>  <time datetime="June 12, 2019"> &dash; June 12, 2019</time></h1>
+      <h1 class="title"><a href="/daily-digest-370/">Daily Digest &#35;370</a>  <time datetime="July  3, 2019"> &dash; July  3, 2019</time></h1>
       
       <div class="entry">
         
         
           <ul>
-  <li><a href="https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4">Big Data Metrics Discovery</a></li>
-  <li><a href="https://www.pikapkg.com/blog/introducing-pika-pack/">Introducing: @pika/pack npm package building, reimagined</a></li>
-  <li><a href="https://overreacted.io/react-as-a-ui-runtime/">React as a UI Runtime</a></li>
-  <li><a href="https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/">How We Use Trello to Help Us Onboard Our New Employees</a></li>
-  <li><a href="https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c">Working with GraphQL using Vanilla JS</a></li>
-  <li><a href="https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f">Analyzing twitch chat during a pokémon marathon</a></li>
-  <li><a href="https://faastruby.io/blog/introducing-templates/">Introducing Templates: A way to share your Serverless Functions with the Community</a></li>
+  <li><a href="https://kubernetes.io/blog/2019/05/23/kyma-extend-and-build-on-kubernetes-with-ease/">Kyma - extend and build on Kubernetes with ease</a> – <a href="https://kyma-project.io/docs/root/kyma#overview-overview">Kyma overview</a></li>
+  <li><a href="https://www.computerworlduk.com/infrastructure/how-trustpilot-pivoted-infrastructure-as-code-serverless-first-3698203/">How Trustpilot pivoted to infrastructure-as-code and serverless first</a></li>
+  <li><a href="https://cloudblogs.microsoft.com/opensource/2019/05/21/kubecon-microsoft-updates-helm-3-virtual-kubelet-1-visual-studio-code-service-mesh-interface/">Extending Kubernetes in the open</a></li>
+  <li><a href="https://blog.appsignal.com/2019/01/29/graphql.html">An instrumental intro to GraphQL with Ruby</a></li>
+  <li><a href="https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments">How to track security problems in your Kubernetes deployments</a></li>
+  <li><a href="https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it">5 principles for cloud-native architecture—what it is and how to master it</a></li>
 </ul>
 
         
@@ -176,17 +213,19 @@
     
     <article class="post">
 
-      <h1 class="title"><a href="/daily-digest-355/">Daily Digest &#35;355</a>  <time datetime="June 11, 2019"> &dash; June 11, 2019</time></h1>
+      <h1 class="title"><a href="/daily-digest-369/">Daily Digest &#35;369</a>  <time datetime="July  2, 2019"> &dash; July  2, 2019</time></h1>
       
       <div class="entry">
         
         
           <ul>
-  <li><a href="https://www.infoq.com/articles/why-architectural-diagrams/">Why Do We Need Architectural Diagrams?</a></li>
-  <li><a href="https://www.infoq.com/presentations/microsoft-tfs-azure-devops">Journey to Cloud Architecture</a></li>
-  <li><a href="https://rewind.io/blog/feature-flagging-in-ruby-using-eightball/">Feature Flagging in Ruby Using EightBall</a></li>
-  <li><a href="https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4">Node.js multithreading: What are Worker Threads and why do they matter?</a></li>
-  <li><a href="https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730">Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath</a></li>
+  <li><a href="https://www.toptal.com/designers/ux/ux-trends-2018">UX Trends 2018: A Retrospective</a></li>
+  <li><a href="https://99designs.com/blog/inside-99designs/engineering-managers-guide-to-rebranding/">An engineering manager’s guide to rebranding </a></li>
+  <li><a href="https://www.codewithjason.com/write-characterization-tests/">How I write characterization tests</a></li>
+  <li><a href="https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework">Managing Distributed Tasks with Helix Task Framework</a></li>
+  <li><a href="https://open.nytimes.com/faster-and-lighter-moving-ad-tech-server-side-ef4bd6d2f2eb">Faster and Lighter: Moving Ad Tech Server-Side</a></li>
+  <li><a href="https://blog.cloudflare.com/http-3-from-root-to-tip/">HTTP/3: From root to tip</a></li>
+  <li><a href="https://techbeacon.com/devops/state-devops-europe-how-become-devops-determined">The state of DevOps in Europe: How to become ‘DevOps Determined’</a></li>
 </ul>
 
         
@@ -208,49 +247,18 @@
     
     <article class="post">
 
-      <h1 class="title"><a href="/daily-digest-354/">Daily Digest &#35;354</a>  <time datetime="June 10, 2019"> &dash; June 10, 2019</time></h1>
+      <h1 class="title"><a href="/daily-digest-368/">Daily Digest &#35;368</a>  <time datetime="July  1, 2019"> &dash; July  1, 2019</time></h1>
       
       <div class="entry">
         
         
           <ul>
-  <li><a href="https://blog.octo.com/en/octos-vision-on-the-service-mesh-radiography-of-the-service-mesh/">OCTO’s vision on the Service Mesh: radiography of the Service Mesh</a></li>
-  <li><a href="https://medium.com/@octoz/thoughts-about-scaled-agile-frameworks-and-why-they-are-useless-bfdf29f968af">Thoughts about scaled agile frameworks and why they are useless</a></li>
-  <li><a href="https://engineering.grab.com/experimentation-platform-data-pipeline">A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform</a></li>
-  <li><a href="https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042">Empowering Data Science with Engineering Education</a></li>
-  <li><a href="http://highscalability.com/blog/2019/1/8/mysql-high-availability-framework-explained-part-ii.html">MySQL High Availability Framework Explained – Part II</a></li>
-</ul>
-
-        
-      </div>
-      
-      
-      
-    </article>
-    <hr class="post-break" />
-    
-    
-
-    
-
-   
-
-  
-    
-    
-    <article class="post">
-
-      <h1 class="title"><a href="/daily-digest-353/">Daily Digest &#35;353</a>  <time datetime="June  3, 2019"> &dash; June  3, 2019</time></h1>
-      
-      <div class="entry">
-        
-        
-          <ul>
-  <li><a href="https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/">Why we built CockroachDB on top of RocksDB</a></li>
-  <li><a href="https://www.infoq.com/articles/patient-care-stream-processing/">Increasing the Quality of Patient Care through Stream Processing</a></li>
-  <li><a href="http://rockthecode.io/blog/distributed-application-using-raft/">Application Scaling with Raft</a></li>
-  <li><a href="https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/">Using Parallel Query with Amazon Aurora for MySQL</a></li>
-  <li><a href="https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb">Avoiding Double Payments in a Distributed Payments System</a></li>
+  <li><a href="https://www.infoq.com/presentations/kubernetes-yaml/">Dissecting Kubernetes (K8s) - An Intro to Main Components</a></li>
+  <li><a href="https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html">Diving into Ruby’s #dup and #clone</a></li>
+  <li><a href="https://eng.uber.com/aresdb/">Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine</a></li>
+  <li><a href="https://itnext.io/auditing-containers-with-osquery-389636f8c420">Auditing containers with osquery</a></li>
+  <li><a href="https://andycroll.com/ruby/secure-your-staging-environment-with-basic-auth/">Secure Your Rails Staging Environment with HTTP Basic Authentication</a></li>
+  <li><a href="https://hackernoon.com/parallel-programming-and-developing-fast-solutions-for-your-slow-programs-using-threads-585708c1e533">Parallel programming and developing fast solutions for your slow programs using threads</a></li>
 </ul>
 
         

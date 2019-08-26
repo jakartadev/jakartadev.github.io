@@ -1,59 +1,59 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "jakartaDEV",
-    "home_page_url": "https://jakartadev.org//",
-    "feed_url": "https://jakartadev.org//feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "author": {
         "name": "Deden Fathurahman",
         "url": "https://keybase.io/dedenf"
     },
-    "icon": "https://jakartadev.org//images/favicon.png",
+    "icon": "http://localhost:4000/images/favicon.png",
     "expired": false,
     "items": [
       {
         {
-            "id": "/daily-digest-387",
-            "title": "Daily Digest #387",
-            "content_html": "<ul>\n  <li><a href=\"https://marcus.io/blog/menu-or-not\">Menu (or not)</a></li>\n  <li><a href=\"https://www.viget.com/articles/beginners-guide-to-variable-fonts-part-1/\">Beginner’s Guide to Variable Fonts: Part 1</a></li>\n  <li><a href=\"https://www.viget.com/articles/beginners-guide-to-variable-fonts-2/\">Beginner’s Guide to Variable Fonts: Part 2</a></li>\n  <li><a href=\"https://changelog.com/jsparty/84\">React + WebAssembly = ❤️</a></li>\n  <li><a href=\"https://medium.com/young-coder/learning-to-code-by-hacking-minecraft-8c3da41e741a\">Learning to Code by Hacking Minecraft</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-387/",
+            "id": "/daily-digest-402",
+            "title": "Daily Digest #402",
+            "content_html": "<ul>\n  <li><a href=\"https://thenewstack.io/security-concerns-around-rapid-container-growth/\">Security Concerns Around Rapid Container Growth</a></li>\n  <li><a href=\"https://learning.oreilly.com/learning-paths/learning-path-implementing/9781492054948\">Implementing Cisco Network Security, Part 1</a></li>\n  <li><a href=\"https://learning.oreilly.com/learning-paths/learning-path-implementing/0636920303152\">Implementing Cisco Network Security, Part 2</a></li>\n  <li><a href=\"https://learning.oreilly.com/learning-paths/learning-path-implementing/0636920303183\">Implementing Cisco Network Security, Part 3</a></li>\n  <li><a href=\"https://www.oreilly.com/library/view/oreilly-software-architecture/9781492050506/\">O’Reilly Software Architecture Conference 2019 - New York, New York</a></li>\n  <li><a href=\"https://devops.com/the-sre-pressure-cooker-balancing-velocity-against-risk/\">The SRE Pressure Cooker: Balancing Velocity Against Risk</a></li>\n  <li><a href=\"https://thenewstack.io/observability-a-3-year-retrospective/\">Observability — A 3-Year Retrospective</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-402/",
             "summary": "",
-            "date_published": "2019-07-26 00:00:00 +0800"
+            "date_published": "2019-08-27 00:00:00 +0700"
         },
 {
         {
-            "id": "/daily-digest-386",
-            "title": "Daily Digest #386",
-            "content_html": "<ul>\n  <li><a href=\"https://calibreapp.com/blog/how-pagespeed-works/\">How Google Pagespeed works: Improve Your Score and Search Engine Ranking</a></li>\n  <li><a href=\"https://nodesource.com/blog/worker-threads-nodejs/\">Understanding Worker Threads in Node.js</a></li>\n  <li><a href=\"https://www.twilio.com/blog/optimize-javascript-application-performance-web-workers\">Optimizing JavaScript Application Performance with Web Workers</a></li>\n  <li><a href=\"https://tympanus.net/codrops/2019/07/10/how-to-add-smooth-scrolling-with-inner-image-animations-to-a-web-page/\">How to Add Smooth Scrolling with Inner Image Animations to a Web Page</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-386/",
+            "id": "/daily-digest-401",
+            "title": "Daily Digest #401",
+            "content_html": "<ul>\n  <li><a href=\"https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca?source=rss----7f60cf5620c9---4\">A Hitchhiker’s Guide to Mixture Density Networks</a></li>\n  <li><a href=\"https://techblog.commercetools.com/graphql-adoption-at-commercetools-cab25a1d1f4a?source=rss----d3d69d818e3d---4&amp;gi=463d6877546d\">GraphQL adoption at commercetools</a></li>\n  <li><a href=\"https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/\">SOCKMAP - TCP splicing of the future</a></li>\n  <li><a href=\"https://opensource.com/article/19/8/scrum-vs-kanban\">Scrum vs. kanban: Which agile framework is better?</a></li>\n  <li><a href=\"https://devops.com/relentless-automation-the-roadmap-to-success/\">Relentless Automation: The Roadmap to Success</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-401/",
             "summary": "",
-            "date_published": "2019-07-25 00:00:00 +0800"
+            "date_published": "2019-08-26 00:00:00 +0700"
         },
 {
         {
-            "id": "/daily-digest-385",
-            "title": "Daily Digest #385",
-            "content_html": "<ul>\n  <li><a href=\"https://opensource.com/article/19/7/devops-vs-sysadmin\">The case for making the transition from sysadmin to DevOps engineer</a></li>\n  <li><a href=\"https://techbeacon.com/app-dev-testing/7-pitfalls-could-ruin-your-app-testing-cycle\">7 pitfalls that could ruin your app testing cycle</a></li>\n  <li><a href=\"https://thenewstack.io/what-makes-docker-so-important/\">What Makes Docker So Important</a></li>\n  <li><a href=\"https://opensource.com/article/19/7/code-reviews-devops\">What makes a good code review in DevOps?</a></li>\n  <li><a href=\"https://containerjournal.com/2019/07/09/building-secure-production-ready-kubernetes-clusters-and-containers-part-2/\">Building Secure Production-Ready Kubernetes Clusters and Containers, Part 2 </a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-385/",
+            "id": "/daily-digest-400",
+            "title": "Daily Digest #400",
+            "content_html": "<ul>\n  <li><a href=\"https://developer.okta.com/blog/2019/02/15/user-migration-the-definitive-guide\">User Migration: The Definitive Guide</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/scalability-performance-benchmark/\">Scaling up Performance Benchmarking</a></li>\n  <li><a href=\"https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23\">Maintaining Binary Compatibility in Scala</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/02/accessibility-webinar/\">How A Screen Reader User Accesses The Web: A Smashing Video</a></li>\n  <li><a href=\"https://hackernoon.com/messaging-pattern-for-high-availability-and-handling-failures-in-microservices-26cdd7a0aec6?source=rss----3a8144eabfe3---4\">Messaging Pattern For High Availability and Handling Failures in Microservices 🔥</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-400/",
             "summary": "",
-            "date_published": "2019-07-24 00:00:00 +0800"
+            "date_published": "2019-08-23 00:00:00 +0700"
         },
 {
         {
-            "id": "/daily-digest-384",
-            "title": "Daily Digest #384",
-            "content_html": "<ul>\n  <li><a href=\"https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider\">To run or not to run a database on Kubernetes: What to consider</a></li>\n  <li><a href=\"https://thenewstack.io/organizations-running-on-more-clouds-less-likely-to-see-security-threats/\">Organizations Running on More Clouds Less Likely to See Security Threats</a></li>\n  <li><a href=\"https://techbeacon.com/enterprise-it/why-we-need-transform-internet-cloud-native-world\">Why we need to transform the Internet for a cloud-native world</a></li>\n  <li><a href=\"https://devops.com/5-ways-devsecops-can-manage-software-supply-chains/\">5 Ways DevSecOps Can Manage Software Supply Chains</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-384/",
+            "id": "/daily-digest-399",
+            "title": "Daily Digest #399",
+            "content_html": "<ul>\n  <li><a href=\"https://eng.uber.com/modeling-censored-time-to-event-data-using-pyro/\">Modeling Censored Time-to-Event Data Using Pyro, an Open Source Probabilistic Programming Language</a></li>\n  <li><a href=\"https://blog.arkency.com/read-model-patterns-in-case-of-lack-of-order-guarantee/\">Patterns for asynchronous read models in infrastructure without order guarantee</a></li>\n  <li><a href=\"https://towardsdatascience.com/ai-for-algorithmic-trading-rethinking-bars-labeling-and-stationarity-90a7b626f3e1\">AI for algorithmic trading: rethinking bars, labeling, and stationarity</a></li>\n  <li><a href=\"https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a?source=rss----3a8144eabfe3---4\">Understanding IPFS in Depth(1/6): A Beginner to Advanced Guide</a></li>\n  <li><a href=\"https://open.nytimes.com/how-we-prepared-new-york-times-engineering-for-the-midterm-elections-2a615fe4196e?source=rss----51e1d1745b32---4&amp;gi=20537d10f65\">How We Prepared New York Times Engineering for the Midterm Elections</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-399/",
             "summary": "",
-            "date_published": "2019-07-23 00:00:00 +0800"
+            "date_published": "2019-08-22 00:00:00 +0700"
         },
 {
         {
-            "id": "/daily-digest-383",
-            "title": "Daily Digest #383",
-            "content_html": "<ul>\n  <li><a href=\"https://medium.com/sequoia-capital/role-of-a-data-science-manager-2c69264511d3\">Role of a Data Science Manager</a></li>\n  <li><a href=\"https://www.fastcompany.com/90374429/how-etsy-taught-style-to-an-algorithm\">How Etsy taught style to an algorithm</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/toward-learned-algorithms-data-structures-and-systems\">Toward learned algorithms, data structures, and systems</a></li>\n  <li><a href=\"https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314\">Jupyter is the new Excel (but not for your boss)</a></li>\n  <li><a href=\"https://www.oreilly.com/ideas/tools-for-machine-learning-development\">Tools for machine learning development</a></li>\n</ul>\n",
-            "url": "https://jakartadev.org//daily-digest-383/",
+            "id": "/daily-digest-398",
+            "title": "Daily Digest #398",
+            "content_html": "<ul>\n  <li><a href=\"https://hackernoon.com/understanding-micro-frontends-b1c11585a297?source=rss----3a8144eabfe3---4\">Understanding Micro Frontends</a></li>\n  <li><a href=\"https://www.infoq.com/presentations/memory-jvm/\">The Trouble with Memory</a></li>\n  <li><a href=\"https://medium.com/myntra-engineering/myntra-scheduler-service-a0153a04526c\">Myntra Scheduler Service -Fault tolerant, horizontally scalable managed scheduler service</a></li>\n  <li><a href=\"https://jobs.zalando.com/tech/blog/end-to-end-microservices/index.html\">A Journey On End To End Testing A Microservices Architecture</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-398/",
             "summary": "",
-            "date_published": "2019-07-22 00:00:00 +0800"
+            "date_published": "2019-08-21 00:00:00 +0700"
         }
 
     ]
