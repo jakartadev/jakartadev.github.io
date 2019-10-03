@@ -10,7 +10,7 @@ description: ""
 publish: true
 ---
 
-Ebook yang ditulis oleh Brendan Burns, Joe Beda & Kelsey Hightower, diterbitkan oleh O'reilly dan Microsoft, gratis. 
+Ebook yang ditulis oleh Brendan Burns, Joe Beda & Kelsey Hightower. Brendan dan Joe merupakan developer awal yang membuat Kubernetes, buku ini diterbitkan oleh O'reilly dan Microsoft, gratis lho. 
 
 [Download link](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
 
