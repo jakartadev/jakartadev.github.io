@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kubernetes: Up and Running, Second Edition"
-type: digest
+type: blog
 tags: 
     - kubernetes
     - development

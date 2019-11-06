@@ -4,13 +4,794 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-08-27T05:53:13+07:00</updated>
+ <updated>2019-11-06T12:38:22+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Top 10 Ekstensi (plugin) untuk Visual Studio Code</title>
+   <link href="http://localhost:4000/visual-code-studio-extension/"/>
+   <updated>2019-11-06T00:00:00+07:00</updated>
+   <id>http://localhost:4000/visual-code-studio-extension</id>
+   <content type="html">&lt;p&gt;Ekstensi yang disediakan diekosistem Visual Studio Code sangat beragam, dan digunakan untuk banyak hal, dari mulai mempercepat kerja, menjadikan kode, document, lebih mudah dibaca, menjadikan tampilan lebih menarik, dan lainnya.&lt;/p&gt;
+
+&lt;p&gt;Berikut Ekstensi yang saya gunakan&lt;/p&gt;
+
+&lt;h4 id=&quot;settings-sync&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync&amp;amp;WT.mc_id=jakartadev&quot;&gt;Settings Sync&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan ekstensi ini, konfigurasi Visual Studio Code (VSC) bisa lebih portabel, kita install ulang sistem operasi, atau pindah mesin, bisa konsisten menggunakan profile konfigurasi yang sama, pikirkan ini seperti menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;.vim&lt;/code&gt; profile (&lt;a href=&quot;https://github.com/dedenf/dotfiles&quot;&gt;koleksi dotfiles&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h4 id=&quot;prettier---code-formatter&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&quot;&gt;Prettier - Code formatter&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi ini melakukan apa yang prettify lakukan, tapi ada fitur lebih dan juga konfigurasi yang membantu, yan menjadikan kode yang kita tulis lebih gampang dibaca, direview.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;h4 id=&quot;bookmarks&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks&quot;&gt;Bookmarks&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Bookmarks ini berguna jika kita ingin menandai baris kode yang hendak kita tandai, bisa itu untuk direvisit nanti, atau menandakan hal yang penting yang hendak dijabarkan, atau untuk kebutuhan laiinnya.&lt;/p&gt;
+
+&lt;h4 id=&quot;better-comments&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments&quot;&gt;Better Comments&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Seperti yang developer ketahui, comment adalah salah satu bentuk komunikasi, memudahkan developer lain atau documentation generator untuk membaca dan memahami apa yang ditulis kode tersebut.&lt;/p&gt;
+
+&lt;h4 id=&quot;eslint&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&quot;&gt;ESLint&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi ini untuk Javascript dan JSX linter, menjadikan kode yang dibuat mudah dibaca, &lt;a href=&quot;https://eslint.org/&quot;&gt;dokumetasi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;gitlens--git-supercharged&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;GitLens — Git supercharged&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan GitLens, kita dapat melihat informasi histori dari kode yang sedang kita buka, lengkap dengan siapa yang melakukan commit di baris tersebut, dan informasi lain yang didapat dari GIT. Ekstensi lain yang berhubungan dengan git, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory&quot;&gt;Git History&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager&quot;&gt;Git Project Manager&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;python&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.python&quot;&gt;Python&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Python merupakan salah satu bahasa yang sangat populer, dan ekstensi ini membantu developer agar lebih produktif dengan fitur seperti IntelliSense, linting, debugging, dan lainnya.&lt;/p&gt;
+
+&lt;h4 id=&quot;yaml&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml&quot;&gt;YAML&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;YAML sebagai salah satu format yang biasanya digunakan oleh orang operation di infrastuktur, terutama untuk dukungan terhadap Kubernetes.&lt;/p&gt;
+
+&lt;h4 id=&quot;rest-client&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=humao.rest-client&quot;&gt;REST Client&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan menggunakan ekstensi ini, developer bisa melakukan HTTP request/API call dan melihat responnya langsung di Editor.&lt;/p&gt;
+
+&lt;h4 id=&quot;ansible&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=vscoss.vscode-ansible&quot;&gt;Ansible&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Untuk DevOps, dan organisasi yang menggunakan falsafah infrastructure as a code, Ansible (dan tools lainnya) sangat berguna, tools automation/provisioning lain yang bisa digunakan, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=mauve.terraform&quot;&gt;Terraform&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=chef-software.Chef&quot;&gt;Chef&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=jpogran.puppet-vscode&quot;&gt;Puppet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;docker&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi resmi dari Microsoft, yang menangani Docker, baik Dockerfile, membangun atau deploy container.&lt;/p&gt;
+
+&lt;h4 id=&quot;material-icon-theme&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme&quot;&gt;Material Icon Theme&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan menggunakan Material icon theme ini, tampilan VSC kita jadi lebih berwarna, dan icon-icon yang merepresentasikan jenis file bisa lebih terbaca.
+&lt;img src=&quot;/public/images/posts/material-icon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;kubernetes&quot;&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools&quot;&gt;Kubernetes&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi ini berguna untuk developer yang sedang membangun aplikasinya di atas Kubernetes, bisa melakukan banyak operasi di Kubernetes.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;451</title>
+   <link href="http://localhost:4000/daily-digest-451/"/>
+   <updated>2019-11-06T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-451</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/&quot;&gt;How we stopped vulnerable code from landing in production&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/circleci/update-how-circleci-processes-over-30-million-builds-per-month&quot;&gt;Update: How CircleCI Processes Over 30 Million Builds Per Month&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/&quot;&gt; Safely Rewriting Mixpanel’s Highest Throughput Service in Golang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/item-fast-light-service/&quot;&gt;Improving the Speed and Accuracy of the Item Page with Light Service&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;450</title>
+   <link href="http://localhost:4000/daily-digest-450/"/>
+   <updated>2019-11-05T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-450</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kafka-distributed-deployments/&quot;&gt;Streaming Log Analytics with Kafka&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.giphy.com/luigi-the-10x-plumber-containerizing-scaling-luigi-in-kubernetes/&quot;&gt;Luigi the 10x Plumber: Containerizing &amp;amp; Scaling Luigi in Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/low-latency-and-high-throughput-cal-ingress/&quot;&gt;Low Latency and High Throughput in CAL Ingress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/rethinking-flink-api/&quot;&gt;Rethinking Flink’s APIs for a Unified Data Processing Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/demand-forecasting-tech-stack-walmart-539d17f385db&quot;&gt;Demand Forecasting Tech Stack @ Walmart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/how-granular-should-you-design-apis/&quot;&gt;How Granular Should You Design APIs?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;449</title>
+   <link href="http://localhost:4000/daily-digest-449/"/>
+   <updated>2019-11-04T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-449</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/semantic-graphs/&quot;&gt;Semantic Graphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/supporting-dynamic-type-at-airbnb-b47c68b0c998&quot;&gt;Supporting Dynamic Type at Airbnb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866&quot;&gt;Scaling a Mature Data Pipeline — Managing Overhead&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/blog/implementing-constraint-exclusion-for-faster-query-performance/&quot;&gt;Implementing constraint exclusion for faster query performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblog.songkick.com/migrating-our-etl-pipeline-to-luigi-on-a-cloud-8fde921cec51&quot;&gt;Migrating our ETL pipeline to Luigi on a Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;448</title>
+   <link href="http://localhost:4000/daily-digest-448/"/>
+   <updated>2019-11-01T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-448</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/machine-learning-powered-content-moderation-computer-vision-applications-at-expedia-1297cb32d78d&quot;&gt;Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-poet/&quot;&gt;Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.statsbot.co/design-decisions-for-the-first-embedded-analytics-open-source-framework-8129c7f1d28a&quot;&gt;Design Decisions for the First Embedded Analytics Open-Source Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://umbrella.cisco.com/blog/2019/07/24/picture-perfect-how-jpg-exif-data-hides-malware/&quot;&gt;Picture Perfect: How JPG EXIF Data Hides Malw&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/real-time-experiment-analytics-at-pinterest-using-apache-flink-841c8df98dc2&quot;&gt;Real-time experiment analytics at Pinterest using Apache Flink&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;447</title>
+   <link href="http://localhost:4000/daily-digest-447/"/>
+   <updated>2019-10-31T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-447</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.kubecost.com/blog/requests-and-limits/&quot;&gt;A Practical Guide to Setting Kubernetes Requests and Limits &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://semaphoreci.com/blog/observability-measuring-microservices&quot;&gt;What Is Observability &amp;amp; How to Measure the Quality of Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stackrox.com/post/2019/09/5-kubernetes-rbac-mistakes-you-must-avoid/&quot;&gt;5 Kubernetes RBAC Mistakes You Must Avoid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4&quot;&gt;When a rewrite isn’t: rebuilding Slack on the desktop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/&quot;&gt;Accelerating NiFi flows delivery: Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/kafka-replication-the-case-for-mirrormaker-2-0/&quot;&gt;Kafka Replication: The case for MirrorMaker 2.0&lt;/a&gt;, part 2 &lt;a href=&quot;https://blog.cloudera.com/a-look-inside-kafka-mirrormaker-2/&quot;&gt;A look inside Kafka Mirrormaker 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;446</title>
+   <link href="http://localhost:4000/daily-digest-446/"/>
+   <updated>2019-10-30T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-446</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/how-tcp-segment-size-can-affect-application-traffic-flow-7bbceed5816e&quot;&gt;How TCP segment size can affect application traffic flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/cruise/container-platform-networking-kubernetes-e888a07407ab&quot;&gt;Container Platform Networking at Cruise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/07/23/Testing-WebSockets-for-beginners.html&quot;&gt;Testing WebSockets for beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data&quot;&gt;On Track with Apache Kafka – Building a Streaming ETL Solution with Rail Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sugarkube.io/blog/2019-10-16-your-kubernetes-clusters-should-be-ephemeral-too/&quot;&gt;Your Kubernetes clusters should be ephemeral too&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/blog/designing-your-first-application-kubernetes-part1/&quot;&gt;Designing Your First App in Kubernetes, Part 1: Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;445</title>
+   <link href="http://localhost:4000/daily0-digest-445/"/>
+   <updated>2019-10-29T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily0-digest-445</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b&quot;&gt;Comparing Ingress controllers for Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/rust-webassembly-javascript/&quot;&gt;Rust, WebAssembly, and Javascript Make Three: An FFI Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.magalix.com/blog/kubernetes-patterns-capacity-planning&quot;&gt;Kubernetes Patterns : Capacity Planning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/linkerd-cloud-native/&quot;&gt;The Service Mesh: It’s about Traffic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linkerd.io/2019/10/07/a-guide-to-distributed-tracing-with-linkerd/&quot;&gt;A guide to distributed tracing with Linkerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;444</title>
+   <link href="http://localhost:4000/daily-digest-444/"/>
+   <updated>2019-10-28T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-444</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vmware-tanzu&quot;&gt;VMware Tanzu – Cloud native open source from VMware&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projectcontour.io/from-ingressroute-to-httpproxy/&quot;&gt;From IngressRoute to HTTPProxy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/salesforce/sloop&quot;&gt;Sloop – Kubernetes History Visualization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getambassador.io/resources/envoyproxy-performance-on-k8s/&quot;&gt;Benchmarking Envoy Proxy, HAProxy, and NGINX Performance on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://srcco.de/posts/how-zalando-manages-140-kubernetes-clusters.html&quot;&gt;How Zalando manages 140+ Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html&quot;&gt;Liveness Probes are Dangerous&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;443</title>
+   <link href="http://localhost:4000/daily-digest-443/"/>
+   <updated>2019-10-25T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-443</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/product/how-ebay-uses-microinteractions-to-delight-customers-in-china/&quot;&gt;How eBay Uses Microinteractions to Delight Customers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/stretching-the-mold-how-alibaba-enhances-database-flexibility-78ec97fcfd8a?source=rss----3a8144eabfe3---4&quot;&gt;Stretching the Mold: How Alibaba Enhances Database Flexibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/rust-security-guarantees/&quot;&gt;The Most Secure Program Is One That Doesn’t Exist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html&quot;&gt;Productionizing ML with workflows at Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/&quot;&gt;Set up Laravel 6 on Google Cloud Run step by step with Continuous Integration (CI)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vfoley.xyz/lesser-known-coding-fonts/&quot;&gt;Lesser Known Coding Fonts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;442</title>
+   <link href="http://localhost:4000/daily-digest-442/"/>
+   <updated>2019-10-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-442</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/diving-into-technical-seo-cloudflare-workers/&quot;&gt;Diving into Technical SEO using Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/10-tips-for-building-and-managing-containers&quot;&gt;10 Tips for Building and Managing Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/datadog-log-management-from-zero-to-one-3a5a5675dff9&quot;&gt;Datadog Log Management from Zero to One&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2019/activation-atlas/&quot;&gt;Exploring Neural Networks with Activation Atlases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;441</title>
+   <link href="http://localhost:4000/daily-digest-441/"/>
+   <updated>2019-10-23T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-441</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/monitor-workflow-collaborating-microservices/&quot;&gt;Monitoring and Managing Workflows across Collaborating Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/architecting-transactional-system/&quot;&gt;Achieving High Throughput with Reliability in Transactional Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/03/04/lambda-global-state.html&quot;&gt;Maintaining global state in AWS Lambda functions with Async Hooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/machine-learning-capacity-safety/&quot;&gt;Using Machine Learning to Ensure the Capacity Safety of Individual Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;440</title>
+   <link href="http://localhost:4000/daily-digest-440/"/>
+   <updated>2019-10-22T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-440</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/single-page-application-auditing/&quot;&gt;Single-page applications need better auditing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/rest-in-peace-long-live-graphql/&quot;&gt;REST in Peace. Long Live GraphQL!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/reactive-programming-salesforce-data&quot;&gt;Reactive Programming with Salesforce Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/how-we-built-an-automated-anomaly-detection-system-onto-a-streaming-pipeline-84ecfd6420e0&quot;&gt;How We Built an Automated Anomaly Detection System onto a Streaming Pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;439</title>
+   <link href="http://localhost:4000/daily-digest-439/"/>
+   <updated>2019-10-21T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-439</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/03/feature-highlight--scaling-autoplay-videos-for-hundreds-of-milli&quot;&gt;Feature Highlight: Scaling Autoplay Videos for Hundreds of Millions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bigeng.io/native-react-native-bigcommerce/&quot;&gt;Native &amp;amp; React Native @ BigCommerce&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e&quot;&gt;To Create An Evolvable API, Stop Thinking About URLs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/introducing-kraken/&quot;&gt;Introducing Kraken, an Open Source Peer-to-Peer Docker Registry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;438</title>
+   <link href="http://localhost:4000/daily-digest-438/"/>
+   <updated>2019-10-18T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-438</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.rapidapi.com/api-vs-web-service/&quot;&gt;API vs Web Service: What’s the Difference?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/failure-cache-redis-pcc-hazelcast/&quot;&gt;Enterprise Systems Built with Microservices are Designed to Expect Failures, But Then What? How Do We Handle Failures?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/02/rewriting-a-browser-component-in-rust/&quot;&gt;Implications of Rewriting a Browser Component in Rust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/transparent-hierarchical-storage-management-with-apache-kudu-and-impala/&quot;&gt;Transparent Hierarchical Storage Management with Apache Kudu and Impala&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html&quot;&gt;How is software developed at Amazon?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;437</title>
+   <link href="http://localhost:4000/daily-digest-437/"/>
+   <updated>2019-10-17T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-437</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/data-ingestion-transformation-product-insights&quot;&gt;How we simplified our Data Ingestion &amp;amp; Transformation Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c&quot;&gt;How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bigeng.io/re-platforming-data-at-bigcommerce-5-second-latency-on-petabytes-of-data/&quot;&gt;Re-Platforming Data @BigCommerce: five second latency on Petabytes of data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;436</title>
+   <link href="http://localhost:4000/daily-digest-436/"/>
+   <updated>2019-10-16T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-436</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/what-is-identity-infrastructure/&quot;&gt;What is Identity Infrastructure?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/building-fast-interpreters-in-rust/&quot;&gt;Building fast interpreters in Rust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/performance-optimized-js-architecture-e95241d061f&quot;&gt;Performance optimized JS architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.just-eat.com/2019/03/04/out-with-the-old-in-with-the-new-part-1-%E2%80%8A-%E2%80%8Areplacing-legacy-components-without-down-time/&quot;&gt;Out with the old, in with the new! Part 1  -  Replacing legacy components without down time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;435</title>
+   <link href="http://localhost:4000/daily-digest-435/"/>
+   <updated>2019-10-15T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-435</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/03/divide-encode-2/&quot;&gt;Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast: Part II - Under The Hood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/structured-logging&quot;&gt;Structured Logging: The Best Friend You’ll Want When Things Go Wrong&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/03/robust-layouts-container-units-css/&quot;&gt;Building Robust Layouts With Container Units&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/microservices-on-fargate-part1-f26a318827a8?source=rss----3a8144eabfe3---4&quot;&gt;Independently Scalable Multi-Container Microservices Architecture on AWS Fargate (I)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/02/automl-predictive-modeling/&quot;&gt;AutoML for predictive modeling&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;434</title>
+   <link href="http://localhost:4000/daily-digest-434/"/>
+   <updated>2019-10-14T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-434</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/state-management-pattern-in-javascript-sharing-data-across-components-f4420581f535?source=rss----7f3d96429888---4&quot;&gt;State management pattern in JavaScript: Sharing data across components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/02/rebuilding-the-profile-highlights-system-at-linkedin&quot;&gt;Rebuilding the Profile Highlights System at LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless&quot;&gt;Journey to Event Driven – Part 3: The Affinity Between Events, Streams and Serverless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-streams-can-simplify-your-life-494a4b247f36?source=rss----7f3d96429888---4&quot;&gt;How streams can simplify your life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;433</title>
+   <link href="http://localhost:4000/daily-digest-433/"/>
+   <updated>2019-10-11T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-433</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/limiting-your-api-requests-the-right-way-9608b661a0ce?source=rss----3a8144eabfe3---4&quot;&gt;Limiting your API requests: the right way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/debugging-year-old-sprockets-bug&quot;&gt;Debugging in Ruby—Busting a Year-old Bug in Sprockets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bigeng.io/a-simple-architecture-for-mobile-apps/&quot;&gt;A Simple Architecture for Mobile Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/on-grpc-load-balancing-683257c5b7b3&quot;&gt;On gRPC Load Balancing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;432</title>
+   <link href="http://localhost:4000/daily-digest-432/"/>
+   <updated>2019-10-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-432</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@SilentHackz/rendering-on-the-web-80a30c678c3a&quot;&gt;Rendering on the Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/&quot;&gt;The art of writing eBPF programs: a primer.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/rendezvous-with-kafka-a-simple-guide-to-get-started-48db3b921cc&quot;&gt;Rendezvous with Kafka : A simple guide to get started&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;431</title>
+   <link href="http://localhost:4000/daily-digest-431/"/>
+   <updated>2019-10-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-431</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dailyjs/tracing-or-debugging-vue-js-reactivity-the-computed-tree-9da0ba1df5f9&quot;&gt;Tracing or Debugging Vue.js Reactivity: The computed tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/3-reasons-to-add-deep-learning-to-your-time-series-toolkit&quot;&gt;3 reasons to add deep learning to your time series toolkit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/functional-contract-testing-a-case-study/&quot;&gt;Functional Contract Testing: A Case Study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/data-science/data-warehouse-concepts-principles&quot;&gt;Three Principles of Data Warehouse Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;430</title>
+   <link href="http://localhost:4000/daily-digest-430/"/>
+   <updated>2019-10-08T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-430</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techblog.commercetools.com/graphql-and-rest-level-3-hateoas-70904ff1f9cf&quot;&gt;GraphQL and REST Level 3 (HATEOAS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/exploring-virtual-worlds-with-reinforcement-learning-25a245e9afea&quot;&gt;Exploring virtual worlds with reinforcement learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.novoda.com/the-ultimate-guide-to-ar-design-arkit-coreml-and-more/&quot;&gt;The ultimate guide to AR Design, ARKit, CoreML and more!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/apache-solr-because-your-database-is-not-a-search-engine-57705352df8a&quot;&gt;Apache Solr: Because your Database is not a Search Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/company-website-design/ui-design-best-practices&quot;&gt;UI Design Best Practices for Better Scannability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;429</title>
+   <link href="http://localhost:4000/daily-digest-429/"/>
+   <updated>2019-10-07T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-429</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.thumbtack.com/moving-forward-on-android-with-graphql/&quot;&gt;Moving forward on Android with GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/ten-ways-to-secure-your-apps&quot;&gt;Ten Ways to Secure your Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/query-suggestion-ux-like-googles/&quot;&gt;Building a query suggestion UX like Google’s&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/2/25/design-of-a-modern-cachepart-deux.html&quot;&gt;Design Of A Modern Cache—Part Deux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/02/25/mysql-challenge-100k-connections/&quot;&gt;MySQL Challenge: 100k Connections&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;428</title>
+   <link href="http://localhost:4000/daily-digest-428/"/>
+   <updated>2019-10-04T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-428</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/is-shared-database-in-microservices-actually-anti-pattern-8cc2536adfe4?source=rss----3a8144eabfe3---4&quot;&gt;Is a Shared Database in Microservices Actually an Anti-pattern?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/debugging-sidekiq-poison-pills/&quot;&gt;Debugging Sidekiq Poison Pills&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2019/02/25/in-memory-scylla-or-racing-the-red-queen/&quot;&gt;In-Memory Scylla, or Racing the Red Queen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/sysmon-security-event-processing-real-time-ksql-helk&quot;&gt;Sysmon Security Event Processing in Real Time with KSQL and HELK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;427</title>
+   <link href="http://localhost:4000/daily-digest-427/"/>
+   <updated>2019-10-03T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-427</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2019/02/22/go-down-the-rabbit-hole.html&quot;&gt;Go down the rabbit hole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/wordpress-modern-php/&quot;&gt;Improving WordPress Code With Modern PHP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/wepay-database-streaming/&quot;&gt;The Whys and Hows of Database Streaming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity&quot;&gt;Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;426</title>
+   <link href="http://localhost:4000/daily-digest-426/"/>
+   <updated>2019-10-02T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-426</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/deconstructing-the-magic-behind-react-hooks-33ca987e5307?source=rss----3a8144eabfe3---4&quot;&gt;Deconstructing the Magic Behind React Hooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.colorbox.io/&quot;&gt;ColorBox by Lyft Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bugsnag.com/blog/avoid-android-app-crashes&quot;&gt;How to avoid delivering a crash-prone Android app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/monolith-microservices-refactoring-analysis-tools/&quot;&gt;Getting from Monolith to Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;425</title>
+   <link href="http://localhost:4000/daily-digest-425/"/>
+   <updated>2019-10-01T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-425</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/credhub-kubernetes-pcf/&quot;&gt;Using CredHub for Kubernetes Deployments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeclimate.com/blog/time-wasting-code-review/&quot;&gt;Keep Code Review from Wasting Everyone’s Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microservices-agility-communication/&quot;&gt;Microservice Agility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/how-to-fail-at-accessibility-99bdf3504f19&quot;&gt;How to Fail at Accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;424</title>
+   <link href="http://localhost:4000/daily-digest-424/"/>
+   <updated>2019-09-30T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-424</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.railstutorial.org/book/beginning&quot;&gt;Ruby on Rails Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://m.stopa.io/how-to-get-those-9s-on-improving-service-uptime-7f5b42ac6a47&quot;&gt;How to get those 9s: on improving service uptime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/carousell-insider/introducing-image-search-price-suggestions-ce8e40a0163f&quot;&gt;Introducing Image Search &amp;amp; Price Suggestions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/rethinking-web-accounts-using-rails-e74f3ad7098&quot;&gt;Rethinking web accounts (using Rails)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kubernetes: Up and Running, Second Edition</title>
+   <link href="http://localhost:4000/kubernetes-up-and-running-ebook/"/>
+   <updated>2019-09-26T00:00:00+07:00</updated>
+   <id>http://localhost:4000/kubernetes-up-and-running-ebook</id>
+   <content type="html">&lt;p&gt;Ebook yang ditulis oleh Brendan Burns, Joe Beda &amp;amp; Kelsey Hightower. Brendan dan Joe merupakan developer awal yang membuat Kubernetes, buku ini diterbitkan oleh O’reilly dan Microsoft, gratis lho.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/&quot;&gt;Download link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/posts/kubernetes-up-and-running-2.png&quot; alt=&quot;Kubernetes: Up and Running, Second Edition&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;423</title>
+   <link href="http://localhost:4000/daily-digest-423/"/>
+   <updated>2019-09-26T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-423</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/8/why-spinnaker-matters-cicd&quot;&gt;Why Spinnaker matters to CI/CD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/migrate-a-simple-sam-application-to-the-serverless-framework/&quot;&gt;Migrate a Simple SAM Application to the Serverless Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/accelerating-software-delivery-doesnt-mean-compromising-on-quality/&quot;&gt;Accelerating Software Delivery Doesn’t Mean Compromising on Quality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/janakirammsv/2019/09/03/how-vmware-leveraged-kubernetes-for-its-cloud-native-and-multi-cloud-strategy/&quot;&gt;How VMware Leveraged Kubernetes For Its Cloud-Native And Multi-Cloud Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;422</title>
+   <link href="http://localhost:4000/daily-digest-422/"/>
+   <updated>2019-09-25T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-422</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/02/migz-for-compression-and-decompression&quot;&gt;MiGz for Compression and Decompression&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/enterprise-it/why-cios-need-build-cloud-culture-drive-digital-transformation&quot;&gt;Why CIOs need to build cloud culture to drive digital transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.techrepublic.com/article/why-doesnt-anyone-weep-for-docker/&quot;&gt;Why doesn’t anyone weep for Docker?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/4-different-approaches-for-kubernetes-in-the-enterprise/&quot;&gt;4 Different Approaches for Kubernetes in the Enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts&quot;&gt;DevOps terms: 10 essential concepts, explained&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;421</title>
+   <link href="http://localhost:4000/daily-digest-421/"/>
+   <updated>2019-09-24T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-421</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.opensooq.com/opensooq-android-performance-testing-make-hard-things-easy/&quot;&gt;OpenSooq Android Performance Testing: Make Hard Things Easy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/understanding-supply-demand-ride-hailing-data&quot;&gt;Understanding Supply &amp;amp; Demand in Ride-hailing Through the Lens of Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/functional-architecture-e9031090ff18?source=rss----5b301f10ddcd---4&amp;amp;gi=f5f865632a25&quot;&gt;Taming Side-Effects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/remembering-a-programming-language-that-helped-shape-the-digital-new-york-times-cd809d707c74&quot;&gt;Remembering a Programming Language that Helped Shape the Digital New York Times&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;420</title>
+   <link href="http://localhost:4000/daily-digest-420/"/>
+   <updated>2019-09-23T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-420</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/8/continuous-improvement-7-ways-encourage&quot;&gt;7 ways to encourage continuous improvement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/enterprise-it/6-application-performance-management-trends-watch&quot;&gt;6 application performance management trends to watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.nvidia.com/optimizing-end-to-end-memory-networks-using-sigopt-gpus/&quot;&gt;Optimizing End-to-End Memory Networks Using SigOpt and GPUs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/02/21/parallel-queries-in-postgresql/&quot;&gt;Parallel queries in PostgreSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/animation-design-system/&quot;&gt;Including Animation In Your Design System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;419</title>
+   <link href="http://localhost:4000/daily-digest-419/"/>
+   <updated>2019-09-20T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-419</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2019/02/autoscaling-mesos-clusters-with-clusterman.html&quot;&gt;Autoscaling Mesos Clusters with Clusterman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/stop-the-bots-practical-lessons-in-machine-learning/&quot;&gt;Stop the Bots: Practical Lessons in Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/extending-vector-with-ebpf-to-inspect-host-and-container-performance-5da3af4c584b&quot;&gt;Extending Vector with eBPF to inspect host and container performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getvector.io/&quot;&gt;Vector Monitoring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/5-tips-to-eliminate-knowledge-gaps-in-dev-and-qa/&quot;&gt;5 Tips to Eliminate Knowledge Gaps in Dev and QA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/faun/bringing-your-k8s-cluster-back-from-death-k8s-recovery-series-f599c3f63c95&quot;&gt;Bringing your k8s cluster back from death — K8s recovery series&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;418</title>
+   <link href="http://localhost:4000/daily-digest-418/"/>
+   <updated>2019-09-19T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-418</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/a-beginners-guide-to-deploys-and-releases-d2a823f274c4&quot;&gt;A Beginners Guide to Deploys and Releases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/death-agile-beyond/&quot;&gt;The Death of Agile and Beyond&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/&quot;&gt;DataOps and the Problem with ‘Ops’ Terminology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/vitess/&quot;&gt;Massively Scaling MySQL Using Vitess&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;417</title>
+   <link href="http://localhost:4000/daily-digest-417/"/>
+   <updated>2019-09-18T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-417</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/apache-flink-streaming-app/&quot;&gt;Patterns of Streaming Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/8/what-devops-principle-changed-your-career&quot;&gt;What piece of advice had the greatest impact on your career in DevOps?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/lean-into-practice/&quot;&gt;Rediscovering Lean&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/javascript-loading-priorities-in-chrome-57c54cfa6672&quot;&gt;JavaScript Loading Priorities in Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;416</title>
+   <link href="http://localhost:4000/daily-digest-416/"/>
+   <updated>2019-09-17T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-416</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/create-the-ideal-work-environment-for-developers/&quot;&gt;Create the Ideal Work Environment for Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2019/02/20/valustor-a-memcached-alternative-built-on-scylla/&quot;&gt;ValuStor — a memcached alternative built on Scylla&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/&quot;&gt;The Challenging Migration from Heroku to Google Kubernetes Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/8/ops-tasks-ansible&quot;&gt;5 ops tasks to do with Ansible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;415</title>
+   <link href="http://localhost:4000/daily-digest-415/"/>
+   <updated>2019-09-16T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-415</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/better-programming/how-to-build-dark-and-light-theme-with-web-components-a63ca1570bfe&quot;&gt;How to Build Light and Dark Themes With Web Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amie-chen.com/blog/20190206-build-a-site-with-vuepress-part1.html&quot;&gt;[Part 1] Setup a working Vuepress blog with Tailwind.css&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-irl.info/how-to-accessibly-split-text/&quot;&gt;How to Accessibly Split Text&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/young-coder/the-pain-points-of-web-development-with-wordpress-9bbaf5393202&quot;&gt;The Pain Points of Web Development with WordPress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/in-search-of-a-stack-that-monitors-the-quality-and-complexity-of-css/&quot;&gt;In Search of a Stack That Monitors the Quality and Complexity of CSS &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;414</title>
+   <link href="http://localhost:4000/daily-digest-414/"/>
+   <updated>2019-09-13T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-414</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying&quot;&gt;CSS Can Do This… And It’s Terrifying!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.telerik.com/blogs/7-ways-to-make-your-angular-app-more-accessible&quot;&gt;7 Ways to Make Your Angular App More Accessible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html&quot;&gt;A Practical Guide to Symbols in JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/vuepress-documentation/&quot;&gt;VuePress: Documentation Made Easy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;413</title>
+   <link href="http://localhost:4000/daily-digest-413/"/>
+   <updated>2019-09-12T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-413</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/weighing-the-cost-of-improper-devsecops/&quot;&gt;Weighing the Cost of Improper DevSecOps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cio.co.uk/it-infrastructure/how-cios-are-using-microservices-3701395/&quot;&gt;How are CIOs using microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/out-of-date-cloud-anti-trends-of-2019/&quot;&gt;Out of Date: Cloud Anti-Trends of 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/young-coder/how-javascript-grew-up-and-became-a-real-language-17a0b948b77f&quot;&gt;How JavaScript Grew Up and Became a Real Language&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;412</title>
+   <link href="http://localhost:4000/daily-digest-412/"/>
+   <updated>2019-09-11T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-412</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/better-programming/linux-survival-guide-for-beginners-c18bfd982036&quot;&gt;Linux: A Survival Guide for Beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zdnet.com/article/how-to-become-a-serverless-architect/&quot;&gt;Serverless architect emerges as in-demand job role&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://containerjournal.com/topics/container-ecosystems/cncf-highlights-kubernetes-progress-5-years-on/&quot;&gt;CNCF Highlights Kubernetes Progress 5 Years On&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/why-software-testing-shouldnt-be-as-boring-as-you-know-what/&quot;&gt;Why Software Testing Shouldn’t Be as Boring as ‘You Know What’&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/from-black-hat-usa-the-inevitable-marriage-of-devo&quot;&gt;From Black Hat USA: The Inevitable Marriage of DevOps &amp;amp; Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/app-dev-testing/3-frameworks-make-ui-testing-more-resilient&quot;&gt;3 frameworks that make UI testing more resilient&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;411</title>
+   <link href="http://localhost:4000/daily-digest-411/"/>
+   <updated>2019-09-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-411</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dailyjs/flatten-array-using-array-flat-in-javascript-ee4d0b2423e5&quot;&gt;Flatten Array using Array.flat() in JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/&quot;&gt;Cheat sheet for moving from jQuery to vanilla JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/better-programming/overvue-a-vue-prototyping-tool-f2b8a2f0c229&quot;&gt;OverVue, a Vue Prototyping Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://csswizardry.com/2019/08/time-to-first-byte-what-it-is-and-why-it-matters/&quot;&gt;Time to First Byte: What It Is and Why It Matters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/faster-image-loading-embedded-previews/&quot;&gt;Faster Image Loading With Embedded Image Previews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;410</title>
+   <link href="http://localhost:4000/daily-digest-410/"/>
+   <updated>2019-09-06T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-410</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/the-history-and-legacy-of-jquery/&quot;&gt;The history and legacy of jQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thedigitalprojectmanager.com/stakeholder-management-101-types-of-stakeholders-how-to-manage-them/&quot;&gt;Stakeholder Management 101: Types of Stakeholders &amp;amp; How to Manage Them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dsternlicht.github.io/react-dynamic-charts/&quot;&gt;Reactjs Dynamic Charts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/all-the-new-es2019-tips-and-tricks/&quot;&gt;All the New ES2019 Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;409</title>
+   <link href="http://localhost:4000/daily-digest-409/"/>
+   <updated>2019-09-05T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-409</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tympanus.net/codrops/2019/08/20/react-slider-with-parallax-hover-effects/&quot;&gt;React Slider with Parallax Hover Effects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-computer-engineer-weekly-code-challenge&quot;&gt;The Computer Engineer Weekly Code Challenge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/enterprise-it/hosted-private-cloud-key-benefits-drawbacks&quot;&gt;Hosted private cloud: Key benefits and drawbacks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/faas-is-key-to-devops-efficiency/&quot;&gt;FaaS is Key to DevOps Efficiency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;408</title>
+   <link href="http://localhost:4000/daily-digest-408/"/>
+   <updated>2019-09-04T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-408</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jan_5421/insider-trading-visualised-with-python-sec-api-io-5f12a7799b3e&quot;&gt;Insider trading visualised with Python &amp;amp; sec-api.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.startifact.com/posts/refactoring-to-multiple-exit-points.html&quot;&gt;Refactoring to Multiple Exit Points&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-gitlab/&quot;&gt;Continuously Deploying Django to DigitalOcean with Docker and GitLab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-computer-engineer-weekly-code-challenge/ive-been-working-as-a-software-developer-for-almost-two-years-now-dealing-with-big-frameworks-5b35d0784943&quot;&gt;What’s up with Gunicorn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;407</title>
+   <link href="http://localhost:4000/daily-digest-407/"/>
+   <updated>2019-09-03T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-407</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdotrends.com/story/14405/six-best-practices-creating-container-platform-strategy?refresh=auto&quot;&gt;Six Best Practices for Creating a Container Platform Strategy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datacenterknowledge.com/industry-perspectives/six-considerations-adopting-microservices-architecture&quot;&gt;Six Considerations for Adopting a Microservices Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/a-practical-approach-to-understanding-kubernetes-authorization/&quot;&gt;A Practical Approach to Understanding Kubernetes Authorization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/cpython-source-code-guide/&quot;&gt;Your Guide to the CPython Source Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mattlayman.com/blog/2019/starlette-mock-service/&quot;&gt;Quick and dirty mock service with Starlette&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;406</title>
+   <link href="http://localhost:4000/daily-digest-406/"/>
+   <updated>2019-09-02T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-406</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sobolevn.me/2019/08/typechecking-django-and-drf&quot;&gt;Typechecking Django and DRF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/8/guide-agile-project-management&quot;&gt;A comprehensive guide to agile project management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/shifting-zero-trust-left-with-cloud-native-software/&quot;&gt;Shifting Zero Trust Left with Cloud Native Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/experts-attempt-explain-devops-and-almost-succeed&quot;&gt;Experts Attempt to Explain DevOps–and Almost Succeed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/netromdk/vermin&quot;&gt;Vermin – Concurrently detect the minimum Python versions needed to run code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;405</title>
+   <link href="http://localhost:4000/daily-digest-405/"/>
+   <updated>2019-08-30T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-405</id>
+   <content type="html">&lt;p&gt;-&lt;a href=&quot;https://techbeacon.com/app-dev-testing/boost-your-agile-experiments-how-ideem-articulates-benefit&quot;&gt;Boost your agile experiments: How IDEEM articulates benefit&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alttch/rapidtables&quot;&gt;Rapidtables - Super fast list of dicts to pre-formatted tables conversion library for Python 2/3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-ai-solves-the-kubernetes-complexity-conundrum/&quot;&gt;How AI Solves the Kubernetes Complexity Conundrum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/8/kubernetes-secrets-explained-plain-english&quot;&gt;How to explain Kubernetes Secrets in plain English&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.datasciencedojo.com/machine-learning-algorithms/&quot;&gt;101 Machine Learning Algorithms for Data Science with Cheat Sheets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/measuring-ci-cd-adoption-rates-is-a-problem/&quot;&gt;Measuring CI/CD Adoption Rates Is a Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;404</title>
+   <link href="http://localhost:4000/daily-digest-404/"/>
+   <updated>2019-08-29T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-404</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-is-aiops-and-why-you-should-care/&quot;&gt;What Is AIOps — And Why You Should Care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/8/devops-role-digital-transformation&quot;&gt;10 ways DevOps helps digital transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/app-dev-testing/how-i-jumped-software-testing-data-science&quot;&gt;How I jumped from software testing to data science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/playlists/36e619f6-45c1-409f-a608-d5558fc95193/&quot;&gt;Understanding the Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3432155/how-to-stop-people-from-causing-bad-cloud-architectures.html&quot;&gt;How to stop people from causing bad cloud architectures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Digest &#35;403</title>
+   <link href="http://localhost:4000/daily-digest-403/"/>
+   <updated>2019-08-28T00:00:00+07:00</updated>
+   <id>http://localhost:4000/daily-digest-403</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/javascripts-magical-tips-every-developer-should-remember-38c71b1cbfba&quot;&gt;JavaScript’s Magical Tips Every Developer Should Remember&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/writing-modes-layout/&quot;&gt;Writing Modes And CSS Layout&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jonrcorbin.com/the-best-vs-code-extension-list-for-full-stack-developers/&quot;&gt;The Best VS Code Extension List for Full Stack Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tympanus.net/codrops/2019/08/07/image-trail-effects/&quot;&gt;Image Trail Effects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/goldbergyoni/javascript-testing-best-practices&quot;&gt;📗🌐 🚢 Comprehensive and exhaustive JavaScript &amp;amp; Node.js testing best practices (August 2019)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Digest &#35;402</title>
@@ -2935,7 +3716,7 @@ Connection: keep-alive
 &lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
 &lt;p&gt;Untuk macOS, bisa langsung pakai homebrew untuk instalasi&lt;/p&gt;
 
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew install ansible
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;ansible
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Jika sukses di-instal, kita test dengan perintah&lt;/p&gt;
 &lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;ansible &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
@@ -2944,7 +3725,7 @@ ansible 2.7.0
 &lt;!--more--&gt;
 &lt;h3 id=&quot;konfigurasi&quot;&gt;Konfigurasi&lt;/h3&gt;
 &lt;p&gt;Untuk contoh sederhana ini, kita buat dengan menuliskan konfigurasi file yang berisi &lt;em&gt;host&lt;/em&gt; target yang akan kita &lt;em&gt;provisioning&lt;/em&gt;, di dalam folder project kita,&lt;/p&gt;
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;touch hosts
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;touch &lt;/span&gt;hosts
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Kemudian &lt;code class=&quot;highlighter-rouge&quot;&gt;vi hosts&lt;/code&gt; dan masukkan daftar &lt;em&gt;host&lt;/em&gt; yang akan digunakan, di sini menggunakan host yang telah saya buat sebelumnya di &lt;a href=&quot;https://m.do.co/c/714b3c32b2e7&quot;&gt;digitalocean&lt;/a&gt;, menggunakan Terraform (!TODO nulis), contoh.&lt;/p&gt;
@@ -2988,7 +3769,7 @@ ansible 2.7.0
 
 TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Gathering Facts] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
 
-TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;install mysql-server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
+TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;mysql-server] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
 
 TASK &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;uninstall mysql-server 1.0] &lt;span class=&quot;k&quot;&gt;*****************************************************************************************&lt;/span&gt;ok: &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;128.199.76.43]
 
@@ -3494,7 +4275,7 @@ kube3   192.168.10.14
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;setenforce 0 
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--follow-symlinks&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--follow-symlinks&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt;
                     &lt;span class=&quot;s1&quot;&gt;'s/SELINUX=enforcing/SELINUX=disabled/g'&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
                     /etc/sysconfig/selinux
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -3526,7 +4307,7 @@ kube3   192.168.10.14
 &lt;p&gt;Kubernetes membutuhkan &lt;em&gt;container&lt;/em&gt;, dan yang kita gunakan untuk workshop ini adalah Docker, untuk menginstall-nya ikuti langkah berikut&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; yum-utils &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; yum-utils &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
   device-mapper-persistent-data &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
   lvm2
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -3540,12 +4321,12 @@ kube3   192.168.10.14
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Di &lt;em&gt;howto&lt;/em&gt; setup kubernetes, disarankan untuk menggunakan menggunakan docker versi &lt;code class=&quot;highlighter-rouge&quot;&gt;17.03&lt;/code&gt;, tapi sejauh ini menggunakan versi &lt;code class=&quot;highlighter-rouge&quot;&gt;18.06.1-ce&lt;/code&gt; tidak ada masalah, karena jika install langsung biasanya merujuk ke versi yang terbaru, maka untuk memilih menggunakan versi yang diharapkan bisa menggunakan perintah&lt;/p&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum list docker-ce &lt;span class=&quot;nt&quot;&gt;--showduplicates&lt;/span&gt; | sort &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum list docker-ce &lt;span class=&quot;nt&quot;&gt;--showduplicates&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;sort&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Dan untuk install versi yang spesifik sesuai dengan tulisan versi yang keluar dari hasil menjalankan perintah di atas.&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sudo &lt;/span&gt;yum install docker-ce-&amp;lt;VERSION STRING&amp;gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;docker-ce-&amp;lt;VERSION STRING&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;install-kubernetes&quot;&gt;Install Kubernetes&lt;/h4&gt;
@@ -3565,7 +4346,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 &lt;p&gt;Install &lt;code class=&quot;highlighter-rouge&quot;&gt;kubectl&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kubelet&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; kubelet kubeadm kubectl
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; kubelet kubeadm kubectl
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Kemudian reboot semua node.&lt;/p&gt;
@@ -3584,7 +4365,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 &lt;p&gt;Masukkan cgroup-driver ini masuk ke konfigurasi &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; ke &lt;code class=&quot;highlighter-rouge&quot;&gt;cgroupfs&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'&lt;/span&gt; /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'&lt;/span&gt; /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Reload systemd dan restart service kubelet&lt;/p&gt;
@@ -3606,9 +4387,9 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 &lt;p&gt;Agar kubernetes bisa digunakan, maka diperlukan file konfigurasi yang akan kita simpan di &lt;code class=&quot;highlighter-rouge&quot;&gt;$HOME&lt;/code&gt; user kita, tidak disarankan menjalankan kubernetes sebagai root. Untuk itu, kita siapkan direktori dotfile, dan juga salin file &lt;code class=&quot;highlighter-rouge&quot;&gt;admin.conf&lt;/code&gt; di kubernetes folder.&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini HANYA di master&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;mkdir &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;cp &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; /etc/kubernetes/admin.conf &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;chown &lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;:&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;mkdir&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo cp&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; /etc/kubernetes/admin.conf &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo chown&lt;/span&gt; &lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;:&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Seperti yang kita sebutkan sebelumnya, kita menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt;, untuk itu kita akan mendeploy &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt; di master node kita.&lt;/p&gt;
 
@@ -3636,7 +4417,7 @@ kube-system   kube-scheduler-master            1/1       Running    7          1
 &lt;p&gt;Langkah selanjutnya adalah menambahkan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube1&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kube2&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube3&lt;/code&gt; ke cluster, yang pertama dilakukan adalah perintah yang sebelumnya muncul dari hasil &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadmin init&lt;/code&gt; diatas.&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node WORKER&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@kube1 ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm join 192.168.10.11:6443 &lt;span class=&quot;nt&quot;&gt;--token&lt;/span&gt; 0d3sfd.0ky3mcq2hof7a72a &lt;span class=&quot;nt&quot;&gt;--discovery-token-ca-cert-hash&lt;/span&gt; sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@kube1 ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm &lt;span class=&quot;nb&quot;&gt;join &lt;/span&gt;192.168.10.11:6443 &lt;span class=&quot;nt&quot;&gt;--token&lt;/span&gt; 0d3sfd.0ky3mcq2hof7a72a &lt;span class=&quot;nt&quot;&gt;--discovery-token-ca-cert-hash&lt;/span&gt; sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Jalankan perintah diatas disemua node worker di cluster.Jika sudah, silakan cek apakah node worker sudah bergabung dengan cluster ini atau belum.&lt;/p&gt;
 
@@ -3708,7 +4489,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl 192.168.10.12:31802
 &amp;lt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;DOCTYPE html&amp;gt;
 &amp;lt;html&amp;gt;
-&amp;lt;head&amp;gt;
+&amp;lt;&lt;span class=&quot;nb&quot;&gt;head&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
 &amp;lt;title&amp;gt;Welcome to nginx!&amp;lt;/title&amp;gt;
 ...
 
