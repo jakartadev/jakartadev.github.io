@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <title>Ansible dasar – jakartaDEV – Daily discoveries</title>
+    <title>Mengaktifkan fitur DoH di Mozilla Firefox – jakartaDEV – Daily discoveries</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -9,38 +9,42 @@
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
 
     
-    <meta name="description" content="Belajar menggunakan Ansible untuk mengatur mesin remote atau untuk provisioning.
+    <meta name="description" content="Privacy dan kemanan di internet sangat penting, ada beberapa cara yang bisa dilakukan untuk melindungi diri kita dari ancaman-ancaman digital, selain ancaman virus, malware, pishing, juga potensi orang lain mengintip komunikasi kita.
 
-Install
-Untuk macOS, bisa langsung pakai homebrew untuk instalasi
+Untuk itu, teknologi bernama DNS over HTTPS atau juga DNS over TLS, implementasi bisa menggunakan aplikasi lain, atau cukup dengan browser, Google Chrome akan segera implementasikan, Mozilla Firefox sudah bisa menggunakan teknologi DoH ini, untuk artikel ini, saya gunakan DoH yang dibangun oleh @Pengelana.
 
-$ brew install ansible
-
-Jika sukses di-instal, kita test dengan perintah
-$ ansible --version
-ansible 2.7.0
+Untuk aktivasi DoH di Mozilla Firefox, tanpa harus install aplikasi lain lagi, bisa mengakses ke Preference, kemudian pilih “Network Settings”
 
 
+
+Kemudian aktifkan pilihan “Enable DNS over HTTPS”
+
+
+Kemudian masukkan url https://doh.tiar.app/dns-query
+
+Dan koneksi anda sudah terenkripsi, mudah, bukan?.
 " />
-    <meta property="og:description" content="Belajar menggunakan Ansible untuk mengatur mesin remote atau untuk provisioning.
+    <meta property="og:description" content="Privacy dan kemanan di internet sangat penting, ada beberapa cara yang bisa dilakukan untuk melindungi diri kita dari ancaman-ancaman digital, selain ancaman virus, malware, pishing, juga potensi orang lain mengintip komunikasi kita.
 
-Install
-Untuk macOS, bisa langsung pakai homebrew untuk instalasi
+Untuk itu, teknologi bernama DNS over HTTPS atau juga DNS over TLS, implementasi bisa menggunakan aplikasi lain, atau cukup dengan browser, Google Chrome akan segera implementasikan, Mozilla Firefox sudah bisa menggunakan teknologi DoH ini, untuk artikel ini, saya gunakan DoH yang dibangun oleh @Pengelana.
 
-$ brew install ansible
-
-Jika sukses di-instal, kita test dengan perintah
-$ ansible --version
-ansible 2.7.0
+Untuk aktivasi DoH di Mozilla Firefox, tanpa harus install aplikasi lain lagi, bisa mengakses ke Preference, kemudian pilih “Network Settings”
 
 
+
+Kemudian aktifkan pilihan “Enable DNS over HTTPS”
+
+
+Kemudian masukkan url https://doh.tiar.app/dns-query
+
+Dan koneksi anda sudah terenkripsi, mudah, bukan?.
 " />
     
     <meta name="author" content="jakartaDEV" />
 
     
-    <meta property="og:title" content="Ansible dasar" />
-    <meta property="twitter:title" content="Ansible dasar" />
+    <meta property="og:title" content="Mengaktifkan fitur DoH di Mozilla Firefox" />
+    <meta property="twitter:title" content="Mengaktifkan fitur DoH di Mozilla Firefox" />
     
 
     <meta property="og:title" content="Daily discoveries dan newsletter mingguan untuk developer dan Open source enthusias"/>
@@ -98,74 +102,22 @@ ansible 2.7.0
       <a href="/">&larr; home</a>
 
 <article class="post">
-  <h1>Ansible dasar</h1>
+  <h1>Mengaktifkan fitur DoH di Mozilla Firefox</h1>
   <div class="entry">
-    <p>Belajar menggunakan <a href="https://ansible.com/">Ansible</a> untuk mengatur mesin remote atau untuk provisioning.</p>
+    <p><a href="https://notes.dedenf.com/2019/09/menjaga-privasi-dan-keamanan-dalam-berinternet">Privacy dan kemanan di internet sangat penting</a>, ada beberapa cara yang bisa dilakukan untuk melindungi diri kita dari ancaman-ancaman digital, selain ancaman virus, malware, pishing, juga potensi orang lain mengintip komunikasi kita.</p>
 
-<h3 id="install">Install</h3>
-<p>Untuk macOS, bisa langsung pakai homebrew untuk instalasi</p>
+<p>Untuk itu, teknologi bernama <a href="https://en.wikipedia.org/wiki/DNS_over_HTTPS">DNS over HTTPS</a> atau juga <a href="https://en.wikipedia.org/wiki/DNS_over_TLS">DNS over TLS</a>, implementasi bisa menggunakan aplikasi lain, atau cukup dengan browser, Google Chrome akan segera implementasikan, Mozilla Firefox sudah bisa menggunakan teknologi DoH ini, untuk artikel ini, saya gunakan DoH yang dibangun oleh <a href="https://github.com/pengelana/blocklist/wiki/DNS-over-HTTPS-(DoH)">@Pengelana</a>.</p>
 
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew install ansible
-</code></pre></div></div>
-<p>Jika sukses di-instal, kita test dengan perintah</p>
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>ansible <span class="nt">--version</span>
-ansible 2.7.0
-</code></pre></div></div>
-<!--more-->
-<h3 id="konfigurasi">Konfigurasi</h3>
-<p>Untuk contoh sederhana ini, kita buat dengan menuliskan konfigurasi file yang berisi <em>host</em> target yang akan kita <em>provisioning</em>, di dalam folder project kita,</p>
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>touch hosts
-</code></pre></div></div>
+<p>Untuk aktivasi DoH di Mozilla Firefox, tanpa harus install aplikasi lain lagi, bisa mengakses ke Preference, kemudian pilih “Network Settings”</p>
 
-<p>Kemudian <code class="highlighter-rouge">vi hosts</code> dan masukkan daftar <em>host</em> yang akan digunakan, di sini menggunakan host yang telah saya buat sebelumnya di <a href="https://m.do.co/c/714b3c32b2e7">digitalocean</a>, menggunakan Terraform (!TODO nulis), contoh.</p>
+<p><img src="/public/images/posts/setting1.png" alt="" /></p>
 
-<div class="language-ini highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[webserver]</span>
-<span class="err">123.123.123.123</span>
-</code></pre></div></div>
-<p>Kemudian tiba dihal yang penting, membuat ansible playbook, playbook memiliki format <code class="highlighter-rouge">.yml</code> yang mana lebih mudah dimengerti daripada <code class="highlighter-rouge">json</code> atau format lainnya, <code class="highlighter-rouge">xml</code> misalkan.</p>
+<p>Kemudian aktifkan pilihan “Enable DNS over HTTPS”
+<img src="/public/images/posts/setting2.png" alt="" /></p>
 
-<h4 id="siteyml"><code class="highlighter-rouge">site.yml</code></h4>
-<p>Kita buat file tersebut</p>
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>vim site.yml
-</code></pre></div></div>
-<p>Untuk isinya, saya coba tulis yang sederhana terlebih dahulu.</p>
+<p>Kemudian masukkan url <code class="highlighter-rouge">https://doh.tiar.app/dns-query</code></p>
 
-<pre><code class="language-YAML">---
-- name: Install web server
-  hosts: all
-  remote_user: root
-
-  tasks:
-    - name: Install mariadb server
-      apt:
-        name: mariadb-server
-      register: mariadbinstall
-    - name: Uninstall mariadb server
-      apt:
-        name: mariadb-server
-        state: absent
-       register: mariadbuninstall
-
-</code></pre>
-
-<p>Save file, kemudian jalankan perintah</p>
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>ansible-playbook <span class="nt">-i</span> hosts site.yml
-</code></pre></div></div>
-
-<p>Dan seharusnya akan keluar <code class="highlighter-rouge">stdout</code></p>
-
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>PLAY <span class="o">[</span>Install web server] <span class="k">*****************************************************************************************</span>
-
-TASK <span class="o">[</span>Gathering Facts] <span class="k">*****************************************************************************************</span>ok: <span class="o">[</span>128.199.76.43]
-
-TASK <span class="o">[</span>install mysql-server] <span class="k">*****************************************************************************************</span>ok: <span class="o">[</span>128.199.76.43]
-
-TASK <span class="o">[</span>uninstall mysql-server 1.0] <span class="k">*****************************************************************************************</span>ok: <span class="o">[</span>128.199.76.43]
-
-PLAY RECAP <span class="k">*****************************************************************************************</span>128.199.76.43              : <span class="nv">ok</span><span class="o">=</span>3    <span class="nv">changed</span><span class="o">=</span>0    <span class="nv">unreachable</span><span class="o">=</span>0    <span class="nv">failed</span><span class="o">=</span>0
-</code></pre></div></div>
-
-<p>Dan kita sudah belajar melakukan provisioning dengan menggunakan Ansible!</p>
+<p>Dan koneksi anda sudah terenkripsi, mudah, bukan?.</p>
 
   </div>
 
@@ -184,7 +136,7 @@ PLAY RECAP <span class="k">*****************************************************
     </section>
 
     <div class="date">
-        Published on November  2, 2018
+        Published on November  7, 2019
       </div>
 
       
@@ -205,7 +157,7 @@ PLAY RECAP <span class="k">*****************************************************
 
   <div>
       <p class="">Curated by <a href="https://github.com/dedenf/">dedenf</a>, 
-        <em style="font-style:normal;">check <a href="https://raw.githubusercontent.com/dedenf/jakartadev.github.io/master/signed/2018-11-02-ansible-dasar.md.asc">post hash</a> and verify at <a href="https://keybase.io/verify">keybase</a>.</em>  
+        <em style="font-style:normal;">check <a href="https://raw.githubusercontent.com/dedenf/jakartadev.github.io/master/signed/2019-11-07-mengaktifkan-fitur-doh-di-mozilla-firefox.md.asc">post hash</a> and verify at <a href="https://keybase.io/verify">keybase</a>.</em>  
       </p>
     </div>
   
@@ -246,8 +198,8 @@ PLAY RECAP <span class="k">*****************************************************
 
 		ga('create', 'UA-73563566-1', 'auto');
 		ga('send', 'pageview', {
-		  'page': '/ansible-dasar/',
-		  'title': 'Ansible dasar'
+		  'page': '/mengaktifkan-fitur-doh-di-mozilla-firefox/',
+		  'title': 'Mengaktifkan fitur DoH di Mozilla Firefox'
 		});
 	</script>
 	<!-- End Google Analytics -->

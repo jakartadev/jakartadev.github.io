@@ -5,9 +5,60 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Nov 2019 12:38:22 +0700</pubDate>
-    <lastBuildDate>Wed, 06 Nov 2019 12:38:22 +0700</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <pubDate>Thu, 07 Nov 2019 16:04:33 +0700</pubDate>
+    <lastBuildDate>Thu, 07 Nov 2019 16:04:33 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Mengaktifkan fitur DoH di Mozilla Firefox</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://notes.dedenf.com/2019/09/menjaga-privasi-dan-keamanan-dalam-berinternet&quot;&gt;Privacy dan kemanan di internet sangat penting&lt;/a&gt;, ada beberapa cara yang bisa dilakukan untuk melindungi diri kita dari ancaman-ancaman digital, selain ancaman virus, malware, pishing, juga potensi orang lain mengintip komunikasi kita.&lt;/p&gt;
+
+&lt;p&gt;Untuk itu, teknologi bernama &lt;a href=&quot;https://en.wikipedia.org/wiki/DNS_over_HTTPS&quot;&gt;DNS over HTTPS&lt;/a&gt; atau juga &lt;a href=&quot;https://en.wikipedia.org/wiki/DNS_over_TLS&quot;&gt;DNS over TLS&lt;/a&gt;, implementasi bisa menggunakan aplikasi lain, atau cukup dengan browser, Google Chrome akan segera implementasikan, Mozilla Firefox sudah bisa menggunakan teknologi DoH ini, untuk artikel ini, saya gunakan DoH yang dibangun oleh &lt;a href=&quot;https://github.com/pengelana/blocklist/wiki/DNS-over-HTTPS-(DoH)&quot;&gt;@Pengelana&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Untuk aktivasi DoH di Mozilla Firefox, tanpa harus install aplikasi lain lagi, bisa mengakses ke Preference, kemudian pilih “Network Settings”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/posts/setting1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kemudian aktifkan pilihan “Enable DNS over HTTPS”
+&lt;img src=&quot;/public/images/posts/setting2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kemudian masukkan url &lt;code class=&quot;highlighter-rouge&quot;&gt;https://doh.tiar.app/dns-query&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Dan koneksi anda sudah terenkripsi, mudah, bukan?.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Nov 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/mengaktifkan-fitur-doh-di-mozilla-firefox/</link>
+        <guid isPermaLink="true">http://localhost:4000/mengaktifkan-fitur-doh-di-mozilla-firefox/</guid>
+        
+        <category>browser</category>
+        
+        <category>development</category>
+        
+        <category>coding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;452</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/web-booking-flow/&quot;&gt;Building a More Seamless Web Booking Flow for Uber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/07/25/the-hardest-thing-about-data-encryption&quot;&gt;The Hardest Thing About Data Encryption&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger&quot;&gt;Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79&quot;&gt;Applying Netflix DevOps Patterns to Windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-freight-app/&quot;&gt;Building the New Uber Freight App as Lists of Modular, Reusable Components&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 07 Nov 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-452/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-452/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Top 10 Ekstensi (plugin) untuk Visual Studio Code</title>
@@ -211,50 +262,6 @@
         <pubDate>Tue, 29 Oct 2019 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily0-digest-445/</link>
         <guid isPermaLink="true">http://localhost:4000/daily0-digest-445/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;444</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/vmware-tanzu&quot;&gt;VMware Tanzu – Cloud native open source from VMware&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://projectcontour.io/from-ingressroute-to-httpproxy/&quot;&gt;From IngressRoute to HTTPProxy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/salesforce/sloop&quot;&gt;Sloop – Kubernetes History Visualization&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.getambassador.io/resources/envoyproxy-performance-on-k8s/&quot;&gt;Benchmarking Envoy Proxy, HAProxy, and NGINX Performance on Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://srcco.de/posts/how-zalando-manages-140-kubernetes-clusters.html&quot;&gt;How Zalando manages 140+ Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html&quot;&gt;Liveness Probes are Dangerous&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 28 Oct 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-444/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-444/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;443</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/product/how-ebay-uses-microinteractions-to-delight-customers-in-china/&quot;&gt;How eBay Uses Microinteractions to Delight Customers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/stretching-the-mold-how-alibaba-enhances-database-flexibility-78ec97fcfd8a?source=rss----3a8144eabfe3---4&quot;&gt;Stretching the Mold: How Alibaba Enhances Database Flexibility&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/rust-security-guarantees/&quot;&gt;The Most Secure Program Is One That Doesn’t Exist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html&quot;&gt;Productionizing ML with workflows at Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/&quot;&gt;Set up Laravel 6 on Google Cloud Run step by step with Continuous Integration (CI)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vfoley.xyz/lesser-known-coding-fonts/&quot;&gt;Lesser Known Coding Fonts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 25 Oct 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-443/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-443/</guid>
         
         <category>daily</category>
         
