@@ -12,9 +12,36 @@
     "items": [
       {
         {
+            "id": "/mengaktifkan-doh-di-brave-edge-chrome",
+            "title": "Mengaktifkan fitur DoH di Chrome, Edge, Brave, Opera, Vivaldi",
+            "content_html": "<p>Di <a href=\"https://jakartadev.org/mengaktifkan-fitur-doh-di-mozilla-firefox/\">artikel sebelumnya</a> ditulis bagaimana mengaktifkan DoH di Mozilla Firefox, menemukan link ke <a href=\"https://fossbytes.com/how-to-enable-dns-over-https-on-chrome-firefox-edge-brave/\">artikel berikut</a> untuk mengaktifkan DoH di Chrome, Edge, Vivaldi, Opera, Brave.</p>\n\n<blockquote>\n  <ul>\n    <li>Google Chrome – Visit chrome://flags/#dns-over-https</li>\n    <li>Edge (Chromium version) – edge://flags/#dns-over-https</li>\n    <li>Opera – Visit opera://flags/opera-doh</li>\n    <li>Vivaldi – Visit vivaldi://flags/#dns-over-https</li>\n    <li>Brave – Visit brave://flags/#dns-over-https</li>\n    <li>Mozilla Firefox – You can find the “Enable DNS over HTTPS” in the browser settings.</li>\n  </ul>\n</blockquote>\n",
+            "url": "http://localhost:4000/mengaktifkan-doh-di-brave-edge-chrome/",
+            "summary": "",
+            "date_published": "2019-11-11 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-454",
+            "title": "Daily Digest #454",
+            "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/presentations/strategic-ddd/\">Strategic Domain-Driven Design</a></li>\n  <li><a href=\"https://kvz.io/tobuntu.html\">Going from macOS to Ubuntu</a></li>\n  <li><a href=\"https://www.itproportal.com/features/why-democratising-devops-capabilities-is-the-only-way-to-stay-ahead-today/\">Why democratising DevOps capabilities is the only way to stay ahead today</a></li>\n  <li><a href=\"https://www.qrcodepress.com/hows-your-docker-image-security-within-the-development-environment/8537243/\">How’s Your Docker Image Security Within The Development Environment</a></li>\n  <li><a href=\"https://devclass.com/2019/10/22/netflixs-shares-mantis-to-get-to-the-bottom-of-system-downtime/\">Netflix’s shares Mantis to get to the bottom of system downtime</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-454/",
+            "summary": "",
+            "date_published": "2019-11-11 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/daily-digest-453",
+            "title": "Daily Digest #453",
+            "content_html": "<ul>\n  <li><a href=\"https://engineering.salesforce.com/making-life-easier-with-immutable-deployment-64baca14395c\">Making life easier with immutable deployment</a></li>\n  <li><a href=\"https://eng.lyft.com/presto-infrastructure-at-lyft-b10adb9db01\">Presto Infrastructure at Lyft</a></li>\n  <li><a href=\"https://www.smashingmagazine.com/2019/08/testing-framework-minimalism-software-architecture/\">Testing Made Easier Via Framework Minimalism And Software Architecture</a></li>\n  <li><a href=\"https://medium.com/pinterest-engineering/building-a-universal-search-system-for-pinterest-e4cb03a898d4\">Building a universal search system for Pinterest</a></li>\n</ul>\n",
+            "url": "http://localhost:4000/daily-digest-453/",
+            "summary": "",
+            "date_published": "2019-11-08 00:00:00 +0700"
+        },
+{
+        {
             "id": "/mengaktifkan-fitur-doh-di-mozilla-firefox",
             "title": "Mengaktifkan fitur DoH di Mozilla Firefox",
-            "content_html": "<p><a href=\"https://notes.dedenf.com/2019/09/menjaga-privasi-dan-keamanan-dalam-berinternet\">Privacy dan kemanan di internet sangat penting</a>, ada beberapa cara yang bisa dilakukan untuk melindungi diri kita dari ancaman-ancaman digital, selain ancaman virus, malware, pishing, juga potensi orang lain mengintip komunikasi kita.</p>\n\n<p>Untuk itu, teknologi bernama <a href=\"https://en.wikipedia.org/wiki/DNS_over_HTTPS\">DNS over HTTPS</a> atau juga <a href=\"https://en.wikipedia.org/wiki/DNS_over_TLS\">DNS over TLS</a>, implementasi bisa menggunakan aplikasi lain, atau cukup dengan browser, Google Chrome akan segera implementasikan, Mozilla Firefox sudah bisa menggunakan teknologi DoH ini, untuk artikel ini, saya gunakan DoH yang dibangun oleh <a href=\"https://github.com/pengelana/blocklist/wiki/DNS-over-HTTPS-(DoH)\">@Pengelana</a>.</p>\n\n<p>Untuk aktivasi DoH di Mozilla Firefox, tanpa harus install aplikasi lain lagi, bisa mengakses ke Preference, kemudian pilih “Network Settings”</p>\n\n<p><img src=\"/public/images/posts/setting1.png\" alt=\"\" /></p>\n\n<p>Kemudian aktifkan pilihan “Enable DNS over HTTPS”\n<img src=\"/public/images/posts/setting2.png\" alt=\"\" /></p>\n\n<p>Kemudian masukkan url <code class=\"highlighter-rouge\">https://doh.tiar.app/dns-query</code></p>\n\n<p>Dan koneksi anda sudah terenkripsi, mudah, bukan?.</p>\n",
+            "content_html": "<p><a href=\"https://notes.dedenf.com/2019/09/menjaga-privasi-dan-keamanan-dalam-berinternet\">Privacy dan kemanan di internet sangat penting</a>, ada beberapa cara yang bisa dilakukan untuk melindungi diri kita dari ancaman-ancaman digital, selain ancaman virus, malware, pishing, juga potensi orang lain mengintip komunikasi kita.</p>\n\n<p>Untuk itu, teknologi bernama <a href=\"https://en.wikipedia.org/wiki/DNS_over_HTTPS\">DNS over HTTPS</a> atau juga <a href=\"https://en.wikipedia.org/wiki/DNS_over_TLS\">DNS over TLS</a>, implementasi bisa menggunakan aplikasi lain, atau cukup dengan browser, Google Chrome akan segera implementasikan, Mozilla Firefox sudah bisa menggunakan teknologi DoH ini, untuk artikel ini, saya gunakan DoH yang dibangun oleh <a href=\"https://github.com/pengelana/blocklist/wiki/DNS-over-HTTPS-(DoH)\">@Pengelana</a>.</p>\n\n<p>Untuk aktivasi DoH di Mozilla Firefox, tanpa harus install aplikasi lain lagi, bisa mengakses ke Preference, kemudian pilih “Network Settings”</p>\n\n<p><img src=\"/public/images/posts/setting1.png\" alt=\"\" /></p>\n\n<p>Kemudian aktifkan pilihan “Enable DNS over HTTPS”\n<img src=\"/public/images/posts/setting2.png\" alt=\"\" /></p>\n\n<p>Kemudian masukkan url <code class=\"highlighter-rouge\">https://doh.tiar.app/dns-query</code></p>\n\n<p>Dan koneksi anda sudah terenkripsi!, mudah, bukan?.</p>\n",
             "url": "http://localhost:4000/mengaktifkan-fitur-doh-di-mozilla-firefox/",
             "summary": "",
             "date_published": "2019-11-07 00:00:00 +0700"
@@ -27,33 +54,6 @@
             "url": "http://localhost:4000/daily-digest-452/",
             "summary": "",
             "date_published": "2019-11-07 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/visual-code-studio-extension",
-            "title": "Top 10 Ekstensi (plugin) untuk Visual Studio Code",
-            "content_html": "<p>Ekstensi yang disediakan diekosistem Visual Studio Code sangat beragam, dan digunakan untuk banyak hal, dari mulai mempercepat kerja, menjadikan kode, document, lebih mudah dibaca, menjadikan tampilan lebih menarik, dan lainnya.</p>\n\n<p>Berikut Ekstensi yang saya gunakan</p>\n\n<h4 id=\"settings-sync\"><a href=\"https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync&amp;WT.mc_id=jakartadev\">Settings Sync</a></h4>\n<p>Dengan ekstensi ini, konfigurasi Visual Studio Code (VSC) bisa lebih portabel, kita install ulang sistem operasi, atau pindah mesin, bisa konsisten menggunakan profile konfigurasi yang sama, pikirkan ini seperti menggunakan <code class=\"highlighter-rouge\">.vim</code> profile (<a href=\"https://github.com/dedenf/dotfiles\">koleksi dotfiles</a>)</p>\n\n<h4 id=\"prettier---code-formatter\"><a href=\"https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode\">Prettier - Code formatter</a></h4>\n<p>Ekstensi ini melakukan apa yang prettify lakukan, tapi ada fitur lebih dan juga konfigurasi yang membantu, yan menjadikan kode yang kita tulis lebih gampang dibaca, direview.</p>\n\n<!--more-->\n<h4 id=\"bookmarks\"><a href=\"https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks\">Bookmarks</a></h4>\n<p>Bookmarks ini berguna jika kita ingin menandai baris kode yang hendak kita tandai, bisa itu untuk direvisit nanti, atau menandakan hal yang penting yang hendak dijabarkan, atau untuk kebutuhan laiinnya.</p>\n\n<h4 id=\"better-comments\"><a href=\"https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments\">Better Comments</a></h4>\n<p>Seperti yang developer ketahui, comment adalah salah satu bentuk komunikasi, memudahkan developer lain atau documentation generator untuk membaca dan memahami apa yang ditulis kode tersebut.</p>\n\n<h4 id=\"eslint\"><a href=\"https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint\">ESLint</a></h4>\n<p>Ekstensi ini untuk Javascript dan JSX linter, menjadikan kode yang dibuat mudah dibaca, <a href=\"https://eslint.org/\">dokumetasi</a>.</p>\n\n<h4 id=\"gitlens--git-supercharged\"><a href=\"https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens\">GitLens — Git supercharged</a></h4>\n<p>Dengan GitLens, kita dapat melihat informasi histori dari kode yang sedang kita buka, lengkap dengan siapa yang melakukan commit di baris tersebut, dan informasi lain yang didapat dari GIT. Ekstensi lain yang berhubungan dengan git, <a href=\"https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory\">Git History</a>, <a href=\"https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager\">Git Project Manager</a>.</p>\n\n<h4 id=\"python\"><a href=\"https://marketplace.visualstudio.com/items?itemName=ms-python.python\">Python</a></h4>\n<p>Python merupakan salah satu bahasa yang sangat populer, dan ekstensi ini membantu developer agar lebih produktif dengan fitur seperti IntelliSense, linting, debugging, dan lainnya.</p>\n\n<h4 id=\"yaml\"><a href=\"https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml\">YAML</a></h4>\n<p>YAML sebagai salah satu format yang biasanya digunakan oleh orang operation di infrastuktur, terutama untuk dukungan terhadap Kubernetes.</p>\n\n<h4 id=\"rest-client\"><a href=\"https://marketplace.visualstudio.com/items?itemName=humao.rest-client\">REST Client</a></h4>\n<p>Dengan menggunakan ekstensi ini, developer bisa melakukan HTTP request/API call dan melihat responnya langsung di Editor.</p>\n\n<h4 id=\"ansible\"><a href=\"https://marketplace.visualstudio.com/items?itemName=vscoss.vscode-ansible\">Ansible</a></h4>\n<p>Untuk DevOps, dan organisasi yang menggunakan falsafah infrastructure as a code, Ansible (dan tools lainnya) sangat berguna, tools automation/provisioning lain yang bisa digunakan, <a href=\"https://marketplace.visualstudio.com/items?itemName=mauve.terraform\">Terraform</a>, <a href=\"https://marketplace.visualstudio.com/items?itemName=chef-software.Chef\">Chef</a>, <a href=\"https://marketplace.visualstudio.com/items?itemName=jpogran.puppet-vscode\">Puppet</a>.</p>\n\n<h4 id=\"docker\"><a href=\"https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker\">Docker</a></h4>\n<p>Ekstensi resmi dari Microsoft, yang menangani Docker, baik Dockerfile, membangun atau deploy container.</p>\n\n<h4 id=\"material-icon-theme\"><a href=\"https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme\">Material Icon Theme</a></h4>\n<p>Dengan menggunakan Material icon theme ini, tampilan VSC kita jadi lebih berwarna, dan icon-icon yang merepresentasikan jenis file bisa lebih terbaca.\n<img src=\"/public/images/posts/material-icon.png\" alt=\"\" /></p>\n\n<h4 id=\"kubernetes\"><a href=\"https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools\">Kubernetes</a></h4>\n<p>Ekstensi ini berguna untuk developer yang sedang membangun aplikasinya di atas Kubernetes, bisa melakukan banyak operasi di Kubernetes.</p>\n\n",
-            "url": "http://localhost:4000/visual-code-studio-extension/",
-            "summary": "",
-            "date_published": "2019-11-06 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-451",
-            "title": "Daily Digest #451",
-            "content_html": "<ul>\n  <li><a href=\"https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/\">How we stopped vulnerable code from landing in production</a></li>\n  <li><a href=\"https://stackshare.io/circleci/update-how-circleci-processes-over-30-million-builds-per-month\">Update: How CircleCI Processes Over 30 Million Builds Per Month</a></li>\n  <li><a href=\"https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/\"> Safely Rewriting Mixpanel’s Highest Throughput Service in Golang</a></li>\n  <li><a href=\"https://tech.ebayinc.com/engineering/item-fast-light-service/\">Improving the Speed and Accuracy of the Item Page with Light Service</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-451/",
-            "summary": "",
-            "date_published": "2019-11-06 00:00:00 +0700"
-        },
-{
-        {
-            "id": "/daily-digest-450",
-            "title": "Daily Digest #450",
-            "content_html": "<ul>\n  <li><a href=\"https://www.infoq.com/presentations/kafka-distributed-deployments/\">Streaming Log Analytics with Kafka</a></li>\n  <li><a href=\"https://engineering.giphy.com/luigi-the-10x-plumber-containerizing-scaling-luigi-in-kubernetes/\">Luigi the 10x Plumber: Containerizing &amp; Scaling Luigi in Kubernetes</a></li>\n  <li><a href=\"https://tech.ebayinc.com/engineering/low-latency-and-high-throughput-cal-ingress/\">Low Latency and High Throughput in CAL Ingress</a></li>\n  <li><a href=\"https://www.infoq.com/articles/rethinking-flink-api/\">Rethinking Flink’s APIs for a Unified Data Processing Framework</a></li>\n  <li><a href=\"https://medium.com/walmartlabs/demand-forecasting-tech-stack-walmart-539d17f385db\">Demand Forecasting Tech Stack @ Walmart</a></li>\n  <li><a href=\"https://nordicapis.com/how-granular-should-you-design-apis/\">How Granular Should You Design APIs?</a></li>\n</ul>\n",
-            "url": "http://localhost:4000/daily-digest-450/",
-            "summary": "",
-            "date_published": "2019-11-05 00:00:00 +0700"
         }
 
     ]

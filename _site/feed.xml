@@ -5,9 +5,78 @@
     <description>jakartaDEV -- Daily discoveries</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Nov 2019 16:04:33 +0700</pubDate>
-    <lastBuildDate>Thu, 07 Nov 2019 16:04:33 +0700</lastBuildDate>
+    <pubDate>Mon, 11 Nov 2019 17:25:12 +0700</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2019 17:25:12 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Mengaktifkan fitur DoH di Chrome, Edge, Brave, Opera, Vivaldi</title>
+        <description>&lt;p&gt;Di &lt;a href=&quot;https://jakartadev.org/mengaktifkan-fitur-doh-di-mozilla-firefox/&quot;&gt;artikel sebelumnya&lt;/a&gt; ditulis bagaimana mengaktifkan DoH di Mozilla Firefox, menemukan link ke &lt;a href=&quot;https://fossbytes.com/how-to-enable-dns-over-https-on-chrome-firefox-edge-brave/&quot;&gt;artikel berikut&lt;/a&gt; untuk mengaktifkan DoH di Chrome, Edge, Vivaldi, Opera, Brave.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Google Chrome – Visit chrome://flags/#dns-over-https&lt;/li&gt;
+    &lt;li&gt;Edge (Chromium version) – edge://flags/#dns-over-https&lt;/li&gt;
+    &lt;li&gt;Opera – Visit opera://flags/opera-doh&lt;/li&gt;
+    &lt;li&gt;Vivaldi – Visit vivaldi://flags/#dns-over-https&lt;/li&gt;
+    &lt;li&gt;Brave – Visit brave://flags/#dns-over-https&lt;/li&gt;
+    &lt;li&gt;Mozilla Firefox – You can find the “Enable DNS over HTTPS” in the browser settings.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 11 Nov 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/mengaktifkan-doh-di-brave-edge-chrome/</link>
+        <guid isPermaLink="true">http://localhost:4000/mengaktifkan-doh-di-brave-edge-chrome/</guid>
+        
+        <category>browser</category>
+        
+        <category>development</category>
+        
+        <category>coding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;454</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/strategic-ddd/&quot;&gt;Strategic Domain-Driven Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kvz.io/tobuntu.html&quot;&gt;Going from macOS to Ubuntu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itproportal.com/features/why-democratising-devops-capabilities-is-the-only-way-to-stay-ahead-today/&quot;&gt;Why democratising DevOps capabilities is the only way to stay ahead today&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.qrcodepress.com/hows-your-docker-image-security-within-the-development-environment/8537243/&quot;&gt;How’s Your Docker Image Security Within The Development Environment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devclass.com/2019/10/22/netflixs-shares-mantis-to-get-to-the-bottom-of-system-downtime/&quot;&gt;Netflix’s shares Mantis to get to the bottom of system downtime&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 11 Nov 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-454/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-454/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Daily Digest &amp;#35;453</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/making-life-easier-with-immutable-deployment-64baca14395c&quot;&gt;Making life easier with immutable deployment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/presto-infrastructure-at-lyft-b10adb9db01&quot;&gt;Presto Infrastructure at Lyft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/testing-framework-minimalism-software-architecture/&quot;&gt;Testing Made Easier Via Framework Minimalism And Software Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/building-a-universal-search-system-for-pinterest-e4cb03a898d4&quot;&gt;Building a universal search system for Pinterest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 08 Nov 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/daily-digest-453/</link>
+        <guid isPermaLink="true">http://localhost:4000/daily-digest-453/</guid>
+        
+        <category>daily</category>
+        
+        <category>development</category>
+        
+        
+      </item>
     
       <item>
         <title>Mengaktifkan fitur DoH di Mozilla Firefox</title>
@@ -24,7 +93,7 @@
 
 &lt;p&gt;Kemudian masukkan url &lt;code class=&quot;highlighter-rouge&quot;&gt;https://doh.tiar.app/dns-query&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Dan koneksi anda sudah terenkripsi, mudah, bukan?.&lt;/p&gt;
+&lt;p&gt;Dan koneksi anda sudah terenkripsi!, mudah, bukan?.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/mengaktifkan-fitur-doh-di-mozilla-firefox/</link>
@@ -197,71 +266,6 @@
         <pubDate>Fri, 01 Nov 2019 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/daily-digest-448/</link>
         <guid isPermaLink="true">http://localhost:4000/daily-digest-448/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;447</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.kubecost.com/blog/requests-and-limits/&quot;&gt;A Practical Guide to Setting Kubernetes Requests and Limits &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://semaphoreci.com/blog/observability-measuring-microservices&quot;&gt;What Is Observability &amp;amp; How to Measure the Quality of Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.stackrox.com/post/2019/09/5-kubernetes-rbac-mistakes-you-must-avoid/&quot;&gt;5 Kubernetes RBAC Mistakes You Must Avoid&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4&quot;&gt;When a rewrite isn’t: rebuilding Slack on the desktop&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/&quot;&gt;Accelerating NiFi flows delivery: Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/kafka-replication-the-case-for-mirrormaker-2-0/&quot;&gt;Kafka Replication: The case for MirrorMaker 2.0&lt;/a&gt;, part 2 &lt;a href=&quot;https://blog.cloudera.com/a-look-inside-kafka-mirrormaker-2/&quot;&gt;A look inside Kafka Mirrormaker 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 31 Oct 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-447/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-447/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;446</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/how-tcp-segment-size-can-affect-application-traffic-flow-7bbceed5816e&quot;&gt;How TCP segment size can affect application traffic flow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/cruise/container-platform-networking-kubernetes-e888a07407ab&quot;&gt;Container Platform Networking at Cruise&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/07/23/Testing-WebSockets-for-beginners.html&quot;&gt;Testing WebSockets for beginners&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data&quot;&gt;On Track with Apache Kafka – Building a Streaming ETL Solution with Rail Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sugarkube.io/blog/2019-10-16-your-kubernetes-clusters-should-be-ephemeral-too/&quot;&gt;Your Kubernetes clusters should be ephemeral too&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/blog/designing-your-first-application-kubernetes-part1/&quot;&gt;Designing Your First App in Kubernetes, Part 1: Getting Started&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 30 Oct 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily-digest-446/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily-digest-446/</guid>
-        
-        <category>daily</category>
-        
-        <category>development</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Daily Digest &amp;#35;445</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b&quot;&gt;Comparing Ingress controllers for Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/rust-webassembly-javascript/&quot;&gt;Rust, WebAssembly, and Javascript Make Three: An FFI Story&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.magalix.com/blog/kubernetes-patterns-capacity-planning&quot;&gt;Kubernetes Patterns : Capacity Planning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/linkerd-cloud-native/&quot;&gt;The Service Mesh: It’s about Traffic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://linkerd.io/2019/10/07/a-guide-to-distributed-tracing-with-linkerd/&quot;&gt;A guide to distributed tracing with Linkerd&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 29 Oct 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/daily0-digest-445/</link>
-        <guid isPermaLink="true">http://localhost:4000/daily0-digest-445/</guid>
         
         <category>daily</category>
         
