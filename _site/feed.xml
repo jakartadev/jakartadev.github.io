@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="3.8.6">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-12-26T15:11:38+07:00</updated>
+  <updated>2019-12-26T16:14:56+07:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -16,6 +16,12 @@
     <subtitle>Daily discoveries</subtitle>
   
 
+  
+    <author>
+        <name>JakartaDev</name>
+      
+      
+    </author>
   
 
   
@@ -66,6 +72,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -109,6 +121,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       
@@ -155,6 +173,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -197,6 +221,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       
@@ -247,6 +277,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -291,6 +327,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -333,6 +375,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       
@@ -378,6 +426,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -422,6 +476,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -464,6 +524,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       
@@ -509,6 +575,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -552,6 +624,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       
@@ -597,6 +675,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -639,6 +723,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       
@@ -684,6 +774,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -726,6 +822,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       
@@ -771,6 +873,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -815,6 +923,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -858,6 +972,12 @@
       
 
       
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
 
       
 
@@ -900,6 +1020,12 @@
       
       
 
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
       
 
       

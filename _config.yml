@@ -25,7 +25,7 @@ github_username:  dedenf
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-whiteglass
+theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
