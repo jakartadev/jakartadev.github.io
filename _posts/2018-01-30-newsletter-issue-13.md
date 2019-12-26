@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Issue &#35;13"
+title: "Issue #13"
 tags:
     - issue
     - development

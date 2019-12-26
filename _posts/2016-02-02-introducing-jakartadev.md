@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing JakartaDEV
+title: "Introducing JakartaDEV"
 type: blog
 publish: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue &#35;2
+title: "Issue #2"
 type: newsletter
 publish: true
 ---

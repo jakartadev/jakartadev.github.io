@@ -1,43 +1,55 @@
 ---
-layout: default
-title: Home
+# You don't need to edit this file, it's empty on purpose.
+# Edit whiteglass' home layout instead if you want to make some changes.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-<div class="posts">
-  {% for post in paginator.posts %}
-    {% if post.type == "digest" or post.type == "blog" %}
-    {% if post.publish == true %}
-    <article class="post">
 
-      <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  <time datetime="{{ post.date | date: "%B %e, %Y" }}"> &dash; {{ post.date | date: "%B %e, %Y" }}</time></h1>
-      
-      <div class="entry">
-        {% if post.teaser != null %}
-          <img src="{{ post.teaser }}">
+<div class="home">
+
+    {{ content }}
+  
+    {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+  
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+        {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
+        {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+        {% if post.publish == true %}
+        <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
+          <header class="post-header">
+            <h1 class="post-title">
+              {% if post.external-url %}
+                <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
+              {% else %}
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              {% endif %}
+            </h1>
+  
+            <p class="post-meta">
+              {{ post.date | date: "%b %-d, %Y" }}
+              {% if post.categories != empty or post.tags != empty %}
+                {% include category_links.html categories=post.categories tags=post.tags %}
+              {% endif %}
+              {% if post.external-url %}
+                • <a href="{{ post.url | relative_url }}">Permalink</a>
+              {% endif %}
+            </p>
+          </header>
+  
+          <div class="post-content">
+            {{ post.excerpt }}
+          </div>
+          {% if post.content contains site.excerpt_separator %}
+            <p class="post-continue">
+              <a href="{{ post.url | relative_url }}">Read on &rarr;</a>
+            </p>
+          {% endif %}
+        </li>
         {% endif %}
-        {% if post.content contains site.excerpt_separator %}
-          {{ post.excerpt }}
-        {% else %}
-          {{ post.content }}
-        {% endif %}
-      </div>
-      
-      {% if post.content contains site.excerpt_separator %}
-        {% if post.type contains "digest" %}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">more links &rarr;</a>
-        {% else %}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">more &rarr;</a>
-        {% endif %}
-      {% endif %}
-      
-    </article>
-    <hr class="post-break" />
-    
-    {% endif %}
-
-    {% endif %}
-
-   
-
-  {% endfor %}
-</div>
-{% include pagination.html %}
+      {% endfor %}
+    </ul>
+  
+    {% include pagination.html %}
+  
+  </div>

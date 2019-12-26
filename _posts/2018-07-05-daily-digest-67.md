@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily Digest &#35;67"
+title: "Daily Digest #67"
 type: digest
 tags: 
     - daily
