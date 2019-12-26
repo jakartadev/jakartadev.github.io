@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manajemen API dengan Kong part 1
+title: "Manajemen API dengan Kong part 1"
 tags:
     - api
     - article

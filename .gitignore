@@ -1,7 +1,0 @@
-.DS_Store
-.sass-cache
-**/.DS_Store
-.vscode
-.vscode/settings.json
-.vscode/
-Gemfile.lock

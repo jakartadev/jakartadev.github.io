@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Colophone
+title: "About"
 permalink: /about/
 ---
 

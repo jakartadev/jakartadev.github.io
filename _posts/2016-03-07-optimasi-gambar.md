@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Optimasi Gambar
+title: "Optimasi Gambar"
 tags:
     - development
 publishDate: "2016-03-07"
+date: "2016-03-07"
 desc: ""
 type: blog
 publish: true
