@@ -14,17 +14,17 @@
   
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/optimasi-gambar/">
+  <link rel="canonical" href="http://localhost:4001/optimasi-gambar/">
   
   
-  <link rel="alternate" type="application/rss+xml" title="Jakarta Dev" href="http://localhost:4000/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Jakarta Dev" href="http://localhost:4001/feed.xml">
 
   
 
   
   <meta property="og:title" content="Optimasi Gambar">
   <meta property="og:site_name" content="Jakarta Dev">
-  <meta property="og:url" content="http://localhost:4000/optimasi-gambar/">
+  <meta property="og:url" content="http://localhost:4001/optimasi-gambar/">
   <meta property="og:description" content="Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama. Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce. Beberapa pilihan alat untuk mengompress gambar, bisa untuk desktop maupun CLI, untuk command line, saya menggunakan jpegoptim dan pngout sebagai tools untuk mengompress file gambar. Saya menggunakan ubuntu 14.04 LTS sebagai base dari sistem operasi server $ sudo apt-get install jpegoptim pngout menjalankan perintah $ jpegoptim file.jpg , hal ini akan mengompress file gambar dengan menghilangkan info-info yang tidak dibutuhkan seperti comment di exif, atau informasi lain yang menambah berat satu file. Anda juga bisa menjalankan perintah jpegoptim agar bisa secara masif mengompress file dengan perintah $ find . -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive {} \; Untuk perintah di atas, itu akan mencari file .jpg sampai ke dalam folder secara recursive, Opsi . di atas menunjukkan working directory yang sedang anda gunakan, jika hendak mengarahkan ke folder yang lain bisa ditulis PATH-nya, seperti perintah di bawah. $ find /path/ke/gambar/ -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive {} \; Opsi yang digunakan adalah -m90 artinya menggunakan kualitas 90, --strip-all menghilangkan informasi exif yang tidak terpakai, dan --all-progressive opsi ini untuk menjadikan gambar itu progressive mode. Output: /path/ke/file_gambar.jpg 100x150 24bit N JFIF [OK] 2706 --&amp;gt; 2580 bytes (4.66%), optimized. note: terkadang ada kasus dimana file anda akan hilang permission code-nya, dan tidak bisa diakses oleh borwser, ini bisa diakali dengan menambahkan perintah seperti berikut find . -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive {} \; -exec chmod 677 {} \; dengan cara di atas, anda mengembalikan permission file agar bisa dibaca oleh webserver dan akhirnya ditampilkan ke browser.">
   
   
@@ -196,7 +196,7 @@ Output: <br />
     <p>
       
 
-&copy; 2019 JakartaDev - Powered by <a href="https://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/yous/whiteglass">whiteglass</a> - Subscribe via <a href="http://localhost:4000/feed.xml">RSS</a>
+&copy; 2020 JakartaDev - Powered by <a href="https://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/yous/whiteglass">whiteglass</a> - Subscribe via <a href="http://localhost:4001/feed.xml">RSS</a>
 
     </p>
 
