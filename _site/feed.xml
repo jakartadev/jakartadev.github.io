@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-01-17T11:39:56+07:00</updated>
+  <updated>2020-01-21T11:52:32+07:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,155 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Delivering Reliable Software in the Enterprise</title>
+      
+      
+      <link href="http://localhost:4000/ebook-delivering-reliable-software-in-the-enterprise/" rel="alternate" type="text/html" title="Delivering Reliable Software in the Enterprise" />
+      
+      <published>2020-01-21T00:00:00+07:00</published>
+      <updated>2020-01-21T00:00:00+07:00</updated>
+      <id>http://localhost:4000/ebook-delivering-reliable-software-in-the-enterprise</id>
+      <content type="html" xml:base="http://localhost:4000/ebook-delivering-reliable-software-in-the-enterprise/">&lt;p&gt;&lt;img src=&quot;/public/images/posts/overops.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ebook yang ditulis mengenai &lt;em&gt;software development&lt;/em&gt;, oleh &lt;a href=&quot;https://www.overops.com/&quot;&gt;Overops&lt;/a&gt;, yang mana dalam dunia &lt;em&gt;development&lt;/em&gt; selalu fokus ke inovasi dan juga &lt;em&gt;maintainability&lt;/em&gt;, dimana &lt;em&gt;software&lt;/em&gt; bisa selalu mengikuti zaman dan juga kemajuan teknologi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://land.overops.com/deliver-reliable-software-ebook/&quot;&gt;E-book bisa didownload di sini&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="software" />
+      
+        <category term="development" />
+      
+
+      
+        <summary type="html">Ebook yang ditulis mengenai software development, oleh Overops, yang mana dalam dunia development selalu fokus ke inovasi dan juga maintainability, dimana software bisa selalu mengikuti zaman dan juga kemajuan teknologi. E-book bisa didownload di sini.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Daily Digest #486</title>
+      
+      
+      <link href="http://localhost:4000/daily-digest-486/" rel="alternate" type="text/html" title="Daily Digest #486" />
+      
+      <published>2020-01-21T00:00:00+07:00</published>
+      <updated>2020-01-21T00:00:00+07:00</updated>
+      <id>http://localhost:4000/daily-digest-486</id>
+      <content type="html" xml:base="http://localhost:4000/daily-digest-486/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.wingify.com/posts/wingify-towards-docker-kubernetes/&quot;&gt;Wingify towards Docker and Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/carousell-insider/assembling-robust-web-chat-applications-with-javascript-an-in-depth-guide-9f36685fc1bc&quot;&gt;Assembling Robust Web Chat Applications with JavaScript: An In-depth Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.thumbtack.com/targeted-code-coverage-for-android/&quot;&gt;Targeted Code Coverage Reports for Android Continuous Builds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/12/git-hooks-team-development-workflow/&quot;&gt;How To Ease Your Team’s Development Workflow With Git Hooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.zomato.com/blog/all-new-search-and-discovery-on-zomato&quot;&gt;All new Search and Discovery on Zomato &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="daily" />
+      
+        <category term="development" />
+      
+
+      
+        <summary type="html">Wingify towards Docker and Kubernetes Assembling Robust Web Chat Applications with JavaScript: An In-depth Guide Targeted Code Coverage Reports for Android Continuous Builds How To Ease Your Team’s Development Workflow With Git Hooks All new Search and Discovery on Zomato</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Daily Digest #485</title>
+      
+      
+      <link href="http://localhost:4000/daily-digest-485/" rel="alternate" type="text/html" title="Daily Digest #485" />
+      
+      <published>2020-01-20T00:00:00+07:00</published>
+      <updated>2020-01-20T00:00:00+07:00</updated>
+      <id>http://localhost:4000/daily-digest-485</id>
+      <content type="html" xml:base="http://localhost:4000/daily-digest-485/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/kubernetes-log-aggregation/&quot;&gt;Kubernetes log aggregation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a77ac9531cab&quot;&gt;Better Android Testing at Airbnb — Part 2: Screenshot Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/blog/2019/11/29/shopping-for-an-admin-account/&quot;&gt;Shopping for an admin account via path traversal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/html-parsing-2/&quot;&gt;A History of HTML Parsing at Cloudflare: Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/infrastructure-resilience-handling-invalid-configuration-in-the-envoy-proxy-f20883eba8a7&quot;&gt;Infrastructure Resilience: Handling Invalid Configuration in the Envoy Proxy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2019/dec/02/faster-postgresql-connection-recovery&quot;&gt;Faster PostgreSQL connection recovery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>JakartaDev</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="daily" />
+      
+        <category term="development" />
+      
+
+      
+        <summary type="html">Kubernetes log aggregation Better Android Testing at Airbnb — Part 2: Screenshot Testing Shopping for an admin account via path traversal A History of HTML Parsing at Cloudflare: Part 2 Infrastructure Resilience: Handling Invalid Configuration in the Envoy Proxy Faster PostgreSQL connection recovery</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -927,155 +1076,6 @@ tmux 2.8
 
       
         <summary type="html">Metrics-Driven Machine Learning Development at Salesforce Einstein Demand Forecasting Tech Stack @ Walmart CockroachDB: Architecture of a Geo-Distributed SQL Database Kubernetes: A simple overview How Discord achieves native iOS performance with React Native Pondering a Monorepo Version Control System CSSdb Lessons from a Product Manager at Google A cron job that could save you from a ransomware attack Don’t Serve Burnt Pizza (And Other Lessons in Building Minimum Lovable Products)</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Daily Digest #469</title>
-      
-      
-      <link href="http://localhost:4000/daily-digest-469/" rel="alternate" type="text/html" title="Daily Digest #469" />
-      
-      <published>2019-12-02T00:00:00+07:00</published>
-      <updated>2019-12-02T00:00:00+07:00</updated>
-      <id>http://localhost:4000/daily-digest-469</id>
-      <content type="html" xml:base="http://localhost:4000/daily-digest-469/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/does-this-code-spark-joy/&quot;&gt;Does this code spark joy? Tidying up your code bit by bit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/&quot;&gt;Machine Learning For Front-End Developers With Tensorflow.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.opensooq.com/the-power-of-headless-chrome-and-pwa-automation-using-puppeteer/&quot;&gt;The Power of Headless Chrome and PWA Automation Using Puppeteer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/strava-engineering/android-launch-performance-1d3c9fe4af62&quot;&gt;Android Launch Performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://crystal-lang.org/2019/09/06/parallelism-in-crystal.html&quot;&gt;Parallelism in Crystal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>JakartaDev</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="daily" />
-      
-        <category term="development" />
-      
-
-      
-        <summary type="html">Does this code spark joy? Tidying up your code bit by bit Machine Learning For Front-End Developers With Tensorflow.js The Power of Headless Chrome and PWA Automation Using Puppeteer Android Launch Performance Parallelism in Crystal</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Daily Digest #468</title>
-      
-      
-      <link href="http://localhost:4000/daily-digest-468/" rel="alternate" type="text/html" title="Daily Digest #468" />
-      
-      <published>2019-11-29T00:00:00+07:00</published>
-      <updated>2019-11-29T00:00:00+07:00</updated>
-      <id>http://localhost:4000/daily-digest-468</id>
-      <content type="html" xml:base="http://localhost:4000/daily-digest-468/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4&quot;&gt;Making Instagram.com faster: Part 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/micro-frontend-941a5f1a3e72&quot;&gt;Implementing a Frontend with Micro-Components&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/&quot;&gt;Introducing Harmonia: Context-Aware Product Recommendation From Room Images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/09/varnish-request-restarts/&quot;&gt;Achieving a tenfold increase in Varnish throughput by replacing libvmod‑curl with native request restarts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>JakartaDev</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="daily" />
-      
-        <category term="development" />
-      
-
-      
-        <summary type="html">Making Instagram.com faster: Part 2 Implementing a Frontend with Micro-Components Introducing Harmonia: Context-Aware Product Recommendation From Room Images Achieving a tenfold increase in Varnish throughput by replacing libvmod‑curl with native request restarts</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Daily Digest #467</title>
-      
-      
-      <link href="http://localhost:4000/daily-digest-467/" rel="alternate" type="text/html" title="Daily Digest #467" />
-      
-      <published>2019-11-28T00:00:00+07:00</published>
-      <updated>2019-11-28T00:00:00+07:00</updated>
-      <id>http://localhost:4000/daily-digest-467</id>
-      <content type="html" xml:base="http://localhost:4000/daily-digest-467/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/loss-change-allocation/&quot;&gt;Introducing LCA: Loss Change Allocation for Neural Network Training&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/pintext-a-multitask-text-embedding-system-in-pinterest-b80ece364555&quot;&gt;PinText: A Multitask Text Embedding System in Pinterest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.statsbot.co/design-decisions-for-the-first-embedded-analytics-open-source-framework-8129c7f1d28a&quot;&gt;Design Decisions for the First Embedded Analytics Open-Source Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://product.hubspot.com/blog/understanding-thread-dumps&quot;&gt;Understanding Thread Dumps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-vs-derivative-event-sourcing-explained&quot;&gt;Introducing Derivative Event Sourcing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>JakartaDev</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="daily" />
-      
-        <category term="development" />
-      
-
-      
-        <summary type="html">Introducing LCA: Loss Change Allocation for Neural Network Training PinText: A Multitask Text Embedding System in Pinterest Design Decisions for the First Embedded Analytics Open-Source Framework Understanding Thread Dumps Introducing Derivative Event Sourcing</summary>
       
 
       

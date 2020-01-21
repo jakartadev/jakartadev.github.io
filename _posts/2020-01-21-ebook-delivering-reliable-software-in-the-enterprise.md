@@ -10,7 +10,7 @@ description: ""
 publish: true
 ---
 
-
+![](/public/images/posts/overops.png)
 
 Ebook yang ditulis mengenai _software development_, oleh [Overops](https://www.overops.com/), yang mana dalam dunia _development_ selalu fokus ke inovasi dan juga _maintainability_, dimana _software_ bisa selalu mengikuti zaman dan juga kemajuan teknologi.
 
