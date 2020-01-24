@@ -5,6 +5,7 @@ type: blog
 tags: 
     - software
     - development
+    - ebook
     
 description: ""
 publish: true
