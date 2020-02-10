@@ -31,6 +31,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-emoji
 
 permalink: /:title/
 paginate: 6
