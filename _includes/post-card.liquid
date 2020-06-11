@@ -1,0 +1,23 @@
+<div class='o-grid__col'>
+
+  <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
+    <h3 class='c-post-card__title'>{{ post.title }}</h3>
+
+    {% comment %} {% if post.image.feature %}
+      <img src='{{ post.image | prepend: site.baseurl }}' class='c-post__image' alt='{{ post.title }}'>
+    {% else if post.image.teaser %}
+        <a href="{{ post.url }}"><img src="{{ post.image.teaser }}" class='c-post__image' alt='{{ post.title }}'></a>
+    {% else if post.image.feature %}
+        <a href="{{ post.url }}"><img src="{{ post.image.feature }}" class='c-post__image' alt='{{ post.title }}'></a>
+    {% endif %} {% endcomment %}
+  </a>
+  <span class="post-meta"><time class='post-meta' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ post.date | date: '%d %b %Y' }}</time> &mdash; {% include read-time.html %} &mdash; {{ site.author.name}}</span><br> 
+    
+
+    <p class='c-post-card__excerpt u-font-medium'>
+      {{ post.content | strip_html | truncatewords:35 }}
+    </p>
+
+  
+
+</div>

@@ -1,8 +1,7 @@
-source "https://rubygems.org"
-gem "jekyll", "~> 3.8.5"
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-end
-gem "jekyll-whiteglass"
-gem "jekyll-emoji"
-gem "github-pages"
+source 'https://rubygems.org'
+
+# A simple Ruby Gem to bootstrap dependencies for setting up and
+# maintaining a local Jekyll environment in sync with GitHub Pages
+# https://github.com/github/pages-gem
+gem 'jekyll-tagging'
+gem 'github-pages'

@@ -9,7 +9,7 @@ Newsletter tentang development, terkadang diselipin oleh berita tech yang terkai
 
 Artikel, links, ulasan, dikurasi oleh [@dedenf](https://twitter.com/dedenf). (ada yang mau kontribusi?)
 
-Untuk content, akan dicoba diupdate setiap hari.
+Untuk content, akan dicoba diupdate (hampir) setiap hari.
 
 ### Acknowledgement
 jakartaDEV menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-now](https://github.com/barryclark/jekyll-now) sebagai theme dasar, dengan kostumasi seadanya.
@@ -17,9 +17,9 @@ jakartaDEV menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-n
 jakartaDEV repo disimpan di [github.com](https://http://github.com/jakartadev/jakartadev.github.io), dan menggunakan ~~fitur Github Pages~~ [Netlify](https://netlify.com) untuk mem-*publish* website ini.
 
 ~~Menggunakan cloudflare sebagai DNS server dan fitur SSL-nya untk https jakartadev.org~~
-Sekarang jakartadev.org untuk mengatur DNS dan juga menggunakan let's encrypt feature dari Netlify.com
+Sekarang jakartadev.org untuk mengatur DNS dan juga menggunakan SSL certificate menggunakan let's encrypt, yang merupakan feature dari Netlify.com.
 
-saya juga mencoba service dari subsctack di https://jakartadev.substack.com/
+saya juga mencoba newsletter service dari subsctack di[ https://jakartadev.substack.com/](https://jakartadev.substack.com/)
 
 ### Contact 
 

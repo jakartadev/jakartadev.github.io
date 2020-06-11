@@ -1,0 +1,61 @@
+---
+layout: page
+title: "Reading"
+permalink: "/my-reading"
+---
+
+<hr class="half-width">
+{% for post in site.posts %}
+  {% if post.type == "link" %}
+  <article class=''>
+    {% if post.link %}
+      <time class='grayish'>{{ post.date | date: '%B %-d, %Y' }} &mdash; <a href='{{ post.url }}'>link to the post</a></time>
+      <h2 class='c-post__title'><a href='{{ post.link }}'>{{ post.title }} &rarr;</a></h2>
+    {% else %}
+      <div class='mb2'>
+        <h1 class='m0'><a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a></h1>
+        <time class='grayish'>{{ post.date | date: '%B %-d, %Y' }} &mdash; {% include read-time.html %}</time>
+      </div>
+    {% endif %}
+
+    {% if post.summary %}
+      {% if post.image.teaser %}
+        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/images/{{ post.image.teaser }}"></a>
+      {% endif %}
+      {{ post.summary | markdownify }}
+      <a href='{{ site.baseurl }}{{ post.url }}/'>Continue reading &rarr;</a>
+    {% else %}
+      {% if post.layout != post %}
+        {% assign words = post.content | strip_html | number_of_words %}
+
+        {% if post.page_type != "long" %}
+        
+          {% if words > 100 %}
+            {{ post.excerpt }} 
+            <a href="{{ site.github.url }}{{ post.url }}">Read more &rarr;</a><br><br>
+          {% else %}
+            {{ post.excerpt }}
+          {% endif %}
+
+        {% else %}
+          {{ post.excerpt }}
+        {% endif %}
+
+      {% endif %}
+    {% endif %}
+
+    {% if post %}
+      {% assign tags = post.tags  %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+    <div>
+    Tag{% if post.tags.size > 1 %}s{% endif %}:
+    {% for tag in tags %}
+      <a href="/tags#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    </div>
+  </article>
+  <hr class='half-width'/>
+  {% endif %}
+  {% endfor %}

@@ -1,55 +1,68 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit whiteglass' home layout instead if you want to make some changes.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+{% assign posts_count = paginator.posts | size %}
 
 <div class="home">
-
-    {{ content }}
-  
-    {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
-  
-    <ul class="post-list">
+  {% if posts_count > 0 %}
+    <div class="posts">
       {% for post in paginator.posts %}
-        {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
-        {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
-        {% if post.publish == true %}
-        <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
-          <header class="post-header">
-            <h1 class="post-title">
-              {% if post.external-url %}
-                <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
+        <div class="post py3">
+           <a href="{{ post.url | relative_url }}" class="post-link"><h1 class="post-title">{{ post.title }} {% if post.type == 'link'%} &rarr; {% endif %}</h1></a>
+           <p class="post-meta">
+           <span class="post-meta"><time class='post-meta' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>Published at {{ post.date | date: '%d %b %Y' }}</time></span><br> 
+           {% if post.update_date %}
+             <span class="post-meta">{{ site.text.post.updated | default: "Updated" }}: {{ post.update_date | date: site.date_format }}</span><br>
+           {% endif %}
+           <span class="post-meta small">
+            {{ site.author.name}}
+           </span>
+           </p>
+
+         
+          
+          <div class="post-summary">
+            {% if post.image.teaser%}
+              {% if post.image.url == false %}
+              <img src="{{ post.image.teaser }}" class='c-post__image' alt='{{ post.title }}'>
               {% else %}
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              <img src="{{ post.image.teaser }}" class='c-post__image' alt='{{ post.title }}'>
               {% endif %}
-            </h1>
-  
-            <p class="post-meta">
-              {{ post.date | date: "%b %-d, %Y" }}
-              {% if post.categories != empty or post.tags != empty %}
-                {% include category_links.html categories=post.categories tags=post.tags %}
+              {% if post.image.creditlink %}
+                <div class="credit_image"><center><em>Photo by <a href="{{ post.image.creditlink }}">{{ post.image.author }}</a></em></center></div>
               {% endif %}
-              {% if post.external-url %}
-                • <a href="{{ post.url | relative_url }}">Permalink</a>
+            {% endif %}
+
+
+            {% assign words = post.content | strip_html | number_of_words %}
+
+            {% if post.page_type == "long" %}
+              {{ post.content }}
+            {% else %}
+              {% if words > 110 %}
+                {{ post.excerpt }}
+                <a href="{{ site.baseurl }}{{ post.url }}">Read more &rarr;</a>
+              {% else %}
+                {{ post.excerpt }}
               {% endif %}
-            </p>
-          </header>
-  
-          <div class="post-content">
-            {{ post.excerpt }}
-          </div>
-          {% if post.content contains site.excerpt_separator %}
-            <p class="post-continue">
-              <a href="{{ post.url | relative_url }}">Read on &rarr;</a>
-            </p>
-          {% endif %}
-        </li>
-        {% endif %}
+            {% endif %}
+
+            {% assign tags = post.tags  %}
+            <div><p><br>
+              Tag{% if post.tags.size > 1 %}s{% endif %}:
+              {% for tag in tags %}
+                <a href="/tag/{{tag|slugify}}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+              {% endfor %}
+              </p>
+              </div>
+            </div>
+
+        </div>
       {% endfor %}
-    </ul>
-  
+    </div>
+
     {% include pagination.html %}
-  
-  </div>
+  {% else %}
+    <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
+  {% endif %}
+</div>

@@ -1,11 +1,41 @@
-<footer class="site-footer">
+<footer>
+  <div class="measure">
+    <div class="text-left">
+      &copy; {{ site.site_short }} 2011 &mdash; {{ 'now' | date: "%Y" }} <br>
+      Deden Fathurahman, <a href="/colophon">Colophon</a>. <br>
+      <ul class="list-inline">
+          <li><a href="https://notes.dedenf.com/tags/#daily-found">Reading</a></li>
+          <li><a href="https://notes.dedenf.com/">Writing</a></li>
+          <li><a href="/archives">Archives</a></li>
+          <li><a href="/my-reading">Reading</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/contact">Contact</a></li>
+      </ul>
+      <h4>Elsewhere</h4>
+      <ul class="list-inline">
+        <li><a href="https://twitter.com/dedenf">Twitter</a></li>
+        <li><a href="https://github.com/dedenf">Github</a></li>
+        <li><a href="https://instagram.com/dedenf">Instagram</a></li>
+        <li><a href="mailto:{{ site.email }}">email</a></li>
+        <li><a href="https://seputarfinansial.com/">Seputar Finansial</a></li>
+        <li><a href="https://jakartadev.com/">JakartaDEV</a></li>
+        <li><a href="/feed">RSS</a></li>
+        <li><a href="https://jakartadev.substack.com/subscribe?simple=true&next=https%3A%2F%2Fjakartadev.substack.com%2F">Newsletter</a></li>
+      </ul>
 
-  <div class="wrapper">
+    </div>
 
-    <p>
-      {% include footer_content.html %}
-    </p>
 
   </div>
-
 </footer>
+{% if site.enable_anchorjs %}<!-- AnchorJS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>{% endif %}
+<script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
+    }
+</script>
