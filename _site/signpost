@@ -1,2 +1,0 @@
-#!/bin/sh
-keybase pgp sign -i $1 > signed/$(basename $1).asc

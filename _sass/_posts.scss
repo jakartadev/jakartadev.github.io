@@ -1,0 +1,77 @@
+.posts {
+  margin: 0;
+}
+
+.posts .post {
+  margin-bottom: 0.75em;
+  border-bottom: thin solid #f3f3f3;
+}
+
+.posts .post:last-child {
+  border-bottom: none;
+  margin-bottom: .375em;
+  padding-bottom: 0;
+}
+
+.post-link .post-title {
+  margin-top: 0;
+  font-weight: 600;
+  color: #333;
+  text-align: left;
+}
+
+a.post-link .post-title {
+  // color: #0076df;
+}
+.post-link .post-title a:visited {
+  // color: #0076df;
+}
+
+@media (min-width:320px) and (max-width:1199px) {
+  .post-link .post-title {
+    font-size: 1.3em;
+    margin-top: 0;
+    font-weight: 600;
+    color: #333;
+    text-align: left;
+  }
+
+}
+
+.post-footer {
+  @extend .italic;
+
+  margin-top: .75rem;
+  text-align: center;
+}
+
+.post-footer .avatar {
+  margin: 2rem 0;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.meta,
+.post-meta {
+  width: auto;
+  font-weight: 300;
+  margin: 0;
+  // padding: .25em 0;
+  margin-bottom: 1em;
+  color: #7a7a7a;
+  // font-style: italic;
+  text-align: left;
+  @media (min-width:320px) and (max-width:1199px) {
+    font-size: .8em;
+  }
+}
+
+.richtext mark {
+  font-style: normal;
+  padding: 2px 1px;
+  background-color: #fffedb;
+  color: #101820;
+}
+.related-post-title {
+  border-bottom: thin solid #f3f3f3;
+}
