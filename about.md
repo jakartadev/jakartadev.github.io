@@ -11,6 +11,8 @@ Artikel, links, ulasan, dikurasi oleh [@dedenf](https://twitter.com/dedenf). (ad
 
 Untuk content, akan dicoba diupdate (hampir) setiap hari.
 
+Tautan ke artikel yang dipublis di sini hasil kumpulan dari browsing, tautan di situs engineering, newsletter yang saya ikuti.
+
 ### Acknowledgement
 jakartaDEV menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-now](https://github.com/barryclark/jekyll-now) sebagai theme dasar, dengan kostumasi seadanya.
 
