@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a9877b1f-fcb8-4852-9757-2619d1f5657e/deploy-status)](https://app.netlify.com/sites/lucid-brattain-84806f/deploys)
 
-![jakarta dev](./screenshot.png)
+![jakarta dev](screenshot.png)
 
 Jakarta Dev merupakan website yang didedikasikan untuk menginformasikan, atau menyumbangkan, pikiran, berupa tulisan mengenai dunia development, agile, technology, framework, pattern.
 
