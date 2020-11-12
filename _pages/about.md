@@ -4,8 +4,25 @@ title: About
 image: '/images/pages/about.jpeg'
 ---
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+**JakartaDev** -- dibangun 2016, dengan ide untuk menjadikan informasi tentang dunia *development* dari mulai programming, database, devops dan lainnya. dan juga kadang berisi artikel yang ditulis sendiri. 
+Newsletter tentang development, terkadang diselipin oleh berita tech yang terkait.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Artikel, links, ulasan, dikurasi oleh [@dedenf](https://twitter.com/dedenf). (ada yang mau kontribusi?)
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+Untuk content, akan dicoba diupdate (hampir) setiap hari.
+
+Tautan ke artikel yang dipublis di sini hasil kumpulan dari browsing, tautan di situs engineering, newsletter yang saya ikuti, saya subscribe banyak [rss feed, dan menggunakan Reeder](https://notes.dedenf.com/2019/10/aplikasi-reeder-sebuah-review-singkat) untuk membaca (Link ke [OPML](https://github.com/dedenf/news-feed)).
+
+### Acknowledgement
+jakartaDEV menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-now](https://github.com/barryclark/jekyll-now) sebagai theme dasar, dengan kostumasi seadanya.
+
+jakartaDEV repo disimpan di [github.com](https://http://github.com/jakartadev/jakartadev.github.io), dan menggunakan ~~fitur Github Pages~~ [Netlify](https://netlify.com) untuk mem-*publish* website ini.
+
+~~Menggunakan cloudflare sebagai DNS server dan fitur SSL-nya untk https jakartadev.org~~
+Sekarang jakartadev.org untuk mengatur DNS dan juga menggunakan SSL certificate menggunakan let's encrypt, yang merupakan feature dari [Netlify.com](https://netlify.com).
+
+saya juga mencoba newsletter service dari subsctack di[ https://jakartadev.substack.com/](https://jakartadev.substack.com/)
+
+### Contact 
+
+dedenf[at]jakartadev.org atau dedenf[at]gmail.com
