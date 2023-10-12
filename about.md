@@ -7,11 +7,13 @@ permalink: /about/
 **JakartaDev** -- dibangun 2016, dengan ide untuk menjadikan informasi tentang dunia *development* dari mulai programming, database, devops dan lainnya. dan juga kadang berisi artikel yang ditulis sendiri. 
 Newsletter tentang development, terkadang diselipin oleh berita tech yang terkait.
 
-Artikel, links, ulasan, dikurasi oleh [@dedenf](https://twitter.com/dedenf). (ada yang mau kontribusi?)
+Artikel, links, ulasan, dikurasi oleh [@dedenf](https://dedenf.com). (ada yang mau kontribusi?)
 
 Untuk content, akan dicoba diupdate (hampir) setiap hari.
 
 Tautan ke artikel yang dipublis di sini hasil kumpulan dari browsing, tautan di situs engineering, newsletter yang saya ikuti.
+
+Tautan bisa diiringi dengan penjelasan, take away, atau komentar yang berhubungan dengan yang dibahas di tautan tersebut. 
 
 ### Acknowledgement
 jakartaDEV menggunakan Jekyll sebagai blogging engine, dan menggunakan [jekyll-now](https://github.com/barryclark/jekyll-now) sebagai theme dasar, dengan kostumasi seadanya.
@@ -25,4 +27,4 @@ saya juga mencoba newsletter service dari subsctack di[ https://jakartadev.subst
 
 ### Contact 
 
-dedenf[at]jakartadev.org atau dedenf[at]gmail.com
+me[at]dedenf.com atau dedenf[at]gmail.com
